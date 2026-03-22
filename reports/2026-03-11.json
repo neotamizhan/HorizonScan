@@ -1,0 +1,309 @@
+{
+  "date": "2026-03-11",
+  "headline": "11 March 2026",
+  "coverage": "10 March 2026 07:00 UTC+3 – 11 March 2026 07:00 UTC+3",
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "text": "Kuwait's Ministry of Interior continues to urge residents to move to the nearest secure building, stay away from windows, doors, and open areas, and await official instructions during siren activations.",
+          "sources": [
+            "MOI Kuwait / Gulf News"
+          ],
+          "bold_heading": "Active missile/drone threat warning remains in force."
+        },
+        {
+          "text": "Warning sirens were activated twice overnight (10–11 March), bringing the cumulative total to 82 siren activations since the start of hostilities on 28 February.",
+          "sources": [
+            "Times Kuwait / KUNA"
+          ],
+          "bold_heading": "Siren activations — past 24 hours"
+        },
+        {
+          "text": "The Ministry of Interior confirmed the security situation is \"under control\" with continuous real-time monitoring by security forces.",
+          "sources": [
+            "Times Kuwait"
+          ],
+          "bold_heading": "MoI statement (11 Mar)"
+        },
+        {
+          "text": "Bahrain Ministry of Interior also activated sirens on 10 March, warning citizens and residents to shelter in place following alert activity.",
+          "sources": [
+            "Gulf News"
+          ],
+          "bold_heading": "Bahrain (for regional context)"
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "text": "— Kuwait Defence Ministry spokesperson Col. Saud Al Atwan confirmed that over the past 24 hours, two ballistic missiles entering Kuwaiti airspace were intercepted and destroyed in the south; one drone was destroyed in the north.",
+          "sources": [
+            "Gulf News / Kuwait MoD"
+          ],
+          "bold_heading": "CONFIRMED"
+        },
+        {
+          "text": "— Kuwait National Guard (KNG) Brig. Gen. Dr. Jadaan Fadel Jadaan confirmed that KNG forces destroyed six drones in the southern region.",
+          "sources": [
+            "Gulf News / KNG"
+          ],
+          "bold_heading": "CONFIRMED"
+        },
+        {
+          "text": "Kuwait MoD reports 212 ballistic missiles and 394 drones detected and intercepted since the start of hostilities; 2 armed forces personnel and 1 child killed; 67 personnel injured.",
+          "sources": [
+            "Gulf News / Kuwait MoD"
+          ],
+          "bold_heading": "Cumulative toll (since 28 Feb)"
+        },
+        {
+          "text": "in Kuwait City sustained material damage from a drone strike — in-person services suspended; electronic services remain available.",
+          "sources": [
+            "Anadolu Agency"
+          ],
+          "bold_heading": "Public Institution for Social Security building"
+        },
+        {
+          "text": "US Defence Secretary Pete Hegseth announced the \"most intense day of strikes inside Iran\" on 10 March, deploying the largest fighter/bomber package to date.",
+          "sources": [
+            "NPR"
+          ],
+          "bold_heading": "US strikes on Iran (10 Mar)"
+        },
+        {
+          "text": "— US military destroyed 16 Iranian minelaying vessels near the Strait of Hormuz on 10 March.",
+          "sources": [
+            "Times of Israel / CENTCOM"
+          ],
+          "bold_heading": "CONFIRMED"
+        },
+        {
+          "text": "Crude prices fell sharply early 11 March amid reports of possible US plans to seize control of the Strait of Hormuz to restore tanker passage. WTI crude fell ~8.67% to ~$86.55/barrel; Brent crude fell ~9.26% to ~$89.80/barrel.",
+          "sources": [
+            "Gulf News"
+          ],
+          "bold_heading": "Oil price drop (11 Mar, morning)"
+        },
+        {
+          "text": "JMIC assessment unchanged; Kuwait, Bahrain, Oman, and Qatar remain on Lloyd's Joint War Committee Hull War Listed Areas (added 3 March).",
+          "sources": [
+            "Skuld Maritime Security"
+          ],
+          "bold_heading": "Maritime threat — CRITICAL level maintained"
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "text": "Kuwait Cabinet met Tuesday under PM Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah; reviewed security developments and praised Amir Sheikh Meshal Al-Ahmad Al-Jaber Al-Sabah's address on national unity and vigilance during Ramadan. Cabinet reaffirmed Kuwait's right to self-defence.",
+          "sources": [
+            "Times Kuwait / Arab Times"
+          ]
+        },
+        {
+          "text": "If Ramadan is 30 days — holiday Thursday 19 March through Monday 23 March (work resumes 24 Mar). If 29 days — Thursday 19 March through Sunday 22 March (work resumes 23 Mar).",
+          "sources": [
+            "KUNA"
+          ],
+          "bold_heading": "Eid Al-Fitr public holiday announced"
+        },
+        {
+          "text": "Kuwait Foreign Ministry summoned the Iranian ambassador to protest continued ballistic missile and drone aggression.",
+          "sources": [
+            "Multiple Tier 1"
+          ]
+        },
+        {
+          "text": "Ministry of Endowments and Islamic Affairs banned outdoor Iftar distribution and open-air mosque prayers; indoor mosque operations continue under civil defence protocols.",
+          "sources": [
+            "Arab Times / KUNA"
+          ]
+        },
+        {
+          "text": "Civil Service Commission: Employees stranded outside Kuwait due to airspace closure will not be considered absent — exceptional circumstances apply.",
+          "sources": [
+            "Arab Times"
+          ]
+        },
+        {
+          "text": "Civil Defence shelter map active at moi.gov.kw; emergency number: 112.",
+          "sources": []
+        },
+        {
+          "text": "— Two drones struck the airport perimeter causing fuel tank explosions and debris damage to Terminal 1 (~8 March). Full structural/safety assessment ongoing; no confirmed reopening date.",
+          "sources": [
+            "Wego / Anadolu Agency / Sunday Guardian Live"
+          ],
+          "bold_heading": "Kuwait International Airport (KWI): CLOSED"
+        },
+        {
+          "text": "— NOTAM in effect; operators advised against all transit due to ongoing missile/interception activity.",
+          "sources": [
+            "ops.group / Flightradar24"
+          ],
+          "bold_heading": "Kuwait airspace: CLOSED at all altitudes"
+        },
+        {
+          "text": "Kuwait Airways operating KU542D Cairo–Dammam (departs 1100 local, arrives 1500 local, 11 March) for passenger connections; Saudi transit visa required — contact Kuwait Airways directly.",
+          "sources": [
+            "Wego"
+          ],
+          "bold_heading": "Special flight routing"
+        },
+        {
+          "text": "Nuwaisib and Salmi border crossings to Saudi Arabia open 24/7. Kuwait City to Dammam ~4.5 hrs (450 km). Saudi e-visa: visa.visitsaudi.com.",
+          "sources": [],
+          "bold_heading": "Overland departure (recommended)"
+        },
+        {
+          "text": "Power, water, and telecommunications reported functioning; no confirmed infrastructure outages in the past 24 hours.",
+          "sources": [
+            "MOI Kuwait"
+          ]
+        },
+        {
+          "text": "All banks remain fully operational with no disruption to essential financial services; digital platforms, mobile apps, and ATMs functioning around the clock. Several bank headquarters closed as precaution; staff working remotely.",
+          "sources": [
+            "Times Kuwait / KBA"
+          ],
+          "bold_heading": "Kuwait Banking Association (KBA)"
+        },
+        {
+          "text": "Public Institution for Social Security in-person services suspended (drone damage); electronic services operational.",
+          "sources": [
+            "Anadolu Agency"
+          ]
+        },
+        {
+          "text": "granted for all visit visa types. Residents outside Kuwait as of 28 February given an additional 3-month absence permit automatically.",
+          "sources": [
+            "U.S. Embassy Kuwait / MOI Kuwait"
+          ],
+          "bold_heading": "Automatic one-month extension"
+        },
+        {
+          "text": "Land border crossings to Saudi Arabia (Nuwaisib, Salmi) open 24/7 and functioning normally. Exit permit via Sahel app mandatory for expatriate departures.",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "The US-Israel \"Operation Epic Fury\" entered its 12th day with the US reporting its most intense strike package against Iran on 10 March. Iran's new Supreme Leader Mojtaba Khamenei (elected 8 March, following his father's death) has indicated no ceasefire readiness; the IRGC pledged full allegiance. Iran's GCC-targeting strategy has inflicted limited physical damage but its Strait of Hormuz shipping deterrence has been its most effective economic lever.",
+          "sources": [
+            "Foreign Policy / Wikipedia 2026 Iran War"
+          ],
+          "bold_heading": "Conflict trajectory"
+        },
+        {
+          "text": "Brent crude had risen ~46% (from ~$73 on 27 Feb to over $107 on 8 Mar) but has now pulled back ~9% to ~$89.80 on 11 March amid reports of potential US interdiction of the Strait — markets remain highly volatile and sensitive to any Hormuz developments.",
+          "sources": [
+            "Gulf News / Oxford Economics"
+          ],
+          "bold_heading": "Oil price dynamics"
+        },
+        {
+          "text": "The US is reportedly exploring Chinese diplomatic channels to help contain escalation; GCC states continue pressing for de-escalation while maintaining maximum air-defence readiness.",
+          "sources": [
+            "Foreign Policy",
+            "10 March 2026"
+          ],
+          "bold_heading": "Diplomacy"
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "text": "With 82 siren activations over 12 days, the frequency of intercept events over Kuwaiti territory remains elevated. Financial institutions should enforce shelter-in-place protocols during activations, confirm BCP activation status, and validate that remote/secondary-site operations are fully functional. Essential staff movement should be limited to inter-shelter routes only during threat periods. The upcoming Eid Al-Fitr holiday window (from ~19 March) requires advance BCP planning under conflict conditions.",
+          "sources": [],
+          "bold_heading": "Business Continuity / Staff Safety"
+        },
+        {
+          "text": "KBA has confirmed banking operations are intact, but Kuwait International Airport closure and Strait of Hormuz disruptions are constraining import logistics. Monitor trade finance, letters of credit, and correspondent banking connectivity — particularly with UAE and Bahraini counterparts whose infrastructure has sustained damage. SWIFT CSP 2026 incident response mandates are in force; ensure bank-level compliance is active and tested.",
+          "sources": [],
+          "bold_heading": "Payments & Liquidity"
+        },
+        {
+          "text": "A hacktivist group (313 Team) has declared Kuwait a cyber target in retaliation for regional alignments. Confirmed DDoS attacks and attempted intrusions against financial sector targets across the GCC have been ongoing since 27 February — Kuwait International Airport cited among targets. Financial institutions should validate WAF and DDoS mitigation posture, confirm 24/7 SOC coverage, and heighten monitoring for lateral movement following any DDoS event.",
+          "sources": [],
+          "bold_heading": "Cyber Risk — Elevated"
+        },
+        {
+          "text": "Oil price swings of ~9% in a single morning (11 March) reflect extreme market sensitivity. GCC sovereign wealth funds are conducting internal reviews of US asset exposure. Institutions with energy sector, equity, or fixed-income exposure should stress-test FX liquidity and mark-to-market positions against both a prolonged conflict and a sudden de-escalation scenario.",
+          "sources": [],
+          "bold_heading": "Market & FX Volatility"
+        },
+        {
+          "text": "Central Bank of Kuwait (CBK) has not publicly announced emergency regulatory relaxations as of cut-off time; monitor CBK official channels for guidance on loan moratoriums, extended operating hours, or emergency liquidity facilities. All regulatory submissions and compliance deadlines remain in force until CBK indicates otherwise.",
+          "sources": [],
+          "bold_heading": "Regulatory Continuity"
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "The Iran War Has Rapidly Expanded Beyond the Middle East",
+          "author": "John Haltiwanger",
+          "publication": "Foreign Policy",
+          "pub_date": "9 March 2026",
+          "summary": "Examines how the US-Israel campaign against Iran has spread at \"a blistering pace\" beyond initial strike targets, with oil tanker traffic through the Strait of Hormuz at a near standstill and Iran vowing to target any ship transiting the strait. Documents cascading global economic disruptions across energy, maritime logistics, and food supply chains.",
+          "link": "https://foreignpolicy.com/2026/03/09/iran-war-countries-targeted-regional-impact-middle-east-trump-israel/"
+        },
+        {
+          "title": "The Iran War Will Be Decided by Resilience in the Face of Military and Economic Damage",
+          "author": "Staff Analysis",
+          "publication": "Foreign Policy",
+          "pub_date": "10 March 2026",
+          "summary": "Argues that the decisive front in the Iran conflict is not the air campaign but the economic war of attrition — testing resilience across energy markets, maritime logistics, financial systems, and domestic political stability across multiple countries. Particularly relevant for financial institutions planning for a protracted rather than short-shock conflict scenario.",
+          "link": "https://foreignpolicy.com/2026/03/10/iran-war-resilience-economy-world-hormuz-oil-trump-us/"
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "number": 7,
+      "title": "Cyber & Threat Intelligence",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": []
+    }
+  ],
+  "footer": "Report compiled 2026-03-11.",
+  "subtitle": "Day 12 of Operation Epic Fury"
+}

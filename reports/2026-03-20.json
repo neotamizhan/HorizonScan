@@ -1,0 +1,328 @@
+{
+  "date": "2026-03-20",
+  "headline": "20 March 2026",
+  "coverage": "19 March 2026 07:00 UTC+3 – 20 March 2026 07:00 UTC+3",
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "text": "Air raid sirens reported active across Kuwait City and surrounding districts on the evening of 19 March 2026 (UTC+3). Kuwait Army General Staff confirmed explosions are attributable to air defense interceptions, not ground detonations.",
+          "sources": [
+            "LiveUAMap",
+            "U.S. Embassy Kuwait Security Alert — 19 March 2026"
+          ],
+          "bold_heading": ""
+        },
+        {
+          "text": "Kuwait Ministry of Interior issued public safety guidelines: remain indoors, switch off gas and electricity supplies, proceed to designated civil defense shelters.",
+          "sources": [
+            "Kuwait Times"
+          ],
+          "bold_heading": ""
+        },
+        {
+          "text": "U.S. Embassy Kuwait issued Security Alert on 19 March 2026, advising American citizens to shelter in place, monitor official channels, and avoid unnecessary movement.",
+          "sources": [
+            "kw.usembassy.gov — 19 March 2026"
+          ],
+          "bold_heading": ""
+        },
+        {
+          "text": "U.S. Travel Advisory remains at Level 3 — Reconsider Travel, first issued 1 March 2026.",
+          "sources": [
+            "U.S. Embassy Kuwait"
+          ],
+          "bold_heading": ""
+        },
+        {
+          "text": "Kuwait Directorate General of Civil Aviation (DGCA) airspace closure order remains in effect; no flights operating to/from Kuwait International Airport (KWI).",
+          "sources": [
+            "Wego Travel",
+            "DGCA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "text": "| 19 March 2026, evening (UTC+3) | Kuwaiti air defense systems actively intercepted ballistic missiles and armed drones targeting Kuwait City area. General Staff confirmed interceptions; extent of any debris impact zones under assessment. Status: Confirmed",
+          "sources": [
+            "LiveUAMap",
+            "Al Jazeera",
+            "Kuwait Times"
+          ],
+          "bold_heading": "Kuwait — Air Defense Engagement"
+        },
+        {
+          "text": "| Ongoing since 28 February 2026 | Kuwait International Airport (KWI) Terminal 1 sustained damage from intercepted drone debris; 9 workers reported injured. Airport remains closed. Status: Confirmed",
+          "sources": [
+            "Wego Travel Blog",
+            "Kuwait Times"
+          ],
+          "bold_heading": "Kuwait — Airport Infrastructure"
+        },
+        {
+          "text": "| 4 military personnel and 4 civilians killed; majority of civilian casualties are migrant workers. 268+ injured across GCC. Status: Confirmed",
+          "sources": [
+            "Human Rights Watch — 17 March 2026",
+            "Al Jazeera"
+          ],
+          "bold_heading": "Kuwait — Casualties (cumulative since 28 Feb)"
+        },
+        {
+          "text": "| U.S. Embassy Riyadh compound struck on 3 March 2026; 2 fatalities reported. Status: Confirmed",
+          "sources": [
+            "U.S. State Department Joint Statement — March 2026"
+          ],
+          "bold_heading": "Saudi Arabia"
+        },
+        {
+          "text": "| 2 soldiers and 6 civilians killed from Iranian strikes since 28 February 2026. Status: Confirmed",
+          "sources": [
+            "Al Jazeera",
+            "HRW"
+          ],
+          "bold_heading": "UAE"
+        },
+        {
+          "text": "| 3 fatalities reported from Iranian drone/missile strikes. Status: Confirmed",
+          "sources": [
+            "Al Jazeera"
+          ],
+          "bold_heading": "Bahrain"
+        },
+        {
+          "text": "| 3 fatalities reported. Status: Confirmed",
+          "sources": [
+            "Al Jazeera"
+          ],
+          "bold_heading": "Oman"
+        },
+        {
+          "text": "| As of 12 March 2026: 21 confirmed attacks on merchant vessels in Gulf waters; at least 3 vessels damaged in a coordinated wave on 11 March. 20 crew rescued from Thailand-flagged Mayuree Naree. Status: Confirmed",
+          "sources": [
+            "MARAD Advisory 2026-004",
+            "UKMTO"
+          ],
+          "bold_heading": "Maritime — Persian Gulf"
+        },
+        {
+          "text": "| Effectively closed to commercial traffic since 28 February 2026. 150+ vessels anchored offshore awaiting transit clearance; tanker throughput estimated down ~70%. Maersk, CMA CGM, Hapag-Lloyd have suspended Gulf operations. Status: Confirmed",
+          "sources": [
+            "Euronews — 18 March 2026",
+            "Skuld Maritime"
+          ],
+          "bold_heading": "Maritime — Strait of Hormuz"
+        },
+        {
+          "text": "| Erbil International Airport struck by Iranian munitions (date: early March 2026). Status: Confirmed",
+          "sources": [
+            "Al Jazeera",
+            "Critical Threats"
+          ],
+          "bold_heading": "Iraq"
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "text": "Ministry of Interior shelter-in-place guidance remains active; civil defense hotlines operational. General Staff issuing regular public communications urging calm and compliance with air defense protocols.",
+          "sources": [],
+          "bold_heading": "Government Advisories"
+        },
+        {
+          "text": "Kuwait International Airport (KWI) closed since 28 February 2026. No confirmed reopening date. Airspace closure order maintained by DGCA. All commercial and private flights suspended.",
+          "sources": [],
+          "bold_heading": "Airport / Airspace"
+        },
+        {
+          "text": "Saudi Arabia border crossing reported open as of early March; overland routes available for departure. Iraq border status — no specific update in past 24 hours; exercise elevated caution given Erbil strikes.",
+          "sources": [],
+          "bold_heading": "Border Status"
+        },
+        {
+          "text": "No specific reports of fuel, electricity, water, or internet outages in Kuwait in the past 24 hours. Monitor for updates if air defense debris causes infrastructure damage.",
+          "sources": [],
+          "bold_heading": "Essential Services"
+        },
+        {
+          "text": "CBSE Class XII board exams in Kuwait cancelled for the period 16 March – 10 April 2026. Broader school closure status not updated in past 24 hours; assume government-directed closures remain in effect.",
+          "sources": [],
+          "bold_heading": "Schools / Public Events"
+        },
+        {
+          "text": "No confirmed panic-buying or grocery-shortage reports from Tier 1 sources in the past 24 hours. Regional logistics impacted by maritime disruption; monitor consumer goods supply lines.",
+          "sources": [],
+          "bold_heading": "Supply Chain"
+        },
+        {
+          "text": "U.S. Embassy authorized departure of non-emergency staff (effective 1 March 2026); embassy remains operational with reduced staffing.",
+          "sources": [],
+          "bold_heading": "Diplomatic"
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "Iran has, for the first time in history, launched ballistic missile and drone strikes against all six GCC member states simultaneously, in retaliation for joint U.S.-Israeli strikes on Iranian territory that killed Supreme Leader Khamenei and senior IRGC commanders on 28 February 2026. Gulf air defense systems have achieved interception rates estimated above 90%, but residual damage and casualties continue.",
+          "sources": [],
+          "bold_heading": "Iranian strike campaign (est. 28 Feb – present)"
+        },
+        {
+          "text": "Houthi leadership has expressed solidarity with Iran and announced resumption of Red Sea and commercial shipping operations against Israeli-linked and Western vessels as of 28 February 2026. Houthis have not yet launched direct strikes on GCC territory, citing depleted weapons inventories following the Gaza conflict; risk of escalated Houthi involvement remains elevated if Iranian pressure intensifies.",
+          "sources": [
+            "Al Jazeera — 7 March 2026"
+          ],
+          "bold_heading": "Houthi (Yemen)"
+        },
+        {
+          "text": "UN maritime body commenced emergency talks on 18 March 2026 regarding Strait of Hormuz closure. No ceasefire agreement in sight; U.S. submitted Iran War Powers Report to Congress on 2 March 2026. International Crisis Group and others pressing for off-ramp diplomacy.",
+          "sources": [
+            "Euronews — 18 March 2026",
+            "Lawfare"
+          ],
+          "bold_heading": "Diplomatic track"
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "text": "Active air raids and shelter-in-place orders in Kuwait require financial institutions to activate BCP protocols. Staff movement restrictions, shelter locations in office facilities, and communication trees should be verified as live. Remote working capacity is critical given airport closure limiting staff rotation.",
+          "sources": [],
+          "bold_heading": "Business Continuity — Staff Safety"
+        },
+        {
+          "text": "Strait of Hormuz closure and regional banking sector disruption (HSBC closed Qatar branches; Citigroup, Standard Chartered, Goldman Sachs directed Dubai staff to work from home) signal elevated counterparty and settlement risk. Monitor correspondent banking relationships across GCC for operational delays.",
+          "sources": [
+            "SISA InfoSec — March 2026"
+          ],
+          "bold_heading": "Payment Systems & Cross-Border Settlement"
+        },
+        {
+          "text": "Coordinated Iranian APT and hacktivist DDoS campaigns (peaks reaching 1.2 Tbps) have targeted regional stock exchanges, airlines, central banks, and port authorities. At least 128 confirmed cyber incidents across Middle East financial services. Ensure DDoS mitigation, network perimeter defenses, and OT/SCADA isolation are validated.",
+          "sources": [
+            "Google Mandiant — March 2026",
+            "CrowdStrike 2026 Global Threat Report"
+          ],
+          "bold_heading": "Cyber Threat — Financial Sector"
+        },
+        {
+          "text": "Tanker traffic through Hormuz down ~70%; oil prices surged approximately 40% since conflict onset. Financial institutions with energy sector loan books, commodity trading desks, or Gulf sovereign bond exposure face material mark-to-market and credit risk recalibration.",
+          "sources": [],
+          "bold_heading": "Energy & Oil Price Volatility"
+        },
+        {
+          "text": "U.S. and allied sanctions designations against Iranian entities are accelerating. Compliance teams should monitor OFAC, HM Treasury, and EU sanctions registries for new designations and ensure transaction screening lists are updated in real time. Cross-border USD settlement through U.S. correspondent banks may face enhanced scrutiny on Gulf-origin transactions.",
+          "sources": [],
+          "bold_heading": "Regulatory / Compliance Watch"
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Analysis: Gulf States Press US to Neutralise Iran for Good as Hormuz Crisis Deepens",
+          "author": "Staff Correspondent",
+          "publication": "Al-Monitor",
+          "pub_date": "March 2026",
+          "summary": "Gulf Arab states — caught between US dependency and Iran's unprecedented strikes on their territory — are pressing Washington not to accept a partial ceasefire that leaves Iranian strike capability intact. Airports, ports, and oil installations have been targeted; economic harm is approaching 1990–1991 Gulf War levels, with the World Travel & Tourism Council estimating $600M+ in daily losses.",
+          "link": "https://www.al-monitor.com/originals/2026/03/analysis-gulf-states-press-us-neutralise-iran-good-hormuz-crisis-deepens"
+        },
+        {
+          "title": "Finding an Off-Ramp in the Middle East War",
+          "author": "Editorial Team",
+          "publication": "International Crisis Group",
+          "pub_date": "March 2026",
+          "summary": "While U.S. and Israeli strikes have significantly degraded Iranian military capacity, Tehran has expanded the conflict geographically by striking neutral GCC states, creating a dilemma for diplomacy. ICG argues that immediate ceasefire diplomacy is the priority to prevent renewed and potentially more destructive hostilities, noting neither side is positioned for a decisive near-term victory.",
+          "link": "https://www.crisisgroup.org/stm/middle-east-north-africa/iran-israelpalestine-united-states/finding-ramp-middle-east-war"
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "number": 7,
+      "title": "Cyber & Threat Intelligence",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "text": "Coordinated DDoS, phishing, wiper malware (PYROXENE), and OT/SCADA reconnaissance targeting central banks, stock exchanges, port authorities, and energy grids across Kuwait, Bahrain, and Qatar. Affected sectors: Banking/financial services, energy, telecoms, ports.",
+          "sources": [
+            "Google Mandiant Threat Intelligence"
+          ],
+          "bold_heading": "Iranian APT Campaign — GCC Financial & Critical Infrastructure"
+        },
+        {
+          "text": "CISA published a Cyber Vulnerability Insights Estimate (CVIE) identifying 136 CVEs actively exploited by Iranian government-sponsored APT groups, targeting Microsoft Exchange, Fortinet, and VMware Horizon — all commonly deployed in Gulf financial institutions. Affected sectors: Critical infrastructure (financial, energy, healthcare).",
+          "sources": [
+            "CISA"
+          ],
+          "bold_heading": "CISA Cyber Vulnerability Insights Estimate — Iranian APT CVEs"
+        },
+        {
+          "text": "DieNet hacktivist group claimed DDoS attacks on banking infrastructure in Jordan and Saudi Arabia; at least 128 confirmed cyber incidents heavily affecting banking and financial services across the Middle East. Affected sectors: Banking, financial services.",
+          "sources": [
+            "SISA InfoSec Threat Advisory"
+          ],
+          "bold_heading": "DDoS Surge — Banking Sector (Jordan, Saudi Arabia, GCC)"
+        },
+        {
+          "text": "149 DDoS and intrusion attempts against SCADA/ICS systems across 16 countries; Kuwait, Israel, and Jordan accounted for approximately 76% of incidents. Wiper malware (PYROXENE) deployed against Middle East critical infrastructure. Affected sectors: Energy, water, industrial control systems.",
+          "sources": [
+            "Dragos 2026 OT/ICS Security Report"
+          ],
+          "bold_heading": "OT/SCADA Targeting — ICS Attack Wave"
+        },
+        {
+          "text": "NCSC UK assessed heightened indirect cyber threat risk for organisations operating in or with supply chain links to the Gulf region. Organisations advised to patch internet-facing systems, enable MFA, and review logging/detection capabilities. Affected sectors: All sectors with Middle East presence or supply chain dependencies.",
+          "sources": [
+            "NCSC UK"
+          ],
+          "bold_heading": "NCSC UK — Spillover Risk Advisory for Organisations with Gulf Exposure"
+        },
+        {
+          "text": "CrowdStrike 2026 Global Threat Report warned that Iran-linked cyber activity targeting GCC financial institutions could escalate from nuisance-level DDoS and defacements into coordinated destructive operations against payment infrastructure. Compiled by automated scheduled task. Sources are Tier 1 (news wires, regional media, official government), Tier 2 (corroborated analyst handles), and Tier 3 (policy/analytical outlets). All source URLs included for verification. Items marked where primary sourcing is limited. This digest is for situational awareness only and does not constitute legal, financial, or security advice. Affected sectors: Financial services, payment systems.",
+          "sources": [
+            "CrowdStrike 2026 Global Threat Report"
+          ],
+          "bold_heading": "CrowdStrike — Financial Sector Escalation Warning"
+        }
+      ]
+    }
+  ],
+  "footer": "Report compiled 2026-03-20."
+}

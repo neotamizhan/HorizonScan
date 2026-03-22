@@ -1,0 +1,306 @@
+{
+  "date": "2026-03-16",
+  "headline": "16 March 2026",
+  "coverage": "15 March 2026 07:00 UTC+3 – 16 March 2026 07:00 UTC+3",
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "text": "— Kuwait civil defence and armed forces remain on high alert as of the morning of 16 March 2026. No new formal air raid siren events specifically reported in the first hours of 16 March; however, emergency broadcast protocols remain in effect across the country.",
+          "sources": [
+            "Kuwait Times",
+            "KUNA"
+          ],
+          "bold_heading": "Active threat posture maintained"
+        },
+        {
+          "text": "Updated alert confirmed no change to existing guidance — shelter-in-place or depart overland via Saudi Arabia. No further charter evacuations planned by the Embassy.",
+          "sources": [
+            "U.S. Embassy Kuwait — kw.usembassy.gov"
+          ],
+          "bold_heading": "U.S. Embassy Kuwait — Security Alert (15 March 2026)"
+        },
+        {
+          "text": "Kuwait FIR (OKAC) remains fully closed to commercial aviation. No timeline given for reopening.",
+          "sources": [
+            "SafeAirspace.net",
+            "ops.group"
+          ],
+          "bold_heading": "Airspace NOTAM in effect"
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "text": "A drone struck the Italian–U.S. joint facility, destroying an Italian Air Force MQ-9A Predator surveillance drone (est. value $30–35M) inside a protected aircraft shelter. No casualties reported. Italian military had pre-emptively reduced personnel on base. Italian Foreign Minister stated Italy does not believe it is being specifically targeted.",
+          "sources": [
+            "Daily Sabah",
+            "Times of Israel",
+            "Agenzia Nova",
+            "itamilradar.com"
+          ],
+          "bold_heading": "Ali Al Salem Air Base, Kuwait — 15 March 2026 (early morning, UTC+3)"
+        },
+        {
+          "text": "Non-operational for commercial flights since 8 March drone attack on fuel infrastructure. Prior attacks caused material damage to Terminal 1; nine airport workers injured.",
+          "sources": [
+            "Kuwait Times",
+            "KUNA",
+            "Wego Travel Blog"
+          ],
+          "bold_heading": "[CONFIRMED — ONGOING] Kuwait International Airport"
+        },
+        {
+          "text": "UKMTO reports 16+ vessel attacks in the Persian Gulf since 28 February. On 11 March, IRGC struck at least three vessels including MV Safesea Vishnu (Marshall Islands-flagged) and MV Zefyros (Maltese-flagged). Soft blockade of Hormuz transit in effect; shipping insurers have broadly withdrawn Gulf coverage.",
+          "sources": [
+            "CNBC",
+            "Al Jazeera",
+            "Military.com",
+            "Bloomberg"
+          ],
+          "bold_heading": "[CONFIRMED — ONGOING] Strait of Hormuz"
+        },
+        {
+          "text": "reported between 14–16 March. The March 15 Ali Al Salem drone strike is the most recent confirmed incident on Kuwait territory.",
+          "sources": [],
+          "bold_heading": "[CONFIRMED — PRIOR 24–48 HRS] No new confirmed mass-casualty kinetic strikes on Kuwait civilian infrastructure"
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "text": "Kuwait Ministry of Foreign Affairs continues to condemn Iranian strikes as \"flagrant violations of sovereignty and international law,\" reaffirming the right to self-defence under UN Charter Article 51. The Supreme Committee for Civil Defence (22-entity coordination body chaired by First Deputy PM) remains in active emergency session.",
+          "sources": [
+            "KUNA"
+          ],
+          "bold_heading": "Government advisories"
+        },
+        {
+          "text": "Kuwait International Airport closed to commercial aviation (since 8 March). Port of Kuwait partially operational; carrier CMA CGM using Oman-based multimodal routing (land bridge) for Kuwait import cargo as of 11 March.",
+          "sources": [
+            "Kuwait Times",
+            "APL Logistics",
+            "Global Cold Chain Alliance"
+          ],
+          "bold_heading": "Airport/Ports"
+        },
+        {
+          "text": "Kuwait has declared force majeure on gas exports and has begun reducing oil output due to disrupted Strait of Hormuz transits. Kuwait and UAE simultaneously announced output cuts on 7 March.",
+          "sources": [
+            "Bloomberg",
+            "7 March"
+          ],
+          "bold_heading": "Fuel/Energy"
+        },
+        {
+          "text": "Kuwait relies heavily on food imports via Hormuz; alternative Oman bonded-trucking routing is active but adding delays and surcharges. No confirmed panic-buying or formal shortage reports in state media to date.",
+          "sources": [
+            "Al Jazeera",
+            "GCCA",
+            "APL Logistics"
+          ],
+          "bold_heading": "Supply chain / grocery"
+        },
+        {
+          "text": "Border crossings",
+          "sources": []
+        },
+        {
+          "text": "Open 24/7. Primary evacuation and resupply route. Onward commercial flights available from Saudi airports.",
+          "sources": [
+            "U.S. Embassy Kuwait"
+          ],
+          "bold_heading": "Kuwait–Saudi Arabia (Nuwaisib & Salmi crossings)"
+        },
+        {
+          "text": "Open but subject to closure on short notice; expect significant delays.",
+          "sources": [
+            "U.S. Embassy Baghdad"
+          ],
+          "bold_heading": "Kuwait–Iraq border"
+        },
+        {
+          "text": "Ministry of Interior issued automatic 1-month visitor visa extension and a 3-month absence permit for residents outside Kuwait as of 28 February.",
+          "sources": [
+            "Kuwait Times"
+          ],
+          "bold_heading": "Visa/residency"
+        },
+        {
+          "text": "Educational institutions remain closed under emergency protocols in effect since late February. No public reopening date announced.",
+          "sources": [],
+          "bold_heading": "Schools/public events"
+        },
+        {
+          "text": "MOI cybercrime department is pursuing legal action against accounts spreading false rumours. Public directed to follow KUNA and official MOI channels only.",
+          "sources": [
+            "KUNA"
+          ],
+          "bold_heading": "Misinformation advisory"
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "President Pezeshkian ordered the IRGC to halt strikes and issued an apology to Gulf neighbours; IRGC has continued operations independently, exposing a governance fracture within Iran that materially complicates cease-fire prospects.",
+          "sources": [
+            "Al Jazeera",
+            "Wikipedia — 2026 Iran war"
+          ],
+          "bold_heading": "Iranian leadership rift persists"
+        },
+        {
+          "text": "Saudi Arabia, UAE, Qatar, and Kuwait are in high-level talks on coordinated GCC response; analysts assess a Peninsula Shield Force-style joint operation is more likely than individual bilateral action. Gulf missile defences have performed well against ballistic missiles but have been less effective against drone swarms.",
+          "sources": [
+            "Carnegie Endowment",
+            "Al Jazeera"
+          ],
+          "bold_heading": "GCC moving toward collective military posture"
+        },
+        {
+          "text": "Brent crude reached $106.81/barrel on 8 March (intraday spike to $110). Iran's new supreme leader has vowed to continue blocking the strait. A prolonged blockade could push prices toward $130/barrel and produce the Gulf's worst economic contraction since 1990–91.",
+          "sources": [
+            "Bloomberg, 15 March",
+            "Chatham House",
+            "NBC News"
+          ],
+          "bold_heading": "Hormuz soft blockade is the primary structural economic threat"
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "text": "Multiple Iran-aligned APT and hacktivist groups (Handala, DieNet, Ghost Princess, MuddyWater) are conducting DDoS, wiper malware, and reconnaissance operations against Gulf banks and payment infrastructure. Abu Dhabi Commercial Bank and First Abu Dhabi Bank reported service interruptions (attribution unconfirmed). MuddyWater found to have pre-planted backdoors in a U.S. bank and defence-adjacent firms prior to the conflict starting.",
+          "sources": [
+            "MIT Sloan ME",
+            "AGBI",
+            "Socradar",
+            "American Banker"
+          ],
+          "bold_heading": "Cyber risk — elevated and active across Gulf financial sector"
+        },
+        {
+          "text": "Goldman Sachs requiring employee approval before attending Middle East offices; Standard Chartered asked DIFC-adjacent staff to leave. All institutions with Gulf operations should review and activate their BCPs and remote-authorisation protocols without delay.",
+          "sources": [
+            "Euronews",
+            "12 March"
+          ],
+          "bold_heading": "Business continuity protocols — Gulf region broadly"
+        },
+        {
+          "text": "The Hormuz soft blockade combined with cyber pressure on banking infrastructure creates elevated risk to SWIFT-connected correspondent banking chains reliant on Gulf clearing hubs. Institutions with significant trade finance, LCs, or commodity-flow exposure through the Gulf should reassess counterparty and settlement risk exposures now.",
+          "sources": [
+            "SISA advisory",
+            "Banking Dive"
+          ],
+          "bold_heading": "Payment systems and cross-border settlement risk"
+        },
+        {
+          "text": "CISA has not published standard advisories since 17 February due to a federal funding lapse; the agency has cancelled assessments and trainings. GCC-focused institutions should treat UAE Cybersecurity Council and Saudi NCSC as the primary official advisory sources during this period.",
+          "sources": [
+            "CNBC",
+            "3 March"
+          ],
+          "bold_heading": "CISA advisory gap — do not assume silence is all-clear"
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Iran War: Gulf Economies Face Deepest Slump Since 1990s if Conflict Persists",
+          "author": "Bloomberg Economics team",
+          "publication": "Bloomberg",
+          "pub_date": "15 March 2026",
+          "summary": "Analysis finds Qatar and Kuwait could each see GDP contract by up to 14% in 2026 if the Strait of Hormuz remains blocked through April; a prolonged conflict scenario could push oil toward $130/barrel with significant but unevenly distributed global spillovers. The Gulf faces its most severe economic stress since 1990–91.",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-15/gulf-economies-at-risk-of-worst-strife-since-1990s-on-iran-war"
+        },
+        {
+          "title": "Shockwaves Across the Gulf",
+          "author": "Angie Omar",
+          "publication": "Carnegie Endowment for International Peace",
+          "pub_date": "12 March 2026 *(48-hour extension applied)",
+          "summary": "Argues that Iranian strikes have fundamentally reordered the Gulf security calculus — Gulf leaders now face direct state-on-state confrontation for the first time in decades, forcing a stark choice between diplomatic neutrality and active alignment with the U.S.–Israeli coalition. Collective GCC action is assessed as the most credible deterrence pathway.",
+          "link": "https://carnegieendowment.org/middle-east/diwan/2026/03/shockwaves-across-the-gulf"
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "number": 7,
+      "title": "Cyber & Threat Intelligence",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "text": "Multi-group coordinated campaign — DDoS, wiper malware, ransomware, supply-chain compromise Affected sectors: Financial services, government, aviation, telecoms — GCC-wide; U.S. and Israeli-linked institutions globally",
+          "sources": [
+            "Socradar — Iran–Israel/US Cyber War 2026 dashboard",
+            "Ongoing from 28 Feb 2026"
+          ],
+          "bold_heading": "Iran-coordinated \"Electronic Operations Room\" — active since 28 February 2026"
+        },
+        {
+          "text": "Iranian APTs assessed as highly likely to target SWIFT nodes, clearing houses, and card networks with DDoS and wiper attacks as asymmetric retaliation tools Affected sectors: Gulf and Western banking; cross-border settlement infrastructure",
+          "sources": [
+            "SISA (sisainfosec.com)"
+          ],
+          "bold_heading": "Elevated risk to payments ecosystem (SISA advisory)"
+        },
+        {
+          "text": "Documents accelerated Iranian APT reconnaissance and pre-positioning; highlights software supply-chain attack risk and deepfake-enabled fraud targeting financial institutions Affected sectors: Financial services and critical infrastructure globally; Gulf region highest risk",
+          "sources": [
+            "Unit 42 / Palo Alto Networks"
+          ],
+          "bold_heading": "Unit 42 / Palo Alto Networks — March 2026 Iran Escalation Threat Brief"
+        },
+        {
+          "text": "CISA last updated its advisory feed on 17 February 2026 due to a federal funding lapse; assessments and trainings have been cancelled. Do not rely on CISA as a real-time signal source. Recommended alternatives: UAE Cybersecurity Council (cybersecurity.ae), Saudi NCSC (ncsc.gov.sa), NCSC UK (ncsc.gov.uk/news).",
+          "sources": [
+            "CNBC"
+          ],
+          "bold_heading": "CISA advisory gap — note for monitoring teams"
+        },
+        {
+          "text": "No Kuwait (cirt.gov.kw) or GCC CERT advisories were publicly retrievable in the past 24 hours. Institutions should contact these bodies directly for current IoCs and threat indicators.",
+          "sources": []
+        }
+      ]
+    }
+  ],
+  "footer": "Report compiled 2026-03-16."
+}

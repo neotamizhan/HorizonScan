@@ -1,0 +1,328 @@
+{
+  "date": "2026-03-17",
+  "headline": "17 March 2026",
+  "coverage": "16 March 2026 07:00 UTC+3 – 17 March 2026 07:00 UTC+3",
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "text": "(March 16–17).",
+          "sources": [
+            "Times Kuwait",
+            "U.S. Embassy Kuwait"
+          ],
+          "bold_heading": "No new air raid sirens or civil defense emergency broadcasts specifically reported in Kuwait in the past 24 hours"
+        },
+        {
+          "text": "The U.S. Embassy Kuwait Security Alert dated March 15, 2026 remains active, advising American citizens to continue monitoring the situation; no changes to shelter-in-place or departure guidance.",
+          "sources": [
+            "[U.S. Embassy Kuwait – March 15",
+            "2026]("
+          ]
+        },
+        {
+          "text": "Kuwait continues to operate under a heightened nationwide readiness posture, with all vital facilities on high alert. Active siren and alert protocols established earlier in the conflict remain in effect across the country.",
+          "sources": [
+            "[Kuwait Times – Kuwait Heightens Readiness]("
+          ]
+        },
+        {
+          "text": "The UAE briefly closed its airspace on March 16 following a drone attack on Dubai International Airport, disrupting Gulf corridor flight routing and regional situational awareness.",
+          "sources": [
+            "[Gulf News – Day 17]("
+          ]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "text": "| March 16–17 | Kuwait Armed Forces detected and neutralized 4 hostile drones in a 24-hour period: one destroyed by air defense; one fell outside the threat zone without damage; two drones came down in Kuwait's northern region with no casualties or material damage; Kuwaiti National Guard units independently shot down two additional drones. Status: Confirmed.",
+          "sources": [
+            "[Times Kuwait](",
+            "[Arab Times Kuwait]("
+          ],
+          "bold_heading": "Kuwait – Drone Intercepts"
+        },
+        {
+          "text": "| Reported March 16 | An Iranian drone destroyed an Italian-operated MQ-9A Predator UAV at Ali Al-Salem Air Base in Kuwait. Precise engagement time has not been publicly disclosed. Status: Confirmed.",
+          "sources": [
+            "[The Week India – March 16",
+            "2026]("
+          ],
+          "bold_heading": "Kuwait – MQ-9A Predator UAV Destroyed at Ali Al-Salem Air Base"
+        },
+        {
+          "text": "| March 16, early hours (UTC+3) | A drone struck a fuel tank near Dubai International Airport, causing a fire that civil defense contained. No injuries reported. Flights suspended for over 7 hours; Emirates resumed limited operations from approximately 10:00 AST (UTC+3); a number of flights were cancelled or diverted to Al Maktoum International Airport. Status: Confirmed.",
+          "sources": [
+            "[CNBC – Dubai Airport](",
+            "[Bloomberg]("
+          ],
+          "bold_heading": "UAE – Dubai International Airport Drone Attack"
+        },
+        {
+          "text": "| March 16 | A drone strike ignited a large fire at the Fujairah Oil Industry Zone. Oil loading operations suspended; civil defense teams responded. No injuries reported. Status: Confirmed.",
+          "sources": [
+            "[CNBC – Fujairah](",
+            "[Saudi Gazette]("
+          ],
+          "bold_heading": "UAE – Fujairah Oil Industry Zone (FOIZ) Drone Strike"
+        },
+        {
+          "text": "| March 16–17 | A fatal missile strike was reported in Abu Dhabi. Full details on the target and casualty count are still being verified. Status: Partially confirmed — ongoing verification.",
+          "sources": [
+            "[Gulf News – Day 17]("
+          ],
+          "bold_heading": "UAE – Abu Dhabi Fatal Missile Strike"
+        },
+        {
+          "text": "| March 17 (this morning) | Drone attacks targeted the US Embassy in Baghdad's Green Zone for the second time in three days. Iraqi air defences engaged incoming drones near the embassy compound and Balad airbase. A separate drone struck the adjacent Al-Rasheed Hotel with no casualties. The embassy's helipad was directly hit on March 14, destroying part of its air defence system. The US Embassy has issued a Level 4: Do Not Travel alert and is urging all US citizens to leave Iraq immediately. Iran-aligned PMF militias are the suspected perpetrators. Status: Confirmed.",
+          "sources": [
+            "[Al Jazeera – Day 17](",
+            "[CNN – Day 17](",
+            "[US Embassy Baghdad – March 16 Alert]("
+          ],
+          "bold_heading": "Iraq – US Embassy Baghdad Hit (Ongoing)"
+        },
+        {
+          "text": "| March 16 | Saudi Arabia's Ministry of Defense confirmed the successful interception and destruction of three drones targeting Riyadh and the Eastern Province. Status: Confirmed.",
+          "sources": [
+            "[Voice of Emirates – March 16",
+            "2026]("
+          ],
+          "bold_heading": "Saudi Arabia – Drone Intercepts"
+        },
+        {
+          "text": "| Ongoing | Tanker and container traffic through the Strait remains at near-zero. UAE air defenses engaged 6 ballistic missiles and 21 drones on March 16 alone. No confirmed new vessel-damage incidents in the past 24 hours, but the MARAD advisory remains fully in force.",
+          "sources": [
+            "[MARAD 2026-001A](",
+            "[Al Jazeera – Hormuz]("
+          ],
+          "bold_heading": "Strait of Hormuz – Continued Effective Closure"
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "text": "Kuwait has formally condemned continued Iranian attacks against UAE and other Gulf states. A state of high alert remains in force at all vital facilities; Civil Defense and Ministry of Interior in active operational posture.",
+          "sources": [
+            "[KUNA](",
+            "[Kuwait Times]("
+          ],
+          "bold_heading": "Government Advisory"
+        },
+        {
+          "text": "Kuwait's Ministry of Interior announced the dismantling of a 16-person terrorist cell (14 Kuwaiti nationals, 2 Lebanese nationals) affiliated with Hezbollah, allegedly planning domestic sabotage operations. Items seized include: firearms, encrypted communication devices (Morse code tools), drones, maps, narcotics, cash, and materials linked to terrorist organisations. Investigations ongoing; suspects referred to Public Prosecution.",
+          "sources": [
+            "[Arab Times Kuwait](",
+            "[Middle East Eye](",
+            "[L'Orient Today]("
+          ],
+          "bold_heading": "Internal Security – Hezbollah Sabotage Cell Arrested"
+        },
+        {
+          "text": "Kuwait International Airport remains fully closed to all commercial passenger operations. No confirmed reopening timeline. Kuwait Airways, Jazeera Airways, Emirates, Qatar Airways, Etihad, and Turkish Airlines all continue to suspend Kuwait services. DGCA states reopening requires: (1) completed structural/safety assessment; (2) regional airspace clearance; (3) security confirmation.",
+          "sources": [
+            "[Wego Travel Blog](",
+            "[Travel and Tour World]("
+          ],
+          "bold_heading": "Airport / Aviation"
+        },
+        {
+          "text": "Kuwait's land supply chain remains constrained: customs authority operating at reduced staffing levels; Maersk has suspended new cargo bookings to/from Kuwait (exceptions: food and medicine). CMA CGM has reopened limited bookings via multimodal solutions. No reports of immediate grocery shortages in the past 24 hours; medium-term supply disruption risk remains elevated.",
+          "sources": [
+            "[Expeditors – March 16, 2026](",
+            "[APL Logistics]("
+          ],
+          "bold_heading": "Supply Chain / Essential Services"
+        },
+        {
+          "text": "No specific reports of closure of Kuwait–Saudi Arabia or Kuwait–Iraq land border crossings in the past 24 hours. Overland routes remain Kuwait's primary supply and evacuation corridor.",
+          "sources": [],
+          "bold_heading": "Border Crossings (Saudi Arabia, Iraq)"
+        },
+        {
+          "text": "No disruption reports found for Kuwait in the past 24 hours. Situation under continued monitoring.",
+          "sources": [],
+          "bold_heading": "Essential Services (fuel, electricity, water, internet)"
+        },
+        {
+          "text": "No new school closure or public event cancellation announcements identified for March 17. Existing precautionary measures from earlier in the conflict likely remain in effect; verify locally via @KUNA_EN or @MOIKuwait.",
+          "sources": [],
+          "bold_heading": "Schools / Public Events"
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "The conflict initiated by U.S.-Israeli strikes on Iran on February 28 (Operation Epic Fury) continues. Iran's Foreign Minister has stated Tehran has \"never asked for a ceasefire.\" Iran's horizontal escalation strategy — deliberately targeting GCC civilian, energy, and economic infrastructure — is being maintained with no signs of restraint.",
+          "sources": [
+            "[Al Jazeera – Day 17](",
+            "[NPR – Iran War]("
+          ],
+          "bold_heading": "Day 17 of the Conflict — No De-escalation Signal"
+        },
+        {
+          "text": "Trump's call on March 15–16 for allied nations to form a naval coalition to reopen the Strait of Hormuz has met minimal international uptake. Iran continues to selectively grant passage (certain Indian-flagged vessels only). Oil prices remain ~40% above pre-conflict levels; Qatar's energy minister has warned crude could approach $150/barrel if disruption continues.",
+          "sources": [
+            "[CNBC – Hormuz](",
+            "[Al Jazeera – Selective Passage]("
+          ],
+          "bold_heading": "Hormuz Coalition Stalling — Oil Spike Risk Persists"
+        },
+        {
+          "text": "Despite losses (Kata'ib Hezbollah security commander Abu Ali al-Askari killed in Baghdad on March 14), Iranian-aligned proxy forces continue to operate in Iraq and Lebanon. The Kuwait Hezbollah cell arrest confirms that domestic sleeper networks are an active secondary threat vector across the GCC, distinct from the primary missile/drone campaign.",
+          "sources": [
+            "[CNN – Day 17](",
+            "[Times of Israel]("
+          ],
+          "bold_heading": "Proxy and Sleeper Networks Remain Active"
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "text": "Major international banks (HSBC, Citigroup, Goldman Sachs, Standard Chartered) are operating Gulf offices on remote or minimal-presence footing. Iran has explicitly declared U.S.- and Israel-linked economic and banking interests in the region as targets. Institutions should verify BCP protocols for Kuwait and Gulf-based staff and account for restricted travel given closed airports and limited overland options.",
+          "sources": [
+            "[The Hill – Banks Evacuate](",
+            "[Al Jazeera – Iran Targets Banks]("
+          ],
+          "bold_heading": "Staff Safety & BCP — Gulf Offices"
+        },
+        {
+          "text": "Payments to/from Kuwait, UAE, Qatar, Bahrain, and Saudi Arabia face elevated friction due to closed airports, reduced customs authority staffing, and near-zero Hormuz throughput. Institutions should review correspondent banking arrangements, nostro account balances, and counterparty exposure; consider contingency routing for time-sensitive settlements.",
+          "sources": [
+            "[SISA Threat Advisory]("
+          ],
+          "bold_heading": "Cross-Border Payment & Settlement Risk"
+        },
+        {
+          "text": "Iranian APT groups (notably Seedworm) and Iran-aligned hacktivists (Handala Hack) are targeting GCC financial institutions and infrastructure. Claimed attacks include Riyadh Bank, Bank of Jordan, and UAE airport systems. Primary threat vectors: DDoS, credential compromise, and destructive wiper malware. CISA joint advisory and Palo Alto Unit 42 threat brief remain active. Priority actions: enforce MFA, isolate OT/ICS, maintain 24/7 SOC monitoring.",
+          "sources": [
+            "[Banking Dive](",
+            "[Euronews – Banks Tighten Security]("
+          ],
+          "bold_heading": "Cyber Risk — Elevated and Actively Exploited"
+        },
+        {
+          "text": "QatarEnergy has halted LNG production; Fujairah oil bunkering is suspended; Hormuz remains effectively closed. Energy market volatility is feeding through to regional FX pressure and sovereign credit risk for Gulf oil exporters. Monitor KWD, AED, and QAR positions; review hedging strategies and sovereign exposure in affected markets.",
+          "sources": [
+            "[Foreign Policy – Global Economy]("
+          ],
+          "bold_heading": "Energy & FX Volatility — Balance Sheet Implications"
+        },
+        {
+          "text": "Threat analysts are tracking potential psychological operations against banking infrastructure — including fabricated breach disclosures, deepfake executive communications, and coordinated narratives targeting bank solvency. Technology risk and communications teams should reinforce executive impersonation verification protocols and customer communication integrity procedures.",
+          "sources": [
+            "[SISA Threat Advisory]("
+          ],
+          "bold_heading": "Disinformation & Deepfake Fraud Risk"
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "A Worst-Case Scenario for the War with Iran",
+          "author": "Not publicly attributed",
+          "publication": "War on the Rocks",
+          "pub_date": "March 2026",
+          "summary": "Examines what happens if the White House's projected 4–6 week conflict timeline fails — specifically the risk of Iran fragmenting into competing armed factions and separatist movements. The piece argues this outcome would lock in sustained high oil prices, trigger a large refugee crisis, and fuel reinvigorated terrorist movements across the Middle East.",
+          "link": "https://warontherocks.com/2026/03/a-worst-case-scenario-for-the-war-with-iran/"
+        },
+        {
+          "title": "Why Escalation Favors Iran",
+          "author": "Not attributed in available results",
+          "publication": "Foreign Affairs",
+          "pub_date": "March 2026",
+          "summary": "Argues that Iran's deliberate strategy of horizontal escalation — targeting GCC civilian and economic infrastructure — gives Tehran asymmetric leverage by externalising the war's costs onto U.S. allies, even as Iran's military sustains losses. Concludes that as long as the Strait of Hormuz remains blocked and Gulf cities are under attack, Iran retains leverage that constrains coalition cohesion.",
+          "link": "https://www.foreignaffairs.com/iran/why-escalation-favors-iran"
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "number": 7,
+      "title": "Cyber & Threat Intelligence",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "text": "CISA, FBI, DC3, and NSA joint advisory covering Iranian-affiliated APT activity targeting critical infrastructure, financial services, and OT/ICS environments. Extended and updated in early March 2026 following Operation Epic Fury. Key mitigations: OT/ICS internet isolation, phishing-resistant MFA, software patching, credential hygiene. Affected sectors: Financial services, energy, telecoms, water, government",
+          "sources": [
+            "CISA"
+          ],
+          "bold_heading": "CISA Joint Advisory — Iran Cyber Threat to Critical Infrastructure (Extended)"
+        },
+        {
+          "text": "Public threat brief documenting a surge in Iran-aligned hacktivist claims; warns BFSI/payment organisations with U.S.-linked assets or Israeli business ties are high-probability spillover targets. Flags risk of escalation from nuisance-level DDoS to coordinated destructive campaigns. Affected sectors: Banking, payments infrastructure, critical infrastructure",
+          "sources": [
+            "Palo Alto Unit 42"
+          ],
+          "bold_heading": "Palo Alto Unit 42 — Threat Brief: March 2026 Escalation of Cyber Risk Related to Iran"
+        },
+        {
+          "text": "Advisory documenting observed responses by Iran-aligned cyber actors to U.S.-Israeli military strikes, including targeting of Gulf financial and government infrastructure. Affected sectors: Financial sector, government, GCC critical infrastructure",
+          "sources": [
+            "BeyondTrust"
+          ],
+          "bold_heading": "BeyondTrust — Threat Advisory: Iran-Aligned Cyber Actors Respond to Operation Epic Fury"
+        },
+        {
+          "text": "Payments-specific advisory covering potential SWIFT disruption, deepfake executive fraud, fake insolvency disclosures to trigger deposit flight, and DDoS attacks targeting payment portals. Affected sectors: Banking, payment processing, cross-border settlement, SWIFT network participants",
+          "sources": [
+            "SISA InfoSec"
+          ],
+          "bold_heading": "SISA InfoSec — Elevated Cyber Risk to the Payments Ecosystem"
+        },
+        {
+          "text": "(Corroborated — Tier 1 sources) Iran-aligned hacktivist group claimed attacks on Riyadh Bank, Bank of Jordan, Sharjah Airport (UAE), and additional UAE airport systems. Claims partially corroborated by banking sector and media reporting. Affected sectors: Banking (Saudi Arabia, Jordan), aviation (UAE)",
+          "sources": [
+            "[American Banker — March 2026]("
+          ],
+          "bold_heading": "Handala Hack — Active Campaign Against GCC Financial Institutions"
+        },
+        {
+          "text": "No Kuwait or UAE-specific public cyber advisories identified for the past 24–48 hours from monitored official sources. Monitor cirt.gov.kw and cybersecurity.ae directly for local advisories. ️ This report is prepared for situational awareness purposes only. All items are sourced from publicly available information. Classified intelligence and proprietary threat feeds are not included. Verify time-sensitive operational decisions through official government and institutional channels.",
+          "sources": [],
+          "bold_heading": "Kuwait e-Government CIRT (cirt.gov.kw) and UAE Cybersecurity Council"
+        }
+      ]
+    }
+  ],
+  "footer": "Report compiled 2026-03-17.",
+  "subtitle": "Day 17 of Operation Epic Fury"
+}

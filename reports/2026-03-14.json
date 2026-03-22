@@ -1,0 +1,317 @@
+{
+  "date": "2026-03-14",
+  "headline": "14 March 2026",
+  "coverage": "13 March 2026 07:00 UTC+3 – 14 March 2026 07:00 UTC+3",
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "text": "across Kuwait in the past 24 hours, including the intermittent warning siren indicating imminent aerial danger. The Kuwaiti Civil Defense Directorate confirmed activations.",
+          "sources": [
+            "Kuwait Times",
+            "KUNA"
+          ],
+          "bold_heading": "Civil defense sirens activated multiple times"
+        },
+        {
+          "text": "remains in force: residents are instructed to switch off gas and electricity, avoid elevators, use stairwells to reach lower floors or basements, and proceed to designated shelters upon siren activation.",
+          "sources": [
+            "MOI Kuwait official statement"
+          ],
+          "bold_heading": "Ministry of Interior safety guidance"
+        },
+        {
+          "text": "Consular services remain suspended. The Department of State order for non-emergency U.S. government employees and dependents to depart Kuwait (issued 3 March 2026) remains active.",
+          "sources": [
+            "U.S. Embassy Kuwait",
+            "kw.usembassy.gov"
+          ],
+          "bold_heading": "U.S. Embassy Kuwait"
+        },
+        {
+          "text": "Enhanced alert status continues. Residents advised to shelter in place during interception events.",
+          "sources": [
+            "OSAC",
+            "osac.gov"
+          ],
+          "bold_heading": "OSAC Kuwait Security Alert — Update 2 (9 March 2026)"
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "text": "A hostile drone struck a residential building in Kuwait; two persons reported wounded, with material damage. Status: Confirmed. (Time: overnight 13–14 March, UTC+3 | Source: Al Jazeera)",
+          "sources": [],
+          "bold_heading": "Kuwait — Residential hit confirmed"
+        },
+        {
+          "text": "Kuwaiti armed forces air defense systems intercepted multiple hostile drones and missiles overnight. MOD spokesperson Col. Saud Al Atwan confirmed that sounds of explosions heard by residents are the result of air defense interceptions. Status: Confirmed.",
+          "sources": [
+            "KUNA",
+            "Kuwait Times"
+          ],
+          "bold_heading": "Kuwait — Air defense intercepts"
+        },
+        {
+          "text": "Airport was struck by multiple UAVs on Thursday 12 March, causing minor material damage to Terminal 1 and injuring nine airport workers. Commercial traffic remains suspended. Full structural and safety assessment ongoing. Status: Confirmed.",
+          "sources": [
+            "en.alwast.net",
+            "Kuwait Times"
+          ],
+          "bold_heading": "Kuwait International Airport — Drone damage (12 March)"
+        },
+        {
+          "text": "Six major overhead power lines were knocked out by falling debris from interception of hostile drones on 12 March. Partial outages reported in residential and commercial areas; power restored to most sectors. Ministry of Electricity confirmed restoration. Status: Confirmed/Resolved.",
+          "sources": [
+            "Alwast News"
+          ],
+          "bold_heading": "Kuwait power grid disruption (12 March — partially resolved)"
+        },
+        {
+          "text": "on 13 March across the kingdom, including in Riyadh. Status: Confirmed.",
+          "sources": [
+            "The National"
+          ],
+          "bold_heading": "Saudi Arabia — 51 drones intercepted"
+        },
+        {
+          "text": "Authorities told residents to stay indoors and close windows. US Navy Fifth Fleet headquarters at Bahrain remains under threat. Status: Confirmed.",
+          "sources": [
+            "Al Jazeera"
+          ],
+          "bold_heading": "Bahrain — Attack in Muharraq Governorate"
+        },
+        {
+          "text": "At least 16 vessels hit since 28 February across the Strait of Hormuz, Gulf of Oman, UAE coastal waters, and Iraqi export zones. Iranian naval mines detected; 16 Iranian minelayers destroyed by US military. Status: Confirmed.",
+          "sources": [
+            "CNBC",
+            "Military.com",
+            "Al Jazeera"
+          ],
+          "bold_heading": "Strait of Hormuz — Three cargo ships struck (11 March)"
+        },
+        {
+          "text": "Two drones crashed in Sohar, killing two foreign nationals. Emergency response under way. Status: Confirmed.",
+          "sources": [
+            "Al Jazeera"
+          ],
+          "bold_heading": "Oman — Drone crashes in Sohar"
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "text": "Kuwait MOI has imposed a temporary ban on public gatherings including plays, parties, and weddings. State institutions are on heightened preparedness and inter-agency coordination.",
+          "sources": [
+            "Kuwait Times"
+          ],
+          "bold_heading": "Government emergency measures"
+        },
+        {
+          "text": "Kuwait International Airport remains closed to all commercial traffic following the 12 March drone attack on Terminal 1. No timeline for reopening published as of this report. DGCA has suspended airspace access.",
+          "sources": [
+            "KUNA",
+            "Travel and Tour World"
+          ],
+          "bold_heading": "Airport status — CLOSED"
+        },
+        {
+          "text": "Electricity supply largely restored after 12 March grid disruptions caused by interception debris. Some partial outages may persist. Monitor official MEW channels.",
+          "sources": [
+            "Alwast News"
+          ],
+          "bold_heading": "Power"
+        },
+        {
+          "text": "No confirmed reports of widespread water or internet service disruptions in the past 24 hours. Fuel supply situation not officially reported but warrants monitoring given Hormuz shipping constraints.",
+          "sources": [],
+          "bold_heading": "Essential services"
+        },
+        {
+          "text": "Border crossings",
+          "sources": []
+        },
+        {
+          "text": "CLOSED.",
+          "sources": [
+            "Global Cold Chain Alliance",
+            "GCCA Situation Report"
+          ],
+          "bold_heading": "Iraq (Safwan Gate)"
+        },
+        {
+          "text": "OPEN 24/7. Key overland evacuation and resupply routes.",
+          "sources": [
+            "GCCA Situation Report",
+            "12 March 2026"
+          ],
+          "bold_heading": "Saudi Arabia (Nuwaisib, Salmi, Al Khafji crossings)"
+        },
+        {
+          "text": "Gulf freight is being rerouted via Port of Jeddah (Saudi Arabia) and Sohar/Salalah (Oman), with onward trucking across GCC. No confirmed panic buying or grocery disruption reported specifically in Kuwait in the past 24 hours, however global food price pressures are rising.",
+          "sources": [
+            "CNBC",
+            "GCCA"
+          ],
+          "bold_heading": "Food and supply chain"
+        },
+        {
+          "text": "No specific school closure announcement identified beyond the broader public gathering ban. Employees of financial institutions should assume disruption to normal operating patterns.",
+          "sources": [],
+          "bold_heading": "Schools/public events"
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "of Operation Epic Fury (US-Israel strikes on Iran, launched 28 February 2026). No ceasefire signal; both sides are escalating. New Iranian Supreme Leader Mojtaba Khamenei has vowed continued strikes on Gulf states hosting US military assets until those bases are closed.",
+          "sources": [
+            "Al Jazeera"
+          ],
+          "bold_heading": "Conflict now in Day 14"
+        },
+        {
+          "text": "Tanker traffic has dropped by approximately 70%; only ~10 vessel crossings recorded in the week of 7–11 March versus a daily average of 70–80. Brent crude is above $107/barrel. Iranian leadership has stated the strait should remain closed.",
+          "sources": [
+            "Windward.ai",
+            "Al Jazeera"
+          ],
+          "bold_heading": "Strait of Hormuz near-blockade"
+        },
+        {
+          "text": "GCC members have not formally joined the US-Israel coalition, but Iran is striking them anyway due to US military base hosting. The UN General Assembly passed a resolution condemning Iran's attacks on GCC states.",
+          "sources": [
+            "Times Kuwait"
+          ],
+          "bold_heading": "Gulf states holding non-combatant stance but under direct attack"
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "text": "Kuwait International Airport closure disrupts staff mobility, international document courier, and emergency evacuation planning. Institutions should activate or review BCPs covering extended Kuwait-inaccessibility scenarios, including remote workforce operations and succession for key roles.",
+          "sources": [
+            "Kuwait Times",
+            "KUNA"
+          ],
+          "bold_heading": "Business continuity — physical operations"
+        },
+        {
+          "text": "Iranian cyber actors have explicitly named Gulf financial institutions aligned with the US or Israel as targets. SOC teams should monitor for anomalous SWIFT/wire transaction patterns, bulk password resets, and new beneficiary additions outside business hours. DDoS attacks on banking portals are a high-probability scenario.",
+          "sources": [
+            "SISA InfoSec",
+            "American Banker"
+          ],
+          "bold_heading": "Payment systems and correspondent banking"
+        },
+        {
+          "text": "AWS facilities in UAE and Bahrain were struck by Iranian drones on 1 March, disrupting cloud services across the Gulf. Financial institutions relying on Gulf-hosted cloud infrastructure should verify DR/failover is active and test RPO/RTO assumptions.",
+          "sources": [
+            "CloudSEK Situation Report"
+          ],
+          "bold_heading": "Cloud and IT infrastructure"
+        },
+        {
+          "text": "Goldman Sachs required Middle East office approval for entry; Standard Chartered asked Dubai staff to leave offices early this week. Regional financial institutions should consider similar precautionary guidance for Kuwait-based staff, particularly given airspace closure and active interception activity.",
+          "sources": [
+            "American Banker",
+            "Euronews"
+          ],
+          "bold_heading": "Staff safety"
+        },
+        {
+          "text": "With the US Embassy suspending consular services and several Western governments ordering evacuations, compliance officers should assess implications for AML/KYC processes requiring Embassy or notary verification, and regulatory reporting deadlines that may be affected by operational disruption.",
+          "sources": [],
+          "bold_heading": "Regulatory and compliance watch"
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Arab States Scramble to Adapt to New Regional War",
+          "author": "Kerry Boyd Anderson (attributed in series)",
+          "publication": "War on the Rocks",
+          "pub_date": "March 2026",
+          "summary": "Analysis of how GCC states are managing a conflict they sought to avoid, facing direct strikes despite a formal non-combatant posture. Examines the gap between diplomatic neutrality and military targeting by Iran.",
+          "link": "https://warontherocks.com/2026/03/arab-states-scramble-to-adapt-to-new-regional-war/"
+        },
+        {
+          "title": "Conflict in the Strait of Hormuz is Spilling into the Indian Ocean",
+          "author": "Chatham House Research Staff",
+          "publication": "Chatham House (RUSI)",
+          "pub_date": "March 2026",
+          "summary": "Examines the effective naval blockade of the Strait of Hormuz and its spread into the Indian Ocean sea lanes, with analysis of alternative shipping routes and the compounding risks to global energy and food supply chains. Directly relevant to Kuwait's import dependency.",
+          "link": "https://www.chathamhouse.org/2026/03/conflict-strait-hormuz-spilling-indian-ocean"
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "number": 7,
+      "title": "Cyber & Threat Intelligence",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "text": "The \"Electronic Operations Room,\" an Iranian state-aligned cyber coordination body formed 28 February 2026, has coordinated DDoS attacks, credential-harvesting campaigns, and wiper malware deployments against Gulf and US financial institutions. Iran's military command publicly named US- and Israeli-linked banks as military targets. Attack vectors include DDoS, credential-driven intrusions, and destructive wiper malware. Affected sector: Financial services, Gulf and US banks. Threat actor: Iranian state-aligned APTs and hacktivists.",
+          "sources": [
+            "SISA InfoSec Threat Advisory",
+            "Unit 42 / Palo Alto Networks Threat Brief",
+            "March 2026 |  |"
+          ],
+          "bold_heading": "Iranian APT / hacktivist coalition — financial sector targeting"
+        },
+        {
+          "text": "Iranian drone strikes hit three AWS facilities in UAE and Bahrain on 1 March, disrupting cloud services across the Gulf. Financial institutions with Gulf-hosted SaaS, cloud banking platforms, or API integrations to Gulf cloud nodes should audit dependencies and confirm failover has been validated. Affected sector: Financial sector cloud infrastructure, GCC-wide.",
+          "sources": [
+            "CloudSEK Situation Report",
+            "1 March 2026 |"
+          ],
+          "bold_heading": "AWS Gulf infrastructure disruption — cloud dependency risk"
+        },
+        {
+          "text": "CISA's public-facing advisory infrastructure has been impaired due to a federal funding lapse (last update noted 17 February 2026 per CNBC report). Gulf institutions should not rely solely on CISA feeds during this period; supplement with Recorded Future, Unit 42, and regional CERT feeds (UAE Cybersecurity Council, Saudi NCSC). (Source: CNBC, 3 March 2026 | https://www.cnbc.com/2026/03/03/iran-cisa-cybersecurity-war-threat.html) Sources: Al Jazeera | KUNA | Kuwait Times | Times Kuwait | The National | CNBC | War on the Rocks | Chatham House | SISA InfoSec | Unit 42 / Palo Alto | U.S. Embassy Kuwait | OSAC | Alwast News | GCCA | Windward.ai | CloudSEK | American Banker End of Report — Horizon Scanning Report | 14 March 2026",
+          "sources": [],
+          "bold_heading": "CISA operational capacity caveat"
+        }
+      ]
+    }
+  ],
+  "footer": "Report compiled 2026-03-14.",
+  "subtitle": "Day 14 of Operation Epic Fury"
+}

@@ -1,0 +1,321 @@
+{
+  "date": "2026-03-15",
+  "headline": "15 March 2026",
+  "coverage": "14 March 2026 07:00 UTC+3 – 15 March 2026 07:00 UTC+3",
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "text": "— U.S. Embassy Kuwait issued a Security Alert (March 14, 2026) advising all U.S. citizens and mission personnel in Kuwait to remain sheltered in place, take cover in the lowest available floor of their residence, and stay away from windows. The advisory states there is a \"continuing threat of missile and UAV attacks over Kuwait.\"",
+          "sources": [
+            "U.S. Embassy Kuwait Security Alert",
+            "March 14",
+            "2026 — kw.usembassy.gov"
+          ],
+          "bold_heading": "Active Shelter-in-Place Advisory"
+        },
+        {
+          "text": "— Air-raid sirens have sounded multiple times across Kuwait as Iranian drone and missile salvos continue. The Kuwaiti Ministry of Defense confirmed that \"any sounds of explosions heard are the result of air defense systems intercepting hostile attacks.\" No specific new siren event confirmed by Kuwaiti authorities in the past 24 hours separate from the March 14 drone incident; overall threat level remains high.",
+          "sources": [
+            "Kuwait Ministry of Defense via Times Kuwait",
+            "OSAC, March 9–14, 2026"
+          ],
+          "bold_heading": "Air Defense Activity / Siren Events"
+        },
+        {
+          "text": "— MOD conducts daily security briefings; as of March 14, described the situation as one of continued vigilance with air defense systems on high alert.",
+          "sources": [
+            "Kuwait Ministry of Defense via Times Kuwait"
+          ],
+          "bold_heading": "Kuwait Ministry of Defense Daily Brief"
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "text": "— Location: Ahmed Al-Jaber Air Base, southern Kuwait (near Camp Arifjan) | Time: March 14, 2026 (local) | Incident: Two hostile drones out of seven detected successfully struck the base, causing material damage in surrounding areas; three Kuwaiti soldiers sustained minor injuries (all reported in stable condition). Three drones were intercepted and destroyed; two fell outside the threat zone. | Status: CONFIRMED |",
+          "sources": [
+            "Kuwait Ministry of Defense",
+            "Times of Israel",
+            "Middle East Eye",
+            "SANA",
+            "Al Jazeera, March 14, 2026"
+          ],
+          "bold_heading": "Ahmed Al-Jaber Air Base, Kuwait"
+        },
+        {
+          "text": "— Location: Kuwait International Airport, Kuwait City | Prior 48h context: A fire at airport fuel storage tanks, attributed to drone/missile activity, was brought under control by the Kuwait Fire Force. Airport Radar has been damaged in the attack. Airport remains closed; no departure flights. | Status: CONFIRMED (prior incident, ongoing closure) |",
+          "sources": [
+            "Kuwait Ministry of Interior via Arab Times",
+            "March 8–12",
+            "2026"
+          ],
+          "bold_heading": "Kuwait International Airport Fuel Tanks"
+        },
+        {
+          "text": "— Location: Nationwide overhead transmission lines | Time: March 12, 2026 | Incident: Six major overhead power lines knocked out by falling debris from drone interception; partial and limited outages in residential/commercial areas. 11 of 15 affected lines now restored. | Status: CONFIRMED |",
+          "sources": [
+            "Kuwait Ministry of Electricity",
+            "Water and Renewable Energy (MEW)",
+            "March 12–14",
+            "2026"
+          ],
+          "bold_heading": "Kuwait Electrical Infrastructure"
+        },
+        {
+          "text": "— Location: Fujairah emirate, UAE | Time: March 14–15, 2026 | Incident: Fire at a major bunkering hub after drone debris fell during an interception; a Jordanian national lightly injured; some oil-loading operations suspended. Civil defence responding. | Status: CONFIRMED |",
+          "sources": [
+            "Al Jazeera",
+            "March 14–15",
+            "2026"
+          ],
+          "bold_heading": "UAE — Fujairah Bunkering Hub"
+        },
+        {
+          "text": "— Location: Al-Kharj governorate, Saudi Arabia | Time: March 15, 2026 | Incident: Six ballistic missiles launched toward the area were intercepted and destroyed by Saudi air defenses. No reported casualties or infrastructure damage confirmed. | Status: CONFIRMED |",
+          "sources": [
+            "Saudi Ministry of Defence via Al Jazeera",
+            "March 15",
+            "2026"
+          ],
+          "bold_heading": "Saudi Arabia — Al-Kharj Governorate"
+        },
+        {
+          "text": "— Iran has continued sustained missile and drone strikes across the Gulf for the past 16 days, targeting Kuwait, UAE, Saudi Arabia, Qatar, Bahrain, and Oman. Multiple strikes on March 14–15 were reported. No confirmed ceasefire or halt in operations. | Status: CONFIRMED (ongoing) |",
+          "sources": [
+            "Al Jazeera",
+            "Reuters, March 14–15, 2026"
+          ],
+          "bold_heading": "GCC-Wide — Ongoing Iranian Salvo Campaign"
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "text": "Kuwaiti MOD and MOI conducting daily security briefings; U.S. Embassy shelter-in-place advisory remains active; non-emergency U.S. government personnel ordered out since March 3; State of high alert at all vital facilities; visa extensions (one month) and three-month absence permits issued automatically for residents outside Kuwait since February 28.",
+          "sources": [
+            "U.S. Embassy Kuwait",
+            "Kuwait MOI",
+            "Kuwait MOD"
+          ],
+          "bold_heading": "Government Advisories"
+        },
+        {
+          "text": "Intermittent partial outages reported in residential and commercial areas following drone debris damage to transmission lines; MEW reports 11 of 15 affected overhead lines restored as of March 14; the ministry states services are \"operating efficiently and stably\" with emergency plans active since February 28.",
+          "sources": [
+            "MEW Kuwait",
+            "Arab Times, March 12–14, 2026"
+          ],
+          "bold_heading": "Electricity"
+        },
+        {
+          "text": "Main freshwater pipeline break in Maidan Hawally area reported March 13; temporary reduction in supply in Hawally and Salmiya districts; repair teams deployed. Ministry states no long-term disruption expected.",
+          "sources": [
+            "MEW Kuwait via Alwast News",
+            "Arab Times, March 13, 2026"
+          ],
+          "bold_heading": "Water"
+        },
+        {
+          "text": "Airport fuel tank fire brought under control; fire at the Public Institution for Social Security (PIFSS) HQ also extinguished with no injuries. No reports of widespread grocery shortages or panic buying confirmed in monitored sources, though supply chain stress is elevated given port/airport disruptions.",
+          "sources": [
+            "Kuwait Fire Force via Arab Times",
+            "Arab Times, March 8–14, 2026"
+          ],
+          "bold_heading": "Fuel / Supply Chain"
+        },
+        {
+          "text": "Kuwait International Airport — CLOSED to all commercial civilian flights since February 28, 2026; no confirmed reopening date. No information available on seaport (Shuwaikh/Shuaiba) operational status from monitored sources in the past 24 hours.",
+          "sources": [
+            "Wego Travel",
+            "Travel and Tour World",
+            "U.S. Embassy Kuwait"
+          ],
+          "bold_heading": "Airport / Port Status"
+        },
+        {
+          "text": "Saudi Arabia border — OPEN 24/7 via Nuwaisib and Salmi crossings (valid Saudi visa required); travel time approx. 4.5 hours to Dammam, 8 hours to Riyadh with onward flight connections. Iraq border at Safwan Gate — CLOSED.",
+          "sources": [
+            "Arab Times Online",
+            "Wego Travel Blog",
+            "Government.nl"
+          ],
+          "bold_heading": "Border Crossings"
+        },
+        {
+          "text": "No specific school closure or public event cancellation notices found in monitored sources for March 15, 2026. Ongoing security situation makes public gatherings inadvisable.",
+          "sources": [],
+          "bold_heading": "Schools / Public Events"
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "Iran's campaign of horizontal escalation — using sustained drone and missile strikes against all six GCC states — continues unabated on Day 16 of Operation Epic Fury, with no ceasefire talks reported and the U.S.–Israel campaign against Iran still active.",
+          "sources": [
+            "Al Jazeera",
+            "Reuters, March 14–15, 2026"
+          ]
+        },
+        {
+          "text": "The Strait of Hormuz remains near-closed to commercial tanker traffic, with an estimated 83% reduction in shipping volume versus pre-conflict norms; Qatar's Energy Minister warned on March 6 that Gulf producers may be forced to declare force majeure on energy exports if hostilities continue.",
+          "sources": [
+            "Atlantic Council",
+            "Al Jazeera",
+            "Reuters, March 3–14, 2026"
+          ]
+        },
+        {
+          "text": "GCC states are maintaining a posture of military non-belligerence despite being targeted, prioritising protection of domestic economic investments and long-term diversification plans (e.g. Saudi Vision 2030); Saudi Arabia and the UAE have stated they \"reserve the right to respond\" but have not done so.",
+          "sources": [
+            "Al Jazeera",
+            "Carnegie Middle East",
+            "CNN, March 12–15, 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "text": "Ongoing drone and missile threat to Kuwait; shelter-in-place the default posture; air egress impossible (airport closed); only overland evacuation route is Saudi Arabia via Nuwaisib/Salmi. Staff welfare checks and emergency communication protocols should be active.",
+          "sources": [
+            "U.S. Embassy Kuwait",
+            "Arab Times, March 14, 2026"
+          ],
+          "bold_heading": "Staff Safety / Business Continuity"
+        },
+        {
+          "text": "Intermittent power disruptions (partial, but recovering); water supply affected in Hawally/Salmiya; data centres and server rooms on generator/UPS backup should be monitored; verify fuel reserves for backup power.",
+          "sources": [
+            "MEW Kuwait",
+            "Arab Times, March 12–14, 2026"
+          ],
+          "bold_heading": "Physical Infrastructure / Operational Continuity"
+        },
+        {
+          "text": "Iranian-aligned APT groups (notably MuddyWater/Seedworm and Handala Hack) are actively targeting Gulf financial institutions with DDoS, credential attacks, and destructive wiper malware. Handala Hack has claimed attacks on Riyadh Bank and Bank of Jordan. MuddyWater pre-positioned backdoors confirmed in at least one U.S. bank prior to the conflict. GCC banks and telecom providers face heightened risk.",
+          "sources": [
+            "Palo Alto Unit 42",
+            "CrowdStrike",
+            "security.com",
+            "American Banker, March 2–14, 2026"
+          ],
+          "bold_heading": "Cyber Threat — Elevated for Financial Sector"
+        },
+        {
+          "text": "Elevated risk to payments ecosystem, cross-border settlement, and SWIFT connectivity; Iranian state-aligned actors have named U.S.- and Israeli-linked banks as military targets; wiper malware specifically targeting backup systems has been observed in conflict-adjacent operations. All patch levels and SWIFT messaging security should be verified.",
+          "sources": [
+            "SISA InfoSec threat advisory",
+            "Unit 42",
+            "American Banker, March 2026"
+          ],
+          "bold_heading": "Payment Systems / SWIFT Risk"
+        },
+        {
+          "text": "Monitor for emergency directives from the Central Bank of Kuwait (CBK) on capital controls, FX restrictions, or liquidity provisions. Strait of Hormuz near-closure elevates force majeure risk in oil trade finance and commodity-linked exposures; counterparty risk in energy sector transactions warrants review.",
+          "sources": [
+            "Reuters",
+            "Atlantic Council",
+            "Al Jazeera, March 3–15, 2026"
+          ],
+          "bold_heading": "Regulatory / Compliance Watch"
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Why Escalation Favors Iran",
+          "author": "Robert A. Pape (Professor, University of Chicago; Director, Project on Security and Threats)",
+          "publication": "Foreign Affairs",
+          "pub_date": "March 9, 2026",
+          "summary": "Pape argues that Iran's strategy of horizontal escalation — widening the conflict's geographic scope and duration through sustained GCC strikes — mirrors historical tactics used against the U.S. in Vietnam and Serbia, where weaker adversaries successfully altered American calculations. The piece warns that absent a negotiated off-ramp, Operation Epic Fury may face strategic blowback that leaves Iran in a stronger regional position than before the strikes.",
+          "link": "https://www.foreignaffairs.com/iran/why-escalation-favors-iran"
+        },
+        {
+          "title": "An Attack on the World Economy: The Strait of Hormuz Crisis, Energy Markets, and the Geopolitical Reckoning of 2026",
+          "author": "[Staff Analysis]",
+          "publication": "Foreign Affairs Forum (faf.ae)",
+          "pub_date": "March 13, 2026",
+          "summary": "The analysis documents an 83% reduction in tanker traffic through the Strait of Hormuz within two weeks of the conflict's onset, representing the removal of approximately one-fifth of global daily oil supply. It argues this constitutes not merely a regional energy shock but a structural geopolitical rupture that is accelerating de-dollarisation pressures, supply chain realignments, and a fundamental reassessment of Gulf state risk premiums by global investors.",
+          "link": "https://www.faf.ae/home/2026/3/13/x1"
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "number": 7,
+      "title": "Cyber & Threat Intelligence",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "text": "Coordinated Iranian APT campaign targeting Gulf and global financial institutions — DDoS, credential theft, wiper malware deployment Affected Sector/Geography: Financial services, banking, telecom — GCC-wide and U.S./Israel-linked institutions Threat Actor: Handala Hack (attributed to Iran MOIS); MuddyWater/Seedworm (MOIS-linked APT); \"Electronic Operations Room\" (Iran state-aligned collective, formed Feb 28, 2026, 60+ hacker groups) Source: Palo Alto Networks Unit 42 Threat Brief; CrowdStrike; security.com; Sophos Cyber Advisory Date: March 2–14, 2026 URL: https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/",
+          "sources": [],
+          "bold_heading": "Threat"
+        },
+        {
+          "text": "Iranian state actors named U.S.- and Israeli-linked financial institutions as explicit military targets; Iran's military command issued a public declaration of intent Affected Sector/Geography: U.S. and Israeli-affiliated banking institutions globally; GCC correspondent banks Threat Actor: Iranian Islamic Revolutionary Guard Corps (IRGC) cyber units Source: American Banker Date: March 2026 URL: https://www.americanbanker.com/news/iran-names-u-s-banks-as-targets-ratcheting-up-cyber-threat",
+          "sources": [],
+          "bold_heading": "Threat"
+        },
+        {
+          "text": "Elevated risk advisory to global payments ecosystem — SWIFT messaging, cross-border settlement, and payment processing infrastructure Affected Sector/Geography: Global payments / financial infrastructure; elevated risk for GCC-based and internationally connected banks Threat Actor: Iranian state-aligned groups (multiple) Source: SISA InfoSec Threat Advisory Date: March 2026 URL: https://www.sisainfosec.com/blogs/threat-advisory-elevated-cyber-risk-to-the-payments-ecosystem-amid-israel-us-iran-conflict-escalation/",
+          "sources": [],
+          "bold_heading": "Threat"
+        },
+        {
+          "text": "MuddyWater/Seedworm confirmed to have pre-positioned backdoors in networks of at least one U.S. bank, an airport, and a defense-adjacent software company before the outbreak of hostilities Affected Sector/Geography: Financial services, aviation, defence — U.S. and potentially GCC-linked entities Threat Actor: Seedworm / MuddyWater (Iranian state-sponsored, MOIS-linked) Source: Symantec / security.com Date: March 6, 2026 URL: https://www.security.com/threat-intelligence/iran-cyber-threat-activity-us",
+          "sources": [],
+          "bold_heading": "Threat"
+        },
+        {
+          "text": "Global banks tightening security at Gulf hubs; confirmed attacks on Riyadh Bank (Saudi Arabia) and Bank of Jordan; UAE financial and telecom sectors at elevated threat Affected Sector/Geography: Gulf-based banking and financial institutions; regional correspondent network Threat Actor: Handala Hack (MOIS-linked Iranian persona) Source: Euronews Business; CloudSEK Situation Report Date: March 12, 2026 URL: https://www.euronews.com/business/2026/03/12/global-banks-tighten-security-in-gulf-hubs-after-new-iran-threat",
+          "sources": [],
+          "bold_heading": "Threat"
+        },
+        {
+          "text": "CISA maintains an active Iran Threat Overview and Advisories page. No new specific CISA advisory for Kuwait or GCC financial infrastructure was confirmed published in the past 24 hours; the overall Iran threat advisory page is continuously updated. CISA is noted as \"stretched thin\" as the Iran hacking threat escalates. Source: CISA Iran Threat Overview; CNBC, March 3, 2026 URL: https://www.cisa.gov/topics/cyber-threats-and-advisories/advanced-persistent-threats/iran",
+          "sources": [],
+          "bold_heading": "CISA Status"
+        }
+      ]
+    }
+  ],
+  "footer": "Report compiled 2026-03-15.",
+  "subtitle": "Day 16 of Operation Epic Fury"
+}

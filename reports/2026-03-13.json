@@ -1,0 +1,332 @@
+{
+  "date": "2026-03-13",
+  "headline": "13 March 2026",
+  "coverage": "12 March 2026 07:00 UTC+3 – 13 March 2026 07:00 UTC+3",
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "text": "— Kuwait Civil Defense and Ministry of Defense have maintained elevated air-alert status through the overnight period into 13 March 2026. The public has been instructed to stay in designated shelter areas when sirens sound.",
+          "sources": [
+            "KUNA",
+            "Kuwait MOD"
+          ],
+          "bold_heading": "Active missile/drone threat continues"
+        },
+        {
+          "text": "— A loud explosion was reported in the sky over Kuwait on 13 March 2026, consistent with an aerial interception; no ground impact reported at time of cut-off.",
+          "sources": [
+            "LiveUAMap / corroborated Tier 1"
+          ],
+          "bold_heading": "Explosion heard in Kuwait airspace"
+        },
+        {
+          "text": "Kuwait's air defenses have intercepted 234+ missiles and 422+ drones over the 14-day period; 5 ballistic missiles and 7 drones were intercepted in the 24-hour period ending 12 March 2026.",
+          "sources": [
+            "Kuwait Ministry of Foreign Affairs via KUNA"
+          ],
+          "bold_heading": "Cumulative intercepts since 28 Feb"
+        },
+        {
+          "text": "— Two Ministry of Interior border security officers were martyred in drone/missile incidents, bringing total Kuwaiti security/military fatalities to four.",
+          "sources": [
+            "KUNA"
+          ],
+          "bold_heading": "Two KMI security personnel killed"
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "text": "— ~0300 AST, 12 March 2026: Multiple drones targeted KIA, causing material damage to airport structures. No casualties reported. Airport remains closed to commercial traffic.",
+          "sources": [
+            "KUNA",
+            "Al Arabiya",
+            "Public Authority for Civil Aviation"
+          ],
+          "bold_heading": "Kuwait International Airport (KIA)"
+        },
+        {
+          "text": "— ~0400 AST, 12 March: A drone that evaded interception struck a residential building; two civilians injured.",
+          "sources": [
+            "Kuwait Times"
+          ],
+          "bold_heading": "Kuwait residential building — southern district"
+        },
+        {
+          "text": "— ~09 March: Drone debris ignited a fire in a fuel tank at Al Subiya power plant. Fire was subsequently controlled; plant operational.",
+          "sources": [
+            "Arab Times"
+          ],
+          "bold_heading": "Al Subiya Power Plant"
+        },
+        {
+          "text": "— ~12 March: Six major overhead power transmission lines were knocked out of service by intercepted drone debris, causing partial outages across residential and commercial areas. Power restored within hours by Ministry of Electricity, Water & Renewable Energy (MEW).",
+          "sources": [
+            "MEW Kuwait",
+            "Arab Times"
+          ],
+          "bold_heading": "Kuwait power grid"
+        },
+        {
+          "text": "— Ongoing: Iran's IRGC has confirmed attacks on multiple merchant vessels. Tanker traffic has dropped to near zero; 150+ vessels anchored outside the strait. Iran has threatened to block all oil transit.",
+          "sources": [
+            "Al Jazeera",
+            "CNBC",
+            "Military.com"
+          ],
+          "bold_heading": "Strait of Hormuz"
+        },
+        {
+          "text": "— Ongoing: UAE MOD confirmed interception of 165 ballistic missiles, 2 cruise missiles, and 541 Iranian drones since conflict start; 35 drones caused material damage on UAE soil.",
+          "sources": [
+            "UAE MOD statement",
+            "Breaking Defense"
+          ],
+          "bold_heading": "UAE"
+        },
+        {
+          "text": "— Qatar has suspended liquefied natural gas exports (approx. 20% of global LNG market) following Iranian drone targeting of key facilities.",
+          "sources": [
+            "Al Jazeera"
+          ],
+          "bold_heading": "Qatar LNG export halt"
+        },
+        {
+          "text": "— Saudi Arabia's largest oil refinery was put out of commission. A fire near luxury hotels in Riyadh/Dubai area also reported.",
+          "sources": [
+            "Breaking Defense"
+          ],
+          "bold_heading": "Saudi Arabia"
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "text": "Kuwait Cabinet convened to review security developments and praised HH the Amir Sheikh Meshal Al-Ahmad Al-Jaber Al-Sabah's address on national unity. Kuwait has formally invoked Article 51 of the UN Charter (right to self-defence) and filed a protest against Iran at the UN Security Council for targeting the U.S. Embassy.",
+          "sources": [
+            "Kuwait Times",
+            "KUNA"
+          ]
+        },
+        {
+          "text": "National Guard Spokesman Brig Dr. Jadaan Fadel Jadaan confirmed the National Guard, army, police, and Kuwait Fire Force remain at highest readiness.",
+          "sources": [
+            "KUNA"
+          ]
+        },
+        {
+          "text": "Ministry of Defense has ordered \"highest levels of vigilance and preparedness.\"",
+          "sources": [
+            "Kuwait Times"
+          ]
+        },
+        {
+          "text": "Ministry of Information has directed all media to rely only on official sources (KUNA, MOI, MOD) and refrain from spreading unverified information or social media content.",
+          "sources": [
+            "Kuwait Times"
+          ]
+        },
+        {
+          "text": "Ministry of Awqaf limited Taraweeh prayers to 20 minutes; Qiyam prayers to 30 minutes from midnight during the final 10 days of Ramadan — Eid planning affected by the ongoing security situation.",
+          "sources": [
+            "KUNA"
+          ]
+        },
+        {
+          "text": "— KIA has been closed to all commercial traffic since 28 February 2026. EASA CZIB 2026-03 bulletin (Do Not Operate) currently valid through 18 March 2026.",
+          "sources": [
+            "ops.group",
+            "Wego Travel Blog",
+            "EASA"
+          ],
+          "bold_heading": "Kuwait International Airport: CLOSED"
+        },
+        {
+          "text": "The Directorate General of Civil Aviation (DGCA) has stated airport will reopen only after: (i) full structural/safety assessment of terminal, (ii) regional airspace clearance, and (iii) security conditions permit civilian operations.",
+          "sources": [
+            "DGCA statement via KUNA"
+          ]
+        },
+        {
+          "text": "U.S. Embassy Kuwait advises citizens to depart via overland route to Saudi Arabia where commercial flights are operating, or to shelter in place. No further embassy-organised charter flights planned.",
+          "sources": [
+            "U.S. Embassy Kuwait",
+            "12 March 2026"
+          ]
+        },
+        {
+          "text": "NOTAM covers all altitudes over Kuwaiti airspace; only emergency, diplomatic, and military movements permitted.",
+          "sources": [
+            "ops.group NOTAM tracker"
+          ]
+        },
+        {
+          "text": "MEW confirmed power fully restored to affected areas following drone-debris outages on 12 March. Generation plants, including Al Subiya (fire from drone debris on 9 March), remain operational and under 24/7 monitoring.",
+          "sources": [
+            "MEW Kuwait",
+            "Alwast News"
+          ],
+          "bold_heading": "Electricity"
+        },
+        {
+          "text": "Desalination plants reported fully operational. MEW confirmed 24/7 monitoring; no water supply disruption declared as of cut-off. Note: Bahrain desalination plants have been struck (10 March); Kuwait desalination infrastructure should be considered an elevated-risk target.",
+          "sources": [
+            "Circle of Blue",
+            "MEW"
+          ],
+          "bold_heading": "Water"
+        },
+        {
+          "text": "Essential fuel supplies to critical infrastructure (hospitals, defence, civil defence) are being maintained under priority protocols. Exact commercial fuel availability at filling stations remains unclear.",
+          "sources": [],
+          "bold_heading": "Fuel"
+        },
+        {
+          "text": "Ministry of Interior has announced automatic extension of all visitor visa categories by one month, plus an additional three-month absence permit for Kuwaiti residents currently outside the country as of 28 February 2026.",
+          "sources": [
+            "MOI Kuwait via KUNA"
+          ]
+        },
+        {
+          "text": "Land border crossings into Saudi Arabia are operational; overland route being recommended as the primary evacuation route for foreign nationals. Verify specific crossing status with MOI before travel.",
+          "sources": [
+            "U.S. Embassy Kuwait"
+          ]
+        },
+        {
+          "text": "Ministry of Interior has imposed a ban on public gatherings including plays, parties, and weddings during Eid al-Fitr.",
+          "sources": [
+            "KUNA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "— The US-Israel military campaign against Iran, which began on 28 February 2026 with strikes that killed Supreme Leader Ali Khamenei, has expanded into a multi-front conflict with Iran directing up to 60% of its missile/drone salvos at GCC states while simultaneously targeting Israel. Iran has called this its 37th wave of attacks.",
+          "sources": [
+            "Al Jazeera",
+            "Euronews"
+          ],
+          "bold_heading": "Conflict entered Day 14"
+        },
+        {
+          "text": "— Iran's IRGC has declared no oil transit will be permitted; tanker traffic near zero, Brent crude prices have surged 10–13%, analysts warn of $100+ per barrel; IEA has released 400 million barrels from emergency reserves. US military has acknowledged it is \"not ready\" to escort vessels through the strait.",
+          "sources": [
+            "Al Jazeera",
+            "CNBC",
+            "Axios",
+            "NPR"
+          ],
+          "bold_heading": "Strait of Hormuz effectively blockaded"
+        },
+        {
+          "text": "— Gulf states have condemned Iran's attacks and invoked self-defence rights, but have stopped short of direct military retaliation. Bahrain is experiencing internal Shia protests. US pressure on GCC to formally enter the conflict has been resisted.",
+          "sources": [
+            "Al Jazeera",
+            "CNN",
+            "CNBC"
+          ],
+          "bold_heading": "GCC solidarity strained but holding"
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "text": "KIA closure is now in its 14th day with no reopening date confirmed. Staff evacuation or emergency rotation for critical roles must rely entirely on overland routes. Physical access to office premises should be continuously assessed against MOI/MOD alerts; consider remote-work activation protocols if overnight strikes intensify.",
+          "sources": [],
+          "bold_heading": "Business Continuity / Staff Safety"
+        },
+        {
+          "text": "Strait of Hormuz near-shutdown is driving the largest oil price shock in decades — Kuwaiti export revenue and government budget projections are under acute stress. Cross-border wire transfers involving correspondent banks in the UAE (Dubai, Abu Dhabi) and Qatar may face processing delays given operational disruptions at regional financial hubs. Monitor Central Bank of Kuwait (CBK) directives for any emergency payment guidance.",
+          "sources": [],
+          "bold_heading": "Payments & Liquidity"
+        },
+        {
+          "text": "Iran has explicitly named Gulf financial institutions as cyber targets. Banking Dive and American Banker report regulators warning banks of elevated DDoS, wiper malware, and credential-theft risk. Hacktivist group Keymous Plus executed verified DDoS attacks across Kuwait, Qatar, Bahrain, and UAE government sites. AWS infrastructure in UAE/Bahrain was also hit on 1 March. Banks should validate SIEM alert thresholds and ensure DDoS mitigation services are active.",
+          "sources": [
+            "American Banker",
+            "Banking Dive",
+            "CloudSEK"
+          ],
+          "bold_heading": "Cyber Risk — ELEVATED (CRITICAL)"
+        },
+        {
+          "text": "Heightened sanctions-environment risk — firms must monitor CBK, FATF, and OFAC guidance closely as the conflict expands the sanctions perimeter. Media/information restrictions in Kuwait require reliance on official channels only; internal communications should be reviewed for compliance with MOI guidance.",
+          "sources": [],
+          "bold_heading": "Regulatory / Compliance"
+        },
+        {
+          "text": "Qatar's LNG halt and Saudi refinery outage have global supply-chain implications; energy sector clients may face financial stress and increased demand for credit facilities. Staff welfare, absenteeism, and morale require active HR monitoring. Ensure business continuity plans (BCPs) reflect current airspace/travel restrictions for key personnel.",
+          "sources": [],
+          "bold_heading": "Reputation / Operational Risk"
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Trump's War on Iran is Unravelling U.S. Strategy in the Gulf",
+          "author": "Staff Analysis",
+          "publication": "Foreign Policy",
+          "pub_date": "5 March 2026",
+          "summary": "The article argues that US military action against Iran has paradoxically weakened Washington's strategic position in the Gulf by forcing its Gulf allies into the direct line of Iranian fire without their consent. It examines how the strikes have exposed the limits of US security guarantees and accelerated Gulf states' search for strategic autonomy.",
+          "link": "https://foreignpolicy.com/2026/03/05/iran-israel-united-states-war-gulf-countries-alliances/"
+        },
+        {
+          "title": "The Gulf Monarchies Are Caught Between Iran's Desperation and the U.S.'s Recklessness",
+          "author": "Carnegie Endowment Staff",
+          "publication": "Carnegie Endowment for International Peace",
+          "pub_date": "March 2026",
+          "summary": "This analysis frames Gulf monarchies as involuntary belligerents, absorbing Iranian missile salvos while resisting US pressure to formally join the coalition against Tehran. It warns that the trust deficit created by Iran's attacks will reshape Gulf-Iran relations for a generation regardless of how the current conflict resolves.",
+          "link": "https://carnegieendowment.org/emissary/2026/03/gulf-states-iran-war-security"
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "number": 7,
+      "title": "Cyber & Threat Intelligence",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": []
+    }
+  ],
+  "footer": "Report compiled 2026-03-13.",
+  "subtitle": "Day 14 of Operation Epic Fury"
+}
