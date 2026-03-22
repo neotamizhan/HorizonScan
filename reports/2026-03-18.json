@@ -1,0 +1,239 @@
+{
+  "date": "2026-03-18",
+  "headline": "18 March 2026",
+  "subtitle": "Day 18 of Operation Epic Fury",
+  "coverage": "17 March 2026 07:00 UTC+3 \u2013 18 March 2026 07:00 UTC+3",
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "text": "Air raid sirens continue to sound intermittently across Kuwait as Iranian drone and missile attacks persist on Day 18 of hostilities.",
+          "sources": ["The Peninsula Qatar", "Al Jazeera"]
+        },
+        {
+          "text": "Qatar issued an \"elevated\" threat level alert on 17 March urging residents to stay in safe places and away from windows and glass facades; similar posture maintained across GCC states including Kuwait.",
+          "sources": ["The Peninsula Qatar"]
+        },
+        {
+          "text": "No new shelter-in-place or civil defence emergency broadcasts beyond the standard siren protocols were reported in Kuwait in the past 24 hours.",
+          "sources": ["Kuwait Ministry of Interior"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "MAJOR: Iran security chief Ali Larijani killed (17 March)",
+          "text": "Israel confirmed it killed Ali Larijani, Secretary of Iran's Supreme National Security Council \u2014 the highest-ranking Iranian official killed since Supreme Leader Khamenei's assassination on Day 1. Also killed: his son Morteza Larijani, his office chief Alireza Bayat, and several guards. Separately, IRGC Basij militia commander Gen. Gholamreza Soleimani and his deputy Seyyed Karishi were also killed in overnight strikes. Iran confirmed all deaths.",
+          "sources": ["Al Jazeera", "CNBC", "Washington Post", "Bloomberg", "PBS"]
+        },
+        {
+          "bold_heading": "Iranian retaliatory strikes (18 March)",
+          "text": "IRGC stated its missiles struck more than 100 military and security targets in Israeli territories as direct retaliation for Larijani's killing. Commander-in-chief of Iran's army, Maj. Gen. Amir Hatami, warned that Iran's response will be \"decisive and regrettable.\" Expect heightened Iranian retaliatory strikes on Gulf-based US assets in the coming 24\u201372 hours.",
+          "sources": ["CNBC", "India TV News", "NBC News"]
+        },
+        {
+          "bold_heading": "Ongoing interceptions",
+          "text": "Kuwait Armed Forces continue to intercept Iranian missiles and drones targeting military installations and critical infrastructure. More than 680 drones and missiles have been fired at Kuwait since 28 February.",
+          "sources": ["The National", "ACLED"]
+        },
+        {
+          "bold_heading": "Medical staff injured",
+          "text": "Kuwait's Health Ministry reported two medical emergency staff were injured after interception debris fell on an ambulance centre.",
+          "sources": ["The Peninsula Qatar"]
+        },
+        {
+          "bold_heading": "Qatar interception",
+          "text": "Armed Forces of Qatar intercepted a missile attack on 17 March, with loud interception sounds heard across Doha.",
+          "sources": ["The Peninsula Qatar"]
+        },
+        {
+          "bold_heading": "Hezbollah cell (update)",
+          "text": "Kuwait detained 16 individuals (14 Kuwaiti, 2 Lebanese) linked to Hezbollah over an alleged sabotage plot. Drones, ammunition, encrypted communication devices, and funds were seized. Qatar and Bahrain have also announced arrests of IRGC-linked espionage cells this month.",
+          "sources": ["The National", "The New Arab"]
+        },
+        {
+          "bold_heading": "No confirmed strikes on Kuwaiti civilian infrastructure",
+          "text": "No confirmed strikes on Kuwaiti civilian infrastructure in the past 24 hours.",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Government advisories",
+          "text": "US Embassy Kuwait security alert remains in effect (updated 9 March); non-emergency US government personnel ordered to depart on 3 March.",
+          "sources": ["US Embassy Kuwait"]
+        },
+        {
+          "bold_heading": "Essential services",
+          "text": "No new disruptions to electricity, water, or fuel supply reported.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Supply chain",
+          "text": "No new reports of panic buying or grocery shortages in the past 24 hours.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Border crossings",
+          "text": "Saudi\u2013Kuwait land border remains the primary evacuation and logistics corridor. Iraq border status unchanged \u2014 restricted.",
+          "sources": ["US Embassy Kuwait"]
+        },
+        {
+          "bold_heading": "Airport/port status",
+          "text": "Kuwait International Airport remains closed to commercial traffic (Day 18). Third drone strike on airport radar confirmed; airport shut until further notice. Kuwait Airways operates limited repatriation flights from Dammam (Saudi Arabia); Jazeera Airways operates from Qaisumah Airport (Saudi Arabia) with bus transfers.",
+          "sources": ["Sunday Guardian Live", "Wego Travel Blog", "EASA/Safe Airspace"]
+        },
+        {
+          "bold_heading": "Schools/public events",
+          "text": "No new closure announcements beyond existing indefinite suspensions.",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "Decapitation campaign deepens",
+          "text": "The killing of Larijani \u2014 widely believed to be running the country after Khamenei's assassination \u2014 removes a figure analysts described as critical to both war management and any future de-escalation. Fitch/BMI assessed a \"messy escalation\" is now more likely, as finding a replacement with Larijani's authority will be difficult.",
+          "sources": ["Bloomberg", "CBS News", "CNBC"]
+        },
+        {
+          "bold_heading": "Strait of Hormuz near-closure",
+          "text": "Iran continues to block most shipping; tanker traffic has plunged ~70% with 150+ vessels anchored outside. US Treasury Secretary Bessent confirmed the US is allowing Iranian oil tankers through, but commercial shipping remains paralysed. Global oil supplies expected to drop by 8 million barrels/day in March \u2014 the largest supply disruption in history.",
+          "sources": ["CNBC", "Washington Post", "ABC News", "Al Jazeera"]
+        },
+        {
+          "bold_heading": "Gulf states under pressure",
+          "text": "Gulf monarchies are resisting US pressure to join offensive operations against Iran despite hosting US military assets; Trump scolded NATO allies on 17 March over lack of support. A US counterterrorism official resigned in protest of the war.",
+          "sources": ["Foreign Policy", "CNN", "NBC News"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "ESCALATION WARNING \u2014 Larijani killing",
+          "text": "The assassination of Iran's security chief significantly raises the risk of intensified retaliatory strikes on Gulf-based US assets in the near term (24\u201372 hours). Financial institutions should review BCP activation status, ensure crisis communication channels are tested, and confirm staff accountability procedures. Fitch/BMI assessed a \"messy escalation\" is now the base-case scenario.",
+          "sources": ["CNBC", "Bloomberg", "CBS News"]
+        },
+        {
+          "bold_heading": "Branch operations",
+          "text": "Several major Kuwaiti banks (including NBK) remain closed at main headquarters since 8 March. Digital banking channels and WAMD (instant payments) continue to operate 24/7.",
+          "sources": ["Times Kuwait", "Zawya", "CBK"]
+        },
+        {
+          "bold_heading": "SWIFT/payments continuity",
+          "text": "No disruption to SWIFT or international payment systems reported. However, SISA has issued a threat advisory on elevated cyber risk to the payments ecosystem specifically, warning that BFSI organisations with US-linked assets or Israeli business ties are high-probability spillover targets.",
+          "sources": ["SISA InfoSec", "Kuwait Banking Association"]
+        },
+        {
+          "bold_heading": "Staff safety",
+          "text": "Citi, Standard Chartered, Goldman Sachs, and HSBC continue work-from-home / branch-closure protocols across Gulf offices. Local staff movement remains constrained by siren protocols and airspace closure.",
+          "sources": ["Banking Dive", "Cybersecurity Dive"]
+        },
+        {
+          "bold_heading": "Regulatory watch",
+          "text": "US bank regulators have issued warnings of increased cyber risk to financial institutions. CISA is operating with reduced capacity due to furloughs, potentially impacting advisory support.",
+          "sources": ["Banking Dive", "CNBC"]
+        },
+        {
+          "bold_heading": "Oil price / market volatility",
+          "text": "Strait of Hormuz near-closure driving the largest oil supply disruption in history; institutions with commodity exposure, trade finance, or Gulf-linked credit portfolios face sustained elevated risk. Oil prices have surged ~40% since the start of hostilities.",
+          "sources": ["CNBC", "UNCTAD", "Al Jazeera"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Iran War Escalation: This Time, Tehran's Strategy Won't Work",
+          "author": "Foreign Policy staff",
+          "publication": "Foreign Policy",
+          "pub_date": "16 March 2026",
+          "summary": "Argues that Iran's current strategy of targeting Gulf states to deter further strikes is failing because the Gulf monarchies, while reluctant, are being pushed toward US alignment by the scale of Iranian attacks. Examines how the Strait of Hormuz blockade is eroding Iran's remaining diplomatic leverage.",
+          "link": "https://foreignpolicy.com/2026/03/16/iran-war-trump-escalation-hormuz-gulf-states-uae-saudi-qatar-drones-missiles-israel/"
+        },
+        {
+          "title": "BRICS Meets Reality in the Middle East War",
+          "author": "Foreign Policy staff",
+          "publication": "Foreign Policy",
+          "pub_date": "16 March 2026",
+          "summary": "Examines how the Iran war has exposed the structural limitations of BRICS as a geopolitical counterweight, with member states India and the UAE caught between alliance obligations and economic interests. Notes BRICS has issued no joint statement two weeks into the conflict.",
+          "link": "https://foreignpolicy.com/2026/03/16/iran-war-trump-brics-china-russia-india-gulf/"
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "number": 7,
+      "title": "Cyber & Threat Intelligence",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "CISA CVIE advisory (current)",
+          "text": "CISA's Cyber Vulnerability Insights Estimate covers 136 CVEs targeted by Iranian state-sponsored actors. Over 3,100 US critical infrastructure entities have exposure. Financial institutions should cross-reference against vulnerability management programmes.",
+          "sources": ["CISA / Qualys blog", "17 March 2026"]
+        },
+        {
+          "bold_heading": "Payments ecosystem advisory",
+          "text": "SISA issued a specific threat advisory on elevated cyber risk to the payments ecosystem, identifying BFSI/payment organisations with US-linked assets or high-visibility financial services as high-probability spillover targets.",
+          "sources": ["SISA InfoSec"]
+        },
+        {
+          "bold_heading": "Iranian APT activity",
+          "text": "Palo Alto Unit 42 threat brief confirms escalated Iranian cyber operations. CrowdStrike reports a surge in Iran-aligned hacktivist activity including DDoS, defacements, and interference across Gulf, US, and Asian targets \u2014 but no large-scale state-sponsored campaigns confirmed yet. Analysts warn to watch for escalation beyond nuisance-level disruption.",
+          "sources": ["Unit 42", "CrowdStrike", "Nextgov/FCW"]
+        },
+        {
+          "bold_heading": "Hydro Kitten (IRGC-linked)",
+          "text": "Continues to signal intent to target financial sector in the Gulf region and among US/Israel-linked institutions. Post-Larijani killing, expect possible retaliatory cyber escalation from IRGC-affiliated groups in parallel with kinetic retaliation.",
+          "sources": ["Cybersecurity Dive", "Insurance Journal"]
+        },
+        {
+          "bold_heading": "ICS/OT targeting assessment",
+          "text": "CloudSEK published a threat actor landscape assessment of ICS/OT targeting in the 2026 Iran\u2013US conflict, flagging Gulf energy and critical infrastructure as primary targets.",
+          "sources": ["CloudSEK"]
+        },
+        {
+          "bold_heading": "CISA operational capacity reduced",
+          "text": "CISA operating with furloughed staff on standby, potentially impacting advisory and incident response support to private sector.",
+          "sources": ["CNBC"]
+        }
+      ]
+    }
+  ]
+}

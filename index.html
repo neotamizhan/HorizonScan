@@ -1,0 +1,848 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HorizonScan — Daily Intelligence Briefing</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #f8fafc;
+  --surface: #ffffff;
+  --surface-2: #f1f5f9;
+  --border: #e2e8f0;
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --text-muted: #94a3b8;
+  --sidebar-bg: #0f172a;
+  --sidebar-hover: #1e293b;
+  --sidebar-border: rgba(255,255,255,0.06);
+  --sidebar-text: #94a3b8;
+  --sidebar-active-text: #f8fafc;
+  --accent: #2563eb;
+  --sidebar-w: 260px;
+  --header-h: 56px;
+}
+
+html { font-size: 15px; scroll-behavior: smooth; }
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text-primary);
+  line-height: 1.6;
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* ── SIDEBAR ── */
+
+#sidebar {
+  width: var(--sidebar-w);
+  background: var(--sidebar-bg);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  border-right: 1px solid var(--sidebar-border);
+}
+
+.sb-head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 20px 20px 18px;
+  border-bottom: 1px solid var(--sidebar-border);
+}
+
+.sb-logo {
+  width: 36px;
+  height: 36px;
+  background: var(--accent);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-weight: 700;
+  font-size: 14px;
+  flex-shrink: 0;
+  letter-spacing: -0.5px;
+}
+
+.sb-name { color: #f1f5f9; font-weight: 600; font-size: 15px; line-height: 1.2; }
+.sb-sub  { color: #475569; font-size: 11px; margin-top: 2px; letter-spacing: 0.02em; }
+
+.sb-label {
+  color: #334155;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 18px 20px 6px;
+}
+
+#date-list { overflow-y: auto; flex: 1; padding-bottom: 24px; }
+#date-list::-webkit-scrollbar { width: 3px; }
+#date-list::-webkit-scrollbar-track { background: transparent; }
+#date-list::-webkit-scrollbar-thumb { background: #1e293b; border-radius: 2px; }
+
+.month-group { margin-bottom: 4px; }
+
+.month-label {
+  color: #334155;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 10px 20px 4px;
+}
+
+.date-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-left: 3px solid transparent;
+  transition: background 0.12s, border-color 0.12s;
+  outline: none;
+}
+
+.date-item:hover   { background: var(--sidebar-hover); }
+.date-item:focus   { background: var(--sidebar-hover); }
+.date-item.active  { background: #1e293b; border-left-color: var(--accent); }
+
+.date-dot {
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: #334155;
+  flex-shrink: 0;
+  transition: background 0.12s;
+}
+.date-item.active .date-dot { background: var(--accent); }
+
+.date-meta { flex: 1; min-width: 0; }
+
+.date-label {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--sidebar-text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: color 0.12s;
+}
+.date-item.active .date-label { color: var(--sidebar-active-text); }
+
+.date-weekday { font-size: 10px; color: #334155; margin-top: 1px; }
+
+.badge-latest {
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  background: var(--accent);
+  color: #fff;
+  padding: 2px 6px;
+  border-radius: 3px;
+  flex-shrink: 0;
+}
+
+/* ── MOBILE HEADER ── */
+
+#mob-header {
+  display: none;
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: var(--header-h);
+  background: var(--sidebar-bg);
+  align-items: center;
+  padding: 0 16px;
+  gap: 12px;
+  z-index: 200;
+  border-bottom: 1px solid var(--sidebar-border);
+}
+
+.mob-logo-icon {
+  width: 28px; height: 28px;
+  background: var(--accent);
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-weight: 700;
+  font-size: 11px;
+  flex-shrink: 0;
+}
+
+.mob-logo-text { color: #f1f5f9; font-weight: 600; font-size: 14px; flex: 1; }
+
+#mob-select {
+  appearance: none;
+  background: #1e293b url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%2394a3b8' stroke-width='2.5'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E") no-repeat right 8px center;
+  color: #f1f5f9;
+  border: 1px solid #334155;
+  border-radius: 6px;
+  padding: 6px 28px 6px 10px;
+  font-size: 13px;
+  font-family: inherit;
+  cursor: pointer;
+  max-width: 180px;
+}
+
+/* ── MAIN ── */
+
+#main {
+  flex: 1;
+  overflow-y: auto;
+  height: 100vh;
+  scroll-behavior: smooth;
+}
+
+#main::-webkit-scrollbar { width: 5px; }
+#main::-webkit-scrollbar-track { background: var(--bg); }
+#main::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+/* ── STATES ── */
+
+.state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  gap: 12px;
+  color: var(--text-muted);
+  font-size: 14px;
+}
+
+.spinner {
+  width: 30px; height: 30px;
+  border: 3px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.75s linear infinite;
+}
+
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ── REPORT ── */
+
+#report-wrap {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 44px 36px 72px;
+}
+
+.report-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  background: #fef2f2;
+  color: #b91c1c;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  border-radius: 4px;
+  border: 1px solid #fee2e2;
+  margin-bottom: 18px;
+}
+
+.tag-dot {
+  width: 6px; height: 6px;
+  background: #dc2626;
+  border-radius: 50%;
+  animation: blink 2.2s ease infinite;
+}
+
+@keyframes blink { 0%,100% { opacity: 1; } 55% { opacity: 0.2; } }
+
+.report-date {
+  font-size: 38px;
+  font-weight: 700;
+  color: var(--text-primary);
+  letter-spacing: -0.025em;
+  line-height: 1.1;
+}
+
+.report-subtitle {
+  font-size: 16px;
+  color: var(--accent);
+  font-style: italic;
+  margin-top: 8px;
+  font-weight: 400;
+}
+
+.report-coverage {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-top: 10px;
+}
+
+/* Jump bar */
+
+.jump-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin: 26px 0 0;
+  padding: 14px 16px;
+  background: var(--surface);
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+}
+
+.jump-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  text-decoration: none;
+  transition: opacity 0.15s, transform 0.1s;
+  border: 1px solid;
+  white-space: nowrap;
+}
+
+.jump-pill:hover { opacity: 0.75; transform: translateY(-1px); }
+.jp-dot { width: 5px; height: 5px; border-radius: 50%; background: currentColor; }
+
+.divider { height: 1px; background: var(--border); margin: 28px 0; }
+
+/* Section cards */
+
+.section-card {
+  background: var(--surface);
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  margin-bottom: 14px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+
+.sec-head {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  padding: 16px 22px;
+  border-bottom: 1px solid var(--border);
+  border-left: 4px solid var(--sc, #e2e8f0);
+}
+
+.sec-badge {
+  width: 24px; height: 24px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-weight: 700;
+  color: #fff;
+  background: var(--sc, #94a3b8);
+  flex-shrink: 0;
+}
+
+.sec-icon  { font-size: 17px; line-height: 1; }
+.sec-title { font-size: 15px; font-weight: 600; color: var(--text-primary); }
+.sec-body  { padding: 18px 22px; }
+
+/* Items */
+
+.item {
+  padding: 13px 0;
+  border-bottom: 1px solid var(--border);
+}
+.item:first-child { padding-top: 0; }
+.item:last-child  { border-bottom: none; padding-bottom: 0; }
+
+.item-head {
+  font-size: 13.5px;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 4px;
+  line-height: 1.4;
+}
+
+.item-text {
+  font-size: 13.5px;
+  color: var(--text-secondary);
+  line-height: 1.68;
+}
+
+.source-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 8px;
+}
+
+.src-tag {
+  font-size: 10.5px;
+  color: var(--text-muted);
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  padding: 2px 7px;
+  border-radius: 3px;
+  font-family: 'JetBrains Mono', monospace;
+  white-space: nowrap;
+}
+
+/* Articles – Section 6 */
+
+.articles-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+}
+
+.article-card {
+  background: var(--surface-2);
+  border-radius: 8px;
+  padding: 16px;
+  border: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.art-pub    { font-size: 10.5px; font-weight: 700; color: #7c3aed; text-transform: uppercase; letter-spacing: 0.06em; }
+.art-title  { font-size: 14px; font-weight: 600; color: var(--text-primary); line-height: 1.35; }
+.art-author { font-size: 12px; color: var(--text-muted); }
+.art-summary { font-size: 13px; color: var(--text-secondary); line-height: 1.62; flex: 1; }
+.art-date   { font-size: 11px; color: var(--text-muted); padding-top: 6px; border-top: 1px solid var(--border); margin-top: 4px; }
+
+.art-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 6px;
+  border-top: 1px solid var(--border);
+  margin-top: 4px;
+}
+
+.art-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 11.5px;
+  font-weight: 500;
+  color: var(--accent);
+  text-decoration: none;
+  padding: 3px 8px;
+  border-radius: 4px;
+  border: 1px solid #bfdbfe;
+  background: #eff6ff;
+  transition: background 0.12s, border-color 0.12s;
+  white-space: nowrap;
+}
+
+.art-link:hover { background: #dbeafe; border-color: #93c5fd; }
+
+/* Cyber section */
+
+.cyber-card .sec-body { background: #0d1117; padding: 0; }
+
+.cyber-bar {
+  background: #161b22;
+  padding: 9px 20px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12px;
+  color: #3fb950;
+  border-bottom: 1px solid #21262d;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.cyber-bar::before {
+  content: '●●●';
+  color: #30363d;
+  letter-spacing: 3px;
+  font-size: 9px;
+}
+
+.cyber-items { padding: 14px 20px 16px; }
+
+.cyber-item { padding: 12px 0; border-bottom: 1px solid #21262d; }
+.cyber-item:first-child { padding-top: 0; }
+.cyber-item:last-child  { border-bottom: none; padding-bottom: 0; }
+
+.cyber-head {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12.5px;
+  font-weight: 500;
+  color: #3fb950;
+  margin-bottom: 6px;
+  line-height: 1.4;
+}
+
+.cyber-text { font-size: 13px; color: #8b949e; line-height: 1.65; }
+
+.cyber-src-row { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 8px; }
+
+.cyber-src {
+  font-size: 10.5px;
+  color: #484f58;
+  background: #161b22;
+  border: 1px solid #30363d;
+  padding: 2px 7px;
+  border-radius: 3px;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* Footer */
+
+.report-footer {
+  margin-top: 36px;
+  padding: 18px 20px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-size: 12px;
+  color: var(--text-muted);
+  line-height: 1.65;
+}
+
+/* ── RESPONSIVE ── */
+
+@media (max-width: 768px) {
+  body { flex-direction: column; overflow: auto; height: auto; }
+  #sidebar { display: none; }
+  #mob-header { display: flex; }
+  #main { overflow: visible; height: auto; padding-top: var(--header-h); }
+  #report-wrap { padding: 24px 16px 56px; }
+  .report-date { font-size: 27px; }
+  .articles-grid { grid-template-columns: 1fr; }
+  .jump-bar { gap: 6px; padding: 10px 12px; }
+  .jump-pill { font-size: 11px; padding: 4px 9px; }
+  .sec-head { padding: 13px 16px; }
+  .sec-body { padding: 14px 16px; }
+  .cyber-items { padding: 12px 14px; }
+  .cyber-bar { padding: 9px 14px; font-size: 11px; }
+}
+
+/* ── PRINT ── */
+
+@media print {
+  body { display: block; background: #fff; overflow: auto; height: auto; }
+  #sidebar, #mob-header, .jump-bar { display: none !important; }
+  #main { overflow: visible; height: auto; padding: 0; }
+  #report-wrap { max-width: 100%; padding: 16px; }
+  .section-card { box-shadow: none; break-inside: avoid; margin-bottom: 20px; }
+  .cyber-card .sec-body { background: #f5f5f5 !important; }
+  .cyber-bar { background: #e8e8e8 !important; color: #1a6b3a !important; }
+  .cyber-head { color: #1a6b3a !important; }
+  .cyber-text { color: #333 !important; }
+  .cyber-src { background: #eee !important; color: #555 !important; border-color: #ccc !important; }
+}
+</style>
+</head>
+<body>
+
+<!-- ── SIDEBAR ── -->
+<aside id="sidebar">
+  <div class="sb-head">
+    <div class="sb-logo">HS</div>
+    <div>
+      <div class="sb-name">HorizonScan</div>
+      <div class="sb-sub">Daily Intelligence Briefing</div>
+    </div>
+  </div>
+  <div class="sb-label">Reports</div>
+  <div id="date-list">
+    <div class="state" style="height:60px"><span style="font-size:13px">Loading…</span></div>
+  </div>
+</aside>
+
+<!-- ── MOBILE HEADER ── -->
+<header id="mob-header">
+  <div class="mob-logo-icon">HS</div>
+  <span class="mob-logo-text">HorizonScan</span>
+  <select id="mob-select" onchange="loadReport(this.value)" aria-label="Select report date"></select>
+</header>
+
+<!-- ── MAIN ── -->
+<main id="main">
+  <div id="state-loading" class="state">
+    <div class="spinner"></div>
+    <span>Loading report…</span>
+  </div>
+  <div id="state-error" class="state" style="display:none">
+    <span id="err-msg">Failed to load report.</span>
+  </div>
+  <div id="report-wrap" style="display:none"></div>
+</main>
+
+<script>
+'use strict';
+
+const SECTION_META = {
+  alerts:     { icon: '🚨', color: '#dc2626' },
+  targets:    { icon: '💥', color: '#ea580c' },
+  local:      { icon: '🇰🇼', color: '#16a34a' },
+  regional:   { icon: '🌍', color: '#2563eb' },
+  risk:       { icon: '⚠️',  color: '#d97706' },
+  bigpicture: { icon: '📖', color: '#7c3aed' },
+  cyber:      { icon: '🔐', color: '#059669' },
+};
+
+let activeDate = null;
+
+// ── Helpers ──
+
+function esc(str) {
+  return String(str ?? '')
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function fmtDate(d) {
+  return new Date(d + 'T00:00:00')
+    .toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+}
+
+function fmtMonth(d) {
+  return new Date(d + 'T00:00:00')
+    .toLocaleDateString('en-GB', { month: 'long', year: 'numeric' });
+}
+
+function fmtWeekday(d) {
+  return new Date(d + 'T00:00:00')
+    .toLocaleDateString('en-GB', { weekday: 'long' });
+}
+
+// ── UI state ──
+
+function showLoading() {
+  document.getElementById('state-loading').style.display = 'flex';
+  document.getElementById('state-error').style.display   = 'none';
+  document.getElementById('report-wrap').style.display   = 'none';
+}
+
+function showError(msg) {
+  document.getElementById('state-loading').style.display = 'none';
+  document.getElementById('state-error').style.display   = 'flex';
+  document.getElementById('report-wrap').style.display   = 'none';
+  document.getElementById('err-msg').textContent = msg;
+}
+
+function showReport() {
+  document.getElementById('state-loading').style.display = 'none';
+  document.getElementById('state-error').style.display   = 'none';
+  document.getElementById('report-wrap').style.display   = 'block';
+}
+
+// ── Navigation ──
+
+function buildNav(dates) {
+  // Sidebar — group by month
+  const dl = document.getElementById('date-list');
+  dl.innerHTML = '';
+
+  const groups = {};
+  dates.forEach(d => {
+    const m = fmtMonth(d);
+    (groups[m] = groups[m] || []).push(d);
+  });
+
+  let first = true;
+  for (const [month, ds] of Object.entries(groups)) {
+    const grp = document.createElement('div');
+    grp.className = 'month-group';
+
+    const lbl = document.createElement('div');
+    lbl.className = 'month-label';
+    lbl.textContent = month;
+    grp.appendChild(lbl);
+
+    ds.forEach(d => {
+      const el = document.createElement('div');
+      el.className = 'date-item' + (first ? ' active' : '');
+      el.dataset.date = d;
+      el.setAttribute('role', 'button');
+      el.setAttribute('tabindex', '0');
+      el.onclick   = () => loadReport(d);
+      el.onkeydown = e => e.key === 'Enter' && loadReport(d);
+      el.innerHTML = `
+        <div class="date-dot"></div>
+        <div class="date-meta">
+          <div class="date-label">${esc(fmtDate(d))}</div>
+          <div class="date-weekday">${esc(fmtWeekday(d))}</div>
+        </div>
+        ${first ? '<span class="badge-latest">LATEST</span>' : ''}
+      `;
+      grp.appendChild(el);
+      first = false;
+    });
+
+    dl.appendChild(grp);
+  }
+
+  // Mobile select
+  const sel = document.getElementById('mob-select');
+  sel.innerHTML = '';
+  dates.forEach((d, i) => {
+    const opt = document.createElement('option');
+    opt.value = d;
+    opt.textContent = fmtDate(d) + (i === 0 ? ' ✦' : '');
+    sel.appendChild(opt);
+  });
+}
+
+function setActive(date) {
+  document.querySelectorAll('.date-item').forEach(el =>
+    el.classList.toggle('active', el.dataset.date === date)
+  );
+  const sel = document.getElementById('mob-select');
+  if (sel) sel.value = date;
+}
+
+// ── Render helpers ──
+
+function renderSources(sources, dark) {
+  if (!sources?.length) return '';
+  const rowCls = dark ? 'cyber-src-row' : 'source-row';
+  const tagCls = dark ? 'cyber-src'     : 'src-tag';
+  return `<div class="${rowCls}">${sources.map(s => `<span class="${tagCls}">${esc(s)}</span>`).join('')}</div>`;
+}
+
+function renderItems(items, dark) {
+  return (items || []).map(item => {
+    const ic = dark ? 'cyber-item' : 'item';
+    const hc = dark ? 'cyber-head' : 'item-head';
+    const tc = dark ? 'cyber-text' : 'item-text';
+    return `
+      <div class="${ic}">
+        ${item.bold_heading ? `<div class="${hc}">${esc(item.bold_heading)}</div>` : ''}
+        ${item.text         ? `<div class="${tc}">${esc(item.text)}</div>` : ''}
+        ${renderSources(item.sources, dark)}
+      </div>`;
+  }).join('');
+}
+
+function renderArticles(articles) {
+  return `<div class="articles-grid">${(articles || []).map(a => `
+    <div class="article-card">
+      <div class="art-pub">${esc(a.publication)}</div>
+      <div class="art-title">${esc(a.title)}</div>
+      <div class="art-author">By ${esc(a.author)}</div>
+      <div class="art-summary">${esc(a.summary)}</div>
+      <div class="art-footer">
+        ${a.pub_date ? `<span class="art-date" style="border:none;padding:0;margin:0">${esc(a.pub_date)}</span>` : '<span></span>'}
+        ${a.link ? `<a class="art-link" href="${esc(a.link)}" target="_blank" rel="noopener noreferrer">Read article ↗</a>` : ''}
+      </div>
+    </div>`).join('')}</div>`;
+}
+
+function renderSection(sec) {
+  const meta    = SECTION_META[sec.id] || { icon: '📋', color: '#94a3b8' };
+  const isCyber = sec.id === 'cyber';
+
+  let body = '';
+  if (sec.id === 'bigpicture' && sec.articles) {
+    body = `<div class="sec-body">${renderArticles(sec.articles)}</div>`;
+  } else if (isCyber && sec.items) {
+    body = `
+      <div class="sec-body">
+        <div class="cyber-bar">threat-feed --filter=BFSI,Gulf --live</div>
+        <div class="cyber-items">${renderItems(sec.items, true)}</div>
+      </div>`;
+  } else if (sec.items) {
+    body = `<div class="sec-body">${renderItems(sec.items, false)}</div>`;
+  }
+
+  return `
+    <div class="section-card${isCyber ? ' cyber-card' : ''}" id="sec-${esc(sec.id)}" style="--sc:${esc(meta.color)}">
+      <div class="sec-head">
+        <div class="sec-badge">${esc(sec.number)}</div>
+        <span class="sec-icon">${meta.icon}</span>
+        <span class="sec-title">${esc(sec.title)}</span>
+      </div>
+      ${body}
+    </div>`;
+}
+
+function renderJumpBar(sections) {
+  return `<div class="jump-bar">${sections.map(s => {
+    const meta = SECTION_META[s.id] || { color: '#94a3b8' };
+    return `<a class="jump-pill" href="#sec-${esc(s.id)}"
+      style="color:${esc(meta.color)};border-color:${esc(meta.color)}33;background:${esc(meta.color)}0d"
+    ><span class="jp-dot"></span>${esc(s.title)}</a>`;
+  }).join('')}</div>`;
+}
+
+// ── Render report ──
+
+function renderReport(data) {
+  document.getElementById('report-wrap').innerHTML = `
+    <div class="report-tag"><span class="tag-dot"></span>Situation Report</div>
+    <div class="report-date">${esc(data.headline)}</div>
+    ${data.subtitle ? `<div class="report-subtitle">${esc(data.subtitle)}</div>` : ''}
+    ${data.coverage ? `
+      <div class="report-coverage">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+          <circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/>
+        </svg>
+        Coverage: ${esc(data.coverage)}
+      </div>` : ''}
+    ${renderJumpBar(data.sections)}
+    <div class="divider"></div>
+    ${data.sections.map(renderSection).join('\n')}
+    ${data.footer ? `<div class="report-footer">${esc(data.footer)}</div>` : ''}
+  `;
+  document.title = `HorizonScan — ${data.headline}`;
+}
+
+// ── Load report ──
+
+async function loadReport(date) {
+  if (date === activeDate) return;
+  activeDate = date;
+  setActive(date);
+  showLoading();
+  document.getElementById('main').scrollTo({ top: 0, behavior: 'instant' });
+
+  try {
+    const res = await fetch(`reports/${date}.json`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    renderReport(data);
+    showReport();
+  } catch (e) {
+    showError(`Could not load the report for ${fmtDate(date)}. Please try again.`);
+  }
+}
+
+// ── Init ──
+
+async function init() {
+  try {
+    const res = await fetch('reports/index.json');
+    if (!res.ok) throw new Error('Index unavailable');
+    const dates = await res.json();
+    if (!dates.length) throw new Error('No reports found');
+    buildNav(dates);
+    await loadReport(dates[0]);
+  } catch (e) {
+    showError('Could not load the report index. Check that reports/index.json exists.');
+  }
+}
+
+init();
+</script>
+</body>
+</html>

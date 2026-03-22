@@ -1,0 +1,197 @@
+{
+  "date": "2026-03-21",
+  "headline": "21 March 2026",
+  "subtitle": "Day 19 of Operation Epic Fury",
+  "coverage": "20 March 2026 07:00 UTC+3 \u2013 21 March 2026 07:00 UTC+3",
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "text": "Air raid sirens were activated across Kuwait on 20 March 2026. The Kuwaiti Army General Staff issued public guidance that explosions heard were the result of air defense interception operations and urged residents to follow safety instructions.",
+          "sources": ["Al Jazeera", "CGTN", "Liveuamap/@KuwaitiArmy"]
+        },
+        {
+          "text": "The U.S. Embassy Kuwait issued a Security Alert on 20 March 2026 advising all residents to shelter in place, maintain supplies of food, water, and medications, and adhere to safety instructions from Kuwaiti authorities. The Embassy confirmed suspension of all routine consular services.",
+          "sources": ["U.S. Embassy Kuwait"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Mina al-Ahmadi Refinery \u2014 Second Consecutive Drone Strike (20 March 2026, morning, UTC+3)",
+          "text": "Iranian drones struck Kuwait's largest oil refinery (capacity ~730,000 bpd) for the second consecutive day, sparking fires across multiple processing units during Eid al-Fitr. Kuwait National Petroleum Company confirmed several units were shut down; no casualties reported. Confirmed.",
+          "sources": ["Al Jazeera", "AP via KVUE", "Gulf Today", "Anadolu Agency"]
+        },
+        {
+          "bold_heading": "Active Air Defense Engagements (20 March 2026, UTC+3)",
+          "text": "The Kuwaiti Army confirmed multiple rounds of air defense intercepts against inbound missiles and drones throughout the day in the Mubarak Al-Kabeer Governorate and other areas. Confirmed.",
+          "sources": ["Kuwaiti Army General Staff via Liveuamap", "Al Arabiya", "Qatar News Agency"]
+        },
+        {
+          "bold_heading": "No confirmed ground-level civilian casualties in Kuwait in the past 24 hours.",
+          "text": "Airport workers injured in earlier Terminal 1 debris incident (prior reporting period) remain the most recent confirmed civilian injuries.",
+          "sources": ["Airways Magazine \u2014 prior period"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Government Advisories",
+          "text": "Kuwait authorities continue to urge residents to shelter in place and maintain emergency supplies. The Ministry of Interior has extended all visitor visas by one month and granted a three-month absence permit for residents outside Kuwait as of 28 February 2026.",
+          "sources": ["U.S. Embassy Kuwait", "MOI Kuwait"]
+        },
+        {
+          "bold_heading": "Airport Status",
+          "text": "Kuwait International Airport remains closed to all commercial passenger flights since 2 March 2026. Radar systems were previously damaged by drone strikes. No scheduled commercial flights are operating.",
+          "sources": ["Wego Travel Blog", "Airways Magazine", "Travel and Tour World"]
+        },
+        {
+          "bold_heading": "Airspace",
+          "text": "Kuwait airspace remains restricted. Advisory to avoid airspace over Bahrain, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Qatar, UAE, Oman, and Saudi Arabia remains in effect.",
+          "sources": ["OpsGroup"]
+        },
+        {
+          "bold_heading": "Port and Customs Operations",
+          "text": "Kuwait port operations are running with reduced customs staffing. Priority clearance is being given to pharmaceutical and military goods.",
+          "sources": ["APL Logistics", "Global Cold Chain Alliance"]
+        },
+        {
+          "bold_heading": "Supply Chain",
+          "text": "Maritime supply chains remain severely disrupted due to the near-total suspension of commercial shipping through the Strait of Hormuz. Tanker traffic through the strait has dropped approximately 70\u201380% from pre-conflict levels.",
+          "sources": ["APL Logistics", "MARAD"]
+        },
+        {
+          "bold_heading": "Essential Services",
+          "text": "No reports of electricity, water, or internet outages specific to the past 24 hours. Fuel supply is under pressure due to refinery shutdowns at Mina al-Ahmadi.",
+          "sources": ["Aggregate reporting"]
+        },
+        {
+          "bold_heading": "Border Crossings",
+          "text": "No specific reports of closure of the Saudi or Iraqi land borders in the past 24 hours. [SINGLE SOURCE gap \u2014 no KUNA update found on border status.]",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "Iran's retaliatory strike campaign continues to target Gulf energy infrastructure and military installations across GCC states; the strikes on Kuwait's Mina al-Ahmadi refinery are part of a broader campaign following an Israeli strike on Iran's South Pars gas field.",
+          "sources": ["Al Jazeera", "Foreign Policy"]
+        },
+        {
+          "text": "The Strait of Hormuz remains effectively closed to commercial shipping; the UN International Maritime Organization held emergency talks on 18 March, and on 19 March, six countries including the UK, France, Germany, Italy, the Netherlands, and Japan signaled readiness to help secure the waterway.",
+          "sources": ["Euronews", "The Hill", "EU News", "UK GOV"]
+        },
+        {
+          "text": "The UK government met on 20 March to discuss Iran's targeting of commercial shipping and civilian infrastructure, reaffirming commitment to protecting international shipping and calling for urgent de-escalation.",
+          "sources": ["UK GOV.UK \u2014 20 March 2026 statement"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Business Continuity",
+          "text": "Kuwait airport closure (since 2 March) and reduced port operations continue to impair staff mobility, client access, and physical document movement. Institutions should maintain remote working protocols and pre-positioned critical staff.",
+          "sources": ["U.S. Embassy Kuwait", "Travel and Tour World"]
+        },
+        {
+          "bold_heading": "Payment and Settlement Risk",
+          "text": "Disruption to Gulf shipping lanes and the effective closure of the Strait of Hormuz are straining trade finance and commodity settlement flows. Oil-linked payment chains face elevated counterparty and settlement timing risk.",
+          "sources": ["MARAD", "Lowy Institute"]
+        },
+        {
+          "bold_heading": "Cyber Threat \u2014 Active Targeting of Financial Sector",
+          "text": "Iran's military command publicly named US- and Israeli-linked banks as military targets on 12 March. MuddyWater (MOIS-linked) confirmed on a US bank network with the Dindoor backdoor. SISA's Week 3 advisory identifies five priority threat vectors with high probability of BFSI impact. Gulf-based financial institutions face elevated risk of DDoS, phishing, and wiper attacks.",
+          "sources": ["SISA", "Symantec/Carbon Black", "The Hacker News"]
+        },
+        {
+          "bold_heading": "Energy Supply and Operational Risk",
+          "text": "Repeated drone strikes on Mina al-Ahmadi refinery (730,000 bpd capacity) risk fuel supply disruption in Kuwait, potentially affecting backup power for data centers and branch operations.",
+          "sources": ["Al Jazeera", "AP"]
+        },
+        {
+          "bold_heading": "Regulatory Watch",
+          "text": "No new Central Bank of Kuwait or Capital Markets Authority emergency directives identified in the past 24 hours. Institutions should monitor for potential capital control or liquidity management advisories as the conflict continues. [Source gap \u2014 no CBK updates found.]",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Iran and the New Arithmetic of War",
+          "author": "Fareed Zakaria",
+          "publication": "Foreign Policy",
+          "pub_date": "20 March 2026",
+          "summary": "Zakaria argues that Iran's drone-centric retaliatory strategy has fundamentally shifted the cost calculus of modern warfare, with drones accounting for roughly 71% of recorded strikes on Gulf states in the first week of retaliation. The piece examines how low-cost asymmetric weapons are overwhelming expensive air defense systems across the Gulf, raising questions about the sustainability of the current defensive posture.",
+          "link": "https://foreignpolicy.com/2026/03/20/iran-drone-war-lessons-fareed-zakaria/"
+        },
+        {
+          "title": "How the Iran War Ignited a Geoeconomic Firestorm",
+          "author": "CFR Staff",
+          "publication": "Council on Foreign Relations",
+          "pub_date": "March 2026",
+          "summary": "This analysis examines how the conflict's economic shockwaves extend far beyond energy markets, disrupting global fertilizer supply (urea prices up 19% in one week), shipping insurance markets, and triggering the IEA's release of 400 million barrels from emergency reserves. The piece argues that Iran is pursuing a deliberate strategy to make the war economically unsustainable for the US and its Gulf partners by targeting sectors central to GCC economic diversification plans.",
+          "link": "https://www.cfr.org/articles/how-the-iran-war-ignited-a-geoeconomic-firestorm"
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "number": 7,
+      "title": "Cyber & Threat Intelligence",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "MuddyWater/Dindoor Backdoor \u2014 Active BFSI Intrusion (Ongoing)",
+          "text": "Iranian APT group MuddyWater (Seedworm/Mango Sandstorm, MOIS-affiliated) confirmed present on a US bank network using the novel Dindoor backdoor (Deno runtime-based) and Fakeset (Python-based) implants. Campaign targets aviation, financial services, and defense software sectors across the US, Israel, and Canada. Financial institutions should hunt for Deno runtime anomalies and review cloud storage access patterns. Published 5\u20136 March; activity ongoing.",
+          "sources": ["Symantec/Carbon Black via The Hacker News", "Krypt3ia \u2014 20 March 2026", "SOCRadar"]
+        },
+        {
+          "bold_heading": "SISA Week 3 Threat Advisory \u2014 Declared Banking Targets (Published ~18 March 2026)",
+          "text": "Iran's military command publicly declared US- and Israeli-linked banks as military targets on 12 March. New IRGC-aligned group Hydro Kitten announced specific financial sector targeting intent (confirmed by CrowdStrike). Five priority cyber threat vectors identified with high probability of BFSI impact: DDoS on banking portals, spear-phishing campaigns, wiper deployment, supply chain compromise, and credential harvesting.",
+          "sources": ["SISA Threat Intelligence"]
+        },
+        {
+          "bold_heading": "Unit 42 Threat Brief \u2014 Elevated Hacktivist Activity (Updated March 2026)",
+          "text": "Palo Alto Unit 42 tracks 60+ active threat groups (53 pro-Iranian), many operating under the \"Electronic Operations Room\" formed 28 February 2026. Phishing campaigns using fake alert applications (mimicking civil defense apps) detected across the Gulf region. Handala Hack (MOIS-linked) identified as most active persona, exploiting Microsoft Intune for administrative access. Iran's degraded internet connectivity (1\u20134% of normal) may temporarily hinder sophisticated state-actor coordination but does not affect pre-positioned implants or hacktivist cells.",
+          "sources": ["Palo Alto Unit 42", "SOCRadar", "Euronews"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "date": "2026-03-22",
+  "headline": "22 March 2026",
+  "subtitle": "Day 23 of US-Israel-Iran Conflict",
+  "coverage": "21 March 2026 07:00 UTC+3 – 22 March 2026 07:00 UTC+3",
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "text": "Kuwait's Ministry of Defense confirmed that air defense systems engaged hostile missile and drone attacks on 21 March 2026. Explosions heard across Kuwait City and surrounding governorates were attributed to air defense intercepts. Citizens were urged to follow safety instructions from civil defense authorities.",
+          "sources": ["Kuwait MOD via QNA"]
+        },
+        {
+          "text": "The Kuwait Civil Defense siren system remains on active standby. The intermittent tone indicates imminent danger; the wave-like tone signals an event in progress; the continuous tone signals all-clear.",
+          "sources": ["Kuwait Times"]
+        },
+        {
+          "text": "The U.S. Embassy Kuwait issued a security alert on 20 March 2026 advising all Americans to shelter in place, stay away from windows, and maintain emergency supplies. Embassy consular services remain suspended.",
+          "sources": ["U.S. Embassy Kuwait"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Mina Al-Ahmadi Refinery, Kuwait",
+          "text": "20 March 2026, early hours (UTC+3): Iranian drones struck Kuwait's largest oil refinery for the second consecutive day, igniting fires across multiple processing units. The refinery processes approximately 730,000 barrels per day. Several units were shut down as a precaution. No casualties reported. Status: CONFIRMED.",
+          "sources": ["Al Jazeera", "Al Arabiya", "Kuwait Petroleum Corporation via KUNA"]
+        },
+        {
+          "bold_heading": "Kuwait air defense intercepts",
+          "text": "21 March 2026 (UTC+3): Kuwaiti armed forces intercepted multiple missiles and drones targeting national territory. The General Staff confirmed all explosions heard were the result of successful intercepts. Status: CONFIRMED.",
+          "sources": ["Kuwait MOD via Liveuamap"]
+        },
+        {
+          "bold_heading": "Israeli city of Arad struck",
+          "text": "21 March 2026 evening (UTC+3): Iranian missiles hit multiple sites in southern Israel, with Israeli officials declaring a mass casualty event — at least 74 injured at two impact sites. Status: CONFIRMED.",
+          "sources": ["Al Jazeera"]
+        },
+        {
+          "bold_heading": "Natanz nuclear facility, Iran",
+          "text": "21 March 2026: US-Israeli forces struck Iran's Natanz uranium enrichment complex. Iran's military warned of retaliatory escalation. Status: CONFIRMED.",
+          "sources": ["Al Jazeera", "CNN"]
+        },
+        {
+          "bold_heading": "Strait of Hormuz",
+          "text": "Ongoing: The UKMTO assessed the overall maritime threat level across the Gulf, Strait of Hormuz, and Gulf of Oman as CRITICAL. Only approximately 78 vessels have transited since 1 March (average 13/day vs. pre-conflict 153/day). Status: CONFIRMED.",
+          "sources": ["UKMTO Advisory 016", "CNBC"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Government advisories",
+          "text": "The Kuwait government continues to advise citizens and residents to follow civil defense instructions and remain in hardened structures. Kuwait launched a National Emergency Alert System on 20 March 2026 using cellular broadcasting technology to deliver real-time alerts to mobile users.",
+          "sources": ["Kuwait Times", "Arab Times"]
+        },
+        {
+          "bold_heading": "Airport status",
+          "text": "Kuwait International Airport (KWI) remains CLOSED to all commercial passenger traffic since early March. Terminal 1 sustained structural damage from drone strikes; fuel depots, portions of the runway, and the radar system were also damaged. No reopening date has been announced. Kuwait Airways flights suspended indefinitely.",
+          "sources": ["Kuwait DGCA", "Kuwait Times"]
+        },
+        {
+          "bold_heading": "Essential services",
+          "text": "The Ministry of Electricity, Water, and Renewable Energy reports stable power and water supply. Previous incidents of intercept debris affecting transmission lines and minor fires at Doha West and Al-Subbiya stations were contained and repaired. Fresh water reserves described as adequate.",
+          "sources": ["Kuwait MEW"]
+        },
+        {
+          "bold_heading": "Fuel/supply chain",
+          "text": "The Mina Al-Ahmadi refinery has had multiple units shut down following the 19–20 March drone strikes. Domestic fuel supply may face pressure if shutdowns persist. No confirmed reports of widespread panic buying in the past 24 hours.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Border crossings",
+          "text": "Kuwait-Saudi Arabia border (Nuwaisib and Salmi crossings) remains open 24/7 and is the primary evacuation route. Kuwait-Iraq border (Safwan Gate) is reported CLOSED.",
+          "sources": ["U.S. Embassy Kuwait"]
+        },
+        {
+          "bold_heading": "Schools and public events",
+          "text": "Schools and public gatherings remain subject to rolling closures aligned with civil defense guidance. Eid al-Fitr celebrations were disrupted by the 20 March refinery attacks.",
+          "sources": ["Al Jazeera"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "Trump issues 48-hour Hormuz ultimatum (22 March 2026)",
+          "text": "President Trump threatened to \"obliterate\" Iran's power plants if the Strait of Hormuz is not fully reopened within 48 hours. Iran responded that the strait remains closed to \"enemy ships\" and warned of retaliation against US and Israeli energy infrastructure if its power plants are struck. This represents a significant escalation risk.",
+          "sources": ["Al Jazeera", "Bloomberg", "Washington Post"]
+        },
+        {
+          "text": "The US-Israel-Iran conflict entered Day 23 with no ceasefire negotiations under way; both Iran and the US have explicitly rejected ceasefire talks, though Trump indicated he is considering \"winding down\" military operations.",
+          "sources": ["CNN", "NPR", "Al Jazeera"]
+        },
+        {
+          "text": "The Strait of Hormuz remains effectively closed to most commercial shipping; Brent crude has risen approximately 45% since the conflict began, peaking at $126/bbl. The US began an aerial campaign on 19 March to reopen the strait by targeting Iranian naval assets.",
+          "sources": ["CNBC", "Al Jazeera"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Business continuity",
+          "text": "Kuwait International Airport remains closed; staff repatriation and international travel are only possible via overland routes to Saudi Arabia. Institutions should verify BCP plans account for extended airport closure and the possibility of further infrastructure strikes following the Trump 48-hour ultimatum.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Payment and settlement systems",
+          "text": "No confirmed disruptions to SWIFT or cross-border payment infrastructure reported specific to Kuwait. However, the broader conflict environment and active cyber campaigns targeting Gulf financial infrastructure warrant heightened monitoring of settlement system availability and latency.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Oil price and market volatility",
+          "text": "Brent crude at $110+/bbl; markets face further volatility risk from the Trump power-plant ultimatum and potential Iranian retaliation targeting Gulf energy infrastructure. Financial institutions should review commodity exposure and margin call preparedness.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Staff safety",
+          "text": "Ongoing missile and drone attacks across Kuwait with active air defense intercepts producing debris falls and ground-level explosions. The U.S. Embassy advises sheltering in place. Institutions should ensure staff awareness of the new National Emergency Alert System, siren protocols, and shelter locations.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Cyber threat",
+          "text": "Iranian state-sponsored APT group MuddyWater has deployed a new backdoor (Dindoor) against US financial sector targets, including a US bank. CrowdStrike reports Hydro Kitten (IRGC-aligned) has signaled plans to target the financial sector. Over 60 hacker groups remain mobilised. Institutions should elevate SOC alert levels and review access controls.",
+          "sources": ["The Hacker News", "CrowdStrike", "Unit 42"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "The Gulf Goes Backward: How the Iran War Is Returning the Region to a More Insular, Conflict-Prone Era",
+          "author": "Not specified",
+          "publication": "Foreign Affairs",
+          "pub_date": "March 2026",
+          "summary": "The article argues that the conflict has reversed a decade of cautious diplomatic engagement between Iran and Gulf states, replacing it with renewed military competition and hardened alliances. The Gulf's narrative as a stable destination for global capital and talent is under direct threat from energy infrastructure attacks.",
+          "link": "https://www.foreignaffairs.com/persian-gulf/gulf-goes-backward"
+        },
+        {
+          "title": "The Gulf Monarchies Are Caught Between Iran's Desperation and the U.S.'s Recklessness",
+          "author": "Not specified",
+          "publication": "Carnegie Endowment for International Peace",
+          "pub_date": "March 2026",
+          "summary": "The analysis examines how Iran's strategy of targeting Gulf infrastructure aims to create political and economic pressure on GCC states to demand a US withdrawal, but this approach is likely to backfire by deepening Gulf dependence on American security guarantees and accelerating Iran's regional isolation.",
+          "link": "https://carnegieendowment.org/emissary/2026/03/gulf-states-iran-war-security"
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "number": 7,
+      "title": "Cyber & Threat Intelligence",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "MuddyWater/Dindoor Backdoor",
+          "text": "Iran-linked APT group MuddyWater (Seedworm), affiliated with Iran's Ministry of Intelligence and Security (MOIS), deployed a previously unknown backdoor called \"Dindoor\" against US networks including a US bank, a US airport, and a Canadian non-profit. The campaign began in early February 2026 and escalated following the start of military operations. Sector: Financial services, aviation, critical infrastructure (US, with Gulf implications).",
+          "sources": ["The Hacker News", "Symantec/Broadcom"]
+        },
+        {
+          "bold_heading": "Pro-Iran hacktivist DDoS campaigns",
+          "text": "CrowdStrike reports a surge in Iran-aligned hacktivist activity including DDoS operations and reconnaissance against Gulf financial and energy targets. Hydro Kitten (IRGC-aligned) has signaled intent to target the financial sector specifically. Russian hacking groups, including Z-Pentest, have also been observed supporting Iranian operations. Sector: Financial services, energy (GCC-wide).",
+          "sources": ["CrowdStrike", "Nextgov"]
+        },
+        {
+          "bold_heading": "NY DFS Industry Advisory",
+          "text": "The New York Department of Financial Services issued a cybersecurity advisory on 3 March 2026 reminding financial sector regulated entities of heightened cyber threats due to global conflict, urging review of vulnerability management, operational resilience, and secure configuration under 23 NYCRR Part 500. No specific coordinated campaign against financial services observed at time of issuance. Sector: Financial services (US-regulated, globally relevant).",
+          "sources": ["NY DFS"]
+        }
+      ]
+    }
+  ],
+  "footer": "Report compiled 2026-03-22 at 07:30 UTC+3."
+}

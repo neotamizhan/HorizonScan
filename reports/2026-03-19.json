@@ -1,0 +1,215 @@
+{
+  "date": "2026-03-19",
+  "headline": "19 March 2026",
+  "subtitle": "Day 18 of Operation Epic Fury (conflict ongoing)",
+  "coverage": "18 March 2026 07:00 UTC+3 \u2013 19 March 2026 07:00 UTC+3",
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "text": "Kuwait Ministry of Defense confirmed air defense systems intercepted four hostile ballistic missiles and destroyed 20 drones over the past 24 hours.",
+          "sources": ["Arab Times", "Kuwait MOD \u2014 18 March 2026"]
+        },
+        {
+          "text": "U.S. Embassy Kuwait issued a Security Alert on 18 March 2026 reiterating the threat of continued missile and UAV attacks; commercial flights remain suspended from Kuwait International Airport.",
+          "sources": ["U.S. Embassy Kuwait"]
+        },
+        {
+          "text": "Kuwait National Cyber Security Center issued a public advisory warning of phishing accounts impersonating official entities to steal personal data.",
+          "sources": ["Arab Times \u2014 18 March 2026"]
+        },
+        {
+          "text": "No new civil defense shelter-in-place orders reported in the past 24 hours; siren system remains on standby since activation on 28 February 2026.",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "text": "Four ballistic missiles intercepted over Kuwaiti airspace in the past 24 hours; no confirmed ground impact reported.",
+          "sources": ["Kuwait MOD via Arab Times \u2014 18 March 2026"]
+        },
+        {
+          "text": "20 hostile drones destroyed by Kuwaiti air defenses in the same period.",
+          "sources": ["Kuwait MOD \u2014 18 March 2026"]
+        },
+        {
+          "text": "Israel struck Iran's South Pars natural gas field and neighboring refineries on 18 March 2026 with U.S. coordination; Iran confirmed the killing of intelligence minister Esmaeil Khatib in an overnight airstrike.",
+          "sources": ["Times of Israel", "Al Jazeera \u2014 18 March 2026"]
+        },
+        {
+          "text": "Strait of Hormuz: approximately 90 ships crossed on 18 March, up from near-zero in early March, as Iran appears to permit selective \"permission-based transits\" to friendly nations; traffic remains down over 95% from pre-conflict levels.",
+          "sources": ["CNBC", "Al Jazeera \u2014 18 March 2026"]
+        },
+        {
+          "text": "At least 16 vessels have been struck in waters near UAE's Fujairah port, Iraq's Khor Al Zubair port, and the Gulf of Oman since the conflict began.",
+          "sources": ["Bloomberg \u2014 18 March 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Airport status",
+          "text": "Kuwait International Airport remains closed to commercial operations due to ongoing missile and UAV threat; radar systems sustained damage from earlier drone strikes.",
+          "sources": ["U.S. Embassy Kuwait \u2014 18 March 2026"]
+        },
+        {
+          "bold_heading": "Border crossings",
+          "text": "Land border with Saudi Arabia remains open but subject to closure on short notice; U.S. government advises it cannot guarantee safety on this route.",
+          "sources": ["U.S. Embassy Kuwait \u2014 18 March 2026"]
+        },
+        {
+          "bold_heading": "Oil and energy",
+          "text": "Kuwait Petroleum Corporation continues operating under force majeure declared 7 March 2026; crude output reduced from 2.59 million bpd due to Hormuz disruption and storage limitations; debris from earlier strikes injured workers at the 346,000 b/d Mina Al-Ahmadi refinery.",
+          "sources": ["Argus Media", "Bloomberg"]
+        },
+        {
+          "bold_heading": "Security arrests",
+          "text": "Kuwait security forces arrested additional suspects linked to Hezbollah \u2014 a group of 10 Kuwaiti nationals alleged to have coordinated with external operatives to provide targeting coordinates.",
+          "sources": ["Bloomberg \u2014 18 March 2026"]
+        },
+        {
+          "bold_heading": "Visa and residency",
+          "text": "Ministry of Interior has extended all visitor visas by one month and granted a three-month absence permit for residents outside Kuwait as of 28 February 2026.",
+          "sources": ["U.S. Embassy Kuwait"]
+        },
+        {
+          "bold_heading": "Ramadan/Eid",
+          "text": "Kuwait Sharia Vision Authority confirmed Thursday 19 March completes Ramadan; Eid al-Fitr will be observed Friday 20 March 2026 \u2014 potential for increased public gatherings.",
+          "sources": ["Arab Times \u2014 18 March 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "Iran rejected ceasefire talks on 18 March, with FM Araghchi stating any negotiations require U.S. and Israeli strikes to stop first; the conflict is now in its 19th day with no diplomatic off-ramp in sight.",
+          "sources": ["Time", "Reuters \u2014 18 March 2026"]
+        },
+        {
+          "text": "Oil prices remain above $100/barrel (up 40%+ since 28 February) as the Strait of Hormuz soft closure continues; the IEA has described this as the largest oil supply disruption in history.",
+          "sources": ["Al Jazeera", "Insurance Journal"]
+        },
+        {
+          "text": "Global banks are tightening security at Gulf hub operations amid Iranian signals of diversifying attack targets beyond military installations to economic and political centers.",
+          "sources": ["Euronews \u2014 12 March 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Business continuity",
+          "text": "Kuwait airport closure and Hormuz disruption severely limit personnel evacuation options and physical document/hardware movement; the Saudi land border is the only viable exit route and may close without notice.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Payment systems and SWIFT",
+          "text": "Force majeure across Kuwait's oil sector and the near-halt of Hormuz shipping create downstream liquidity pressure; correspondent banking relationships with Kuwaiti institutions may face settlement delays.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Staff safety",
+          "text": "Ongoing missile and drone attacks on Kuwaiti territory, combined with Eid al-Fitr gatherings beginning 20 March, elevate personal security risk for in-country staff; Hezbollah-linked arrests indicate an active internal threat.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Cyber threats",
+          "text": "Iranian APT groups (MuddyWater, OilRig, Charming Kitten) are in active retooling phase targeting financial and critical infrastructure; Kuwait NCSC has warned of phishing campaigns impersonating official entities; NY DFS issued a cybersecurity advisory to the financial sector on 3 March 2026.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Insurance and market risk",
+          "text": "War risk premiums for Gulf-related shipping, aviation, and property insurance have surged; institutions with Gulf energy or trade finance exposure face mark-to-market volatility.",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "The Gulf Monarchies Are Caught Between Iran's Desperation and the U.S.'s Recklessness",
+          "author": "Carnegie Endowment staff",
+          "publication": "Carnegie Endowment for International Peace",
+          "pub_date": "March 2026",
+          "summary": "Analyses how Gulf states are trapped between Iranian military retaliation and U.S. strategic decisions made without regional consultation. Argues that the GCC security framework is being tested to breaking point, with Gulf capitals reconsidering whether U.S. protection guarantees stability or increases exposure.",
+          "link": "https://carnegieendowment.org/emissary/2026/03/gulf-states-iran-war-security"
+        },
+        {
+          "title": "How America's War on Iran Backfired",
+          "author": "Foreign Affairs contributors",
+          "publication": "Foreign Affairs",
+          "pub_date": "March 2026",
+          "summary": "Examines how Iran's strategy of imposing economic costs on the U.S. and Gulf allies \u2014 through Hormuz disruption, energy infrastructure attacks, and market instability \u2014 aims to force a ceasefire that restricts future Israeli action, fundamentally altering regional power dynamics.",
+          "link": "https://www.foreignaffairs.com/united-states/how-americas-war-iran-backfired"
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "number": 7,
+      "title": "Cyber & Threat Intelligence",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "MuddyWater (MOIS-affiliated) deploying new \u201cDindoor\u201d backdoor",
+          "text": "Iranian APT group MuddyWater confirmed targeting U.S. bank networks and critical infrastructure using a novel backdoor leveraging the Deno JavaScript runtime; the group is acting as an initial access broker for other Iran-aligned APTs targeting telecoms, oil and gas, and government organizations.",
+          "sources": ["The Hacker News", "Symantec \u2014 March 2026"]
+        },
+        {
+          "bold_heading": "Palo Alto Unit 42 Threat Brief \u2014 Iran escalation",
+          "text": "Unit 42 published a threat brief detailing the escalation of cyber risk related to the Iran conflict, documenting over 60 active threat groups \u2014 53 pro-Iranian \u2014 targeting Western commercial, financial, energy, and critical infrastructure.",
+          "sources": ["unit42.paloaltonetworks.com \u2014 March 2026"]
+        },
+        {
+          "bold_heading": "NY DFS Cybersecurity Advisory to financial sector",
+          "text": "New York Department of Financial Services issued an industry letter on 3 March 2026 reminding regulated financial institutions of heightened cyber threats due to the global conflict and requiring enhanced monitoring.",
+          "sources": ["NY DFS \u2014 3 March 2026"]
+        },
+        {
+          "bold_heading": "Kuwait NCSC phishing warning",
+          "text": "Kuwait National Cyber Security Center warned of accounts impersonating trusted official entities to steal personal data or spread disinformation; the advisory urges verification of all links and official account authenticity.",
+          "sources": ["Arab Times \u2014 18 March 2026"]
+        },
+        {
+          "bold_heading": "UAE intercepting 90,000\u2013200,000 cyberattacks per day",
+          "text": "UAE Cybersecurity Council reported intercepting up to 200,000 daily attacks as of late February, with over 70% linked to state-sponsored actors; government, banking, aviation, and telecom sectors are primary targets.",
+          "sources": ["CloudSEK", "Data Protection Report \u2014 March 2026"]
+        }
+      ]
+    }
+  ]
+}

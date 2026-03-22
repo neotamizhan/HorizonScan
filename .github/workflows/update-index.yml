@@ -1,0 +1,49 @@
+name: Update Report Index
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'reports/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].json'
+
+jobs:
+  update-index:
+    # Skip if this commit was made by the bot (avoids infinite loops)
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild reports/index.json
+        run: |
+          python3 - <<'EOF'
+          import json, glob, os
+
+          # Find all YYYY-MM-DD.json files (excludes index.json itself)
+          files = glob.glob('reports/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].json')
+          dates = sorted(
+            [os.path.basename(f).replace('.json', '') for f in files],
+            reverse=True   # newest first
+          )
+
+          with open('reports/index.json', 'w') as f:
+            json.dump(dates, f, indent=2)
+            f.write('\n')
+
+          print(f'index.json updated with {len(dates)} report(s): {dates}')
+          EOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/index.json
+          if git diff --staged --quiet; then
+            echo "No changes to index.json"
+          else
+            git commit -m "chore: update report index [skip ci]"
+            git push
+          fi
