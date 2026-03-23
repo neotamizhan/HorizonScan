@@ -289,6 +289,12 @@ body {
   margin-top: 10px;
 }
 
+.report-prepared-for {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-top: 6px;
+}
+
 /* Jump bar */
 
 .jump-bar {
@@ -799,6 +805,7 @@ function renderReport(data) {
         </svg>
         Coverage: ${esc(data.coverage)}
       </div>` : ''}
+    <div class="report-prepared-for"><em>Prepared for: Technology Risk Management of a Major Financial Institution</em></div>
     ${renderJumpBar(data.sections)}
     <div class="divider"></div>
     ${data.sections.map(renderSection).join('\n')}
