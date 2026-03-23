@@ -1,0 +1,207 @@
+{
+  "date": "2026-03-23",
+  "headline": "23 March 2026",
+  "subtitle": "Day 24 of US-Israel-Iran Conflict",
+  "coverage": "22 March 2026 07:00 UTC+3 – 23 March 2026 07:00 UTC+3",
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "text": "Kuwait's Ministry of Defense confirmed that air defense systems intercepted missile and drone attacks on 22–23 March 2026 in the Mubarak Al-Kabeer Governorate. The General Staff stated that explosions heard were the result of air defense intercepts and urged all residents to follow civil defense safety instructions.",
+          "sources": ["Kuwait MOD via Liveuamap", "Anadolu Agency"]
+        },
+        {
+          "text": "Kuwait's National Guard spokesperson reported that seven hostile drones were neutralized during the reporting period.",
+          "sources": ["Anadolu Agency"]
+        },
+        {
+          "text": "The U.S. Embassy Kuwait security alert of 20 March 2026 remains in effect, advising all Americans to shelter in place, stay away from windows, and maintain emergency supplies. Consular services remain suspended.",
+          "sources": ["U.S. Embassy Kuwait"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Kuwait air defense intercepts, Mubarak Al-Kabeer Governorate",
+          "text": "22–23 March 2026 (UTC+3): Kuwaiti Army confirmed active intercepts of missile and drone attacks. Seven drones neutralized. All explosions attributed to air defense operations. Status: CONFIRMED.",
+          "sources": ["Kuwait MOD via Liveuamap", "Anadolu Agency"]
+        },
+        {
+          "bold_heading": "Explosive ordnance debris, Kuwait",
+          "text": "22–23 March 2026 (UTC+3): EOD teams responded to 12 reports of intercept debris in the past 24 hours, bringing the total debris incidents since the start of the conflict to 484. Status: CONFIRMED.",
+          "sources": ["Kuwait MOI", "Times Kuwait"]
+        },
+        {
+          "bold_heading": "Six arrests for unauthorized drone use, Kuwait",
+          "text": "22–23 March 2026 (UTC+3): Kuwait's Ministry of Interior arrested six individuals for operating drones without authorization during the security emergency. Suspects referred for prosecution. Status: CONFIRMED.",
+          "sources": ["Kuwait MOI", "Times Kuwait"]
+        },
+        {
+          "bold_heading": "Strait of Hormuz",
+          "text": "Ongoing: Commercial traffic through the Strait remains effectively at zero. Approximately 400 vessels remain holding in the Gulf of Oman. Maritime threat level rated CRITICAL by UKMTO. GPS spoofing and AIS anomalies continue across the region. Status: CONFIRMED.",
+          "sources": ["UKMTO Advisory", "MARAD Advisory 2026-004"]
+        },
+        {
+          "bold_heading": "Israeli strikes on Tehran",
+          "text": "22 March 2026: Israeli military confirmed renewed strikes on targets in Tehran overnight, as the US-Israeli coalition claims continued air superiority over Iran. Iran warned of intensified retaliatory strikes on energy infrastructure. Status: CONFIRMED.",
+          "sources": ["NPR", "Al Jazeera"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Government advisories",
+          "text": "The Kuwait Cabinet reviewed the latest security developments and praised the Amir's address on national unity. The government continues to urge residents to follow civil defense instructions and remain near hardened structures. The National Emergency Alert System (cellular broadcasting) remains active.",
+          "sources": ["Times Kuwait"]
+        },
+        {
+          "bold_heading": "Airport status",
+          "text": "Kuwait International Airport (KWI) remains CLOSED to all commercial traffic. Terminal 1, fuel depots, runway sections, and the radar system remain damaged. No reopening date announced. Kuwait Airways plans to resume flights to Cairo starting 26 March; Jazeera Airways targets Sohag via Qaisumah Airport from 29 March — both conditional on security clearance.",
+          "sources": ["Kuwait DGCA", "Kuwait Times"]
+        },
+        {
+          "bold_heading": "Essential services",
+          "text": "Electricity and water supply reported stable. Ministry of Electricity, Water and Renewable Energy continues to manage infrastructure; previous debris-related incidents at Doha West and Al-Subbiya power stations have been repaired.",
+          "sources": ["Kuwait MEW"]
+        },
+        {
+          "bold_heading": "Border crossings",
+          "text": "Overland route to Saudi Arabia via the Kuwait-Saudi border remains open, though travelers should expect significant delays. The U.S. Embassy advises pre-registering before attempting to cross. The Iraq-Kuwait border status is subject to change on short notice.",
+          "sources": ["U.S. Embassy Kuwait", "U.S. Embassy Baghdad"]
+        },
+        {
+          "bold_heading": "Oil sector",
+          "text": "Mina Al-Ahmadi refinery remains partially shut down following the 20 March drone strikes that ignited fires across multiple processing units. Kuwait has cut back oil production due to lack of storage capacity with the Strait of Hormuz effectively closed.",
+          "sources": ["Al Jazeera", "AP"]
+        },
+        {
+          "bold_heading": "Schools and public events",
+          "text": "Schools and public gatherings remain suspended under the ongoing security emergency.",
+          "sources": ["Times Kuwait"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "Iran rejected ceasefire talks while President Trump stated he is not interested in a ceasefire, saying the US is considering \"winding down\" operations; however, the Pentagon deployed an additional 2,500 Marines to the Middle East — the second such deployment in one week.",
+          "sources": ["CNBC", "NPR", "Time"]
+        },
+        {
+          "text": "Iran continued its campaign against Gulf energy infrastructure, striking facilities in the UAE, Saudi Arabia, and Qatar's Ras Laffan LNG facility, as part of an escalatory cycle linked to Israel's strikes on Iran's South Pars gasfield.",
+          "sources": ["Al Jazeera", "Bloomberg"]
+        },
+        {
+          "text": "Brent crude remains above $110/barrel with the Strait of Hormuz effectively closed; the IEA warns stored oil at sea is rapidly depleting, posing further upside price risk.",
+          "sources": ["NPR", "OilPrice.com"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Business continuity",
+          "text": "Kuwait International Airport remains closed; no commercial flights. Staff evacuation and rotation via air is not possible. Overland evacuation to Saudi Arabia is the only viable route, with significant delays expected. Institutions should verify contingency staffing plans.",
+          "sources": ["Kuwait DGCA", "U.S. Embassy Kuwait"]
+        },
+        {
+          "bold_heading": "Cyber threat escalation",
+          "text": "Iran has explicitly declared US-Israeli banking and economic interests in the Gulf as legitimate targets. Over 60 active threat groups — 53 pro-Iranian — are tracked, with DDoS, credential attacks, and wiper malware identified as primary vectors against Gulf financial institutions. FINRA issued a cybersecurity alert on heightened threats from Iranian cyber actors.",
+          "sources": ["Al Jazeera", "Euronews", "FINRA", "CrowdStrike"]
+        },
+        {
+          "bold_heading": "Payment systems and trade finance",
+          "text": "The effective closure of the Strait of Hormuz has disrupted global supply chains and trade flows. War risk insurance coverage has been widely withdrawn for Gulf shipping. Trade finance operations linked to Gulf oil and LNG exports face material settlement risk.",
+          "sources": ["Bloomberg", "MARAD"]
+        },
+        {
+          "bold_heading": "Staff safety",
+          "text": "Multiple international banks have evacuated or closed offices in Qatar and Dubai. HSBC closed all Qatar branches; Citigroup and Goldman Sachs implemented remote-work and office-access restrictions across the Middle East. Institutions with Kuwait-based staff should maintain active welfare checks.",
+          "sources": ["Euronews", "The Hill"]
+        },
+        {
+          "bold_heading": "Regulatory watch",
+          "text": "Bank regulators have issued warnings of increased cyber risk from the Iran war. Institutions should review compliance with heightened monitoring expectations and ensure incident reporting protocols are current.",
+          "sources": ["Banking Dive", "FINRA"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Iran war enters its fourth week with no clear end in sight",
+          "author": "NPR Staff",
+          "publication": "NPR",
+          "pub_date": "21 March 2026",
+          "summary": "As the conflict enters its fourth week, the article examines the widening gap between Trump's public rhetoric about \"winding down\" and the Pentagon's continued force deployments, including 2,500 additional Marines. The piece assesses how the lack of diplomatic off-ramps and Iran's refusal to negotiate are prolonging a conflict that has already disrupted global energy markets and Gulf state stability.",
+          "link": "https://www.npr.org/2026/03/21/nx-s1-5755539/iran-war-fourth-week"
+        },
+        {
+          "title": "How Iran war became a worst-case scenario for Gulf states",
+          "author": "Salon Staff",
+          "publication": "Salon",
+          "pub_date": "21 March 2026",
+          "summary": "The analysis traces how Gulf states, which had spent years building diplomatic bridges with Tehran, found themselves dragged into a conflict they sought to avoid. It argues that Iran's targeting of civilian and energy infrastructure across all six GCC states has shattered the premise that neutrality could insulate them from US-Iran confrontation.",
+          "link": "https://www.salon.com/2026/03/21/how-iran-war-became-a-worst-case-scenario-for-gulf-states/"
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "number": 7,
+      "title": "Cyber & Threat Intelligence",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Iranian APT/hacktivist surge",
+          "text": "Over 60 active threat groups are tracked in connection with the conflict, with 53 operating on the pro-Iranian side. CrowdStrike reports a surge in claimed activity from Iran-aligned hacktivist groups, including DDoS operations, defacements, and disruption attempts targeting the Middle East, the US, and Asia. Critical infrastructure and financial sector firms should remain vigilant for escalation beyond nuisance-level disruption.",
+          "sources": ["CrowdStrike", "Unit 42 / Palo Alto Networks"]
+        },
+        {
+          "bold_heading": "OT/ICS threat — Pyroxene group",
+          "text": "Dragos identified Pyroxene, an IRGC-aligned threat group, conducting Stage 2 ICS kill-chain operations inside supplier and contractor networks in defense, aviation, and energy sectors. Immediate actions recommended include isolating internet-exposed PLCs, auditing contractor VPN sessions, and enabling anomaly alerting on IT-to-OT lateral movement.",
+          "sources": ["Dragos 2026 OT/ICS Cybersecurity Report"]
+        },
+        {
+          "bold_heading": "FINRA cybersecurity alert",
+          "text": "FINRA issued a cybersecurity alert on heightened threats from Iranian cyber actors targeting financial institutions. Banks can expect multiple threat vectors including DDoS, credential-driven intrusions, and destructive wiper malware. Gulf-based financial institutions perceived as aligned with the US or Israel are assessed as high-probability targets.",
+          "sources": ["FINRA"]
+        }
+      ]
+    }
+  ],
+  "footer": "Report compiled 2026-03-23 at 07:30 UTC+3."
+}
