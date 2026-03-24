@@ -1,0 +1,193 @@
+{
+  "date": "2026-03-24",
+  "headline": "24 March 2026",
+  "subtitle": "Day 25 of US-Israel War on Iran",
+  "coverage": "24 March 2026 07:00 UTC+3 – 25 March 2026 07:00 UTC+3",
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "text": "Kuwaiti air defense sirens were activated at least twice in the past 24 hours as air defense systems engaged incoming missile and drone threats. The General Staff urged residents to follow safety instructions issued by authorities.",
+          "sources": ["CGTN", "Times Kuwait", "Kuwait MOD"]
+        },
+        {
+          "text": "The U.S. Embassy in Kuwait maintains an active security alert (most recently updated 20 March 2026) advising U.S. citizens to shelter in place during sirens, monitor official channels, and maintain emergency supplies.",
+          "sources": ["U.S. Embassy Kuwait"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "text": "One hostile ballistic missile was intercepted and destroyed within Kuwaiti airspace in the past 24 hours. No casualties or material damage were reported. Spokesperson: Colonel Staff Saud Al-Atwan, Ministry of Defense.",
+          "sources": ["Times Kuwait", "KUNA"]
+        },
+        {
+          "text": "Kuwait's air defenses dealt with 18 hostile drones in the preceding 24-hour cycle, with four intercepted directly and three falling outside the threat zone.",
+          "sources": ["Times Kuwait"]
+        },
+        {
+          "text": "The Ministry of Electricity, Water and Renewable Energy reported seven overhead power transmission lines knocked out of service after shrapnel from interception operations fell in multiple areas, causing partial blackouts in several districts. Repair teams deployed in coordination with security authorities.",
+          "sources": ["Anadolu Agency", "Al Bawaba", "Times Kuwait"]
+        },
+        {
+          "text": "The Ministry of Interior's Explosive Ordnance Disposal (EOD) teams responded to 14 separate falling-debris incidents within a 24-hour window.",
+          "sources": ["Times Kuwait"]
+        },
+        {
+          "text": "Kuwait International Airport remains fully closed to commercial traffic since early March due to cumulative damage to Terminal 1, runway sections, fuel depots, and radar systems. No reopening date has been announced.",
+          "sources": ["IBTimes", "Wego Travel", "Airways Magazine"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Government Advisory",
+          "text": "The Ministry of Interior reiterated calls for national unity and urged citizens and residents to adhere to civil defense instructions. Six individuals were arrested for unauthorized drone use amid heightened security.",
+          "sources": ["Times Kuwait", "MOI Kuwait"]
+        },
+        {
+          "bold_heading": "Power Supply",
+          "text": "Partial outages continue in several governorates due to shrapnel damage to transmission lines. The Ministry of Electricity has deployed emergency repair teams. An earlier substation malfunction in Hawalli/Salmiya compounded grid stress.",
+          "sources": ["Times Kuwait", "Anadolu Agency"]
+        },
+        {
+          "bold_heading": "Airport Status",
+          "text": "Kuwait International Airport (KWI) remains closed indefinitely. The DGCA has suspended all commercial flights. Repairs to runways, terminals, fuel systems, and radar are estimated to take several weeks.",
+          "sources": ["IBTimes", "Wego Travel"]
+        },
+        {
+          "bold_heading": "Border Crossings",
+          "text": "The Nuwaiseeb (Saudi) and Abdali (Iraq) land borders remain open but with extended wait times. Customs has allocated a dedicated lane for Kuwait Airways passengers at Nuwaiseeb to expedite procedures.",
+          "sources": ["Times Kuwait", "U.S. Embassy Kuwait"]
+        },
+        {
+          "bold_heading": "Supply Chain",
+          "text": "No new reports of panic buying or acute grocery shortages in the past 24 hours, though cumulative supply pressures remain elevated with the airport closed and Strait of Hormuz shipping severely disrupted.",
+          "sources": ["Al Jazeera", "UNCTAD"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "President Trump postponed planned strikes on Iranian power plants and energy infrastructure for five days, citing 'productive conversations' toward a ceasefire. Iran's Foreign Ministry denied any dialogue with Washington. Oman, Pakistan, Turkey, and Egypt are involved in mediation. Oil prices fell over 10% on the announcement.",
+          "sources": ["CBS News", "NBC News", "NPR", "Al Jazeera", "Axios"]
+        },
+        {
+          "text": "The US-Israel war against Iran entered Day 25 on 24 March 2026. CENTCOM reported over 9,000 Iranian targets struck and 9,000+ combat flights since operations began on 28 February. Gulf states continue daily interception of Iranian missiles and drones.",
+          "sources": ["CNN", "Al Jazeera", "Jerusalem Post"]
+        },
+        {
+          "text": "The Strait of Hormuz remains effectively closed to commercial shipping. Brent crude peaked at $126/bbl before Monday's diplomatic-driven pullback. Most shipping rerouted via the Cape of Good Hope; leading maritime insurers have withdrawn war risk coverage for the Persian Gulf.",
+          "sources": ["CNBC", "Al Jazeera", "Kpler", "UNCTAD"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Business Continuity",
+          "text": "With Kuwait International Airport closed and airspace shut by NOTAM, staff repatriation and international travel require overland routes to Saudi Arabia and connecting flights. Organizations should review and update evacuation and continuity plans.",
+          "sources": ["U.S. Embassy Kuwait", "Wego Travel"]
+        },
+        {
+          "bold_heading": "Payment Systems and SWIFT",
+          "text": "The Strait of Hormuz closure and ongoing conflict raise the risk of disruptions to cross-border settlement and correspondent banking, particularly for USD-denominated transactions routed through Gulf intermediaries. Monitor Central Bank of Kuwait advisories.",
+          "sources": ["CFR", "UNCTAD"]
+        },
+        {
+          "bold_heading": "Cyber Threat — Elevated",
+          "text": "FINRA, NYDFS, and commercial threat intelligence firms (CrowdStrike, Unit 42, SOCRadar) report heightened risk from Iranian-aligned threat actors targeting financial sector networks. Hydro Kitten (IRGC-linked) has signaled intent to target financial institutions. MuddyWater backdoors were discovered pre-planted in a US bank.",
+          "sources": ["FINRA", "NYDFS", "CrowdStrike", "Palo Alto Unit 42"]
+        },
+        {
+          "bold_heading": "Market Volatility",
+          "text": "Brent crude swung from $126/bbl to a 10%+ decline in a single session on ceasefire speculation. Global equities, FX, and commodity markets remain highly volatile. Risk management desks should maintain elevated margin buffers and liquidity reserves.",
+          "sources": ["CNBC", "Axios", "CBS News"]
+        },
+        {
+          "bold_heading": "Regulatory Watch",
+          "text": "NYDFS issued a formal industry letter on 3 March 2026 reminding financial institutions of heightened cyber threat obligations during the conflict. Institutions should ensure incident response plans are current and tested.",
+          "sources": ["NYDFS"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Investors Are in Denial About the Economic Impact of the Iran War",
+          "author": "Keith Johnson",
+          "publication": "Foreign Policy",
+          "pub_date": "20 March 2026",
+          "summary": "Argues that markets are underpricing the structural damage to Gulf energy infrastructure and global supply chains. Warns that even a short war will leave lasting scars on oil transit routes and insurance markets.",
+          "link": "https://foreignpolicy.com/2026/03/20/iran-war-economy-oil-infrastructure-damage-trump-gulf/"
+        },
+        {
+          "title": "America Has No Good Options in Iran",
+          "author": "Staff (multiple contributors)",
+          "publication": "Foreign Affairs",
+          "pub_date": "March 2026",
+          "summary": "Examines the strategic constraints facing Washington as the Iran conflict enters its fourth week, arguing that military escalation and diplomatic retreat both carry severe risks for Gulf stability and US credibility.",
+          "link": "https://www.foreignaffairs.com/iran/america-has-no-good-options-iran"
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "number": 7,
+      "title": "Cyber & Threat Intelligence",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "FINRA Cybersecurity Alert",
+          "text": "FINRA warned member firms of heightened risks from Iranian threat actors actively targeting US financial institutions and critical infrastructure. No large-scale state-sponsored attacks confirmed yet, but firms urged to elevate monitoring and patch management.",
+          "sources": ["FINRA"]
+        },
+        {
+          "bold_heading": "NYDFS Industry Letter (3 March 2026)",
+          "text": "The New York Department of Financial Services issued a formal cybersecurity advisory reminding regulated financial institutions of obligations to maintain heightened cyber defenses during the conflict, including updated incident response plans and third-party risk assessments.",
+          "sources": ["NYDFS"]
+        },
+        {
+          "bold_heading": "Unit 42 / CrowdStrike / SOCRadar Threat Intelligence",
+          "text": "Palo Alto Unit 42 documented active Iranian phishing campaigns and hacktivist operations. CrowdStrike flagged Hydro Kitten (IRGC-linked) signaling intent to target the financial sector. SOCRadar tracked 60+ active threat groups (53 pro-Iran), with Team 313 claiming an 18-hour disruption of 26 Kuwaiti government domains including defense, health, and electricity infrastructure. MuddyWater pre-positioned backdoors were discovered in a US bank and airport.",
+          "sources": ["Palo Alto Unit 42", "CrowdStrike", "SOCRadar", "Symantec/Broadcom"]
+        }
+      ]
+    }
+  ],
+  "footer": "Report compiled 2026-03-24 at 07:30 UTC+3."
+}
