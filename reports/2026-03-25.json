@@ -1,0 +1,206 @@
+{
+  "date": "2026-03-25",
+  "headline": "25 March 2026",
+  "subtitle": "Day 26 of Operation Epic Fury",
+  "coverage": "25 March 2026 07:00 UTC+3 – 26 March 2026 07:00 UTC+3",
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "text": "Kuwait's air defense sirens were activated multiple times overnight as defense systems engaged incoming missile and drone threats. The General Staff confirmed that explosions heard across the country were the result of interception operations and urged residents to adhere to all safety instructions.",
+          "sources": ["Kuwait MOD", "CGTN", "Times Kuwait"]
+        },
+        {
+          "text": "The Kuwait Civil Defense mobile alert system (launched 20 March 2026) continued issuing tiered notifications to residents, matching alert severity to the threat level.",
+          "sources": ["Kuwait MOI", "Kuwait Times"]
+        },
+        {
+          "text": "The U.S. Embassy in Kuwait remains closed since 20 March 2026 due to the deteriorating security environment. Its standing security alert advises U.S. citizens to shelter in place during sirens and maintain emergency supplies.",
+          "sources": ["U.S. Embassy Kuwait"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "text": "The Kuwait National Guard (KNG) announced on Wednesday 25 March that it successfully intercepted six drones within its areas of responsibility as part of ongoing operations to protect strategic sites and neutralize threats. No casualties reported.",
+          "sources": ["Times Kuwait", "KUNA"]
+        },
+        {
+          "text": "Kuwait's Ministry of Electricity, Water and Renewable Energy reported that seven overhead power transmission lines were knocked out of service in several areas on 24 March due to falling debris from air defense interception operations, causing partial power outages. Repair crews deployed.",
+          "sources": ["Sharjah24", "Gulf News", "Zawya", "Liveuamap"]
+        },
+        {
+          "text": "Kuwait Air Defenses intercepted 9 ballistic missiles and 4 drones in the 24-hour period ending 21 March; cumulative conflict totals now exceed 97 ballistic missiles and 283 drones intercepted since 28 February.",
+          "sources": ["Kuwait Times", "Arab Times"]
+        },
+        {
+          "text": "Saudi Arabia intercepted approximately 20 drones targeting the Eastern Province on 24 March, home to the majority of the kingdom's energy and oil infrastructure.",
+          "sources": ["Al Jazeera", "PBS"]
+        },
+        {
+          "text": "Bahrain's forces have intercepted a cumulative total of 153 missiles and 301 drones since the start of the war on 28 February.",
+          "sources": ["Al Jazeera"]
+        },
+        {
+          "text": "Israel's military reported a new salvo of Iranian missiles late on 24 March, with sirens sounding in Jerusalem and anti-missile defenses activated. Six people were injured in Tel Aviv from earlier attacks that day.",
+          "sources": ["Al Jazeera", "Gulf News", "Haaretz"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Government advisory",
+          "text": "The Ministry of Interior continues to urge national unity and adherence to civil defense instructions. Six individuals were recently arrested for unauthorized drone use amid heightened security restrictions.",
+          "sources": ["Times Kuwait", "MOI Kuwait"]
+        },
+        {
+          "bold_heading": "Power supply",
+          "text": "Partial outages continue in several governorates due to debris damage to seven overhead transmission lines from air defense operations on 24 March. The Ministry of Electricity activated its emergency Alternative Recovery Plans. Desalination plants and power generation remain fully operational with 24/7 monitoring.",
+          "sources": ["Alwast News", "Gulf News", "Arab Times"]
+        },
+        {
+          "bold_heading": "Airport status",
+          "text": "Kuwait International Airport (KWI) remains closed indefinitely to all commercial traffic since early March. Damage to Terminal 1, runway sections, fuel depots, and radar systems prevents reopening. Limited evacuation flights operate from King Fahd International Airport (Dammam) from 26 March, with passengers processed at Al Khiran Mall and bussed to Saudi Arabia.",
+          "sources": ["IBTimes", "Wego Travel", "The Traveler"]
+        },
+        {
+          "bold_heading": "Border crossings",
+          "text": "The Nuwaiseeb (Saudi) land border remains open with extended wait times. The Abdali (Iraq) border is operational. Ground travel to Dammam or Jeddah airports remains the primary international transit option.",
+          "sources": ["U.S. Embassy Kuwait", "Times Kuwait"]
+        },
+        {
+          "bold_heading": "Schools and public events",
+          "text": "No new closures reported in the past 24 hours; standing conflict-period restrictions remain in effect. [SINGLE SOURCE — no fresh KUNA update found on this topic]",
+          "sources": []
+        },
+        {
+          "bold_heading": "Supply chain",
+          "text": "No new reports of acute grocery shortages or panic buying. Cumulative supply pressures remain elevated with airport closure and Strait of Hormuz shipping disruption. Kuwait Petroleum Corporation declared force majeure on oil exports in early March.",
+          "sources": ["CNBC", "Al Jazeera"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "The US-Israel war against Iran entered Day 26 on 25 March 2026. The Pentagon has approved deployment of more than 1,000 soldiers from the 82nd Airborne Division to the Middle East as strikes on Iranian targets continue. Gulf states maintain daily interception of Iranian missiles and drones.",
+          "sources": ["CBS News", "ABC News", "CNN"]
+        },
+        {
+          "text": "President Trump extended his Strait of Hormuz ultimatum by five days, citing 'productive conversations' with Iran. Tehran's Foreign Ministry categorically denied any dialogue with Washington. Pakistan has offered to host talks and is working on a mediation proposal; Oman is also facilitating back-channel communications.",
+          "sources": ["NPR", "CNBC", "CBS News", "NBC News"]
+        },
+        {
+          "text": "The Strait of Hormuz remains effectively closed to commercial shipping. Brent crude peaked at $126/bbl before retreating on ceasefire speculation. The IEA and Dallas Fed assess this as the largest energy supply disruption since the 1970s.",
+          "sources": ["CNBC", "IEA", "Dallas Fed", "Kpler"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Business continuity",
+          "text": "Kuwait International Airport closure and airspace restrictions force all international staff movement via overland routes to Saudi Arabia. Organizations should verify evacuation plans, emergency contact chains, and alternate operating site readiness.",
+          "sources": ["U.S. Embassy Kuwait", "Wego Travel"]
+        },
+        {
+          "bold_heading": "Payment systems and SWIFT",
+          "text": "Prolonged Strait of Hormuz closure and conflict escalation raise risk of disruptions to cross-border settlement and correspondent banking, particularly for USD-denominated Gulf transactions. Monitor Central Bank of Kuwait advisories and counterparty exposure to Gulf-domiciled banks.",
+          "sources": ["CNBC", "UNCTAD"]
+        },
+        {
+          "bold_heading": "Cyber threat — elevated",
+          "text": "Iranian-aligned threat actors and over 60 hacktivist groups are actively targeting Gulf financial infrastructure. DDoS campaigns have hit Kuwaiti government domains (defense, health, finance). Identity systems and endpoint management platforms are emerging as primary attack vectors. Financial institutions should prioritize patching VPNs, edge devices, and identity/enrollment systems.",
+          "sources": ["CrowdStrike", "Unit 42", "SOCRadar", "Cyberwarzone"]
+        },
+        {
+          "bold_heading": "Market volatility",
+          "text": "Oil prices, equities, and FX markets remain highly volatile on alternating escalation and ceasefire signals. Brent crude swung over 10% in a single session. Risk management desks should maintain elevated margin buffers and intraday monitoring.",
+          "sources": ["CNBC", "CBS News", "Axios"]
+        },
+        {
+          "bold_heading": "Infrastructure resilience",
+          "text": "Partial power outages from air defense debris in Kuwait underscore the need to verify backup power, UPS, and generator readiness at all local facilities. Data center and branch continuity plans should account for intermittent grid disruptions.",
+          "sources": ["Gulf News", "Alwast News"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "The Gulf Monarchies Are Caught Between Iran's Desperation and the U.S.'s Recklessness",
+          "author": "Carnegie Endowment staff",
+          "publication": "Carnegie Endowment for International Peace",
+          "pub_date": "March 2026",
+          "summary": "Analyzes how GCC states are trapped between Iranian retaliatory strikes on their territory and a US-led military campaign they did not authorize. Argues the conflict will compel Gulf monarchies to fundamentally restructure their national security doctrines toward deeper US alignment, despite domestic political costs.",
+          "link": "https://carnegieendowment.org/emissary/2026/03/gulf-states-iran-war-security"
+        },
+        {
+          "title": "The Diverging U.S. and Israeli Goals in Iran Are Making the Endgame Even Murkier",
+          "author": "Carnegie Endowment staff",
+          "publication": "Carnegie Endowment for International Peace",
+          "pub_date": "March 2026",
+          "summary": "Examines how Washington and Tel Aviv are pursuing increasingly different objectives in the Iran conflict, with Trump seeking a quick diplomatic exit while Netanyahu pushes for deeper degradation of Iranian military capacity. The divergence risks prolonging the war and destabilizing Gulf energy infrastructure further.",
+          "link": "https://carnegieendowment.org/emissary/2026/03/iran-us-israel-goals-diverge-oil-leaders"
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "number": 7,
+      "title": "Cyber & Threat Intelligence",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Iran-linked identity system targeting (24 March 2026)",
+          "text": "Security analysts report that Iranian cyber operations have shifted focus toward enterprise identity systems, endpoint management platforms, and administrative tooling — compromising enrollment, policy deployment, and authentication mechanisms to disable organizations without touching core products. The Stryker attack (11 March) via its Microsoft environment is cited as the operational template.",
+          "sources": ["Cyberwarzone", "Unit 42"]
+        },
+        {
+          "bold_heading": "DDoS campaigns against Kuwait (ongoing)",
+          "text": "Hider_Nex, a Tunisian group allied with NoName057(16), launched DDoS claims against 18 Kuwaiti government domains on 11 March, targeting defense, health, finance, and civil infrastructure. Keymous Plus conducted parallel operations across six Arab countries under #Op_Epstein_Gulf. Team 313 claimed an 18-hour disruption of 26 Kuwaiti government domains.",
+          "sources": ["SOCRadar", "AGBI"]
+        },
+        {
+          "bold_heading": "CISA endpoint management advisory (18 March 2026)",
+          "text": "CISA issued guidance urging organizations to harden endpoint management systems after the Stryker incident, in which the Iran-linked Handala persona claimed responsibility for disrupting global Microsoft operations at the medical device manufacturer. Handala has since rebounded after FBI domain seizures, demonstrating Iranian cyber infrastructure resilience.",
+          "sources": ["CISA", "Cyberwarzone", "Nextgov"]
+        }
+      ]
+    }
+  ],
+  "footer": "Report compiled 2026-03-25 at 07:30 UTC+3."
+}
