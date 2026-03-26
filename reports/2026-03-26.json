@@ -1,0 +1,204 @@
+{
+  "date": "2026-03-26",
+  "headline": "26 March 2026",
+  "subtitle": "Day 26 of the 2026 Iran War",
+  "coverage": "25 March 2026 07:00 UTC+3 – 26 March 2026 07:00 UTC+3",
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "Siren activations",
+          "text": "Warning sirens were activated 13 times in the past 24 hours, bringing the cumulative total to 131 activations since the conflict began on 28 February 2026.",
+          "sources": ["Kuwait Ministry of Defense via Alwast News", "Kuwait Times"]
+        },
+        {
+          "text": "The Kuwait Ministry of Interior confirmed that any explosions heard are the result of air defense systems intercepting hostile targets and urged residents to follow civil defense guidance.",
+          "sources": ["Kuwait Times"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Kuwait International Airport fuel tank strike",
+          "text": "Iranian drones struck a fuel tank at Kuwait International Airport on 25 March, sparking a fire. Time and exact damage assessment not yet confirmed. Status: confirmed.",
+          "sources": ["Al Jazeera", "NPR", "OPB"]
+        },
+        {
+          "bold_heading": "Air defense interceptions",
+          "text": "Kuwait's air defense systems tracked and intercepted 17 ballistic missiles and 13 hostile drones over the past 24 hours. Explosive disposal teams responded to 13 new reports of falling debris (cumulative total: 511 reports since conflict start). Status: confirmed.",
+          "sources": ["Kuwait Ministry of Defense via Alwast News"]
+        },
+        {
+          "bold_heading": "Power grid damage from interception debris",
+          "text": "Seven overhead power transmission lines went out of service across several areas of Kuwait due to falling shrapnel from air defense operations, causing partial power outages. Four of the seven lines were restored as of 24 March. Status: confirmed.",
+          "sources": ["Anadolu Agency", "Gulf News", "Qatar News Agency"]
+        },
+        {
+          "bold_heading": "UAE interceptions (regional)",
+          "text": "UAE air defenses intercepted five ballistic missiles and 17 UAVs on 24–25 March, bringing cumulative totals to 357 ballistic missiles, 15 cruise missiles, and over 1,800 UAVs engaged since the conflict began. Status: confirmed.",
+          "sources": ["Gulf News"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Government advisories",
+          "text": "The Ministry of Interior continues to advise residents to maintain emergency supplies of food, water, and medications, and to follow siren guidance. The U.S. Embassy in Kuwait maintains a Level 4 \"Do Not Travel\" advisory.",
+          "sources": ["U.S. Embassy Kuwait"]
+        },
+        {
+          "bold_heading": "Electricity and water",
+          "text": "Seven overhead power lines were damaged by interception debris; four have been restored. The Ministry of Electricity, Water and Renewable Energy convened its Emergency Plan Implementation Committee and emphasized system stability. Repair teams are working on the remaining three lines.",
+          "sources": ["Anadolu Agency", "Kuwait Times"]
+        },
+        {
+          "bold_heading": "Airport status",
+          "text": "Kuwait International Airport (KWI) remains closed to all commercial passenger traffic with no reopening date announced. Terminal 1, portions of the runway, fuel depots, and the radar system remain damaged. A new drone strike hit a fuel tank on 25 March.",
+          "sources": ["IBTimes", "Wego Travel Blog", "Al Jazeera"]
+        },
+        {
+          "bold_heading": "Airlines",
+          "text": "Kuwait Airways, Jazeera Airways, Gulf Air, Qatar Airways, Emirates, Turkish Airlines, and other carriers have suspended or cancelled flights to/from Kuwait through late March or April.",
+          "sources": ["Travel and Tour World"]
+        },
+        {
+          "bold_heading": "Border crossings",
+          "text": "The Kuwait–Saudi Arabia land border remains open, allowing ground travel to Saudi airports (Dammam, Jeddah) for connecting flights, though appropriate visas are required. The Iraq border status is unclear due to ongoing military operations in the region.",
+          "sources": ["Wego Travel Blog", "Newland Chase"]
+        },
+        {
+          "bold_heading": "Supply chain",
+          "text": "No specific reports of grocery shortages or panic buying were identified in the past 24 hours, though the U.S. Embassy advisory urges residents to maintain adequate supplies.",
+          "sources": ["U.S. Embassy Kuwait"]
+        },
+        {
+          "bold_heading": "Schools and public events",
+          "text": "No new closure announcements identified in the past 24 hours. Schools and public gatherings have been subject to intermittent closures since the conflict began.",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "Iran rejected the U.S. 15-point ceasefire plan on 25 March, calling it \"extremely maximalist and unreasonable,\" and issued a counterproposal with five conditions including war reparations and recognition of Iranian sovereignty over the Strait of Hormuz; no formal negotiations are under way despite U.S. claims to the contrary.",
+          "sources": ["Al Jazeera", "NPR", "PBS", "CNBC"]
+        },
+        {
+          "text": "Oil prices fell on 25 March after President Trump stated Washington and Tehran are \"in negotiations\" — Brent crude declined 2.2% to $102.22/bbl and WTI slipped 2.2% to $90.32/bbl — but prices remain elevated on a significant geopolitical risk premium.",
+          "sources": ["CNBC"]
+        },
+        {
+          "text": "Strait of Hormuz transit has collapsed approximately 94.2% from a pre-war average of ~120 transits/day to ~6.9, with the U.S. military campaign to reopen the strait ongoing since 19 March.",
+          "sources": ["Windward", "MARAD", "Military Times"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Business continuity",
+          "text": "Kuwait International Airport closure, partial power outages from interception debris, and ongoing missile/drone threat create sustained operational continuity risk for any Kuwait-based operations. Staff relocation and remote working arrangements should remain in effect.",
+          "sources": ["Multiple sources"]
+        },
+        {
+          "bold_heading": "Market and liquidity risk",
+          "text": "Oil price volatility (Brent at ~$102/bbl) and the near-total closure of the Strait of Hormuz (94% transit decline) continue to pressure global energy markets and Gulf-dependent revenue streams. Goldman Sachs has forecast Kuwait GDP could contract 14% in 2026.",
+          "sources": ["CNBC", "Goldman Sachs via AGBI"]
+        },
+        {
+          "bold_heading": "Payments and settlement",
+          "text": "While no specific SWIFT disruption has been reported, the physical damage to Kuwait's telecommunications and power infrastructure elevates the risk of intermittent disruptions to electronic payment processing and cross-border settlement systems.",
+          "sources": ["Assessed based on infrastructure damage reporting"]
+        },
+        {
+          "bold_heading": "Staff safety",
+          "text": "The ongoing missile and drone threat to Kuwait, combined with airport closure, limits evacuation options for expatriate staff. The U.S. Embassy maintains a Level 4 advisory; global banks including Goldman Sachs and Standard Chartered have restricted office attendance in Gulf locations.",
+          "sources": ["U.S. Embassy Kuwait", "Euronews"]
+        },
+        {
+          "bold_heading": "Cyber threat escalation",
+          "text": "Iran-aligned threat actors, including IRGC-linked group Hydro Kitten, have signalled intent to target the financial sector. CrowdStrike warns of potential escalation from nuisance-level hacktivism to coordinated destructive operations against critical infrastructure and financial firms.",
+          "sources": ["CrowdStrike", "Unit 42"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Four Things the Gulf States Will Expect From the U.S. After Trump's Iran War",
+          "author": "Not confirmed (paywall)",
+          "publication": "Foreign Policy",
+          "pub_date": "24 March 2026",
+          "summary": "Gulf states hosting U.S. forces are expected to shift from deference to conditionality, demanding a restructuring of the alliance to reflect the disproportionate risk they now absorb. Three weeks of war have exposed that the protection offered by the U.S. no longer matches the threat these states face from hosting American bases.",
+          "link": "https://foreignpolicy.com/2026/03/24/gulf-states-united-states-iran-trump-war/"
+        },
+        {
+          "title": "Syria's Lessons for Regime Change in Iran",
+          "author": "Not confirmed (paywall)",
+          "publication": "Foreign Policy",
+          "pub_date": "25 March 2026",
+          "summary": "Iran's attacks on Gulf states and quasi-closure of Hormuz reflect a logic aimed at pressuring adversaries, but in doing so the regime is depleting the military and proxy assets that underpin its regional influence. The article draws parallels with the Assad regime's collapse and warns that similar dynamics could accelerate internal fragmentation in Iran.",
+          "link": "https://foreignpolicy.com/2026/03/25/iran-war-trump-regime-change-syria-assad-iraq/"
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "number": 7,
+      "title": "Cyber & Threat Intelligence",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "CISA Cyber Vulnerability Insights Estimate (CVIE)",
+          "text": "CISA published an intelligence summary identifying 136 CVEs that Iranian government-sponsored or linked threat actors have targeted or exploited; over 3,100 U.S. critical infrastructure entities have confirmed exposure. Financial institutions should cross-reference this list with their vulnerability management programs.",
+          "sources": ["CISA via Qualys"]
+        },
+        {
+          "bold_heading": "CrowdStrike — Hydro Kitten financial sector targeting",
+          "text": "CrowdStrike reports that Hydro Kitten, an IRGC-linked APT group, has signalled plans to target the financial sector. While large-scale state-sponsored campaigns have not yet been observed, a surge in Iran-aligned hacktivist activity (60+ active groups) includes denial-of-service operations, defacements, and alleged disruptions across the Middle East and the U.S.",
+          "sources": ["CrowdStrike", "Nextgov/FCW"]
+        },
+        {
+          "bold_heading": "Unit 42 — wiper attack risk and identity weaponization",
+          "text": "Palo Alto Networks' Unit 42 warns of increased wiper attack risk related to the Iran conflict. The Void Manticore/Handala threat actor compromised highly privileged identities and pushed legitimate remote-wipe commands to over 200,000 devices globally via Microsoft Intune. Financial institutions should review Intune and MDM access controls.",
+          "sources": ["Unit 42"]
+        }
+      ]
+    }
+  ],
+  "footer": "Report compiled 2026-03-26 at 07:30 UTC+3."
+}
