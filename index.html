@@ -950,7 +950,7 @@ async function loadReport(date) {
   document.getElementById('main').scrollTo({ top: 0, behavior: 'instant' });
 
   try {
-    const res = await fetch(`reports/${date}.json`);
+    const res = await fetch(`reports/${date}.json`, { cache: 'no-cache' });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
     renderReport(data);
@@ -964,7 +964,7 @@ async function loadReport(date) {
 
 async function init() {
   try {
-    const res = await fetch('reports/index.json');
+    const res = await fetch('reports/index.json', { cache: 'no-cache' });
     if (!res.ok) throw new Error('Index unavailable');
     const dates = await res.json();
     if (!dates.length) throw new Error('No reports found');
