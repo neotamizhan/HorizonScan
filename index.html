@@ -458,6 +458,67 @@ body {
 
 .art-link:hover { background: #dbeafe; border-color: #93c5fd; }
 
+/* Trend Tracker */
+.trend-card {
+  background: var(--card-bg);
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  box-shadow: var(--card-shadow);
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+.trend-head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 18px;
+  background: linear-gradient(135deg, #1e3a5f 0%, #1e40af 100%);
+  color: #fff;
+}
+.trend-head-icon { font-size: 18px; }
+.trend-head-title { font-size: 14px; font-weight: 700; letter-spacing: .5px; text-transform: uppercase; }
+.trend-head-asof  { margin-left: auto; font-size: 11px; opacity: .75; }
+.trend-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.trend-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+.trend-table thead tr {
+  background: #f1f5f9;
+  border-bottom: 2px solid #e2e8f0;
+}
+.trend-table thead th {
+  padding: 9px 14px;
+  text-align: left;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .6px;
+  text-transform: uppercase;
+  color: #64748b;
+  white-space: nowrap;
+}
+.trend-table thead th:not(:first-child) { text-align: center; }
+.trend-table tbody tr { border-bottom: 1px solid var(--border); }
+.trend-table tbody tr:last-child { border-bottom: none; }
+.trend-table tbody tr:hover { background: #f8fafc; }
+.trend-table td {
+  padding: 9px 14px;
+  color: var(--text);
+  vertical-align: middle;
+}
+.trend-table td:not(:first-child) { text-align: center; }
+.trend-metric { font-weight: 500; }
+.trend-val    { font-variant-numeric: tabular-nums; }
+.trend-nr     { color: #94a3b8; font-style: italic; font-size: 12px; }
+.trend-delta-pos { color: #d97706; font-weight: 600; }
+.trend-delta-neg { color: #2563eb; font-weight: 600; }
+.trend-delta-na  { color: #94a3b8; font-size: 12px; }
+.trend-arrow-up   { color: #d97706; font-weight: 700; font-size: 15px; }
+.trend-arrow-down { color: #2563eb; font-weight: 700; font-size: 15px; }
+.trend-arrow-flat { color: #94a3b8; font-weight: 700; font-size: 15px; }
+.trend-insuf  { color: #94a3b8; font-size: 11px; font-style: italic; }
+
 /* Cyber section */
 
 .cyber-card .sec-body { background: #0d1117; padding: 0; }
@@ -597,13 +658,16 @@ body {
 'use strict';
 
 const SECTION_META = {
-  alerts:     { icon: '🚨', color: '#dc2626' },
-  targets:    { icon: '💥', color: '#ea580c' },
-  local:      { icon: '🇰🇼', color: '#16a34a' },
-  regional:   { icon: '🌍', color: '#2563eb' },
-  risk:       { icon: '⚠️',  color: '#d97706' },
-  bigpicture: { icon: '📖', color: '#7c3aed' },
-  cyber:      { icon: '🔐', color: '#059669' },
+  alerts:         { icon: '🚨', color: '#dc2626' },
+  targets:        { icon: '💥', color: '#ea580c' },
+  local:          { icon: '🇰🇼', color: '#16a34a' },
+  regional:       { icon: '🌍', color: '#2563eb' },
+  risk:           { icon: '⚠️',  color: '#d97706' },
+  bigpicture:     { icon: '📖', color: '#7c3aed' },
+  cyber:          { icon: '🔐', color: '#059669' },
+  cyber_tactical: { icon: '🛡️', color: '#ea580c' },
+  cyber_strategic:{ icon: '🔐', color: '#059669' },
+  watchlist:      { icon: '👁️', color: '#7c3aed' },
 };
 
 let activeDate = null;
@@ -754,6 +818,67 @@ function renderArticles(articles) {
     </div>`).join('')}</div>`;
 }
 
+function renderTrendTracker(tt) {
+  if (!tt || !tt.metrics || !tt.metrics.length) return '';
+
+  function valCell(v) {
+    if (v === 'NR' || v === null || v === undefined) return `<span class="trend-nr">NR</span>`;
+    return `<span class="trend-val">${esc(v)}</span>`;
+  }
+
+  function deltaCell(d) {
+    if (d === 'N/A' || d === null || d === undefined) return `<span class="trend-delta-na">—</span>`;
+    if (d === 'No change') return `<span class="trend-delta-na">No change</span>`;
+    const num = parseFloat(d);
+    if (!isNaN(num)) {
+      if (num > 0) return `<span class="trend-delta-pos">+${num}</span>`;
+      if (num < 0) return `<span class="trend-delta-neg">${num}</span>`;
+      return `<span class="trend-delta-na">0</span>`;
+    }
+    return `<span class="trend-delta-na">${esc(d)}</span>`;
+  }
+
+  function trendCell(t) {
+    if (!t || t === 'Insufficient data') return `<span class="trend-insuf">Insufficient data</span>`;
+    if (t === '↑') return `<span class="trend-arrow-up">↑</span>`;
+    if (t === '↓') return `<span class="trend-arrow-down">↓</span>`;
+    if (t === '→') return `<span class="trend-arrow-flat">→</span>`;
+    return `<span class="trend-val">${esc(t)}</span>`;
+  }
+
+  const rows = tt.metrics.map(m => `
+    <tr>
+      <td class="trend-metric">${esc(m.metric)}</td>
+      <td>${valCell(m.today)}</td>
+      <td>${valCell(m.previous)}</td>
+      <td>${deltaCell(m.delta)}</td>
+      <td>${trendCell(m.trend_7d)}</td>
+    </tr>`).join('');
+
+  return `
+  <div class="trend-card">
+    <div class="trend-head">
+      <span class="trend-head-icon">📊</span>
+      <span class="trend-head-title">Trend Tracker</span>
+      ${tt.as_of ? `<span class="trend-head-asof">As of ${esc(tt.as_of)}</span>` : ''}
+    </div>
+    <div class="trend-table-wrap">
+      <table class="trend-table">
+        <thead>
+          <tr>
+            <th>Metric</th>
+            <th>Today</th>
+            <th>Previous</th>
+            <th>Δ</th>
+            <th>7-Day Trend</th>
+          </tr>
+        </thead>
+        <tbody>${rows}</tbody>
+      </table>
+    </div>
+  </div>`;
+}
+
 function renderSection(sec) {
   const meta    = SECTION_META[sec.id] || { icon: '📋', color: '#94a3b8' };
   const isCyber = sec.id === 'cyber';
@@ -808,6 +933,7 @@ function renderReport(data) {
     <div class="report-prepared-for"><em>Prepared for: Technology Risk Management of a Major Financial Institution</em></div>
     ${renderJumpBar(data.sections)}
     <div class="divider"></div>
+    ${renderTrendTracker(data.trend_tracker)}
     ${data.sections.map(renderSection).join('\n')}
     ${data.footer ? `<div class="report-footer">${esc(data.footer)}</div>` : ''}
   `;
