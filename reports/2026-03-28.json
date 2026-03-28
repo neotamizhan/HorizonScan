@@ -123,6 +123,11 @@
           "sources": ["CNN", "NPR", "Jerusalem Post"]
         },
         {
+          "bold_heading": "Bahrain — Muharraq fire from Iranian attack (27 March)",
+          "text": "An Iranian missile or drone strike caused a fire in the Muharraq district of Bahrain. Civil defense teams extinguished the blaze; no casualties reported. Sirens sounded across Bahrain on Thursday morning as air defenses continued intercepting incoming threats. Bahrain has intercepted a cumulative 125+ missiles and 211+ drones since the conflict began. Status: confirmed.",
+          "sources": ["The National", "NPR", "Al Jazeera", "Bahrain Interior Ministry"]
+        },
+        {
           "bold_heading": "Israel — Tel Aviv missile strike (28 March)",
           "text": "A missile fired from Iran toward Israel killed one person in Tel Aviv. The IAF reported intercepting over 90% of drones launched by Iran and Hezbollah. Status: confirmed.",
           "sources": ["Jerusalem Post", "CNN"]
