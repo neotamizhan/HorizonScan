@@ -948,6 +948,9 @@ async function loadReport(date) {
   setActive(date);
   showLoading();
   document.getElementById('main').scrollTo({ top: 0, behavior: 'instant' });
+  const url = new URL(location.href);
+  url.searchParams.set('date', date);
+  history.pushState({ date }, '', url);
 
   try {
     const res = await fetch(`reports/${date}.json`, { cache: 'no-cache' });
@@ -969,7 +972,9 @@ async function init() {
     const dates = await res.json();
     if (!dates.length) throw new Error('No reports found');
     buildNav(dates);
-    await loadReport(dates[0]);
+    const param = new URLSearchParams(location.search).get('date');
+    const initial = param && dates.includes(param) ? param : dates[0];
+    await loadReport(initial);
   } catch (e) {
     showError('Could not load the report index. Check that reports/index.json exists.');
   }
