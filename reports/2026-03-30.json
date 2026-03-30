@@ -1,0 +1,399 @@
+{
+  "date": "2026-03-30",
+  "headline": "30 March 2026",
+  "subtitle": "Day 31 of the 2026 Iran War",
+  "report_number": 20,
+  "coverage": "29 March 2026 07:00 UTC+3 – 30 March 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-03-30",
+    "metrics": [
+      {
+        "metric": "Siren activations (24h)",
+        "today": 13,
+        "previous": 13,
+        "delta": 0,
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Missile/drone interceptions (24h)",
+        "today": 26,
+        "previous": 18,
+        "delta": 8,
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "Debris reports (cumulative)",
+        "today": 576,
+        "previous": 563,
+        "delta": 13,
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "Brent crude ($/bbl)",
+        "today": 116.12,
+        "previous": 112.57,
+        "delta": 3.55,
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "WTI crude ($/bbl)",
+        "today": 102.96,
+        "previous": 99.64,
+        "delta": 3.32,
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "Strait of Hormuz transits/day",
+        "today": 7,
+        "previous": 5,
+        "delta": 2,
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Infrastructure items damaged (cumulative)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "N/A",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "KWI airport status",
+        "today": "Closed",
+        "previous": "Closed",
+        "delta": "No change",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Days since last confirmed cyber incident (Gulf FS)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "N/A",
+        "trend_7d": "Insufficient data"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "text": "Air raid sirens were activated across Kuwait early Sunday as Iranian missile and drone attacks continued. Kuwait's Ministry of Defense confirmed engagement of \"hostile missile and drone attacks\" and urged residents to follow civil defense shelter-in-place protocols.",
+          "sources": ["KUNA", "Kuwait Ministry of Defense", "Business Standard", "ANI"]
+        },
+        {
+          "text": "The Kuwait Defense Ministry reported detecting 14 missiles and 12 drones in Kuwaiti airspace during the overnight period (Saturday evening into Sunday morning), with air defense systems engaging incoming threats. Ten servicemen were injured at a military camp and hospitalized.",
+          "sources": ["Al Jazeera", "Anadolu Agency", "BERNAMA"]
+        },
+        {
+          "bold_heading": "Cumulative siren activations since conflict began: ~196",
+          "text": "Estimated based on ~183 cumulative as of 29 March plus continued activations on 29–30 March.",
+          "sources": ["Kuwait Ministry of Defense", "Al Jazeera", "Business Standard"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Kuwait — power and desalination plant struck (29 March, late evening)",
+          "text": "An Iranian strike hit a service building at a power generation and water desalination plant in Kuwait, killing one Indian worker and causing significant material damage. Kuwait's Ministry of Electricity confirmed emergency response teams were dispatched; the plant continued operating. Status: confirmed.",
+          "sources": ["Al Jazeera", "Anadolu Agency", "Deccan Chronicle", "WION News"]
+        },
+        {
+          "bold_heading": "Kuwait — military camp casualties (29–30 March)",
+          "text": "Ten Kuwaiti servicemen were injured during overnight Iranian missile and drone attacks and were hospitalized. The Kuwait Defense Ministry reported 14 missiles and 12 drones detected in Kuwaiti airspace. Status: confirmed.",
+          "sources": ["Al Jazeera", "BERNAMA"]
+        },
+        {
+          "bold_heading": "Israel — Houthi drone interceptions (30 March)",
+          "text": "Israel intercepted two drones fired by Yemen's Houthis, marking the second day of Houthi attacks on Israel since their formal entry into the conflict on 28 March. Status: confirmed.",
+          "sources": ["Al Jazeera", "CNN"]
+        },
+        {
+          "bold_heading": "Iran — US-Israeli strikes on Tabriz petrochemical plant (29–30 March)",
+          "text": "US-Israeli strikes targeted a petrochemical plant in Iran's Tabriz region. Power outages were reported across parts of Tehran following the strikes. Status: confirmed.",
+          "sources": ["Al Jazeera"]
+        },
+        {
+          "bold_heading": "Gulf-wide — continued interceptions (29–30 March)",
+          "text": "Air raid sirens were activated across Kuwait, Bahrain, and Israel early Sunday amid ongoing Iranian missile and drone threats. Gulf air defense systems continued engaging incoming projectiles. Status: confirmed.",
+          "sources": ["Business Standard", "ANI", "Times of Oman"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Desalination plant attack",
+          "text": "A power and water desalination plant service building was struck by Iranian fire late Sunday, killing one Indian worker. Kuwait is 90% dependent on desalination for drinking water, making any damage to these facilities critically important. The Ministry of Electricity confirmed the facility continued operating under emergency protocols.",
+          "sources": ["Al Jazeera", "Anadolu Agency", "WION News"]
+        },
+        {
+          "bold_heading": "Military casualties",
+          "text": "Ten servicemen were injured overnight and hospitalized. The cumulative total of Kuwaiti Army servicemen wounded since the conflict began is approximately 77.",
+          "sources": ["Al Jazeera", "Wikipedia"]
+        },
+        {
+          "bold_heading": "Electricity and water infrastructure",
+          "text": "Four of seven overhead power transmission lines damaged on 24 March have been restored; repair crews continue working on the remaining three. The new desalination plant strike adds to cumulative infrastructure pressure.",
+          "sources": ["Arab Times", "Al Jazeera"]
+        },
+        {
+          "bold_heading": "Airport status",
+          "text": "Kuwait International Airport (KWI) remains closed to all commercial passenger traffic with no reopening date announced. Terminal 1, runway sections, fuel depots, and radar remain damaged.",
+          "sources": ["IBTimes"]
+        },
+        {
+          "bold_heading": "Supply chain corridor",
+          "text": "Jazeera Airways cargo flights via Qaisumah Airport (Saudi Arabia) continue as the primary air-freight alternative. Saudi land ports recorded over 15,600 truck crossings to Kuwait between 1–25 March via Al-Khafji and Al-Raq'e crossings. Saudi Arabia launched GCC storage and redistribution zones at King Abdulaziz Port (Dammam) and exempted GCC imports from storage fees for 60 days.",
+          "sources": ["Arab News", "Trade Arabia", "Expeditors"]
+        },
+        {
+          "bold_heading": "Evacuation",
+          "text": "Limited evacuation flights continue from King Fahd International Airport (Dammam, Saudi Arabia). The U.S. Embassy in Kuwait remains closed since 20 March.",
+          "sources": ["U.S. Embassy Kuwait", "Travel and Tour World"]
+        },
+        {
+          "bold_heading": "Border crossings",
+          "text": "Nuwaiseeb (Kuwait–Saudi Arabia) land border remains open with extended wait times. Abdali (Iraq) border reported operational but conditions unclear. [SINGLE SOURCE on Iraq border]",
+          "sources": ["U.S. Embassy Kuwait"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "Pakistan hosted a four-nation foreign ministers' meeting (Pakistan, Turkey, Egypt, Saudi Arabia) in Islamabad on 29–30 March to align regional positions ahead of potential direct US-Iran engagement. Officials indicated a Rubio-Araghchi meeting could occur \"within days,\" with the next 48–72 hours seen as critical. Iran's parliament speaker Qalibaf dismissed the talks as cover for US military buildup.",
+          "sources": ["Al Jazeera", "Fortune", "NPR"]
+        },
+        {
+          "text": "Trump told the Financial Times on Sunday that his \"favourite thing is to take the oil in Iran\" and that the US may seize Kharg Island, which handles 90% of Iran's oil exports. Thousands of additional Marines and paratroopers have arrived in the Persian Gulf region, including an amphibious assault team that arrived Saturday.",
+          "sources": ["Bloomberg", "Financial Times", "India TV", "NPR"]
+        },
+        {
+          "text": "The conflict death toll has surpassed 3,000 across the region. Iran's internet blackout continues past day 31 (~1–4% connectivity). The April 6 deadline for US strikes on Iran's energy infrastructure remains the near-term market-moving event.",
+          "sources": ["Fortune", "Unit 42", "CNN"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Business continuity",
+          "text": "The strike on a Kuwait desalination/power plant — the first confirmed civilian infrastructure fatality from a direct Iranian strike in this reporting period — escalates the threat to essential services. Staff safety protocols and remote working arrangements should remain in effect; facility-dependent operations should update contingency plans.",
+          "sources": ["Al Jazeera", "Anadolu Agency"]
+        },
+        {
+          "bold_heading": "Market and liquidity risk",
+          "text": "Oil prices surged at Monday's Asian open — Brent +3.2% to $116.12/bbl, WTI +3.4% to $102.96/bbl — driven by Houthi escalation, Trump's Kharg Island comments, and continued Hormuz disruption. Brent is heading for a record monthly jump. Expect elevated volatility through the April 6 energy strike deadline.",
+          "sources": ["CNBC"]
+        },
+        {
+          "bold_heading": "Payments and settlement",
+          "text": "Three of seven damaged power transmission lines remain unrepaired. The new desalination plant strike adds to the fragility of Kuwait's power grid, elevating the risk of intermittent disruptions to electronic payment processing and trade finance operations. No specific SWIFT disruption reported.",
+          "sources": ["Assessed based on infrastructure damage reporting"]
+        },
+        {
+          "bold_heading": "Staff safety",
+          "text": "Overnight attacks injured 10 servicemen and killed one civilian worker. Airport remains closed; overland evacuation via Saudi Arabia is the only option. The Houthis' continued attacks on Israel add a southern threat vector that could extend to Gulf maritime routes.",
+          "sources": ["Multiple sources"]
+        },
+        {
+          "bold_heading": "Cyber threat — elevated",
+          "text": "Iran's internet blackout (day 31) continues to suppress but not eliminate state-sponsored cyber operations. Unit 42 warns that connectivity restoration — likely accompanying any ceasefire — would trigger a surge in coordinated campaigns. Hydro Kitten (IRGC-linked) has signalled plans to target the financial sector. The CVE-2025-53521 (F5 BIG-IP APM) patch deadline passed yesterday (30 March).",
+          "sources": ["Unit 42", "CrowdStrike", "CISA"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Can America and Iran Reach a Cease-Fire?",
+          "author": "Ellie Geranmayeh",
+          "publication": "Foreign Affairs",
+          "pub_date": "March 2026",
+          "access": "Paywall",
+          "summary": "Argues that unless both Washington and Tehran make significant concessions, the current diplomatic deadlock will persist and the US risks being drawn into a ground invasion. The piece examines the structural challenges of mediating between Trump's maximalist 15-point plan and Iran's counterproposals.",
+          "relevance": "Directly frames the ceasefire timeline risk — a protracted diplomatic stalemate extends the period of Hormuz disruption, elevated oil prices, and Iranian strikes on Gulf infrastructure that threaten Kuwait-based financial operations.",
+          "link": "https://www.foreignaffairs.com/can-america-and-iran-reach-cease-fire"
+        },
+        {
+          "title": "The War in Iran Could Become Like the War in Ukraine",
+          "author": "James F. Jeffrey",
+          "publication": "Foreign Affairs",
+          "pub_date": "March 2026",
+          "access": "Paywall",
+          "summary": "Argues that Iran's fierce asymmetric response has created a war of attrition resembling the Ukraine conflict, with no clear path to decisive US victory. Suggests Washington may need to accept a compromise including permanent limits on enrichment, removal of highly enriched uranium, and missile caps.",
+          "relevance": "A prolonged war-of-attrition scenario implies sustained disruption to Gulf trade corridors, persistent missile threats to Kuwait, and an extended period of elevated operational risk for financial institutions in the region.",
+          "link": "https://www.foreignaffairs.com/iran/war-iran-could-become-war-ukraine"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "CVE-2025-53521 patch deadline passed (30 March)",
+          "text": "CISA's remediation deadline for the critical F5 BIG-IP APM vulnerability (CVSS 9.8/9.3) was Sunday 30 March. A China-linked nation-state actor continues actively exploiting this flaw for unauthenticated remote code execution. Organizations that have not patched face immediate elevated risk.",
+          "cve_ids": ["CVE-2025-53521"],
+          "threat_actor": "China-linked nation-state",
+          "recommended_action": "Patch BIG-IP APM immediately; review systems for webshell indicators and SELinux modifications; report to CISA if compromise is suspected.",
+          "sources": ["CISA", "Help Net Security"],
+          "url": "https://www.helpnetsecurity.com/2026/03/28/big-ip-apm-vulnerability-cve-2025-53521-exploited/"
+        },
+        {
+          "bold_heading": "Unit 42 Threat Brief — conflict-themed phishing surge (updated 26 March)",
+          "text": "Palo Alto Networks' Unit 42 identifies 7,381+ conflict-themed phishing URLs spanning 1,881 unique hostnames. Financial fraud campaigns exploit 'Emirates'-branded domains; crypto/investment scams use 'Dubai'-branded domains. The Void Manticore/Handala wiper threat via Microsoft Intune remains active.",
+          "cve_ids": [],
+          "threat_actor": "Multiple (Handala/Void Manticore, unattributed phishing operators)",
+          "recommended_action": "Update email gateway and web proxy blocklists with Unit 42's published IOCs; reinforce user awareness of conflict-themed lures; validate Intune/MDM access controls.",
+          "sources": ["Unit 42"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        },
+        {
+          "bold_heading": "DDoS and APT campaigns against Gulf financial infrastructure (ongoing)",
+          "text": "Iran-linked threat actors continue DDoS campaigns, APT infiltration, and spear-phishing targeting senior executives across Kuwait, UAE, Saudi Arabia, and Qatar banking sectors. Banking apps and government portals have experienced multi-day outages. HSBC closed all branches in Qatar; Citigroup moved Dubai staff to remote work.",
+          "cve_ids": [],
+          "threat_actor": "Iran-linked (unspecified groups)",
+          "recommended_action": "Verify DDoS mitigation is active on all public-facing services; review executive account security; monitor for credential harvesting.",
+          "sources": ["Security MEA", "Euronews"],
+          "url": "https://securitymea.com/2026/03/25/iran-linked-cyber-threats-to-gulf-critical-infrastructure-rising/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "CrowdStrike — Hydro Kitten financial sector targeting signal",
+          "text": "CrowdStrike reports that Hydro Kitten (IRGC-linked APT) has signalled plans to target the financial sector. A surge in Iran-aligned hacktivist activity (60+ active groups) includes DDoS operations, defacements, and alleged disruptions. Russian hacker groups have increased activity in support of Tehran.",
+          "threat_actor": "Hydro Kitten (IRGC-linked)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["CrowdStrike", "Nextgov/FCW"],
+          "url": "https://www.nextgov.com/cybersecurity/2026/03/intelligence-firms-watch-uptick-iran-cyber-activity-after-us-israel-strikes/411802/"
+        },
+        {
+          "bold_heading": "Iran internet blackout — day 31, suppressing but not eliminating state cyber ops",
+          "text": "Iran remains at ~1–4% internet connectivity. Unit 42 assesses this is mitigating near-term state-sponsored campaigns but warns that connectivity restoration — likely accompanying any ceasefire — would trigger a coordinated surge targeting financial institutions as high-probability spillover targets.",
+          "threat_actor": "Iranian state-sponsored (general)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["Unit 42"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        },
+        {
+          "bold_heading": "WEF assessment — conflict-linked cyber escalation",
+          "text": "The World Economic Forum highlighted the cyber impact of the Middle East conflict, noting accelerating activity from 60+ threat groups aligned with the conflict. Financial services and critical infrastructure remain primary targets. The assessment warns of spillover effects beyond direct combatants.",
+          "threat_actor": "Multiple",
+          "assessed_likelihood": "Moderate",
+          "sources": ["World Economic Forum"],
+          "url": "https://www.weforum.org/stories/2026/03/cyber-impact-conflict-middle-east-other-cybersecurity-news-march-2026/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Islamabad diplomatic outcome — 48-hour window",
+          "why_it_matters": "The four-nation foreign ministers' meeting concludes Monday; officials indicated the next 48–72 hours will determine whether direct Rubio-Araghchi talks materialize, potentially shifting the conflict trajectory.",
+          "related_section": "Section 4 / Section 5"
+        },
+        {
+          "text": "Trump Kharg Island rhetoric — market reaction",
+          "why_it_matters": "Trump's Financial Times interview signalling potential seizure of Kharg Island (90% of Iran's oil exports) could drive further oil price escalation when European and US markets open Monday.",
+          "related_section": "Section 4 / Section 5"
+        },
+        {
+          "text": "Kuwait desalination infrastructure — follow-on attacks",
+          "why_it_matters": "The confirmed strike on a Kuwait power/desalination plant raises the risk of further targeting of water infrastructure; Kuwait's 90% desalination dependency makes this an existential vulnerability.",
+          "related_section": "Section 2 / Section 3"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    {
+      "section": "1 — Alerts & Sirens",
+      "source_count": 4,
+      "confidence": "High",
+      "note": null
+    },
+    {
+      "section": "2 — Targets & Incidents",
+      "source_count": 6,
+      "confidence": "High",
+      "note": null
+    },
+    {
+      "section": "3 — Kuwait Local",
+      "source_count": 6,
+      "confidence": "Medium",
+      "note": "No fresh KUNA updates found on grocery supply or school closures. Iraq border status based on single source."
+    },
+    {
+      "section": "4 — Regional Context",
+      "source_count": 6,
+      "confidence": "High",
+      "note": null
+    },
+    {
+      "section": "5 — Risk Signal",
+      "source_count": 5,
+      "confidence": "High",
+      "note": null
+    },
+    {
+      "section": "7A — Cyber Tactical",
+      "source_count": 4,
+      "confidence": "High",
+      "note": null
+    },
+    {
+      "section": "7B — Cyber Strategic",
+      "source_count": 3,
+      "confidence": "Medium",
+      "note": "Strategic cyber items based on vendor assessments and general trend reports; no Gulf-specific CERT advisories found for the past 24 hours."
+    }
+  ],
+  "footer": "Report #20 compiled 2026-03-30 at 07:30 UTC+3."
+}
