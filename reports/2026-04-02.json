@@ -1,0 +1,320 @@
+{
+  "date": "2026-04-02",
+  "headline": "02 April 2026",
+  "subtitle": "Oil surges as Trump vows 'Stone Ages'; Mina al-Ahmadi refinery hit again; Italian NATO aircraft destroyed at Ali Al Salem",
+  "report_number": "23",
+  "coverage": "01 April 2026 07:00 UTC+3 – 02 April 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-04-02",
+    "metrics": [
+      { "metric": "Siren activations (24h)", "today": "~13", "previous": "~13", "delta": "~0", "trend_7d": "→" },
+      { "metric": "Missile/drone interceptions (24h)", "today": "~26", "previous": "~19", "delta": "+7", "trend_7d": "↑" },
+      { "metric": "Debris reports (cumulative)", "today": "~615", "previous": "~602", "delta": "+13", "trend_7d": "↑" },
+      { "metric": "Brent crude ($/bbl)", "today": "107.94", "previous": "105.20", "delta": "+2.74", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "105.27", "previous": "102.90", "delta": "+2.37", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~8", "previous": "~8", "delta": "0", "trend_7d": "→" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "KWI airport status", "today": "Closed", "previous": "Closed", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "Air raid sirens were activated across Kuwait overnight (1–2 April) as Iranian missile and drone attacks continued for a fourth consecutive night. Kuwait's air defense systems engaged multiple incoming threats. Mobile civil defense alerts were again pushed to the public via the Ministry of Interior's notification system.",
+          "sources": ["KUNA", "Kuwait Ministry of Defense", "Al Jazeera day 34 liveblog"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Kuwait's National Guard shot down four drones during overnight operations. The Ministry of Defense confirmed interceptions of approximately 15 drones and 3 cruise missiles in one engagement, and 6 additional drones and 2 cruise missiles in separate events during the April 1 overnight period — the heaviest assault of the past week.",
+          "sources": ["FDD Long War Journal", "Al Jazeera day 34 liveblog", "Wikipedia timeline"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Cumulative siren activations since conflict began: ~235 (estimated based on ~222 cumulative as of 1 April plus continued activations on 1–2 April).",
+          "sources": ["Kuwait Ministry of Defense", "Al Jazeera"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Kuwait — Mina al-Ahmadi refinery struck by drone (1–2 April, overnight local)",
+          "text": "A drone hit the Mina al-Ahmadi refinery, causing a small fire. This is the third strike on the facility since March 19. The refinery processes approximately 730,000 bbl/day. No casualties reported. Emergency response teams contained the blaze. Status: confirmed.",
+          "sources": ["Al Jazeera", "Times of Israel liveblog", "Gulf News", "OilPrice.com"]
+        },
+        {
+          "bold_heading": "Kuwait — Ali Al Salem Air Base Italian garrison struck (1–2 April)",
+          "text": "Iranian drones and missiles struck the Italian garrison at Ali Al Salem Air Base, destroying one General Atomics MQ-9 Reaper combat drone belonging to the Italian Army and damaging two Italian Eurofighter Typhoons with shrapnel. No Italian casualties reported. Status: confirmed. [SINGLE SOURCE on Italian equipment details]",
+          "sources": ["FDD Long War Journal", "Wikipedia timeline"]
+        },
+        {
+          "bold_heading": "Kuwait — 10 soldiers injured at military camp (1–2 April)",
+          "text": "Ballistic missiles and drones hit a Kuwaiti military camp, injuring 10 service members. The Ministry of Defense confirmed the injuries. Status: confirmed.",
+          "sources": ["FDD Long War Journal", "Al Jazeera day 34 liveblog"]
+        },
+        {
+          "bold_heading": "Kuwait — two civilians injured by interception debris (1–2 April)",
+          "text": "Two minor injuries reported from falling shrapnel during interception operations overnight. Both received medical treatment. Status: confirmed.",
+          "sources": ["Al Jazeera day 34 liveblog"]
+        },
+        {
+          "bold_heading": "Kuwait — Al Salmi oil tanker struck by drone (31 March–1 April)",
+          "text": "The Kuwaiti oil tanker Al Salmi was attacked by an Iranian drone, causing damage to its hull. No crew injuries reported, but fears of oil spill remain. Status: confirmed. [TIMESTAMP UNCONFIRMED — first reported in this coverage window]",
+          "sources": ["FDD Long War Journal", "Wikipedia timeline"]
+        },
+        {
+          "bold_heading": "Qatar — QatarEnergy tanker Aqua 1 hit by cruise missile (1 April)",
+          "text": "Three cruise missiles were fired at Qatar; two were intercepted by Qatari defenses while the third struck the QatarEnergy-contracted tanker Aqua 1, located 31 km north of Ras Laffan. Damage above waterline; all 21 crew evacuated safely. No environmental impact reported. Iran reportedly gave Qatar advance notice. Status: confirmed.",
+          "sources": ["Qatar Ministry of Defense", "QatarEnergy", "Al Arabiya", "Times of Israel", "Euronews", "The Peninsula Qatar"]
+        },
+        {
+          "bold_heading": "Israel — major missile barrage from Iran (1–2 April)",
+          "text": "Iran launched one of its largest missile barrages in weeks at central Israel after Trump's national address. At least 14 people injured. Status: confirmed.",
+          "sources": ["Al Jazeera day 34 liveblog", "NBC News"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Airport status",
+          "text": "Kuwait International Airport (KWI) remains closed to all commercial passenger traffic with no reopening date announced. Fuel depot fire from the 1 April KAFCO drone strike has been extinguished. Cumulative damage: Terminal 1, runway sections, fuel depots, and radar systems. Kuwait Airways continues limited services via Dammam.",
+          "sources": ["KUNA", "IBTimes", "Al Jazeera day 34 liveblog"]
+        },
+        {
+          "bold_heading": "Oil infrastructure",
+          "text": "Mina al-Ahmadi refinery hit overnight for the third time since March 19. Fire contained; no production figures released but the facility handles ~730,000 bbl/day. The Al Salmi oil tanker sustained hull damage from an Iranian drone.",
+          "sources": ["Al Jazeera", "Gulf News", "FDD Long War Journal"]
+        },
+        {
+          "bold_heading": "Power grid",
+          "text": "Six power transmission lines knocked out on 1 April remain under repair, compounding three lines still unrepaired from 24 March. Cumulative grid strain continues. Ministry of Electricity crews deployed.",
+          "sources": ["CGTN", "Arab Times", "Al Jazeera"]
+        },
+        {
+          "bold_heading": "Military casualties",
+          "text": "10 soldiers injured at a military camp overnight. Cumulative conflict toll: 4 military killed, 67+ wounded; 32+ civilians injured.",
+          "sources": ["FDD Long War Journal", "Wikipedia — 2026 Iranian strikes on Kuwait"]
+        },
+        {
+          "bold_heading": "Border crossings and evacuation",
+          "text": "Nuwaiseeb (Kuwait–Saudi) land border remains open with extended wait times. U.S. Embassy Kuwait issued a security alert on 1 April urging citizens to depart overland while options remain available. Bus routes via Nuwaiseeb-Khafji and Salmi-Raqi continue operating.",
+          "sources": ["U.S. Embassy Kuwait", "Times Kuwait", "KUNA"]
+        },
+        {
+          "bold_heading": "Civil defense",
+          "text": "Kuwait MOI civil defense siren network remains active; residents advised to familiarize themselves with shelter procedures at moi.gov.kw/civildefense.",
+          "sources": ["U.S. Embassy Kuwait", "Kuwait MOI"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "Trump addressed the nation on 1 April, claiming 'overwhelming victories' and that war objectives are 'nearing completion.' He vowed to hit Iran 'extremely hard over the next two to three weeks' and 'bring them back to the Stone Ages.' Trump claimed Iran's president requested a ceasefire; Iran's foreign ministry called this 'false and baseless.' The Strait of Hormuz must be 'open, free and clear' before the U.S. will consider talks.",
+          "sources": ["Al Jazeera day 34 liveblog", "CNN", "CNBC", "NBC News", "CBS News", "White House statement"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Iran fired a major missile barrage at Israel and struck a QatarEnergy tanker off Ras Laffan, demonstrating continued offensive capability despite 34 days of US-Israeli air campaign. Conflict toll now exceeds 2,000 killed in Iran, 20 in Israel, 13 US soldiers, and 26+ in Gulf states.",
+          "sources": ["Al Jazeera day 34 liveblog", "Qatar MOD", "Times of Israel"]
+        },
+        {
+          "bold_heading": null,
+          "text": "The April 6 deadline for US strikes on Iran's energy infrastructure is now 4 days away. Trump's 'Stone Ages' rhetoric and refusal to negotiate without Hormuz reopening signals the deadline is more likely to be enforced than extended, barring a dramatic diplomatic breakthrough.",
+          "sources": ["CNBC", "White House", "Yahoo Finance"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Oil price surge",
+          "text": "Brent spiked to $107.94/bbl (+6.71%) and WTI to $105.27/bbl (+5.15%) on 2 April — the sharpest single-day rally since mid-March. Drivers: Trump's 'Stone Ages' rhetoric, Mina al-Ahmadi refinery strike, and April 6 energy deadline approaching. A strike on Kharg Island or Iran's remaining energy infrastructure would trigger a further step-change in prices.",
+          "sources": ["Trading Economics", "OilPrice.com", "CNBC"]
+        },
+        {
+          "bold_heading": "Refinery hit — energy supply risk",
+          "text": "The third strike on Mina al-Ahmadi (730,000 bbl/day capacity) raises the risk of sustained production disruption at Kuwait's largest refinery. Institutions should assess exposure to domestic fuel supply disruption and downstream petrochemical impacts.",
+          "sources": ["Al Jazeera", "Gulf News"]
+        },
+        {
+          "bold_heading": "Military escalation — Italian NATO assets hit",
+          "text": "The destruction of an Italian MQ-9 Reaper and damage to two Eurofighter Typhoons at Ali Al Salem marks the first confirmed loss of NATO member military aircraft in Kuwait. This could trigger escalatory NATO consultations under Article 4/5, widening the conflict's political scope.",
+          "sources": ["FDD Long War Journal"]
+        },
+        {
+          "bold_heading": "Maritime risk — tanker attacks expanding",
+          "text": "The Al Salmi (Kuwait) and Aqua 1 (Qatar) tanker strikes signal Iran's willingness to target Gulf-flagged commercial shipping outside the Strait of Hormuz — a new vector for maritime insurance and trade finance exposure.",
+          "sources": ["Qatar MOD", "FDD Long War Journal"]
+        },
+        {
+          "bold_heading": "April 6 deadline — 4 days",
+          "text": "Trump's refusal to negotiate without Hormuz reopening, combined with 'bring them back to the Stone Ages' rhetoric, increases the probability of strikes on Iran's energy grid. Failure to extend the deadline would trigger severe market dislocation. Institutions should review contingency triggers for extreme oil price scenarios ($120+ Brent).",
+          "sources": ["CNBC", "White House", "Yahoo Finance"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Why Escalation Favors Iran",
+          "author": "Robert A. Pape",
+          "publication": "Foreign Affairs",
+          "pub_date": "April 2026",
+          "access": "Paywall",
+          "summary": "Argues that Iran is pursuing a strategy of 'horizontal escalation' — widening the geographic and political scope of the conflict to alter the calculus of a more powerful adversary. Draws parallels with Vietnam and Serbia, where weaker combatants frustrated US war aims by multiplying arenas of risk.",
+          "relevance": "Directly validates the assumption that Iran will continue targeting Gulf infrastructure and commercial shipping to raise costs for US allies — the core risk driver for Kuwait-based financial institutions.",
+          "link": "https://www.foreignaffairs.com/iran/why-escalation-favors-iran"
+        },
+        {
+          "title": "Can America and Iran Reach a Cease-Fire?",
+          "author": "Not confirmed (behind paywall)",
+          "publication": "Foreign Affairs",
+          "pub_date": "April 2026",
+          "access": "Paywall",
+          "summary": "Examines the structural barriers to a ceasefire, including Iran's counter-proposals to Trump's 15-point plan, the Strait of Hormuz stalemate, and the absence of a credible mediator acceptable to both sides. Assesses that unless both sides make concessions, the deadlock will persist.",
+          "relevance": "Informs planning horizons — a near-term ceasefire remains unlikely, meaning operational continuity plans should assume sustained conflict conditions through at least mid-April.",
+          "link": "https://www.foreignaffairs.com/can-america-and-iran-reach-cease-fire"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "CVE-2026-3055 — Citrix NetScaler out-of-bounds read (CISA deadline: TODAY)",
+          "text": "CISA mandated federal agency patching by today. Unauthenticated remote attackers can exploit this vulnerability to steal sensitive information from Citrix ADC or Gateway appliances configured as SAML identity providers. Confirmed active exploitation in the wild.",
+          "cve_ids": ["CVE-2026-3055"],
+          "threat_actor": null,
+          "recommended_action": "Patch Citrix NetScaler immediately — deadline is today. Review access logs for exploitation indicators; apply network segmentation to limit lateral movement.",
+          "sources": ["CISA"],
+          "url": "https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+          "bold_heading": "CVE-2026-33017 — Langflow code injection (CISA deadline: 8 April 2026)",
+          "text": "Critical code injection vulnerability in Langflow, a popular LLM workflow framework. Confirmed active exploitation. Any institution using Langflow for AI/ML workflows should treat this as urgent.",
+          "cve_ids": ["CVE-2026-33017"],
+          "threat_actor": null,
+          "recommended_action": "Patch Langflow installations immediately; audit AI/ML infrastructure for exposure; restrict network access to Langflow instances.",
+          "sources": ["CISA", "Qualys ThreatPROTECT", "BleepingComputer"],
+          "url": "https://threatprotect.qualys.com/2026/03/26/cisa-added-langflow-vulnerability-to-its-known-exploited-vulnerabilities-catalog-cve-2026-33017/"
+        },
+        {
+          "bold_heading": "Unit 42 Threat Brief — conflict-themed phishing and wiper threat",
+          "text": "Palo Alto Networks' Unit 42 identifies 7,381+ conflict-themed phishing URLs spanning 1,881 unique hostnames. Financial fraud campaigns exploit 'Emirates'-branded domains; crypto scams use 'Dubai'-branded domains. The Void Manticore/Handala wiper threat via Microsoft Intune remains active.",
+          "cve_ids": [],
+          "threat_actor": "Multiple (Handala/Void Manticore, unattributed phishing operators)",
+          "recommended_action": "Update email gateway and web proxy blocklists with Unit 42's published IOCs; reinforce user awareness of conflict-themed lures; validate Intune/MDM access controls.",
+          "sources": ["Unit 42"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Hydro Kitten financial sector targeting signal",
+          "text": "CrowdStrike reports that Hydro Kitten (IRGC-linked APT) has signalled plans to target the financial sector. Over 60 active threat groups are aligned with the conflict — 53 operating on the pro-Iranian side. Russian hacker groups have increased activity in support of Tehran.",
+          "threat_actor": "Hydro Kitten (IRGC-linked)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["CrowdStrike", "Nextgov/FCW"],
+          "url": "https://www.nextgov.com/cybersecurity/2026/03/intelligence-firms-watch-uptick-iran-cyber-activity-after-us-israel-strikes/411802/"
+        },
+        {
+          "bold_heading": "Iran internet blackout — ceasefire restoration risk",
+          "text": "Iran remains at ~1–4% internet connectivity (day 34). Unit 42 assesses that connectivity restoration — likely accompanying any ceasefire — would trigger a coordinated cyber surge against Gulf financial institutions. Trump's bellicose rhetoric paradoxically reduces the short-term probability of this scenario but the April 6 deadline creates a binary risk event.",
+          "threat_actor": "Iranian state-sponsored (general)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["Unit 42"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        },
+        {
+          "bold_heading": "DDoS and APT campaigns against Gulf banking infrastructure (ongoing)",
+          "text": "Iran-linked hacktivist groups (Handala, DieNet, Ghost Princess) continue DDoS campaigns, APT infiltration, and spear-phishing targeting senior executives across GCC banking sectors. UAE banks ADCB and FAB reported prolonged interruptions; confirmation of cyber linkage pending. Over 100 cyber incidents recorded across the Middle East since conflict began.",
+          "threat_actor": "Iran-linked (multiple groups)",
+          "assessed_likelihood": "High",
+          "sources": ["AGBI", "Security MEA", "WEF"],
+          "url": "https://www.agbi.com/cybersecurity/2026/03/gulf-systems-targeted-by-wave-of-war-linked-cyberattacks/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "April 6 energy strike deadline — 4 days out. Trump's rhetoric ('Stone Ages') and precondition that Hormuz be open before any talks signal the deadline is more likely to be enforced.",
+          "why_it_matters": "Confirmation of target packages for Kharg Island or Iran's power grid would trigger immediate oil price spike and retaliatory escalation against Gulf states.",
+          "related_section": "Section 4 / Section 5"
+        },
+        {
+          "text": "Mina al-Ahmadi refinery damage assessment. Third strike on Kuwait's largest refinery.",
+          "why_it_matters": "Sustained shutdown of any processing units would tighten domestic fuel supply and elevate regional energy risk.",
+          "related_section": "Section 2 / Section 3 / Section 5"
+        },
+        {
+          "text": "NATO response to Ali Al Salem Italian asset destruction. Loss of Italian military aircraft in Kuwait may trigger Article 4 consultations.",
+          "why_it_matters": "Any NATO statement expanding the alliance's engagement posture would widen the conflict's political scope and could change the risk calculus for Gulf-based institutions with European banking relationships.",
+          "related_section": "Section 2 / Section 5"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "2 — Targets & Incidents", "source_count": 8, "confidence": "High", "note": "Italian equipment losses sourced from FDD Long War Journal and Wikipedia timeline only — tagged [SINGLE SOURCE]" },
+    { "section": "3 — Kuwait Local", "source_count": 6, "confidence": "High", "note": null },
+    { "section": "4 — Regional Context", "source_count": 7, "confidence": "High", "note": null },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "High", "note": null },
+    { "section": "7A — Cyber Tactical", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "7B — Cyber Strategic", "source_count": 4, "confidence": "Medium", "note": "Strategic cyber items based on vendor assessments and trend reports; no Gulf-specific CERT advisories found for the past 24 hours. UAE bank disruption reports unconfirmed as cyber-linked." }
+  ],
+  "footer": "Report #23 compiled 2026-04-02 at 07:30 UTC+3."
+}
