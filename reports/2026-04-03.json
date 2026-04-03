@@ -1,0 +1,210 @@
+{
+  "date": "2026-04-03",
+  "headline": "3 April 2026",
+  "subtitle": "Iran threatens Kuwait's Sheikh Jaber Bridge; April 6 energy deadline 3 days away; UN Hormuz vote delayed",
+  "report_number": "24",
+  "coverage": "2 April 2026 07:00 UTC+3 – 3 April 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-04-03",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "~20", "previous": "~26", "delta": "-6", "trend_7d": "↑" },
+      { "metric": "Debris reports (cumulative)", "today": "~630", "previous": "~615", "delta": "+15", "trend_7d": "↑" },
+      { "metric": "Brent crude ($/bbl)", "today": "111.69", "previous": "107.94", "delta": "+3.75", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "111.17", "previous": "105.27", "delta": "+5.90", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~6", "previous": "~8", "delta": "-2", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "KWI airport status", "today": "Closed", "previous": "Closed", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        { "text": "Kuwait air defense sirens activated overnight (2–3 April) as Iranian missile and drone attacks continued for a fifth consecutive night. Kuwait's integrated air defense systems engaged multiple incoming threats; explosions from interceptions reported across Kuwait City and surrounding areas. Mobile civil defense alerts pushed via Ministry of Interior notification system.", "sources": ["KUNA", "Kuwait Ministry of Defense", "Gulf News"] },
+        { "text": "Kuwait Ministry of Defense confirmed interceptions of hostile missiles and drones overnight. The National Guard reported downing four drones within the 24-hour period ending 2 April evening, with further interceptions continuing into the early hours of 3 April. Exact total interception count for the overnight period not yet confirmed by MOD.", "sources": ["Gulf News", "Kuwait Ministry of Defense", "Al Jazeera"] },
+        { "bold_heading": "Cumulative siren activations since conflict began: ~248", "text": "Estimated based on ~235 cumulative as of 2 April plus continued activations on 2–3 April.", "sources": ["Kuwait Ministry of Defense", "Al Jazeera"] }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        { "bold_heading": "Kuwait — overnight missile and drone attacks (2–3 April)", "text": "Kuwait air defenses engaged multiple waves of Iranian missiles and drones. Explosions from defense system interceptions reported across metropolitan Kuwait. No confirmed ground strikes on new infrastructure targets during this coverage window, though interception debris caused localized damage. Status: confirmed (interceptions).", "sources": ["Gulf News", "Kuwait MOD", "Al Jazeera"] },
+        { "bold_heading": "Iran — B1 bridge destroyed by US airstrike, 8 killed, 95 wounded (2 April)", "text": "US strikes destroyed the B1 bridge between Tehran and Karaj (described as Iran's tallest bridge, under construction). Strikes killed 8 and wounded 95 civilians who had gathered under and around the bridge to celebrate Nature Day (national holiday). Trump posted footage on social media warning 'much more to follow.' Status: confirmed.", "sources": ["Times of Israel", "CBS News", "Al-Monitor", "Fox News", "The War Zone"] },
+        { "bold_heading": "Iran — tit-for-tat bridge threat to Gulf states (2 April)", "text": "Iranian state TV broadcast a list of regional bridges as potential retaliation targets, including Sheikh Jaber Al-Ahmad Bridge (Kuwait), King Fahd Causeway (Saudi), Sheikh Zayed Bridge (Abu Dhabi), and bridges in Jordan. Status: threat issued, no strikes confirmed.", "sources": ["Anadolu Agency", "Middle East Monitor", "Iranian state TV via Pravda EN"] },
+        { "bold_heading": "UAE — 19 ballistic missiles and 26 drones intercepted (2 April)", "text": "UAE intercepted a large barrage; cumulative toll since conflict start: 457 ballistic missiles, 19 cruise missiles, 2,038 drones intercepted; 12 killed, 191 injured. Status: confirmed.", "sources": ["Gulf News", "UAE MOD"] },
+        { "bold_heading": "Saudi Arabia — 5 drones and 1 ballistic missile intercepted (2 April)", "text": "Saudi air defenses engaged hostile UAVs and a ballistic missile. Cumulative: 843 drones, 80 missiles intercepted. No casualties reported. Status: confirmed.", "sources": ["Gulf News", "Saudi MOD"] },
+        { "bold_heading": "Israel — continued missile barrages from Iran (2 April)", "text": "Iran launched further missile volleys at Israel following Trump's national address. At least 14 injuries reported from 1–2 April barrage. Status: confirmed. [TIMESTAMP UNCONFIRMED for 2 April specific impacts]", "sources": ["Al Jazeera", "NBC News"] }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        { "bold_heading": "Airport status", "text": "Kuwait International Airport (KWI) remains closed to all commercial passenger traffic with no reopening date announced. Cumulative damage: Terminal 1, runway sections, fuel depots, and radar systems. Kuwait Airways continues limited services via Dammam (King Fahd International Airport).", "sources": ["KUNA", "IBTimes", "Al Jazeera"] },
+        { "bold_heading": "Bridge threat", "text": "Iranian state TV explicitly named the Sheikh Jaber Al-Ahmad Bridge as a potential retaliation target. This 36-km causeway is Kuwait's primary northern sea crossing and a critical infrastructure link. No protective measures announced publicly.", "sources": ["Anadolu Agency", "Middle East Monitor"] },
+        { "bold_heading": "Drone sales ban", "text": "Kuwait's Ministry of Commerce and Industry banned all commercial drone sales and trading effective immediately, citing national security concerns.", "sources": ["Gulf News"] },
+        { "bold_heading": "Power grid", "text": "Three of six power transmission lines knocked out on 1 April have been restored by Ministry of Electricity crews in 'record time.' Three lines from 24 March remain under repair. Grid operating under cumulative strain.", "sources": ["Alwast News", "Kuwait Ministry of Electricity"] },
+        { "bold_heading": "Military situation", "text": "Overnight interceptions continued; no new military casualties confirmed in this coverage window. Cumulative conflict toll: 4 military killed, 67+ wounded; 32+ civilians injured.", "sources": ["Gulf News", "Wikipedia — 2026 Iranian strikes on Kuwait"] },
+        { "bold_heading": "Border crossings and evacuation", "text": "Nuwaiseeb (Kuwait–Saudi) land border remains open. U.S. Embassy Kuwait (operations suspended since 20 March) maintains Level 3 travel advisory. Security alert on 1 April warned Iran may target American universities in Kuwait. Bus evacuation routes via Nuwaiseeb-Khafji and Salmi-Raqi continue.", "sources": ["U.S. Embassy Kuwait", "Times Kuwait", "KUNA"] }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        { "text": "The UN Security Council delayed its vote on Bahrain's draft resolution authorizing 'all defensive means necessary' to secure the Strait of Hormuz, citing the Good Friday holiday. Russia and China raised objections to language they said would legitimize military action. No new vote date set.", "sources": ["Washington Post", "The National", "CNN"] },
+        { "text": "The April 6 energy infrastructure deadline is now 3 days away. Trump's destruction of the B1 bridge and 'much more to follow' rhetoric, combined with Defense Secretary Hegseth's statement that the US is 'negotiating with bombs,' signals continued escalation absent a diplomatic breakthrough.", "sources": ["CBS News", "CNBC", "Al-Monitor"] },
+        { "text": "Iran's Foreign Minister Araghchi stated trust with the US remains 'at zero.' The China-Pakistan peace proposal (ceasefire-for-Hormuz-reopening) has not gained traction. Iran's five-point counteroffer giving Tehran Hormuz sovereignty control remains a non-starter for Washington.", "sources": ["Al Jazeera", "Axios", "CNBC"] }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        { "bold_heading": "Oil price acceleration", "text": "Brent surged to $111.69/bbl (+3.5% from prior day) and WTI to $111.17/bbl (+5.6%). The April 6 deadline and bridge destruction rhetoric are driving prices higher. Institutions should review exposure to energy-linked derivatives, margin requirements, and counterparty risk at current price levels.", "sources": ["Trading Economics", "OilPrice.com", "Fortune"] },
+        { "bold_heading": "Sheikh Jaber Bridge threat — infrastructure risk", "text": "Iran's explicit targeting of the Sheikh Jaber Al-Ahmad Bridge introduces direct risk to a critical Kuwaiti transport corridor. Any strike would severely disrupt northern Kuwait logistics and could affect supply chains for essential goods. BCP teams should assess dependencies on this route.", "sources": ["Anadolu Agency", "Middle East Monitor"] },
+        { "bold_heading": "April 6 deadline — 3 days", "text": "If enforced, US strikes on Iran's energy grid (Kharg Island, refineries, power stations) would trigger an extreme oil price scenario ($120–140+ Brent) and likely provoke intensified Iranian retaliation against Gulf infrastructure. Institutions should finalize contingency triggers for extreme price scenarios.", "sources": ["CNBC", "CBS News", "Bloomberg"] },
+        { "bold_heading": "UN Hormuz vote delay — extended uncertainty", "text": "The delayed Security Council vote means no international mandate for naval escort of commercial shipping is imminent. Strait transits remain at ~5–7/day vs. 138 pre-conflict. Marine insurance premiums and trade finance costs remain at crisis levels.", "sources": ["Washington Post", "The National"] },
+        { "bold_heading": "University targeting advisory", "text": "Iran's reported threat to American universities in Kuwait (U.S. Embassy alert, 1 April) may indicate broadening target selection beyond military and energy infrastructure to soft targets, including those near financial district areas.", "sources": ["U.S. Embassy Kuwait"] }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Can America and Iran Reach a Cease-Fire?",
+          "author": "Not confirmed (behind paywall)",
+          "publication": "Foreign Affairs",
+          "pub_date": "April 2026",
+          "access": "Paywall",
+          "summary": "Examines structural barriers to a ceasefire including Iran's five-point counterproposal, the Strait of Hormuz sovereignty impasse, and the absence of a credible mediator. Assesses that unless both sides concede on Hormuz control, the deadlock will persist through mid-April at minimum.",
+          "relevance": "Reinforces planning assumption that conflict conditions will persist beyond the April 6 deadline — operational continuity plans should not assume near-term normalization.",
+          "link": "https://www.foreignaffairs.com/can-america-and-iran-reach-cease-fire"
+        },
+        {
+          "title": "Latest Analysis: War with Iran",
+          "author": "Multiple contributors",
+          "publication": "CSIS",
+          "pub_date": "April 2026",
+          "access": "Open",
+          "summary": "Running analytical series covering military operations, economic fallout, and diplomatic pathways. Recent entries assess the diminishing leverage of Trump's escalation strategy as Iranian retaliation capabilities demonstrate resilience at 35 days of conflict.",
+          "relevance": "Provides institutional-grade strategic framing for scenario planning; useful input for board-level risk briefings on conflict duration and escalation trajectory.",
+          "link": "https://www.csis.org/programs/latest-analysis-war-iran"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "CVE-2026-3502 — TrueConf Client code integrity vulnerability",
+          "text": "CISA added CVE-2026-3502 (TrueConf Client — download of code without integrity check) to its Known Exploited Vulnerabilities catalog. Confirmed active exploitation. Any institution using TrueConf for video conferencing should treat as urgent.",
+          "cve_ids": ["CVE-2026-3502"],
+          "threat_actor": null,
+          "recommended_action": "Patch TrueConf Client immediately; audit video conferencing infrastructure for exposure; restrict download sources.",
+          "sources": ["CISA"],
+          "url": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+          "bold_heading": "CVE-2026-5281 — Google Chrome/Dawn use-after-free",
+          "text": "CVSS 8.8. Use-after-free in the Dawn component in Google Chrome prior to 146.0.7680.178. Affects all Chromium-based browsers (Chrome, Edge, Opera). Confirmed active exploitation. CISA deadline: 15 April 2026.",
+          "cve_ids": ["CVE-2026-5281"],
+          "threat_actor": null,
+          "recommended_action": "Push browser updates across all endpoints immediately; verify patch compliance by 15 April deadline.",
+          "sources": ["CISA", "Security Affairs"],
+          "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        },
+        {
+          "bold_heading": "Keymous Plus — #Op_Epstein_Gulf DDoS campaign",
+          "text": "Pro-Iranian hacktivist group Keymous Plus launched 50+ verified DDoS attacks across six Arab countries (Syria, Jordan, Qatar, Bahrain, Kuwait, UAE) under the #Op_Epstein_Gulf banner, targeting government ministry websites.",
+          "cve_ids": [],
+          "threat_actor": "Keymous Plus (pro-Iran hacktivist)",
+          "recommended_action": "Review DDoS mitigation posture for public-facing services; ensure rate limiting and CDN protections are active; monitor for spillover to financial sector targets.",
+          "sources": ["SOCRadar", "CloudSEK"],
+          "url": "https://socradar.io/blog/cyber-reflections-us-israel-iran-war/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Hydro Kitten financial sector targeting signal",
+          "text": "CrowdStrike reports that Hydro Kitten (IRGC-linked APT) has signaled plans to target the financial sector. Over 60 active threat groups aligned with the conflict — 53 on the pro-Iranian side. Russian hacker groups have increased activity in support of Tehran.",
+          "threat_actor": "Hydro Kitten (IRGC-linked)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["CrowdStrike", "Nextgov/FCW"],
+          "url": "https://www.nextgov.com/cybersecurity/2026/03/intelligence-firms-watch-uptick-iran-cyber-activity-after-us-israel-strikes/411802/"
+        },
+        {
+          "bold_heading": "Iran internet blackout — ceasefire restoration risk",
+          "text": "Iran remains at ~1–4% internet connectivity (day 35). Unit 42 assesses that connectivity restoration — likely accompanying any ceasefire — would trigger a coordinated cyber surge against Gulf financial institutions. The April 6 deadline creates a binary risk event: enforcement keeps Iran offline; a ceasefire deal could restore connectivity and unleash pre-positioned attacks.",
+          "threat_actor": "Iranian state-sponsored (general)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["Unit 42"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        },
+        {
+          "bold_heading": "DDoS and APT campaigns against Gulf banking infrastructure (ongoing)",
+          "text": "Iran-linked groups (Handala, DieNet, Ghost Princess) continue DDoS campaigns, APT infiltration, and spear-phishing targeting senior executives across GCC banking sectors. Over 100 cyber incidents recorded across the Middle East since conflict began. Handala's Intune wiper attack vector (remotely wiping devices via MDM) remains active.",
+          "threat_actor": "Iran-linked (multiple groups)",
+          "assessed_likelihood": "High",
+          "sources": ["AGBI", "Security MEA", "American Banker"],
+          "url": "https://www.agbi.com/cybersecurity/2026/03/gulf-systems-targeted-by-wave-of-war-linked-cyberattacks/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        { "text": "April 6 energy strike deadline — 3 days out", "why_it_matters": "Trump's bridge destruction and 'much more to follow' rhetoric, combined with Hegseth's 'negotiating with bombs' statement, signal the deadline is more likely to be enforced. Any leak of target packages would trigger immediate oil price spike and Gulf retaliation.", "related_section": "Section 4 / Section 5" },
+        { "text": "Sheikh Jaber Bridge threat response", "why_it_matters": "Iran's explicit naming of this bridge as a retaliation target is the most direct infrastructure threat to Kuwait civilian infrastructure since the airport strikes. Monitor for Kuwait MOD protective measures, bridge closures, or any Iranian strike attempt.", "related_section": "Section 2 / Section 3 / Section 5" },
+        { "text": "UN Hormuz vote rescheduling", "why_it_matters": "The delayed Security Council vote on authorizing defensive naval action will need rescheduling post-Easter weekend. Any vote outcome — passage, veto, or further delay — will materially affect maritime risk pricing and Strait transit volumes.", "related_section": "Section 4 / Section 5" }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "High", "note": "Exact overnight interception count for 2–3 April not yet confirmed by Kuwait MOD" },
+    { "section": "2 — Targets & Incidents", "source_count": 7, "confidence": "High", "note": null },
+    { "section": "3 — Kuwait Local", "source_count": 6, "confidence": "High", "note": null },
+    { "section": "4 — Regional Context", "source_count": 6, "confidence": "High", "note": null },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "High", "note": null },
+    { "section": "7A — Cyber Tactical", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "7B — Cyber Strategic", "source_count": 4, "confidence": "Medium", "note": "Strategic cyber items based on vendor assessments; no Gulf-specific CERT advisories found for the past 24 hours" }
+  ],
+  "footer": "Report #24 compiled 2026-04-03 at 07:30 UTC+3."
+}
