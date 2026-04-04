@@ -527,6 +527,43 @@ body {
 .trend-aqi-vunhealthy  { color: #7c3aed; font-weight: 700; }
 .trend-aqi-hazardous   { color: #831843; font-weight: 700; }
 
+/* AQI inline label (next to value in table cell) */
+.aqi-label {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  vertical-align: middle;
+}
+
+/* AQI reference legend strip */
+.aqi-legend {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  padding: 9px 18px;
+  background: #f8fafc;
+  border-top: 1px solid var(--border);
+  font-size: 10.5px;
+}
+.aqi-legend-label {
+  font-weight: 700;
+  color: #64748b;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-size: 10px;
+  margin-right: 2px;
+}
+.aqi-chip {
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-weight: 600;
+  font-size: 10px;
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  white-space: nowrap;
+}
+
 /* Cyber section */
 
 .cyber-card .sec-body { background: #0d1117; padding: 0; }
@@ -834,13 +871,13 @@ function renderTrendTracker(tt) {
     if (metric && metric.toLowerCase().includes('aqi')) {
       const num = parseFloat(v);
       if (!isNaN(num)) {
-        let cls = 'trend-aqi-good';
-        if (num > 300) cls = 'trend-aqi-hazardous';
-        else if (num > 200) cls = 'trend-aqi-vunhealthy';
-        else if (num > 150) cls = 'trend-aqi-unhealthy';
-        else if (num > 100) cls = 'trend-aqi-sensitive';
-        else if (num > 50) cls = 'trend-aqi-moderate';
-        return `<span class="trend-val ${cls}">${esc(v)}</span>`;
+        let cls = 'trend-aqi-good', label = 'Good';
+        if (num > 300)      { cls = 'trend-aqi-hazardous';  label = 'Hazardous'; }
+        else if (num > 200) { cls = 'trend-aqi-vunhealthy'; label = 'Very Unhealthy'; }
+        else if (num > 150) { cls = 'trend-aqi-unhealthy';  label = 'Unhealthy'; }
+        else if (num > 100) { cls = 'trend-aqi-sensitive';  label = 'USG'; }
+        else if (num > 50)  { cls = 'trend-aqi-moderate';   label = 'Moderate'; }
+        return `<span class="trend-val ${cls}">${esc(v)}</span> <span class="aqi-label ${cls}">${label}</span>`;
       }
     }
     return `<span class="trend-val">${esc(v)}</span>`;
@@ -896,6 +933,16 @@ function renderTrendTracker(tt) {
         <tbody>${rows}</tbody>
       </table>
     </div>
+    ${tt.metrics.some(m => m.metric.toLowerCase().includes('aqi')) ? `
+    <div class="aqi-legend">
+      <span class="aqi-legend-label">AQI Scale</span>
+      <span class="aqi-chip trend-aqi-good">0–50 Good</span>
+      <span class="aqi-chip trend-aqi-moderate">51–100 Moderate</span>
+      <span class="aqi-chip trend-aqi-sensitive">101–150 USG</span>
+      <span class="aqi-chip trend-aqi-unhealthy">151–200 Unhealthy</span>
+      <span class="aqi-chip trend-aqi-vunhealthy">201–300 Very Unhealthy</span>
+      <span class="aqi-chip trend-aqi-hazardous">301+ Hazardous</span>
+    </div>` : ''}
   </div>`;
 }
 
