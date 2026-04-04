@@ -1,0 +1,223 @@
+{
+  "date": "2026-04-04",
+  "headline": "4 April 2026",
+  "subtitle": "Kuwait refinery and desalination plant struck; first US combat aircraft lost over Iran; April 6 deadline 48 hours away",
+  "report_number": "25",
+  "coverage": "3 April 2026 07:00 UTC+3 – 4 April 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-04-04",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "~18", "previous": "~20", "delta": "-2", "trend_7d": "↑" },
+      { "metric": "Debris reports (cumulative)", "today": "~648", "previous": "~630", "delta": "+18", "trend_7d": "↑" },
+      { "metric": "Brent crude ($/bbl)", "today": "112.42", "previous": "111.69", "delta": "+0.73", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "~112.00", "previous": "111.17", "delta": "+0.83", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~8", "previous": "~6", "delta": "+2", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "KWI airport status", "today": "Closed", "previous": "Closed", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "~51", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        { "text": "Kuwait air defense sirens activated across Kuwait City and surrounding areas on 3 April as Iranian missile and drone attacks struck critical infrastructure for the sixth consecutive night. Civil defense mobile alerts pushed via Ministry of Interior.", "sources": ["KUNA", "Kuwait Ministry of Defense", "Al Jazeera"] },
+        { "bold_heading": "Mina al-Ahmadi refinery struck", "text": "Kuwait's largest oil refinery (466,000 bpd capacity) was hit by early-morning drone strikes on 3 April, setting multiple operational units on fire. Third time the refinery has been struck since the conflict began. No employee casualties.", "sources": ["Al Jazeera", "The National", "NPR"] },
+        { "bold_heading": "Desalination plant struck", "text": "A power generation and water desalination plant was struck before midday on 3 April, damaging components. Second attack on Kuwaiti water infrastructure in four days. Kuwait derives approximately 90% of its drinking water from coastal desalination.", "sources": ["Al Jazeera", "Turkiye Today", "Sahara Reporters"] }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        { "bold_heading": "Kuwait — Mina al-Ahmadi refinery struck (3 April, early morning local)", "text": "Iranian drones hit Kuwait's largest oil refinery for the third time since the conflict began. Fires reported in multiple operational units. No employee casualties. Kuwait Petroleum Corporation confirmed the strike. Environmental monitoring activated. Status: confirmed.", "sources": ["Al Jazeera", "The National", "NPR"] },
+        { "bold_heading": "Kuwait — desalination plant struck (3 April, before midday local)", "text": "Iranian attack damaged a power generation and water desalination plant, the second hit on water infrastructure in four days. Iran's IRGC denied responsibility for the Kuwait strikes, shifting blame to Israel. Status: confirmed (strike); disputed (attribution by IRGC).", "sources": ["Al Jazeera", "Turkiye Today", "anews.com.tr"] },
+        { "bold_heading": "US — F-15E shot down over Iran (3 April)", "text": "An F-15E Strike Eagle was downed over Iran — the first confirmed loss of a US crewed combat aircraft in the conflict. One crew member (pilot) rescued; weapons system officer remains missing. An A-10 Warthog participating in the rescue was also damaged and its pilot ejected over the Persian Gulf and was recovered. Status: confirmed.", "sources": ["CBS News", "Washington Post", "CNN", "NBC News", "Air & Space Forces Magazine"] },
+        { "bold_heading": "UAE — 19 ballistic missiles and 26 drones intercepted (2–3 April)", "text": "Large Iranian barrage continued. 12 injured in Abu Dhabi's Ajban area from falling debris (7 Nepali, 5 Indian nationals). Cumulative UAE toll since conflict start: 457 ballistic missiles, 19 cruise missiles, 2,038 drones intercepted; 2 service members killed, 191 injured. Status: confirmed.", "sources": ["Al Jazeera", "Gulf News", "UAE MOD"] },
+        { "bold_heading": "Strait of Hormuz — first Western vessel transits (3 April)", "text": "French-owned CMA CGM Kribi (container ship, Maltese-flagged) transited eastbound — the first Western European-linked vessel to pass since the war began. A Japanese Mitsui OSK LNG tanker (Sohar LNG) also crossed, heading to Oman's Qalhat terminal. Three Omani-linked tankers also transited. CMA CGM reportedly coordinated passage with Iranian maritime authorities. Status: confirmed.", "sources": ["Bloomberg", "Al Jazeera", "UPI", "Euronews"] }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        { "bold_heading": "Airport status", "text": "Kuwait International Airport (KWI) remains closed to all commercial passenger traffic. No reopening timeline announced. Cumulative damage includes Terminal 1, runway sections, fuel depots, and radar systems. Kuwait Airways continues limited services via Dammam.", "sources": ["IBTimes", "KUNA"] },
+        { "bold_heading": "Water security", "text": "The 3 April desalination plant strike introduces acute water supply risk. Kuwait derives ~90% of drinking water from desalination. Second such strike in four days. No water supply disruption confirmed yet, but reserves and alternative sourcing should be monitored.", "sources": ["Al Jazeera", "Turkiye Today"] },
+        { "bold_heading": "Refinery damage", "text": "The third strike on Mina al-Ahmadi (466,000 bpd) raises cumulative damage concerns for domestic fuel supply and export capacity. Environmental monitoring underway for air quality impacts from refinery fires.", "sources": ["Al Jazeera", "The National"] },
+        { "bold_heading": "Bridge threat", "text": "Iranian state TV's 2 April threat to the Sheikh Jaber Al-Ahmad Bridge remains active. No protective measures or bridge closures announced publicly.", "sources": ["Anadolu Agency", "Middle East Monitor"] },
+        { "bold_heading": "Power grid", "text": "Three transmission lines restored on 2 April; three from 24 March remain under repair. Grid operating under cumulative strain, now compounded by the 3 April desalination/power plant strike.", "sources": ["Kuwait Ministry of Electricity", "Alwast News"] },
+        { "bold_heading": "Border and evacuation", "text": "Nuwaiseeb (Kuwait–Saudi) border remains open. U.S. Embassy Kuwait operations remain suspended (since 20 March). Level 3 travel advisory in effect. Ministry of Interior extended visitor visas by one month and granted 3-month absence permits for residents outside Kuwait.", "sources": ["U.S. Embassy Kuwait", "Newland Chase"] },
+        { "bold_heading": "Education", "text": "CBSE cancelled all Class XII board examinations in Kuwait (scheduled 16 March – 10 April).", "sources": ["U.S. Embassy Kuwait", "Newland Chase"] }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        { "bold_heading": "First US combat aircraft loss", "text": "The downing of an F-15E over Iran on 3 April marks the first confirmed loss of a US crewed combat aircraft in the conflict. The missing weapons system officer and ongoing rescue operations may influence US domestic debate on escalation, particularly with the April 6 energy deadline 2 days away.", "sources": ["CBS News", "Washington Post", "Bloomberg"] },
+        { "bold_heading": "April 6 energy deadline — 2 days away", "text": "Trump's deadline for Iran to reopen the Strait of Hormuz or face US strikes on Iran's energy grid is now 48 hours out. The B1 bridge destruction on 2 April and 'much more to follow' rhetoric signal enforcement is probable absent a diplomatic breakthrough.", "sources": ["CBS News", "CNBC", "Al Jazeera"] },
+        { "bold_heading": "Hormuz transits — marginal opening", "text": "The passage of French, Japanese, and Omani vessels on 3 April represents the first non-exempted Western traffic since the conflict began, but overall traffic remains negligible vs. the pre-conflict ~138 transits/day. Iran's toll-based permission system remains in effect.", "sources": ["Bloomberg", "Al Jazeera", "UPI"] }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        { "bold_heading": "Desalination plant strike — water security risk", "text": "The 3 April strike on a Kuwaiti desalination plant is a direct threat to the country's water supply (90% desalination-dependent). BCP teams should assess contingency water sourcing for staff and operations; prolonged disruption could trigger broader civil emergency measures.", "sources": ["Al Jazeera", "Turkiye Today"] },
+        { "bold_heading": "Refinery strikes — energy supply chain", "text": "The third hit on Mina al-Ahmadi (466,000 bpd) compounds cumulative damage to Kuwait's refining capacity. Domestic fuel supply disruptions and downstream effects on logistics and power generation are increasingly likely.", "sources": ["Al Jazeera", "The National"] },
+        { "bold_heading": "Oil price acceleration continues", "text": "Brent at $112.42/bbl (+0.65% from prior day); WTI surging above $112/bbl. The April 6 deadline and potential US strikes on Iran's energy infrastructure could push prices to $120–140+ in an extreme scenario. Review energy derivatives exposure, margin requirements, and counterparty risk.", "sources": ["Fortune", "Trading Economics", "Rigzone"] },
+        { "bold_heading": "April 6 deadline — 48 hours", "text": "Enforcement would trigger extreme oil price spike and intensified Iranian retaliation against Gulf states. Non-enforcement may signal diplomatic progress but could also be another postponement. Institutions should have contingency triggers finalized for both scenarios.", "sources": ["CBS News", "CNBC", "Al Jazeera"] },
+        { "bold_heading": "First US aircraft loss — escalation signal", "text": "The F-15E downing may harden US resolve or fuel domestic opposition to the campaign. Either outcome affects the trajectory of strikes and retaliatory risk to Gulf infrastructure. Monitor US political response.", "sources": ["CBS News", "Washington Post"] }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Pathways for the War with Iran",
+          "author": "Philip Wasielewski",
+          "publication": "Foreign Policy Research Institute (FPRI)",
+          "pub_date": "2026-04-03",
+          "access": "Open",
+          "summary": "Argues the conflict presents two divergent futures — a negotiated settlement preserving core interests, or an extended war pursuing maximalist objectives. Iran's demonstrated ability to disrupt the Strait of Hormuz may grant it greater international leverage than its degraded nuclear program.",
+          "relevance": "Reinforces scenario planning around a protracted conflict; the assessment that Gulf states face mounting economic strain from prolonged Hormuz closure and infrastructure attacks aligns with our operational risk assumptions.",
+          "link": "https://www.fpri.org/article/2026/04/pathways-for-the-war-with-iran/"
+        },
+        {
+          "title": "Why Escalation Favors Iran",
+          "author": "Not confirmed (behind paywall)",
+          "publication": "Foreign Affairs",
+          "pub_date": "2026-04",
+          "access": "Paywall",
+          "summary": "Examines how Iran's strategy of rapid escalation — expanding the war regionally and raising global economic stakes — gives it asymmetric leverage despite conventional military inferiority. Assesses that the US faces a widening gap between military success and strategic objectives.",
+          "relevance": "Supports the assessment that Iranian retaliatory strikes on Gulf civilian and economic infrastructure will continue or intensify, making defensive posture and BCP readiness critical.",
+          "link": "https://www.foreignaffairs.com/iran/why-escalation-favors-iran"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "CVE-2026-3502 — TrueConf Client code integrity vulnerability",
+          "text": "CISA KEV, 2 April 2026. Actively exploited. Allows man-in-the-middle substitution of malicious update packages. Remediation deadline: 16 April 2026.",
+          "cve_ids": ["CVE-2026-3502"],
+          "threat_actor": null,
+          "recommended_action": "Patch TrueConf Client immediately; audit video conferencing update infrastructure; restrict update delivery to verified sources only.",
+          "sources": ["CISA"],
+          "url": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+          "bold_heading": "CVE-2026-5281 — Google Chrome/Dawn use-after-free",
+          "text": "CISA KEV, deadline 15 April 2026. CVSS 8.8. Affects all Chromium-based browsers (Chrome, Edge, Opera). Actively exploited.",
+          "cve_ids": ["CVE-2026-5281"],
+          "threat_actor": null,
+          "recommended_action": "Push browser updates across all endpoints; verify patch compliance before 15 April deadline.",
+          "sources": ["CISA", "Security Affairs"],
+          "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        },
+        {
+          "bold_heading": "Keymous Plus / DieNet — ongoing DDoS campaigns against Gulf targets",
+          "text": "Keymous Plus (#Op_Epstein_Gulf) has launched 50+ verified DDoS attacks across Kuwait, UAE, Bahrain, Qatar, Jordan, and Syria targeting government ministries. DieNet Network conducting parallel campaigns against government portals, telecoms, airports, and financial institutions across the GCC.",
+          "cve_ids": [],
+          "threat_actor": "Keymous Plus (pro-Iran hacktivist); DieNet Network",
+          "recommended_action": "Verify DDoS mitigation posture for all public-facing services; ensure rate limiting, WAF rules, and CDN protections are active; monitor for escalation from nuisance-level to destructive operations.",
+          "sources": ["SOCRadar", "CloudSEK"],
+          "url": "https://socradar.io/blog/cyber-reflections-us-israel-iran-war/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Hydro Kitten financial sector targeting signal",
+          "text": "CrowdStrike reports that Hydro Kitten (IRGC-linked APT) has signaled plans to target the financial sector. Over 60 active threat groups aligned with the conflict, 53 on the pro-Iranian side. Russian hacker groups increasing activity in support of Tehran.",
+          "threat_actor": "Hydro Kitten (IRGC-linked)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["CrowdStrike", "Nextgov/FCW"],
+          "url": "https://www.nextgov.com/cybersecurity/2026/03/intelligence-firms-watch-uptick-iran-cyber-activity-after-us-israel-strikes/411802/"
+        },
+        {
+          "bold_heading": "Iran internet blackout — ceasefire restoration risk",
+          "text": "Iran at ~1–4% internet connectivity (Day 36). Connectivity restoration — likely accompanying any ceasefire — would trigger coordinated cyber surge against Gulf financial institutions. April 6 deadline creates binary risk event: enforcement keeps Iran offline; ceasefire/deal restores connectivity and unleashes pre-positioned attacks.",
+          "threat_actor": "Iranian state-sponsored (general)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["Unit 42"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        },
+        {
+          "bold_heading": "APT and wiper campaigns against Gulf banking infrastructure",
+          "text": "Iran-linked groups (Handala, DieNet, Ghost Princess) continue APT infiltration and spear-phishing targeting senior executives across GCC banking sectors. Handala's Intune wiper attack vector (remote device wipe via compromised MDM) remains active. Over 100 cyber incidents recorded across the Middle East since conflict began.",
+          "threat_actor": "Iran-linked (multiple groups)",
+          "assessed_likelihood": "High",
+          "sources": ["AGBI", "Security MEA", "American Banker"],
+          "url": "https://www.agbi.com/cybersecurity/2026/03/gulf-systems-targeted-by-wave-of-war-linked-cyberattacks/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "April 6 energy deadline — 48 hours",
+          "why_it_matters": "The deadline is now Saturday evening (8 PM ET). Any pre-positioning signals (NOTAM changes, carrier group movements, target leaks) in the next 24 hours would indicate enforcement. An oil price spike above $115 Brent would be an early market signal.",
+          "related_section": "Section 4 / Section 5"
+        },
+        {
+          "text": "Missing US crew member — search operations",
+          "why_it_matters": "The ongoing rescue mission for the F-15E weapons system officer in Iran could escalate into a political flashpoint if the crew member is captured. This would dominate US news coverage and potentially accelerate or complicate the April 6 decision.",
+          "related_section": "Section 2 / Section 4"
+        },
+        {
+          "text": "Kuwait water supply monitoring",
+          "why_it_matters": "The second desalination plant strike in four days creates cumulative risk to Kuwait's water supply. Any reports of water rationing, supply disruptions, or emergency desalination measures should be treated as a leading indicator of broader civil emergency escalation.",
+          "related_section": "Section 1 / Section 3 / Section 5"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 4, "confidence": "High", "note": "Refinery and desalination strikes confirmed by multiple independent sources. Exact interception count for 3–4 April overnight not yet confirmed by Kuwait MOD." },
+    { "section": "2 — Targets & Incidents", "source_count": 8, "confidence": "High", "note": "F-15E downing confirmed by CBS, Washington Post, CNN, NBC, Bloomberg, Air & Space Forces Magazine. Hormuz transits confirmed by Bloomberg, Al Jazeera, UPI, Euronews." },
+    { "section": "3 — Kuwait Local", "source_count": 6, "confidence": "High", "note": null },
+    { "section": "4 — Regional Context", "source_count": 6, "confidence": "High", "note": null },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "High", "note": null },
+    { "section": "7A — Cyber Tactical", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "7B — Cyber Strategic", "source_count": 4, "confidence": "Medium", "note": "Strategic cyber items based on vendor assessments and conflict-trend reports; no new Gulf-specific CERT advisories found for the past 24 hours." }
+  ],
+  "footer": "Report #25 compiled 2026-04-04 at 07:30 UTC+3."
+}

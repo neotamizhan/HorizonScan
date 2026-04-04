@@ -519,6 +519,14 @@ body {
 .trend-arrow-flat { color: #94a3b8; font-weight: 700; font-size: 15px; }
 .trend-insuf  { color: #94a3b8; font-size: 11px; font-style: italic; }
 
+/* AQI colour bands (US EPA scale) */
+.trend-aqi-good       { color: #16a34a; font-weight: 600; }
+.trend-aqi-moderate    { color: #ca8a04; font-weight: 600; }
+.trend-aqi-sensitive   { color: #ea580c; font-weight: 600; }
+.trend-aqi-unhealthy   { color: #dc2626; font-weight: 600; }
+.trend-aqi-vunhealthy  { color: #7c3aed; font-weight: 700; }
+.trend-aqi-hazardous   { color: #831843; font-weight: 700; }
+
 /* Cyber section */
 
 .cyber-card .sec-body { background: #0d1117; padding: 0; }
@@ -821,8 +829,20 @@ function renderArticles(articles) {
 function renderTrendTracker(tt) {
   if (!tt || !tt.metrics || !tt.metrics.length) return '';
 
-  function valCell(v) {
+  function valCell(v, metric) {
     if (v === 'NR' || v === null || v === undefined) return `<span class="trend-nr">NR</span>`;
+    if (metric && metric.toLowerCase().includes('aqi')) {
+      const num = parseFloat(v);
+      if (!isNaN(num)) {
+        let cls = 'trend-aqi-good';
+        if (num > 300) cls = 'trend-aqi-hazardous';
+        else if (num > 200) cls = 'trend-aqi-vunhealthy';
+        else if (num > 150) cls = 'trend-aqi-unhealthy';
+        else if (num > 100) cls = 'trend-aqi-sensitive';
+        else if (num > 50) cls = 'trend-aqi-moderate';
+        return `<span class="trend-val ${cls}">${esc(v)}</span>`;
+      }
+    }
     return `<span class="trend-val">${esc(v)}</span>`;
   }
 
@@ -849,8 +869,8 @@ function renderTrendTracker(tt) {
   const rows = tt.metrics.map(m => `
     <tr>
       <td class="trend-metric">${esc(m.metric)}</td>
-      <td>${valCell(m.today)}</td>
-      <td>${valCell(m.previous)}</td>
+      <td>${valCell(m.today, m.metric)}</td>
+      <td>${valCell(m.previous, m.metric)}</td>
       <td>${deltaCell(m.delta)}</td>
       <td>${trendCell(m.trend_7d)}</td>
     </tr>`).join('');
