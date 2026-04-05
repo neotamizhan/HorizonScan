@@ -1,0 +1,223 @@
+{
+  "date": "2026-04-05",
+  "headline": "5 April 2026",
+  "subtitle": "Shuwaikh oil complex and government offices struck; AQI surges to Unhealthy; April 6 deadline 24 hours away",
+  "report_number": "26",
+  "coverage": "4 April 2026 07:00 UTC+3 – 5 April 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-04-05",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "~27", "previous": "~18", "delta": "+9", "trend_7d": "↑" },
+      { "metric": "Debris reports (cumulative)", "today": "~675", "previous": "~648", "delta": "+27", "trend_7d": "↑" },
+      { "metric": "Brent crude ($/bbl)", "today": "112.42", "previous": "112.42", "delta": "0", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "~111.54", "previous": "~112.00", "delta": "-0.46", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~10", "previous": "~8", "delta": "+2", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "KWI airport status", "today": "Closed", "previous": "Closed", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "162", "today_label": "Unhealthy", "previous": "~51", "previous_label": "Moderate", "delta": "+111", "trend_7d": "↑" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        { "text": "Kuwait air defense sirens activated overnight 4–5 April as the army intercepted eight missile and 19 drone attacks in the preceding 24 hours. The General Staff confirmed explosions heard were the result of air defense interceptions and urged residents to follow safety instructions.", "sources": ["Times Kuwait", "Al Jazeera", "Kuwait MOD"] },
+        { "bold_heading": "Shuwaikh Oil Sector Complex fire", "text": "An Iranian drone struck the Shuwaikh Oil Sector Complex in the early hours of 5 April, causing a fire at the complex housing the Kuwait Petroleum Corporation (KPC) and the Ministry of Oil. The building was fully evacuated; no injuries reported.", "sources": ["Big News Network", "Free Malaysia Today", "Gulf News", "Kuwait state media"] },
+        { "bold_heading": "Government office complex struck", "text": "A separate Iranian drone caused significant damage to a government office complex overnight 4–5 April. No injuries; employees directed to work remotely on Sunday.", "sources": ["Al Jazeera", "Kuwait state media via finance ministry"] }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        { "bold_heading": "Kuwait — Shuwaikh Oil Sector Complex struck (5 April, early hours local)", "text": "Iranian drone attack caused fire at the complex housing KPC and Ministry of Oil. Building evacuated; no casualties. Oil sector leadership assessing damage in coordination with relevant authorities. Status: confirmed.", "sources": ["Big News Network", "Gulf News", "Free Malaysia Today", "Kuwait state media"] },
+        { "bold_heading": "Kuwait — government office complex struck (overnight 4–5 April)", "text": "Iranian drone caused significant material damage to a government ministry office complex. No injuries. Kuwait state media attributed the strike to Iran. Status: confirmed.", "sources": ["Al Jazeera", "Kuwait finance ministry statement"] },
+        { "bold_heading": "Kuwait — air defense intercepts 8 missiles, 19 drones (4–5 April)", "text": "Kuwait Army confirmed intercept operations overnight. Residents reported explosions from intercept activity across Kuwait City and surrounding areas. Status: confirmed.", "sources": ["Times Kuwait", "Kuwait MOD", "Al Jazeera"] },
+        { "bold_heading": "UAE — 23 ballistic missiles and 56 drones intercepted (4 April)", "text": "Debris struck a residential tower facade in Dubai's marina area and the Oracle building in Dubai Internet City; no significant injuries. Cumulative UAE totals since conflict start: 498 ballistic missiles, 23 cruise missiles, 2,141 drones intercepted; 13 killed, 217 injured. Status: confirmed.", "sources": ["The National", "Gulf News", "UAE MOD"] },
+        { "bold_heading": "F-15E WSO reportedly recovered (5 April)", "text": "A US government official stated the missing weapons system officer from the 3 April F-15E shootdown was 'recovered' following a 'heavy firefight' with IRGC forces. Official DOD confirmation pending. Status: unconfirmed — single official source.", "sources": ["Al Jazeera", "HotAir"] },
+        { "bold_heading": "Strait of Hormuz — Iraq exempted from transit restrictions (4 April)", "text": "Iran's Khatam al-Anbiya joint military command stated Iraq would be exempt from all Hormuz transit restrictions. Bloomberg reported Iraqi oil shipments can now transit freely. Status: confirmed.", "sources": ["Bloomberg", "Tribune India", "ANI"] }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        { "bold_heading": "Airport status", "text": "Kuwait International Airport (KWI) remains closed to all commercial passenger traffic. No reopening timeline announced. Cumulative damage includes Terminal 1, runways, fuel depots, and radar systems. Kuwait Airways continues limited services via Dammam.", "sources": ["IBTimes", "KUNA"] },
+        { "bold_heading": "Oil sector damage", "text": "The Shuwaikh Oil Sector Complex (KPC/Ministry of Oil headquarters) is the latest facility struck. Combined with three strikes on Mina al-Ahmadi refinery, cumulative damage to Kuwait's oil infrastructure is escalating.", "sources": ["Gulf News", "Big News Network"] },
+        { "bold_heading": "Air quality emergency", "text": "Kuwait City PM2.5 AQI surged to 162 (Unhealthy) from ~51 (Moderate) the prior day, likely driven by the Shuwaikh oil complex fire and residual smoke from earlier refinery strikes. Outdoor exposure risk elevated for all populations.", "sources": ["WAQI/aqicn.org"] },
+        { "bold_heading": "Power grid and water", "text": "20 of 22 damaged transmission lines now repaired; 2 remain under maintenance. Scheduled 4-hour power outages in multiple residential areas (April 5–11) for substation maintenance. Water and electricity systems described as stable and under control by Ministry of Electricity.", "sources": ["Arab Times", "Kuwait Times", "Ministry of Electricity"] },
+        { "bold_heading": "Government operations", "text": "Employees at the struck government office complex directed to work remotely on Sunday 5 April.", "sources": ["Kuwait state media"] },
+        { "bold_heading": "Border and evacuation", "text": "Nuwaiseeb (Kuwait–Saudi) border remains open. U.S. Embassy operations remain suspended. Level 3 travel advisory in effect. Visa extensions and absence permits continue.", "sources": ["U.S. Embassy Kuwait", "Newland Chase"] }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        { "bold_heading": "April 6 deadline — 24 hours away", "text": "Trump's ultimatum for Iran to reopen the Strait of Hormuz expires Monday 6 April at 8 PM ET. Iran's central military command rejected it. Sen. Lindsey Graham publicly backed enforcement. Diplomatic channels via Pakistan, Turkey, and Egypt have stalled; US intelligence assesses Iran is unwilling to engage in substantive talks.", "sources": ["CBS News", "CNBC", "Al Jazeera", "ANI", "Times of Israel"] },
+        { "bold_heading": "F-15E WSO recovery — potential de-escalation factor", "text": "If confirmed, the recovery of the missing crew member removes a potential hostage scenario that could have forced US escalation independent of the April 6 timeline.", "sources": ["Al Jazeera", "HotAir"] },
+        { "bold_heading": "Iraq Hormuz exemption signals selective reopening", "text": "Iran's decision to exempt Iraq from Hormuz restrictions expands the list of permitted nations. The selective passage system remains far below pre-conflict volumes (~138 transits/day).", "sources": ["Bloomberg", "Tribune India"] }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        { "bold_heading": "April 6 deadline — 24 hours (critical)", "text": "The binary outcome — enforcement or extension — is the dominant risk event. Enforcement would trigger an extreme oil price spike, intensified Iranian retaliation against Gulf infrastructure, and potential Hormuz full closure. Contingency triggers for both scenarios should be finalized.", "sources": ["CBS News", "CNBC", "Al Jazeera"] },
+        { "bold_heading": "AQI spike — staff health and facility operations", "text": "Kuwait City AQI at 162 (Unhealthy) represents a 3x deterioration from the prior day. BCP teams should assess HVAC filtration adequacy, consider remote work policies, and monitor for further degradation if additional infrastructure fires occur.", "sources": ["WAQI/aqicn.org"] },
+        { "bold_heading": "Oil infrastructure damage compounding", "text": "The Shuwaikh strike — targeting KPC and Ministry of Oil headquarters rather than production facilities — signals Iranian willingness to hit administrative and regulatory nodes. Combined with three Mina al-Ahmadi strikes, cumulative damage is material.", "sources": ["Gulf News", "Big News Network"] },
+        { "bold_heading": "Cyber posture ahead of deadline", "text": "The April 6 deadline creates a binary cyber risk: enforcement keeps Iran's internet at ~1–4% (limiting offensive capacity); diplomatic resolution restoring connectivity could unleash pre-positioned attacks. DDoS campaigns by Keymous Plus and DieNet against Gulf financial targets remain active.", "sources": ["SOCRadar", "CloudSEK", "Unit 42"] },
+        { "bold_heading": "Government remote work directive", "text": "The move to remote work for government employees at the struck complex may signal broader contingency planning. Monitor for cascading government office closures that could affect regulatory interactions and approvals.", "sources": ["Kuwait state media"] }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Taking Stock of the War in Iran",
+          "author": "Michael Froman",
+          "publication": "Council on Foreign Relations",
+          "pub_date": "2026-04-03",
+          "access": "Open",
+          "summary": "Evaluates US military progress one month into the conflict, finding that while Iranian military capabilities have been substantially degraded, asymmetric threats to the Strait of Hormuz remain operational. Goldman Sachs estimates suggest Asian economies could face GDP growth hits as large as 0.7%, with global energy market and semiconductor supply chain disruptions creating cascading economic effects.",
+          "relevance": "Directly addresses Hormuz disruption as the conflict's most significant economic lever; the GDP impact estimates and supply chain analysis inform exposure assessment and scenario planning.",
+          "link": "https://www.cfr.org/articles/taking-stock-of-the-war-in-iran"
+        },
+        {
+          "title": "Why Gulf States Should Reject Zarif's Terms for Ending Iran War",
+          "author": "Not confirmed (paywall)",
+          "publication": "Foreign Policy",
+          "pub_date": "2026-04-03",
+          "access": "Paywall",
+          "summary": "Argues that Iran's diplomatic overtures through Foreign Minister Zarif do not address the structural damage inflicted on Gulf states and that accepting terms without security guarantees would leave the region vulnerable to future coercion. Examines the scale of destruction across UAE, Qatar, and Kuwait infrastructure.",
+          "relevance": "Reinforces the assessment that a near-term ceasefire may not resolve the underlying threat to Gulf infrastructure; post-conflict security architecture will determine long-term risk posture.",
+          "link": "https://foreignpolicy.com/2026/04/03/iran-zarif-united-states-war-gulf-states-damage/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "Keymous Plus / DieNet — ongoing DDoS campaigns against Gulf targets",
+          "text": "No new escalation observed in the past 24 hours, but campaigns remain active. Keymous Plus (#Op_Epstein_Gulf) has launched 50+ verified DDoS attacks across Kuwait, UAE, Bahrain, Qatar. DieNet Network targeting government portals, telecoms, airports, and financial institutions across the GCC.",
+          "cve_ids": [],
+          "threat_actor": "Keymous Plus (pro-Iran hacktivist); DieNet Network",
+          "recommended_action": "Maintain elevated DDoS mitigation posture; verify WAF rules and CDN protections ahead of April 6 deadline.",
+          "sources": ["SOCRadar", "CloudSEK"],
+          "url": "https://socradar.io/blog/cyber-reflections-us-israel-iran-war/"
+        },
+        {
+          "bold_heading": "CVE-2026-3502 — TrueConf Client code integrity vulnerability",
+          "text": "CISA KEV, 2 April 2026. Actively exploited. Man-in-the-middle substitution of malicious update packages. Remediation deadline: 16 April 2026.",
+          "cve_ids": ["CVE-2026-3502"],
+          "threat_actor": null,
+          "recommended_action": "Patch TrueConf Client immediately if deployed; audit video conferencing update infrastructure.",
+          "sources": ["CISA"],
+          "url": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+          "bold_heading": "CVE-2026-5281 — Google Chrome/Dawn use-after-free",
+          "text": "CISA KEV, deadline 15 April 2026. CVSS 8.8. Affects all Chromium-based browsers. Actively exploited.",
+          "cve_ids": ["CVE-2026-5281"],
+          "threat_actor": null,
+          "recommended_action": "Push browser updates across all endpoints; verify patch compliance before 15 April deadline.",
+          "sources": ["CISA", "Security Affairs"],
+          "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Hydro Kitten financial sector targeting signal",
+          "text": "CrowdStrike reports Hydro Kitten (IRGC-linked APT) has signaled plans to target the financial sector. Over 60 active threat groups aligned with the conflict, 53 on the pro-Iranian side. Russian hacker groups increasing activity in support of Tehran.",
+          "threat_actor": "Hydro Kitten (IRGC-linked)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["CrowdStrike", "Nextgov/FCW"],
+          "url": "https://www.nextgov.com/cybersecurity/2026/03/intelligence-firms-watch-uptick-iran-cyber-activity-after-us-israel-strikes/411802/"
+        },
+        {
+          "bold_heading": "Iran internet blackout — April 6 deadline creates binary cyber risk",
+          "text": "Iran at ~1–4% internet connectivity (Day 37). The deadline outcome determines cyber posture: enforcement keeps Iran offline; ceasefire/deal restores connectivity and likely triggers coordinated cyber surge against Gulf financial institutions from pre-positioned assets.",
+          "threat_actor": "Iranian state-sponsored (general)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["Unit 42"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        },
+        {
+          "bold_heading": "APT and wiper campaigns against Gulf banking infrastructure",
+          "text": "Iran-linked groups (Handala, DieNet, Ghost Princess) continue APT infiltration and spear-phishing targeting senior executives across GCC banking sectors. Handala's Intune wiper attack vector (remote device wipe via compromised MDM) remains active. Over 100 cyber incidents recorded since conflict began.",
+          "threat_actor": "Iran-linked (multiple groups)",
+          "assessed_likelihood": "High",
+          "sources": ["AGBI", "Security MEA", "American Banker"],
+          "url": "https://www.agbi.com/cybersecurity/2026/03/gulf-systems-targeted-by-wave-of-war-linked-cyberattacks/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "April 6 deadline expiry (8 PM ET Monday)",
+          "why_it_matters": "The single most consequential trigger. Pre-enforcement signals to monitor: NOTAM closures over Iran/Gulf, carrier group repositioning, B-2/B-1 sortie reports, and oil futures gap-up at Sunday evening open. An oil price spike above $115 Brent at Sunday's electronic open would be an early market signal.",
+          "related_section": "Section 4 / Section 5"
+        },
+        {
+          "text": "Kuwait AQI trajectory",
+          "why_it_matters": "With PM2.5 at 162 (Unhealthy) and the Shuwaikh fire still being assessed, further deterioration into Very Unhealthy (201+) territory would warrant staff health advisories and potential facility closures. Monitor wind direction and additional infrastructure fire reports.",
+          "related_section": "Section 1 / Section 3 / Section 5"
+        },
+        {
+          "text": "F-15E WSO recovery confirmation",
+          "why_it_matters": "Official DOD confirmation of the recovery would remove a hostage-scenario escalation pathway. Non-confirmation or evidence of capture by IRGC would become a major political flashpoint ahead of the April 6 deadline.",
+          "related_section": "Section 2 / Section 4"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "2 — Targets & Incidents", "source_count": 7, "confidence": "High", "note": "F-15E WSO recovery sourced from single US government official via Al Jazeera; firefight detail from HotAir only. All other incidents confirmed by 3+ sources." },
+    { "section": "3 — Kuwait Local", "source_count": 5, "confidence": "High", "note": null },
+    { "section": "4 — Regional Context", "source_count": 5, "confidence": "High", "note": null },
+    { "section": "5 — Risk Signal", "source_count": 4, "confidence": "Medium", "note": "Risk signals are analytical assessments derived from confirmed events; forward-looking elements are inherently assessed rather than sourced." },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "High", "note": null },
+    { "section": "7B — Cyber Strategic", "source_count": 4, "confidence": "Medium", "note": "Strategic cyber items based on vendor assessments and conflict-trend reports from prior weeks; no new Gulf-specific CERT advisories in past 24 hours." }
+  ],
+  "footer": "Report #26 compiled 2026-04-05 at 07:30 UTC+3."
+}
