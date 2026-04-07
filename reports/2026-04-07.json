@@ -1,0 +1,295 @@
+{
+  "date": "2026-04-07",
+  "headline": "07 April 2026",
+  "subtitle": "April 7 Deadline Imminent: Trump Threatens Iran Infrastructure as Ceasefire Talks Stall",
+  "report_number": "28",
+  "coverage": "06 April 2026 07:00 UTC+3 – 07 April 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-04-07",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "↑" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "↑" },
+      { "metric": "Brent crude ($/bbl)", "today": "110.05", "previous": "109.73", "delta": "+0.32", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "113.42", "previous": "111.20", "delta": "+2.22", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "↑" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "KWI airport status", "today": "Closed", "previous": "Closed", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "127", "today_label": "USG", "previous": "167", "previous_label": "Unhealthy", "delta": "-40", "trend_7d": "↓" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "Kuwait air defense intercepts, 6 April (daytime)",
+          "text": "Qatar News Agency (QNA) confirmed Kuwait's air defense systems intercepted incoming missiles and drone attacks on 6 April. The Kuwaiti General Staff stated that any explosion sounds heard by residents are the result of interceptions; residents advised to adhere to all security instructions.",
+          "sources": ["QNA, 6 April 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "No new civil defence shelter-in-place orders or emergency broadcasts were issued within this coverage window beyond standing military advisories.",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Kuwait — Air defense intercepts aerial threats (6 April)",
+          "text": "Kuwait's air defense systems engaged incoming missiles and drone attacks during the day; confirmed by QNA and Kuwaiti armed forces statement; residents reported audible explosions from interceptions. No confirmed infrastructure damage within this window from these intercepts. Status: Confirmed.",
+          "sources": ["QNA, 6 April 2026"]
+        },
+        {
+          "bold_heading": "Kuwait — Iranian attack on Kuwaiti air base (6 April) [SINGLE SOURCE; TIMESTAMP UNCONFIRMED]",
+          "text": "An Iranian aerial attack on a Kuwaiti air base resulted in 15 US military personnel injured. Exact timing within coverage window unconfirmed. Status: Confirmed (timing unconfirmed).",
+          "sources": ["Wikipedia / 2026 Iranian strikes on Kuwait"]
+        },
+        {
+          "bold_heading": "Israel/US — Strikes on Iran's South Pars Petrochemical Complex (Asaluyeh, ~6 April)",
+          "text": "Israel struck Iran's Jam and Damavand petrochemical facilities at Asaluyeh (South Pars complex), Iran's largest petrochemical hub. Status: Confirmed.",
+          "sources": ["Euronews, 6 April 2026"]
+        },
+        {
+          "bold_heading": "US — Maximum-intensity strikes on Iran (7 April, within coverage window)",
+          "text": "Defense Secretary Hegseth confirmed US forces were conducting more strikes against Iran than on any single day since the conflict began, as the Trump deadline approached. Status: Confirmed.",
+          "sources": ["Al Jazeera live blog", "NBC News, 7 April 2026"]
+        },
+        {
+          "bold_heading": "Gulf-wide — Continued Iranian aerial campaign overnight 6–7 April",
+          "text": "Iran launched missiles and drones targeting Gulf states and Israel overnight; UAE, Kuwait, and Saudi Arabia all reported air defense engagement. No new confirmed infrastructure strikes on Kuwait specifically within this window beyond items above. Status: Confirmed (regional); Kuwait infrastructure damage in this window unconfirmed.",
+          "sources": ["Al Jazeera", "CNN, 6–7 April 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Airport",
+          "text": "KWI remains closed to all commercial passenger traffic; no reopening timeline announced. Kuwait Airways limited operations continue via Dammam King Fahd Airport.",
+          "sources": ["Kuwait Civil Aviation", "prior reporting"]
+        },
+        {
+          "bold_heading": "Power grid",
+          "text": "Ministry of Electricity scheduled maintenance outages across Kuwait from 5–11 April (substation upgrades); these compound ongoing battle-damage repairs to two generating units. Residents across multiple governorates experiencing rolling outages.",
+          "sources": ["Ministry of Electricity", "indianinq8.com, April 2026"]
+        },
+        {
+          "bold_heading": "Air quality",
+          "text": "Kuwait City PM2.5 AQI improved significantly to 127 (Unhealthy for Sensitive Groups) from 167 (Unhealthy) the prior day. Outdoor activity remains inadvisable for sensitive populations; HVAC filtration recommended for all facilities.",
+          "sources": ["WAQI/aqicn.org, 7 April 03:00 local"]
+        },
+        {
+          "bold_heading": "Oil sector",
+          "text": "KPC force majeure on delivery contracts remains in effect; Mina Al-Ahmadi and KNPC output curtailed. No new confirmed strikes on oil facilities within this coverage window.",
+          "sources": ["KPC", "Bloomberg", "Al Jazeera, prior reporting"]
+        },
+        {
+          "bold_heading": "US Embassy / consular",
+          "text": "Operations suspended; Level 3 travel advisory in effect; visa extensions and absence permit waivers continue.",
+          "sources": ["US Embassy Kuwait"]
+        },
+        {
+          "bold_heading": "Borders",
+          "text": "Nuwaiseeb (Kuwait–Saudi Arabia) crossing reported open [TIMESTAMP UNCONFIRMED — prior reporting, not confirmed within this window].",
+          "sources": ["prior reporting"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "April 7 deadline — 8 PM ET (03:00 UTC+3, 8 April) falls just outside this coverage window",
+          "text": "Trump's 'final' ultimatum for Iran to reopen the Strait of Hormuz expires tonight. He has threatened 'complete demolition' of Iran's power plants and bridges. Iran called the threats 'delusional,' rejected all temporary ceasefire proposals, and presented a 10-point counter-demand requiring a permanent end to the war, sanctions lifting, and reconstruction commitments. The outcome — enforcement or extension — is the conflict's most consequential near-term trigger.",
+          "sources": ["Al Jazeera live blog", "NBC", "CNBC", "NPR, 6–7 April 2026"]
+        },
+        {
+          "bold_heading": "Mediated 45-day ceasefire proposal unresolved at coverage close",
+          "text": "Pakistan, Egypt, and Turkey brokered a framework proposing a 45-day ceasefire and Hormuz reopening; Trump described Iran's response as 'significant but not good enough.' No agreed framework in place at 07:00 UTC+3 on 7 April.",
+          "sources": ["Axios", "CNBC", "AP, 6 April 2026"]
+        },
+        {
+          "bold_heading": "US strikes intensifying as deadline approaches",
+          "text": "Hegseth confirmed the US is striking Iran at higher intensity than any prior day in the conflict — a deliberate military signaling posture. Iran's South Pars petrochemical complex struck by Israel; civilian casualties reported in Tehran from overnight attacks.",
+          "sources": ["Al Jazeera", "NBC News", "Euronews, 6–7 April 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "April 7 deadline — binary overnight risk (CRITICAL)",
+          "text": "Deadline expires April 8 03:00 UTC+3, outside this coverage window. Enforcement: severe oil price spike (Brent potentially exceeding $120–130+), intensified GCC infrastructure attacks, heightened cyber retaliation surge. Extension: sustained attrition and energy disruption. Both scenarios require activated BCP postures overnight April 7–8.",
+          "sources": ["Al Jazeera", "NBC", "CNBC, 6–7 April 2026"]
+        },
+        {
+          "bold_heading": "FortiClient EMS CVE-2026-35616 — patch by April 9 (URGENT, 48 hours)",
+          "text": "CISA KEV addition on April 6; CVSS 9.1 pre-authentication API bypass enabling unauthenticated code execution. Federal deadline April 9. Affects FortiClient EMS 7.4.5 and 7.4.6. Active exploitation confirmed since March 31.",
+          "sources": ["CISA, 6 April 2026", "The Hacker News", "The Register"]
+        },
+        {
+          "bold_heading": "WTI–Brent inversion — pricing and settlement risk",
+          "text": "WTI ($113.42) at a $3.37 premium over Brent ($110.05) is an atypical structural inversion. Review USD-denominated commodity-linked contracts, trade finance pricing references, and settlement mechanisms for basis risk exposure.",
+          "sources": ["oilpriceapi.com, 7 April 2026"]
+        },
+        {
+          "bold_heading": "Power grid — layered outage risk overnight",
+          "text": "Planned maintenance outages (April 5–11) plus battle-damage repairs create compounding grid fragility ahead of the overnight deadline window. Verify UPS endurance and generator fuel stock for all critical sites before 03:00 UTC+3 on 8 April.",
+          "sources": ["Ministry of Electricity", "indianinq8.com, April 2026"]
+        },
+        {
+          "bold_heading": "AQI improved but volatile — maintain HVAC readiness",
+          "text": "AQI dropped to 127 (USG) from 167 but the 48h range of 89–188 shows rapid oscillation. Any fresh infrastructure strike and associated fires could push AQI back above 167 or toward 201+ overnight. Maintain HVAC filtration protocols and remote-work contingency for non-essential staff.",
+          "sources": ["WAQI/aqicn.org, 7 April 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Pathways for the War with Iran",
+          "author": "Philip Wasielewski",
+          "publication": "Foreign Policy Research Institute (FPRI)",
+          "pub_date": "2026-04-03",
+          "access": "Open",
+          "summary": "Examines two trajectories — a near-term negotiated settlement where the US and Israel 'pocket their victories' in exchange for regime survival and Hormuz reopening; or a prolonged conflict exploiting Iran's ethnic-national fault lines, risking months or years of combat and mass refugee flows. The author argues Iran's Hormuz leverage derives not from nuclear capability but from its demonstrated ability to close the waterway to all global shipping.",
+          "relevance": "The two-scenario framework maps directly onto our binary risk posture for the April 7 deadline — settlement enables rapid oil price normalisation and reduced cyber tempo; prolonged conflict deepens infrastructure exposure, trade finance disruption, and sustained GCC institutional risk.",
+          "link": "https://www.fpri.org/article/2026/04/pathways-for-the-war-with-iran/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "CVE-2026-35616 — FortiClient EMS pre-authentication bypass (CISA KEV; deadline 9 April 2026) [NEW, URGENT]",
+          "text": "CVSS 9.1. Unauthenticated attacker can bypass API auth and execute arbitrary code via crafted HTTP requests. Affected versions: FortiClient EMS 7.4.5 and 7.4.6 (7.2 branch unaffected). Active exploitation confirmed since March 31; CISA KEV added April 6.",
+          "cve_ids": ["CVE-2026-35616"],
+          "threat_actor": null,
+          "recommended_action": "Apply Fortinet hotfix for affected EMS versions immediately; audit pre-auth API access logs for anomalous activity; prioritise migration to unaffected 7.2 branch where feasible.",
+          "sources": ["CISA, 6 April 2026", "The Hacker News", "The Register"],
+          "url": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+          "bold_heading": "Keymous Plus / DieNet — elevated DDoS tempo against GCC financial and government targets (ongoing)",
+          "text": "Both groups at heightened operational pace ahead of the April 7 deadline. 50+ verified DDoS attacks on Kuwait, UAE, Bahrain, Qatar; targets include GCC banks, telecoms, airports, and government portals. Threat actors: Keymous Plus; DieNet Network.",
+          "cve_ids": [],
+          "threat_actor": "Keymous Plus; DieNet Network (pro-Iran hacktivist)",
+          "recommended_action": "Maintain elevated DDoS mitigation posture through April 8; verify WAF rules, CDN capacity, and ISP upstream SLA commitments before the overnight deadline window.",
+          "sources": ["SOCRadar", "CloudSEK", "AGBI, March–April 2026"],
+          "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/"
+        },
+        {
+          "bold_heading": "CVE-2026-3502 (TrueConf) / CVE-2026-5281 (Chrome/Chromium) — KEV deadlines 15–16 April [CARRY-FORWARD]",
+          "text": "TrueConf: MITM update-package substitution; actively exploited; patch deadline April 16. Chrome/Chromium use-after-free (CVSS 8.8): affects all Chromium-based browsers (Chrome, Edge, Opera); patch deadline April 15. Both remain within actionable remediation window.",
+          "cve_ids": ["CVE-2026-3502", "CVE-2026-5281"],
+          "threat_actor": null,
+          "recommended_action": "Confirm patch compliance for both before April 9 to maintain security posture ahead of the critical overnight period.",
+          "sources": ["CISA", "Security Affairs, 1–2 April 2026"],
+          "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "APT and wiper campaigns against Gulf banking infrastructure (ongoing)",
+          "text": "Iran-linked groups (Handala, Ghost Princess, and affiliated actors) continue spear-phishing targeting senior GCC banking executives and MDM-based wiper attacks (Handala's Intune wiper: remote device wipe via compromised MDM). UAE banks ADCB and FAB reported prolonged service interruptions in the past week (cause unconfirmed). 100+ conflict-linked cyber incidents since February 28.",
+          "threat_actor": "Handala; Ghost Princess; affiliated Iran-linked groups",
+          "assessed_likelihood": "High",
+          "sources": ["AGBI", "SISA InfoSec", "CloudSEK, March–April 2026"],
+          "url": "https://www.agbi.com/cybersecurity/2026/03/gulf-systems-targeted-by-wave-of-war-linked-cyberattacks/"
+        },
+        {
+          "bold_heading": "IRGC tech-company threat list — spillover risk for Gulf FIs",
+          "text": "The IRGC's April 1 declaration names J.P. Morgan Chase, Cisco, Oracle, Microsoft, Apple, Google, and Nvidia as 'legitimate targets.' No confirmed strikes on named entities in the past 24h; threat posture remains active and expected to intensify post-deadline. Financial institutions with cloud, data-centre, or correspondent-banking concentration in named vendors face elevated indirect exposure.",
+          "threat_actor": "IRGC (declared)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["CNBC", "Euronews", "Defence Security Asia, 1 April 2026"],
+          "url": "https://cnbc.com/2026/04/01/iran-irgc-nvidia-appple-attack-threat.html"
+        },
+        {
+          "bold_heading": "Iran internet blackout — binary cyber surge risk on connectivity restoration",
+          "text": "Iran operates at ~1–4% internet connectivity (Day 39). Continued military enforcement maintains suppression of coordinated offensive cyber capacity. Any ceasefire or deal restoring Iranian internet access could trigger a surge from pre-positioned assets against Gulf financial institutions within days of connectivity restoration.",
+          "threat_actor": "Iranian state-sponsored (general)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["Unit 42, Palo Alto Networks, 26 March 2026"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "April 7 deadline outcome (8 PM ET / 03:00 UTC+3, 8 April)",
+          "why_it_matters": "The conflict's most consequential near-term trigger; enforcement would drive extreme oil price spike, intensified GCC attacks, and cyber retaliation surge; extension signals US credibility constraints and continued attrition.",
+          "related_section": "Sections 1, 2, 4, 5"
+        },
+        {
+          "text": "45-day ceasefire proposal — mediator response window",
+          "why_it_matters": "Any agreed framework would be the most significant diplomatic development since the war began and would materially alter oil price trajectory, cyber threat tempo, and BCP postures.",
+          "related_section": "Section 4; cascades to Section 5"
+        },
+        {
+          "text": "Kuwait power grid and AQI overnight (April 7–8)",
+          "why_it_matters": "New strikes during the deadline window could re-damage partially repaired grid infrastructure and trigger a fresh AQI spike; AQI crossing 167+ would trigger staff health advisory review.",
+          "related_section": "Sections 3, 5"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 1, "confidence": "Medium", "note": "Single primary source for this window (QNA); no new Kuwait MOD press statement within the coverage window." },
+    { "section": "2 — Targets & Incidents", "source_count": 4, "confidence": "Medium", "note": "Air base attack (15 US personnel) sourced from Wikipedia only [SINGLE SOURCE; TIMESTAMP UNCONFIRMED]; all other items confirmed by 2–3 sources." },
+    { "section": "3 — Kuwait Local", "source_count": 3, "confidence": "High", "note": "Nuwaiseeb border item flagged [TIMESTAMP UNCONFIRMED] as prior reporting." },
+    { "section": "4 — Regional Context", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "5 — Risk Signal", "source_count": 3, "confidence": "Medium", "note": "Deadline risk is analytical assessment; WTI–Brent inversion confirmed by single pricing aggregator." },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "High", "note": null },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "Medium", "note": "No new Gulf-specific CERT advisory within 24h; IRGC threat list is 6 days old but assessed ongoing." }
+  ],
+  "footer": "Report #28 compiled 2026-04-07 at 07:30 UTC+3."
+}
