@@ -1,0 +1,300 @@
+{
+  "date": "2026-04-08",
+  "headline": "08 April 2026",
+  "subtitle": "Two-Week Ceasefire Declared: Iran Agrees to Open Hormuz, Oil Crashes $14",
+  "report_number": "29",
+  "coverage": "07 April 2026 07:00 UTC+3 – 08 April 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-04-08",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "↑" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "↑" },
+      { "metric": "Brent crude ($/bbl)", "today": "95.80", "previous": "110.05", "delta": "-14.25", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "97.28", "previous": "113.42", "delta": "-16.14", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "↑" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "KWI airport status", "today": "Closed", "previous": "Closed", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "72", "today_label": "Moderate", "previous": "127", "previous_label": "USG", "delta": "-55", "trend_7d": "↓" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "Kuwait MOI stay-home advisory — midnight to 06:00, 8 April",
+          "text": "Kuwait's Ministry of Interior issued a precautionary directive urging all citizens and residents to remain indoors from midnight Tuesday, April 7, to 06:00 on Wednesday, April 8, aimed at 'maintaining safety, supporting security operations, and ensuring stability.' The Municipality of Kuwait simultaneously ordered all commercial establishments closed for the same period.",
+          "sources": ["Arab Times Online", "Times Kuwait", "Al Arabiya English, 7 April 2026"]
+        },
+        {
+          "bold_heading": "Air defense intercepts — active during coverage window, including post-ceasefire period",
+          "text": "Kuwaiti army confirmed air defense systems were intercepting missile and drone attacks during the coverage window. Missile alerts sounded across Kuwait, Saudi Arabia, and Bahrain in the hours immediately following the ceasefire announcement (~03:30 UTC+3 on 8 April), underscoring that the cessation of hostilities was not instantaneous.",
+          "sources": ["LiveUAMap Iran tracker", "News24Online live blog, 8 April 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Gulf-wide — Missile and drone alerts persist after ceasefire (8 April, early morning UTC+3)",
+          "text": "Missile alerts were triggered in Kuwait, Saudi Arabia, and Bahrain within hours of the ceasefire announcement, indicating that the cessation of hostilities was not immediate. No new confirmed infrastructure strikes on Kuwait within the coverage window separately confirmed. Status: Confirmed (alerts); specific impact unconfirmed.",
+          "sources": ["News24Online live blog", "LiveUAMap, 8 April 2026"]
+        },
+        {
+          "bold_heading": "Ceasefire in effect — Trump suspends US/Israeli strikes (~03:30 UTC+3, 8 April)",
+          "text": "President Trump announced a two-week ceasefire requiring Iran's 'COMPLETE, IMMEDIATE, AND SAFE OPENING' of the Strait of Hormuz; Iran's Supreme Leader issued a halt-fire order to all military branches and the Supreme National Security Council formally accepted. Iran's Foreign Minister Araghchi confirmed that 'safe passage through the Strait of Hormuz will be possible via coordination with Iran's Armed Forces' for the two-week period. Status: Confirmed.",
+          "sources": ["Al Jazeera", "NBC News", "PBS NewsHour", "Axios, 7–8 April 2026"]
+        },
+        {
+          "bold_heading": "Hormuz — Iran allows initial 15 vessels through after ceasefire",
+          "text": "Iran allowed 15 ships through the Strait of Hormuz in the immediate aftermath of the ceasefire, with 800+ vessels still trapped in the Persian Gulf awaiting extraction; shipowners and port operators are reviewing Iranian Armed Forces coordination procedures before attempting transit. Status: Confirmed.",
+          "sources": ["Seatrade Maritime", "Bloomberg, 8 April 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Curfew-adjacent order",
+          "text": "MOI stay-home advisory (midnight–06:00, 8 April) and commercial closure order in effect during coverage window close; no injuries or civil disturbances reported. US Embassy advised US citizens to follow local official instructions and shelter in place.",
+          "sources": ["Arab Times Online", "Times Kuwait", "@TravelGov, 7 April 2026"]
+        },
+        {
+          "bold_heading": "Airport",
+          "text": "KWI remains closed to all commercial passenger traffic with no announced reopening timeline. Kuwait Airways and Jazeera Airways continue operations from Dammam and Qaisumah, Saudi Arabia.",
+          "sources": ["ibtimes.com.au", "wego.com, April 2026"]
+        },
+        {
+          "bold_heading": "Air quality",
+          "text": "Kuwait City PM2.5 AQI improved significantly to 72 (Moderate) from 127 (USG) the prior day; improvement is consistent with reduced active fire smoke in the post-ceasefire window. Outdoor conditions acceptable for general public; standard HVAC filtration protocols advisable.",
+          "sources": ["WAQI/aqicn.org Al-Shuwaikh station, 8 April 2026"]
+        },
+        {
+          "bold_heading": "Power grid",
+          "text": "Ministry of Electricity scheduled maintenance outages (5–11 April) continue compounding existing battle-damage repairs to generating units; rolling outages across multiple governorates remain in effect.",
+          "sources": ["Ministry of Electricity", "indianinq8.com, April 2026"]
+        },
+        {
+          "bold_heading": "Oil sector",
+          "text": "KPC force majeure on delivery contracts remains in effect; Mina Al-Ahmadi and KNPC output remains curtailed. No new confirmed strikes on oil facilities within this coverage window.",
+          "sources": ["KPC", "Bloomberg, prior reporting"]
+        },
+        {
+          "bold_heading": "US Embassy / consular",
+          "text": "Operations suspended; Level 3 travel advisory in effect.",
+          "sources": ["US Embassy Kuwait"]
+        },
+        {
+          "bold_heading": "Borders",
+          "text": "Nuwaiseeb (Kuwait–Saudi Arabia) crossing status unconfirmed within this window [TIMESTAMP UNCONFIRMED — prior reporting].",
+          "sources": ["prior reporting"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "Two-week ceasefire announced and accepted — most significant development since war began (8 April, ~03:30 UTC+3)",
+          "text": "Trump suspended US/Israeli strikes for two weeks contingent on Hormuz reopening; Iran accepted, issued halt-fire orders, and declared 'victory' claiming nearly all war objectives achieved; negotiations to continue in Islamabad on 10 April. Israel remained openly skeptical of Iranian compliance and did not formally commit to the ceasefire.",
+          "sources": ["Al Jazeera", "NBC News", "PBS", "Axios, 7–8 April 2026"]
+        },
+        {
+          "bold_heading": "Oil market repricing — Brent −13%, WTI −14% on ceasefire news",
+          "text": "WTI fell from $113.42 to ~$96 within 30 minutes of Trump's announcement; Brent followed, settling around $95.80. Analysts caution supply disruption effects will persist for months — 800+ trapped vessels, damaged port infrastructure, and depleted inventory buffers require weeks to normalize.",
+          "sources": ["Bloomberg", "CBS News", "Al Jazeera, 8 April 2026"]
+        },
+        {
+          "bold_heading": "Ceasefire fragility — multiple spoiler risks identified",
+          "text": "Iran's 10-point demands include US troop withdrawal from GCC, permanent sanctions relief, and reconstruction commitments — none agreed. Israeli unilateral strike risk remains the primary spoiler; post-ceasefire missile alerts in Kuwait, Saudi Arabia, and Bahrain indicate not all parties stood down simultaneously.",
+          "sources": ["NBC News", "Al Jazeera", "News24Online, 8 April 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Oil price repricing — immediate exposure review required",
+          "text": "Brent fell ~$14.25 and WTI ~$16.14 overnight on ceasefire news (Brent $95.80; WTI $97.28); review mark-to-market positions, oil-collateralized credit, and trade finance facilities referencing either benchmark and revalidate WTI–Brent basis risk as the spread narrowed from $3.37 to $1.48. Ceasefire is temporary — do not assume a sustained price floor without confirmed Hormuz restoration and cleared vessel backlog.",
+          "sources": ["oilpriceapi.com", "Bloomberg, 8 April 2026"]
+        },
+        {
+          "bold_heading": "Ceasefire fragility — maintain BCP posture through Islamabad talks (10 April)",
+          "text": "The ceasefire is contingent on unverified Hormuz reopening; each vessel transit requires individual Iranian Armed Forces coordination, and post-ceasefire missile alerts in Kuwait, Bahrain, and Saudi Arabia confirm not all parties stood down simultaneously. Do not stand down BCP or crisis team posture until Islamabad talks (April 10) produce a workable framework.",
+          "sources": ["Al Jazeera", "NBC News", "Axios, 7–8 April 2026"]
+        },
+        {
+          "bold_heading": "FortiClient EMS CVE-2026-35616 — CISA deadline TODAY (9 April federal)",
+          "text": "Pre-authentication API bypass (CVSS 9.1) with active exploitation since March 31; CISA federal compliance deadline is April 9. Institutions not yet remediated face both regulatory exposure and active exploitation risk; escalate to CISO immediately if unpatched EMS 7.4.5 or 7.4.6 instances remain in the environment.",
+          "sources": ["CISA KEV", "The Hacker News", "The Register, 6 April 2026"]
+        },
+        {
+          "bold_heading": "Cyber threat trajectory — ceasefire increases connectivity restoration risk",
+          "text": "Iran operates at ~1–4% internet connectivity; a ceasefire-linked restoration could activate pre-positioned offensive cyber assets against GCC financial institutions within days of connectivity recovery. Monitor Shadowserver Foundation and NetBlocks for Iranian traffic resumption as the earliest available leading indicator.",
+          "sources": ["Unit 42 Palo Alto Networks, March 2026", "SISA InfoSec, April 2026"]
+        },
+        {
+          "bold_heading": "Power grid maintenance through April 11",
+          "text": "Scheduled Ministry of Electricity maintenance outages continue through April 11 regardless of ceasefire; verify generator fuel reserves and UPS endurance at all critical operational sites.",
+          "sources": ["Ministry of Electricity, April 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "U.S. and Iran Agree to 2-Week Cease-Fire",
+          "author": "Foreign Policy Staff",
+          "publication": "Foreign Policy",
+          "pub_date": "2026-04-07",
+          "access": "Paywall",
+          "summary": "Covers the rapid sequence from Trump's 'civilization will die tonight' ultimatum to Pakistan-brokered agreement, including Iran's 10-point counter-demands (permanent war end, sanctions lifting, US troop withdrawal from GCC, reconstruction commitments). Notes Iran's Supreme National Security Council accepted the deal while simultaneously declaring victory and claiming 'nearly all war objectives achieved.'",
+          "relevance": "The 10-point demands framework sets the negotiating floor for Islamabad talks — any agreement short of these points risks ceasefire collapse after two weeks, directly governing our oil price, BCP, and cyber threat posture reset timeline.",
+          "link": "https://foreignpolicy.com/2026/04/07/iran-accepts-ceasefire-trump-hormuz-10-point-plan/"
+        },
+        {
+          "title": "Shipowners Eye Hormuz Ceasefire Window for 800 Trapped Vessels",
+          "author": "Bloomberg News Staff",
+          "publication": "Bloomberg",
+          "pub_date": "2026-04-08",
+          "access": "Paywall",
+          "summary": "Details the practical logistics challenge facing the 800+ vessels stranded in the Persian Gulf — each transit requires Iranian Armed Forces coordination, creating a bottleneck that could take weeks to clear; oil flows and LNG shipments remain suppressed well beyond any political agreement. Insurance and P&I clubs are reviewing war-risk exclusion clauses before authorising transits.",
+          "relevance": "Oil price normalisation and trade finance recovery timelines are materially longer than the ceasefire political window — directly relevant to commodity-linked credit exposure and trade finance pricing reviews.",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-08/shipowners-eye-hormuz-ceasefire-window-for-800-trapped-vessels"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "CVE-2026-35616 — FortiClient EMS pre-authentication bypass — CISA deadline TODAY (9 April) [DEADLINE IMMINENT]",
+          "text": "CVSS 9.1. Unauthenticated remote code execution via crafted HTTP requests against FortiClient EMS 7.4.5 and 7.4.6 (7.2 branch unaffected). Active exploitation confirmed since March 31; CISA KEV federal remediation deadline is April 9.",
+          "cve_ids": ["CVE-2026-35616"],
+          "threat_actor": null,
+          "recommended_action": "Verify patch status immediately — escalate to CISO if unpatched EMS instances are confirmed; prioritise migration to unaffected 7.2 branch.",
+          "sources": ["CISA, 6 April 2026", "The Hacker News", "The Register"],
+          "url": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+          "bold_heading": "Keymous Plus / DieNet — DDoS posture: monitor for de-escalation or opportunistic surge",
+          "text": "Both hacktivist groups operated at peak tempo ahead of the April 7 deadline; post-ceasefire DDoS tempo may initially decrease but ceasefire fragility and Iranian connectivity restoration could trigger a renewed surge. 50+ verified DDoS claims against GCC banks, telecoms, and government portals remain on record.",
+          "cve_ids": [],
+          "threat_actor": "Keymous Plus; DieNet Network (pro-Iran hacktivist)",
+          "recommended_action": "Do not stand down DDoS mitigation posture; maintain elevated WAF rules and CDN capacity through the Islamabad talks (April 10) and ceasefire verification period.",
+          "sources": ["SOCRadar", "CloudSEK", "AGBI, April 2026"],
+          "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/"
+        },
+        {
+          "bold_heading": "CVE-2026-3502 (TrueConf) / CVE-2026-5281 (Chrome/Chromium) — KEV deadlines 15–16 April [CARRY-FORWARD]",
+          "text": "TrueConf MITM update-package substitution (April 16 deadline); Chrome/Chromium use-after-free CVSS 8.8 affecting all Chromium-based browsers (April 15 deadline); both remain actively exploited.",
+          "cve_ids": ["CVE-2026-3502", "CVE-2026-5281"],
+          "threat_actor": null,
+          "recommended_action": "Confirm patch compliance for both by end of this week to maintain security posture before deadline.",
+          "sources": ["CISA KEV catalog", "Security Affairs, 1–2 April 2026"],
+          "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Iran internet connectivity restoration — elevated cyber surge risk window",
+          "text": "Iran currently operates at ~1–4% connectivity (Day 40); the ceasefire creates conditions under which Iranian authorities may begin restoring civilian internet access, potentially activating pre-positioned wiper-capable and credential-harvesting toolsets against GCC financial institutions within days of meaningful connectivity restoration.",
+          "threat_actor": "Iranian state-sponsored (general); Handala; Ghost Princess",
+          "assessed_likelihood": "High",
+          "sources": ["Unit 42 Palo Alto Networks, March 2026", "SISA InfoSec, April 2026"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        },
+        {
+          "bold_heading": "APT wiper and credential-harvesting campaigns — unaffected by ceasefire (ongoing)",
+          "text": "Iran-linked groups (Handala, Ghost Princess) continue spear-phishing of GCC banking executives and MDM-based wiper operations; ceasefire does not formally bind non-state proxy groups, and Handala has operated independently of Iranian government positions throughout the conflict. 100+ conflict-linked cyber incidents recorded since February 28.",
+          "threat_actor": "Handala; Ghost Princess; affiliated Iran-linked groups",
+          "assessed_likelihood": "High",
+          "sources": ["AGBI", "SISA InfoSec", "SOCRadar, March–April 2026"],
+          "url": "https://www.agbi.com/cybersecurity/2026/03/gulf-systems-targeted-by-wave-of-war-linked-cyberattacks/"
+        },
+        {
+          "bold_heading": "IRGC tech-company threat list — not formally withdrawn; ceasefire ambiguity persists",
+          "text": "The IRGC's April 1 designation of J.P. Morgan Chase, Cisco, Oracle, Microsoft, Apple, Google, and Nvidia as 'legitimate targets' remains publicly stated and has not been retracted in conjunction with the ceasefire; GCC financial institutions with cloud, data-centre, or correspondent-banking concentration in named vendors retain elevated indirect exposure.",
+          "threat_actor": "IRGC (declared)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["CNBC", "Euronews", "Time, 1 April 2026"],
+          "url": "https://time.com/article/2026/04/01/iran-revolutionary-guard-corps-tech-apple-google-meta-microsoft-nvidia/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Hormuz transit verification — first 24–72 hours of ceasefire (8–9 April)",
+          "why_it_matters": "Iran's coordination-based transit mechanism is untested at scale; whether Iranian Armed Forces facilitate or obstruct commercial vessel passage will determine whether the ceasefire holds.",
+          "related_section": "Sections 2, 4, 5"
+        },
+        {
+          "text": "Islamabad talks — 10 April (Friday): delegation arrival and engagement",
+          "why_it_matters": "Whether both US and Iranian delegations arrive and engage on the 10-point framework will be the definitive indicator of ceasefire durability — non-arrival or walkout could trigger immediate market reversal and resumed hostilities.",
+          "related_section": "Sections 4, 5"
+        },
+        {
+          "text": "Iranian internet connectivity — monitor for restoration signals",
+          "why_it_matters": "Any confirmed Iranian connectivity recovery from the ~1–4% baseline is the earliest warning of a pending cyber surge from pre-positioned assets against GCC financial institutions.",
+          "related_section": "Sections 7A, 7B"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "High", "note": null },
+    { "section": "2 — Targets & Incidents", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "3 — Kuwait Local", "source_count": 3, "confidence": "High", "note": "Nuwaiseeb border item flagged [TIMESTAMP UNCONFIRMED]; @TravelGov citation is Tier 2 but fully corroborated by Tier 1 sources." },
+    { "section": "4 — Regional Context", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "5 — Risk Signal", "source_count": 3, "confidence": "Medium", "note": "Oil price repricing confirmed by single live pricing aggregator (oilpriceapi.com); ceasefire fragility and cyber trajectory items are analytical assessments." },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "High", "note": null },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "Medium", "note": "No new Gulf-specific CERT advisory in past 24h; Iran connectivity restoration risk elevated to High based on ceasefire conditions; IRGC threat list downgraded to Moderate given ceasefire (not withdrawn)." }
+  ],
+  "footer": "Report #29 compiled 2026-04-08 at 07:30 UTC+3."
+}
