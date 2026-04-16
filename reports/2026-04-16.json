@@ -1,0 +1,221 @@
+{
+  "date": "2026-04-16",
+  "headline": "16 April 2026",
+  "subtitle": "Iran threatens Red Sea shutdown; ceasefire extension 'in principle' but unconfirmed; blockade enforcement disputed",
+  "report_number": "37",
+  "coverage": "15 April 2026 07:00 UTC+3 – 16 April 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-04-16",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "96.83", "previous": "94.79", "delta": "+2.04", "trend_7d": "↓" },
+      { "metric": "WTI crude ($/bbl)", "today": "90.92", "previous": "91.28", "delta": "-0.36", "trend_7d": "↓" },
+      { "metric": "Strait of Hormuz transits/day", "today": "Disputed — CENTCOM: 10 vessels turned back; Iran claims supertanker transited", "previous": "≥3 non-Iranian-port transits", "delta": "Blockade enforcement tightening", "trend_7d": "→" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "KWI airport status", "today": "Closed", "previous": "Closed", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "42", "today_label": "Good", "previous": "54", "previous_label": "Moderate", "delta": "-12", "trend_7d": "→" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        { "bold_heading": "No civil defence alerts issued in the coverage window", "text": "No MOI civil defence advisory, air raid siren, shelter-in-place order, or emergency broadcast issued during 15–16 April. Cabinet guidance urging citizens to follow Defense/Interior ministry directives remains standing.", "sources": ["KUNA", "Kuwait Times", "MOI Kuwait monitored, 15–16 April 2026"] },
+        { "bold_heading": "State of Emergency remains in force", "text": "Kuwait's state of emergency, renewed 8–9 April for 60 days, continues to underpin elevated readiness posture through early June.", "sources": ["Safe Destinations Kuwait Travel Advisory, 8 April 2026"] },
+        { "text": "US Embassy Kuwait Level 3 security advisory still active. Advisory urging US citizens to shelter in place remains in force; routine consular services suspended. No new update within this 24h window. [SINGLE SOURCE]", "sources": ["US Embassy Kuwait, kw.usembassy.gov — April 1 UPDATE, 2026"] }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        { "bold_heading": "No confirmed new strikes on Kuwait or GCC territory", "text": "No missile, drone, or cruise missile attacks on Kuwait or Gulf state territory confirmed during 15 April 07:00 – 16 April 07:00 UTC+3. The 8 April ceasefire (through 22 April) remains in force.", "sources": ["KUNA", "Al Jazeera liveblog", "Arab Times Online, 15–16 April 2026"] },
+        { "bold_heading": "CENTCOM: blockade 'fully implemented'", "text": "Admiral Brad Cooper stated US forces 'completely halted economic trade going into and out of Iran by sea' and issued warnings to six additional vessels on 15 April, prompting them to change course. 10 Iranian-bound vessels turned back in first 36h.", "sources": ["Al Jazeera", "CNBC", "CBS News, 15 April 2026"] },
+        { "bold_heading": "Iran claims supertanker transited Hormuz defying blockade", "text": "Iran's Fars News Agency reported a VLCC capable of transporting 2 million barrels sailed through the Strait with AIS tracking active and 'without any concealment,' reaching Iranian waters. CENTCOM has not confirmed or denied. [SINGLE SOURCE — IRANIAN STATE MEDIA; UNVERIFIED]", "sources": ["CBS News", "Free Press Journal", "Business Today India, 15 April 2026"] },
+        { "bold_heading": "Iran threatens to halt Red Sea, Gulf of Oman, and Persian Gulf shipping", "text": "Ali Abdollahi, head of Iran's military central command centre, stated Iran will not allow exports or imports to continue in the Persian Gulf, the Sea of Oman, and the Red Sea if the blockade persists. He characterised the blockade as a 'prelude to a violation of the ceasefire.'", "sources": ["NBC News", "Newsweek", "Al Jazeera", "Ynet News, 15 April 2026"] },
+        { "bold_heading": "Israel strikes southern Lebanon killing at least 20", "text": "Despite the 14 April direct Israel-Lebanon talks in Washington (first in 30+ years), Israel launched strikes on towns across southern Lebanon on 15 April. Hezbollah continues to reject the negotiations.", "sources": ["Al Jazeera", "NPR", "Post-Gazette, 15 April 2026"] }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        { "bold_heading": "Government advisories", "text": "No new MOI/MOD advisory this window. Cabinet guidance for citizens/residents to follow official directives and avoid rumours remains in force. State of emergency active through early June.", "sources": ["Kuwait Times", "KUNA, 15–16 April 2026"] },
+        { "bold_heading": "Airport", "text": "KWI remains closed to all commercial passenger traffic. DGCA has not announced a reopening date; repairs to Terminal 1, radar, and fuel storage continue. Aviation sources suggest possible gradual resumption around late May/June 2026. Kuwait Airways continues expanded service (13 destinations) from Dammam (KFIA).", "sources": ["IBT Australia", "Wego Travel Blog", "Connecting Travel, April 2026"] },
+        { "bold_heading": "Air quality", "text": "Kuwait City PM2.5 AQI 42 (Good) as of 06:00 UTC+3 on 16 April (Al-Shuwaikh station, eMISK/WAQI), improved from 54 (Moderate) the previous day.", "sources": ["WAQI/aqicn.org Kuwait City, 16 April 2026"] },
+        { "bold_heading": "Borders and supply chain", "text": "Nuwaiseeb (Kuwait–Saudi Arabia) crossing remains primary overland supply route; subject to rapid closure without notice. Kuwait–Iraq border effectively closed. GCC land border congestion causing 2–3 day customs delays. Freight rates up 50–60%; diesel prices up 45–50%.", "sources": ["DHL Global Forwarding", "Middle East Briefing", "Bertling, April 2026"] },
+        { "bold_heading": "Oil sector", "text": "KPC force majeure on delivery contracts remains in effect. Iran's threat to halt Red Sea/Gulf of Oman traffic would jeopardise alternative maritime corridors. Overland corridor via Saudi Arabia remains primary route.", "sources": ["Argus Media", "NBC News, April 2026"] }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        { "bold_heading": "Trump declares Iran war 'very close to over'", "text": "In a Fox News interview on 15 April, Trump stated 'We've beaten them militarily, totally' and said Iran 'wants to make a deal very badly.' AP reported an 'in principle agreement' to extend the ceasefire, but a senior US official told CNBC the US 'has not formally agreed to an extension.'", "sources": ["CNBC", "CBS News", "Washington Times", "AP via Baltimore Sun, 15 April 2026"] },
+        { "bold_heading": "Pakistan FM Munir in Tehran carrying new US message", "text": "Munir arrived in Tehran on 15 April with Interior Minister Naqvi for meetings with FM Araghchi. Mediators are prodding Iran closer to what VP Vance called Washington's 'final and best offer.' Pakistan PM Sharif began a four-day regional tour (Saudi Arabia, Qatar, Turkey). Sources report mediators are 'hopeful about a breakthrough' on Iran's nuclear programme.", "sources": ["Al Jazeera", "Bloomberg", "PBS News", "Middle East Monitor, 15 April 2026"] },
+        { "bold_heading": "Iran escalates rhetoric — threatens three-waterway shipping shutdown", "text": "Iran's military central command warned it will halt all exports/imports across the Persian Gulf, Sea of Oman, and Red Sea if the blockade continues. Hardliner Mohsen Rezaei warned American ships would be 'sunk by our first missiles.' China's FM Wang Yi told Iran that reopening Hormuz is a 'unanimous demand from the international community.'", "sources": ["NBC News", "Newsweek", "CBS News, 15 April 2026"] }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        { "bold_heading": "Ceasefire extension remains unconfirmed", "text": "The AP-reported 'in principle' agreement has not been formally confirmed by Washington. The 22 April expiry remains the critical binary. Maintain full crisis-level continuity measures through at least 22 April 23:59 UTC+3.", "sources": ["AP", "CNBC", "Al Jazeera, 15 April 2026"] },
+        { "bold_heading": "Iran Red Sea threat introduces new route-disruption risk", "text": "If Iran acts on its threat to halt Red Sea and Gulf of Oman shipping, it would compound the existing Hormuz blockade and threaten alternative maritime corridors Gulf FIs depend on for trade finance and commodity delivery. Reassess trade-finance exposure to Red Sea-dependent shipping lanes.", "sources": ["NBC News", "Newsweek, 15 April 2026"] },
+        { "bold_heading": "CVE-2026-21643 (Fortinet FortiClient EMS, CVSS 9.1) KEV deadline TODAY", "text": "Pre-authentication SQL injection enabling RCE without login. Affects FortiClient EMS 7.4.4 in multi-tenant mode. Actively exploited since late March. Confirm fleet patched to 7.4.5+; escalate unpatched multi-tenant instances as P1.", "sources": ["CISA KEV", "Horizon3.ai", "Bishop Fox", "Help Net Security, March–April 2026"] },
+        { "bold_heading": "Oil volatility persists", "text": "Brent rebounded to $96.83 (+$2.04) on mixed signals. WTI essentially flat at $90.92. Intraday swings continue to create MTM and margin-call risk for commodity-linked trade finance.", "sources": ["Fortune", "TradingEconomics, 15 April 2026"] },
+        { "bold_heading": "Cyber retaliation risk elevated", "text": "Iran characterising the blockade as grounds for ceasefire breach raises probability of pre-positioned cyber operations being activated before 22 April. Continue to monitor NetBlocks for Iran connectivity changes; maintain maximum DDoS mitigation posture.", "sources": ["Al Jazeera", "NBC News", "SOCRadar, 15 April 2026"] }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Blockade completely halts Iran shipping, US military says. So why are some ships going through Strait of Hormuz?",
+          "author": "CNN Analysis",
+          "publication": "CNN",
+          "pub_date": "2026-04-15",
+          "access": "Open",
+          "summary": "Analyses the gap between CENTCOM's claim that the blockade has 'completely halted' Iranian trade and the observable reality that some vessels continue to transit Hormuz. Examines the narrow scope of the blockade (Iranian ports only, not the strait itself) and its practical enforcement limitations.",
+          "relevance": "Directly informs assessment of whether the blockade creates genuine supply-chain pressure on Iran or whether leakage undermines its coercive value — key for calibrating the 14–22 April escalation-window risk.",
+          "link": "https://www.cnn.com/2026/04/15/middleeast/iran-blockade-explainer-analysis-intl-hnk-ml"
+        },
+        {
+          "title": "US-Iran talks: What's the latest on mediation efforts?",
+          "author": "Al Jazeera staff",
+          "publication": "Al Jazeera",
+          "pub_date": "2026-04-15",
+          "access": "Open",
+          "summary": "Comprehensive tracker of mediation status: Pakistan's Munir in Tehran, the four core sticking points (nuclear programme, Hormuz sovereignty, Lebanon/Hezbollah, sanctions/assets), and the gap between the AP-reported 'in principle' ceasefire extension and Washington's denial of formal agreement.",
+          "relevance": "Essential for calibrating the probability of ceasefire extension versus lapse — the single most consequential binary for Gulf FI continuity planning this week.",
+          "link": "https://www.aljazeera.com/news/2026/4/15/us-iran-talks-whats-the-latest-on-mediation-efforts"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "CVE-2026-21643 (Fortinet FortiClient EMS — pre-auth SQL injection, CVSS 9.1) — CISA KEV deadline TODAY 16 April",
+          "text": "CWE-89 SQL injection in FortiClient EMS 7.4.4 multi-tenant mode allows unauthenticated RCE via crafted HTTP requests. Actively exploited since late March 2026.",
+          "cve_ids": ["CVE-2026-21643"],
+          "threat_actor": null,
+          "recommended_action": "Patch to FortiClient EMS 7.4.5+ immediately; if unable, restrict network access to EMS web interface and disable multi-tenant mode. Escalate unpatched hosts as P1.",
+          "sources": ["CISA KEV", "Horizon3.ai", "Bishop Fox", "Help Net Security", "Arctic Wolf, March–April 2026"],
+          "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        },
+        {
+          "bold_heading": "CVE-2026-32201 (Microsoft SharePoint Server — stored XSS, actively exploited) — KEV due 28 April",
+          "text": "Carry-forward from 14 April Patch Tuesday. Enables session/token theft, phishing pivot, ransomware staging.",
+          "cve_ids": ["CVE-2026-32201", "CVE-2009-0238"],
+          "threat_actor": null,
+          "recommended_action": "Deploy April 2026 SharePoint security updates within the 28 April deadline; isolate internet-facing SharePoint instances; hunt for anomalous session tokens.",
+          "sources": ["CISA", "Tenable", "BleepingComputer, 14 April 2026"],
+          "url": "https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+          "bold_heading": "Keymous+ / DieNet — DDoS operations CONTINUE against financial services (Operation Epic Fury)",
+          "text": "1,583 verified incidents tracked Feb 28 – Apr 6; financial services = #2 targeted sector (144 incidents). Iran's Red Sea threat increases probability of coordinated cyber-kinetic escalation before 22 April ceasefire expiry.",
+          "cve_ids": [],
+          "threat_actor": "Keymous Plus; DieNet",
+          "recommended_action": "Maintain maximum DDoS mitigation and upstream ISP SLA commitments; retain WAF rules and scrubbing capacity at crisis levels through at least 22 April 23:59 UTC+3.",
+          "sources": ["SOCRadar Operation Epic Fury, March–April 2026"],
+          "url": "https://socradar.io/blog/cyber-reflections-us-israel-iran-war/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Iran internet shutdown — Day 48 (~1% connectivity)",
+          "text": "NetBlocks continues to measure Iran at ~1% of pre-war connectivity. Iran's characterisation of the US blockade as a ceasefire violation provides doctrinal cover for pre-positioned cyber operations. Any connectivity uptick above 1% remains an immediate operational cyber alert trigger.",
+          "threat_actor": "MOIS, IRGC Cyber Command, Handala, Ghost Princess",
+          "assessed_likelihood": "High",
+          "sources": ["NetBlocks", "Al Jazeera", "NBC News, April 2026"],
+          "url": null
+        },
+        {
+          "bold_heading": "Iranian APT evolution — complex intrusions dominant",
+          "text": "UAE Cybersecurity Council data shows attacks tripled to 600,000 with ransomware, wipers, and targeted breaches now outpacing DDoS. Iran's escalation to threatening three waterways simultaneously signals willingness to employ all-domain response; cyber is the lowest-cost, highest-deniability vector.",
+          "threat_actor": "Handala, Ghost Princess, Hydro Kitten",
+          "assessed_likelihood": "High",
+          "sources": ["The National, 10 April 2026"],
+          "url": "https://www.thenationalnews.com/future/technology/2026/04/10/iranian-cyber-attacks-move-from-disruptive-to-complex-threats-in-gulf/"
+        },
+        {
+          "bold_heading": "CyberAv3ngers / Rockwell PLC campaign (CISA AA26-097A) — carry-forward",
+          "text": "IRGC Shahid Kaveh Group exploiting internet-facing Rockwell Automation/Allen-Bradley PLCs via legitimate Logix Designer; 5,219 exposed hosts globally. Gulf FIs with OT/ICS in building management, data-centre power, or HVAC share attack surface.",
+          "threat_actor": "CyberAv3ngers (IRGC Shahid Kaveh)",
+          "assessed_likelihood": "High",
+          "sources": ["CISA AA26-097A, 7 April 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Ceasefire extension formalisation — critical binary before 22 April",
+          "why_it_matters": "Whether the AP-reported 'in principle' agreement translates into a formal US-Iran commitment. Failure to formalise by the weekend raises kinetic and cyber escalation probability sharply.",
+          "related_section": "Sections 2, 4, 5"
+        },
+        {
+          "text": "Iran Red Sea/Gulf of Oman threat actualization",
+          "why_it_matters": "Monitor for any IRGC Navy or Houthi-proxy action in the Red Sea, Bab el-Mandeb, or Gulf of Oman consistent with Abdollahi's 15 April threat. Any incident would trigger shipping insurance spikes and compound existing Hormuz disruption.",
+          "related_section": "Sections 2, 3, 5"
+        },
+        {
+          "text": "CVE-2026-21643 (FortiClient EMS) KEV deadline today; SharePoint patch window tightening",
+          "why_it_matters": "Confirm FortiClient EMS fleet compliance by COB. Begin expedited SharePoint patching cycle ahead of 28 April deadline. Flag residual exposure to CISO.",
+          "related_section": "Sections 7A, 5"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "Medium", "note": "No new MOI advisory confirmed; US Embassy alert is SINGLE SOURCE and last updated 1 April" },
+    { "section": "2 — Targets & Incidents", "source_count": 6, "confidence": "High", "note": "Iran supertanker claim based on Iranian state media — unverified" },
+    { "section": "3 — Kuwait Local", "source_count": 5, "confidence": "High", "note": null },
+    { "section": "4 — Regional Context", "source_count": 7, "confidence": "High", "note": null },
+    { "section": "5 — Risk Signal", "source_count": 6, "confidence": "High", "note": null },
+    { "section": "7A — Cyber Tactical", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "7B — Cyber Strategic", "source_count": 4, "confidence": "High", "note": null }
+  ],
+  "footer": "Report #37 compiled 2026-04-16 at 07:30 UTC+3."
+}
