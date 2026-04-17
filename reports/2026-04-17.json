@@ -1,0 +1,222 @@
+{
+  "date": "2026-04-17",
+  "headline": "17 April 2026",
+  "subtitle": "US expands blockade globally; dual Hormuz chokehold traps Gulf oil; Israel-Lebanon ceasefire begins; Kuwait reaffirms neutrality",
+  "report_number": "38",
+  "coverage": "16 April 2026 07:00 UTC+3 – 17 April 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-04-17",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "94.89", "previous": "96.83", "delta": "-1.94", "trend_7d": "↓" },
+      { "metric": "WTI crude ($/bbl)", "today": "94.62", "previous": "90.92", "delta": "+3.70", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "Dual blockade — US: 13 ships turned back since Monday; Iran continues to restrict passage", "previous": "Disputed — CENTCOM: 10 vessels turned back; Iran claims supertanker transited", "delta": "Blockade scope expanded", "trend_7d": "→" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "KWI airport status", "today": "Closed", "previous": "Closed", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "51", "today_label": "Moderate", "previous": "42", "previous_label": "Good", "delta": "+9", "trend_7d": "→" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        { "bold_heading": "No civil defence alerts issued in the coverage window", "text": "No MOI civil defence advisory, air raid siren, shelter-in-place order, or emergency broadcast issued during 16–17 April. Cabinet guidance urging citizens to follow Defense/Interior ministry directives remains standing.", "sources": ["KUNA", "Kuwait Times", "MOI Kuwait"] },
+        { "bold_heading": "State of Emergency remains in force", "text": "Renewed 8–9 April for 60 days. Kuwait's state of emergency continues to underpin elevated readiness posture through early June.", "sources": ["KUNA", "Kuwait Times"] },
+        { "text": "US Embassy Kuwait Level 3 security advisory still active. Advisory urging US citizens to shelter in place remains in force; routine consular services suspended. No new update within this 24h window. [SINGLE SOURCE]", "sources": ["US Embassy Kuwait"] }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        { "bold_heading": "No confirmed new strikes on Kuwait or GCC territory", "text": "No missile, drone, or cruise missile attacks confirmed during 16 April 07:00 – 17 April 07:00 UTC+3. The 8 April ceasefire (through 22 April) remains in force.", "sources": ["KUNA", "Al Jazeera", "Reuters"] },
+        { "bold_heading": "US expands blockade scope — contraband list now includes oil, metals, electronics; global enforcement", "text": "On 16 April, the US Navy designated weapons, crude/refined oil products, iron, steel, aluminium, and electronics as contraband. Any vessel suspected of carrying supplies to Iran is now subject to belligerent right to visit and search globally. CENTCOM reports 13 ships turned back since Monday with no boardings required.", "sources": ["CNBC", "Al Jazeera", "Stars and Stripes", "Bloomberg"] },
+        { "bold_heading": "Dual blockade trapping Gulf oil/gas", "text": "NPR reports the US and Iran are simultaneously blocking the Strait of Hormuz, stranding hundreds of tankers. Analysts estimate a loss of ~13M bbl/day of oil throughput. The IEA warned Europe has 'maybe six weeks' of jet fuel remaining.", "sources": ["NPR", "CNBC", "Euronews", "AP"] },
+        { "bold_heading": "Hegseth: blockade will last 'as long as it takes'", "text": "Defence Secretary Hegseth stated the US remains prepared to attack Iran's power plants and energy facilities if Iran 'chooses poorly.' Chairman of Joint Chiefs Gen. Dan Caine confirmed global enforcement posture.", "sources": ["Al Jazeera", "Euronews", "Washington Times", "Detroit News"] },
+        { "bold_heading": "Israel-Lebanon 10-day ceasefire begins", "text": "Announced by Trump after calls with Netanyahu and Aoun, effective 16 April 17:00 ET. Described as an Israeli 'gesture of goodwill' to launch peace negotiations. Israel preserves the right to act in self-defense during the pause.", "sources": ["Axios", "Al Jazeera", "NPR", "Bloomberg", "NBC News"] }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        { "bold_heading": "Cabinet reaffirms neutrality — territory will not be used for attacks", "text": "At its weekly meeting (chaired by PM Sheikh Ahmad Al-Abdullah Al-Sabah), the Cabinet stressed Kuwait is not party to any regional or international conflict and will not permit its territory to be used for attacks. Emphasised positive neutrality, international law, and good-neighbourliness. Also condemned the attack on Kuwait's Consulate General in Basra as a serious violation of the Vienna Convention, holding Iraq responsible. Cabinet affirmed it will remain in continuous session.", "sources": ["Kuwait Times", "Arab Times", "KUNA", "Alwast News"] },
+        { "bold_heading": "Government advisories", "text": "State of emergency active through early June. Cabinet guidance for citizens/residents to follow official directives remains in force.", "sources": ["Kuwait Times", "KUNA"] },
+        { "bold_heading": "Airport", "text": "KWI remains closed to all commercial passenger traffic. DGCA has not announced a reopening date. Kuwait Airways continues expanded service (13 destinations) from Dammam (KFIA), with Paris and Colombo joining later this month.", "sources": ["IBT Australia", "Wego Travel Blog", "Connecting Travel"] },
+        { "bold_heading": "Air quality", "text": "Kuwait City PM2.5 AQI 51 (Moderate) as of 06:00 UTC+3 on 17 April, up from 42 (Good). Sensitive groups should reduce prolonged outdoor exertion.", "sources": ["WAQI/aqicn.org"] },
+        { "bold_heading": "Borders and supply chain", "text": "Nuwaiseeb (Kuwait–Saudi Arabia) crossing remains the primary overland supply route. Kuwait–Iraq border effectively closed. Customs delays of up to one day. DHL uses Riyadh and Muscat as alternative air hubs. Freight rates up 50–60%; diesel prices up 45–50%.", "sources": ["DHL Global Forwarding", "LogCluster", "Expeditors"] },
+        { "bold_heading": "Oil sector", "text": "KPC force majeure remains in effect. Dual US-Iran blockade traps Kuwait's maritime oil exports entirely; overland corridor via Saudi Arabia is the sole route. IEA warning of Europe's 6-week jet fuel horizon underscores downstream demand-destruction risk.", "sources": ["NPR", "CNBC", "IEA via AP"] }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        { "bold_heading": "Trump: deal prospects 'looking really good'", "text": "Second round of US-Iran peace talks could come this weekend. Pakistan proposed hosting in Islamabad. PM Sharif touring Saudi Arabia, Qatar, Turkey; Army Chief Munir departed Tehran after delivering new US message.", "sources": ["Washington Times", "Epoch Times", "Al Jazeera", "AP"] },
+        { "bold_heading": "GCC Secretary-General calls for EU diplomatic upgrade", "text": "Albudaiwi told the European Parliament that the Iran war has brought the GCC and EU into 'an even closer relationship' and called on the EU to play a more effective mediating role. Signals GCC diversification of security partnerships.", "sources": ["Euronews", "Asharq Al-Awsat", "QNA"] },
+        { "bold_heading": "IEA: 'largest energy crisis we have ever faced'", "text": "IEA Executive Director Birol warned Europe has ~6 weeks of jet fuel left. Several European countries may face shortages by early May.", "sources": ["CNBC", "Euronews", "AP", "BNN Bloomberg"] }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        { "bold_heading": "Ceasefire expiry (22 April) — no formal extension confirmed", "text": "Trump's optimism and the Israel-Lebanon ceasefire are positive signals, but no formal US-Iran ceasefire extension announced. Maintain full crisis-level BCP through at least 22 April 23:59 UTC+3.", "sources": ["Washington Times", "CNBC", "Al Jazeera"] },
+        { "bold_heading": "Dual blockade creates unprecedented trade-finance exposure", "text": "Both US and Iran restricting Hormuz simultaneously, strapping ~13M bbl/day. US expanded contraband definitions globally. Reassess trade-finance, L/C, and commodity-linked exposures; review force majeure clauses and insurance triggers.", "sources": ["NPR", "CNBC", "Stars and Stripes"] },
+        { "bold_heading": "IEA 'largest energy crisis ever' warning", "text": "Europe's 6-week jet fuel horizon threatens aviation, logistics, and industrial supply chains. Model second-order impacts of European economic disruption on Gulf FI operations.", "sources": ["CNBC", "Euronews", "IEA via AP"] },
+        { "bold_heading": "CVE-2026-34197 (Apache ActiveMQ RCE, CVSS 8.8) added to CISA KEV", "text": "Authenticated RCE via Jolokia API. Actively exploited. Patch to ActiveMQ 5.19.4+ or 6.2.3+; restrict Jolokia endpoint access.", "sources": ["CISA KEV", "Horizon3.ai", "Help Net Security"] },
+        { "bold_heading": "Oil volatility — Brent/WTI spread divergence", "text": "Brent −$1.94 but WTI +$3.70; spread divergence signals physical-market stress. Intraday swings create MTM and margin-call risk for commodity-linked portfolios.", "sources": ["TradingEconomics", "Fortune", "FX Daily Report"] }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "U.S. and Iran block Strait of Hormuz, trapping the Gulf's oil and gas",
+          "author": "NPR staff",
+          "publication": "NPR",
+          "pub_date": "2026-04-16",
+          "access": "Open",
+          "summary": "Reports that both the US and Iran are simultaneously choking the Strait of Hormuz, creating a de facto dual blockade stranding hundreds of tankers and removing ~13M bbl/day from global markets. Includes analysis from energy analysts who call it 'the biggest energy crisis in history.'",
+          "relevance": "Directly quantifies the scale of the energy disruption trapping Kuwait's maritime exports and provides supply-chain context for assessing trade-finance and commodity-linked exposure.",
+          "link": "https://www.npr.org/2026/04/16/nx-s1-5786608/u-s-and-iran-block-strait-of-hormuz-trapping-the-gulfs-oil-and-gas"
+        },
+        {
+          "title": "How geography powers Iran's grip on the Strait of Hormuz, despite U.S. blockade",
+          "author": "Washington Post interactive",
+          "publication": "Washington Post",
+          "pub_date": "2026-04-16",
+          "access": "Paywall (metered)",
+          "summary": "Visual explainer demonstrating how Iran's geographic position — shallow waters, narrow two-mile shipping lanes, coastline proximity — gives Tehran inherent control over Hormuz regardless of US naval superiority. Documents how mines and terrain exploitation halted virtually all traffic.",
+          "relevance": "Essential for understanding why the Hormuz blockade is likely to persist even if diplomatic progress is made — reopening the strait is a logistical and de-mining challenge, not just political.",
+          "link": "https://www.washingtonpost.com/world/interactive/2026/hormuz-strait-control-blockade/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "CVE-2026-34197 (Apache ActiveMQ — RCE via Jolokia API, CVSS 8.8)",
+          "text": "Added to CISA KEV 16 April. Authenticated RCE through the Jolokia JMX-HTTP bridge on the ActiveMQ web console. Affects ActiveMQ Classic before 5.19.4 and 6.0.0–6.2.2. Actively exploited in the wild.",
+          "cve_ids": ["CVE-2026-34197"],
+          "threat_actor": null,
+          "recommended_action": "Patch to ActiveMQ 5.19.4+ or 6.2.3+ immediately. Restrict network access to Jolokia endpoints. Audit JMX exec operations for anomalous BrokerService calls.",
+          "sources": ["CISA KEV", "Horizon3.ai", "Help Net Security", "CSO Online"],
+          "url": "https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+          "bold_heading": "CVE-2026-32201 (Microsoft SharePoint Server — stored XSS)",
+          "text": "Carry-forward. Enables session/token theft, phishing pivot, ransomware staging via stored XSS on internet-facing SharePoint. KEV due 28 April.",
+          "cve_ids": ["CVE-2026-32201"],
+          "threat_actor": null,
+          "recommended_action": "Deploy April 2026 SharePoint security updates; isolate internet-facing instances; hunt for anomalous session tokens.",
+          "sources": ["CISA KEV", "Tenable", "BleepingComputer"],
+          "url": "https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+          "bold_heading": "Keymous+ / DieNet — DDoS operations continue; expanded to Egypt",
+          "text": "1,583+ verified incidents tracked Feb 28 – Apr 6; financial services = #2 targeted sector (144 incidents). Keymous Plus extended #Op_Epstein_Gulf to Egypt. Hegseth's escalatory rhetoric on 16 April increases probability of retaliatory cyber surge before 22 April.",
+          "cve_ids": [],
+          "threat_actor": "Keymous Plus; DieNet",
+          "recommended_action": "Maintain maximum DDoS mitigation; retain WAF rules and scrubbing capacity at crisis levels through at least 22 April 23:59 UTC+3.",
+          "sources": ["SOCRadar Operation Epic Fury", "The National"],
+          "url": "https://socradar.io/blog/cyber-reflections-us-israel-iran-war/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Iran internet shutdown — Day 49; Hegseth rhetoric raises cyber activation risk",
+          "text": "NetBlocks continues to measure Iran at ~1% of pre-war connectivity. Hegseth's explicit threat to strike Iran's energy infrastructure provides additional doctrinal motivation for pre-positioned Iranian cyber operations. Any connectivity uptick remains an immediate alert trigger.",
+          "threat_actor": "MOIS, IRGC Cyber Command, Handala, Ghost Princess, CyberAv3ngers",
+          "assessed_likelihood": "High",
+          "sources": ["NetBlocks", "Al Jazeera", "Euronews"],
+          "url": null
+        },
+        {
+          "bold_heading": "Iranian APT evolution — complex intrusions dominant; dual blockade widens motivation",
+          "text": "UAE Cybersecurity Council: attacks tripled to 600,000. Ransomware, wipers, and targeted breaches outpacing DDoS. Expanded US blockade amplifies Iran's motivation for asymmetric cyber response. Gulf FIs with cloud or correspondent-banking concentration in US-listed vendors remain priority targets.",
+          "threat_actor": "Handala, Ghost Princess, Hydro Kitten",
+          "assessed_likelihood": "High",
+          "sources": ["The National"],
+          "url": "https://www.thenationalnews.com/future/technology/2026/04/10/iranian-cyber-attacks-move-from-disruptive-to-complex-threats-in-gulf/"
+        },
+        {
+          "bold_heading": "CyberAv3ngers / Rockwell PLC campaign (CISA AA26-097A) — carry-forward",
+          "text": "IRGC Shahid Kaveh Group exploiting internet-facing Rockwell Automation/Allen-Bradley PLCs; 5,219 exposed hosts globally. Gulf FIs with OT/ICS in building management, data-centre power, or HVAC share attack surface.",
+          "threat_actor": "CyberAv3ngers (IRGC Shahid Kaveh)",
+          "assessed_likelihood": "High",
+          "sources": ["CISA AA26-097A"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Second round of US-Iran peace talks — weekend timeline",
+          "why_it_matters": "Trump indicated talks could occur this weekend; Pakistan proposed Islamabad. Whether talks materialise and produce a ceasefire extension before 22 April is the single most consequential variable for Gulf risk posture.",
+          "related_section": "Sections 2, 4, 5"
+        },
+        {
+          "text": "Israel-Lebanon ceasefire holding",
+          "why_it_matters": "The 10-day ceasefire began 16 April. Any Israeli self-defence action during the pause could destabilise the broader diplomatic environment and complicate Iran talks.",
+          "related_section": "Sections 2, 4"
+        },
+        {
+          "text": "Blockade escalation — Iran response to expanded contraband enforcement",
+          "why_it_matters": "The US's global enforcement mandate and expanded contraband list may provoke an Iranian maritime or cyber response in the Gulf of Oman or Red Sea.",
+          "related_section": "Sections 2, 5, 7A, 7B"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "Medium", "note": "No new MOI advisory confirmed; US Embassy alert is SINGLE SOURCE and last updated 1 April." },
+    { "section": "2 — Targets & Incidents", "source_count": 7, "confidence": "High", "note": null },
+    { "section": "3 — Kuwait Local", "source_count": 6, "confidence": "High", "note": null },
+    { "section": "4 — Regional Context", "source_count": 6, "confidence": "High", "note": null },
+    { "section": "5 — Risk Signal", "source_count": 6, "confidence": "High", "note": null },
+    { "section": "7A — Cyber Tactical", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "7B — Cyber Strategic", "source_count": 4, "confidence": "High", "note": null }
+  ],
+  "footer": "Report #38 compiled 2026-04-17 at 07:30 UTC+3."
+}
