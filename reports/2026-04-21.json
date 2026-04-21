@@ -1,0 +1,282 @@
+{
+  "date": "2026-04-21",
+  "headline": "21 April 2026",
+  "subtitle": "Ceasefire Expiry Imminent — IRGC Retaliation Threat Active — Islamabad Talks Status Uncertain",
+  "report_number": "42",
+  "coverage": "20 April 2026 07:00 UTC+3 – 21 April 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-04-21",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "↑" },
+      { "metric": "Brent crude ($/bbl)", "today": "~96.80", "previous": "95.42", "delta": "+1.38", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "~90.40", "previous": "89.77", "delta": "+0.63", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~8–10 (re-closure)", "previous": "~8–10 (re-closure)", "delta": "→", "trend_7d": "Insufficient data" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "KWI airport status", "today": "Closed", "previous": "Closed", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "44", "today_label": "Good", "previous": "286", "previous_label": "Very Unhealthy", "delta": "-242", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "No new civil defence alert in this coverage window",
+          "text": "No air-raid siren, shelter-in-place order, MOI civil defence advisory, or emergency broadcast confirmed for Kuwait during 20–21 April 2026. MOI and Kuwait Times monitoring showed no new public alert issued within this 24-hour window.",
+          "sources": ["Kuwait Times", "MOI Kuwait monitored, 20–21 April 2026"]
+        },
+        {
+          "bold_heading": "State of Emergency remains in force (renewed 8–9 April for 60 days)",
+          "text": "Kuwait's state of emergency continues to underpin elevated readiness through approximately early June 2026; all emergency readiness orders remain active.",
+          "sources": ["KUNA", "Kuwait Times, April 2026"]
+        },
+        {
+          "bold_heading": "US Embassy Kuwait Level 3 security advisory still active [SINGLE SOURCE]",
+          "text": "Advisory urging US citizens to shelter in place and suspending routine consular services remains in force; no new update within this 24-hour window.",
+          "sources": ["US Embassy Kuwait, kw.usembassy.gov — last updated 1 April 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "No confirmed strikes on Kuwait or GCC territory in this coverage window",
+          "text": "No ballistic missile, cruise missile, or drone attack on Kuwait or any GCC state confirmed during 20 April 07:00 – 21 April 07:00 UTC+3. The nominal ceasefire remains technically in effect.",
+          "sources": ["KUNA", "Kuwait Times", "Al Jazeera liveblog, 20–21 April 2026"]
+        },
+        {
+          "bold_heading": "IRGC retaliation for MV Touska seizure active but constrained — crew safety cited",
+          "text": "Iran's Revolutionary Guards confirmed retaliation is planned but stated 'certain limitations' exist because crew family members remain aboard the seized vessel. The IRGC declared: 'once the safety of the families and crew of the vessel targeted by the United States is ensured, the powerful armed forces of the Islamic Republic of Iran will take the necessary action.' This is a live, active threat entering the ceasefire expiry window.",
+          "sources": ["NBC News", "CNN", "Al Jazeera, 20 April 2026"]
+        },
+        {
+          "bold_heading": "Strait of Hormuz: 22 confirmed attacks on merchant vessels since conflict start; re-closed since 18 April",
+          "text": "Al Jazeera tracking data shows 279 ships transited the Strait since conflict began, with 22 attacked. The Strait remains effectively re-closed after Iran reversed its 17 April re-opening announcement when the US declined to lift its naval blockade of Iranian ports. India formally summoned Iran's ambassador following a shooting incident involving two Indian-flagged vessels during the brief opening window.",
+          "sources": ["Al Jazeera, 20 April 2026", "CNBC, 20 April 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Government advisories",
+          "text": "State of emergency in force through early June. MOI confirmed no new security threats; citizens urged to follow official sources only. Kuwait's neutrality posture unchanged — territory not to be used for attacks against any state.",
+          "sources": ["KUNA", "Kuwait Times, 20–21 April 2026"]
+        },
+        {
+          "bold_heading": "Air quality",
+          "text": "Kuwait City PM2.5 AQI 44 (Good) at compilation — a dramatic improvement from yesterday's 286 (Very Unhealthy); outdoor staff operations can resume under normal protocols. The MetDept forecast of unsettled weather through April 22 has not fully materialised; however, monitor conditions through tomorrow morning and be prepared to re-escalate.",
+          "sources": ["WAQI/aqicn.org Kuwait City, 21 April 2026", "IQAir Kuwait City"]
+        },
+        {
+          "bold_heading": "Airport",
+          "text": "KWI remains closed to all commercial passenger traffic; no confirmed reopening date. Kuwait Airways continues all commercial operations from Dammam (KFIA); summer 2026 destinations planned from June, subject to security conditions.",
+          "sources": ["Wego Travel Blog, April 2026"]
+        },
+        {
+          "bold_heading": "EOD operations",
+          "text": "Debris-clearance continues; cumulative total stood at 827 as of last confirmed MOI briefing (19 April); no new 24h count confirmed for this window.",
+          "sources": ["Kuwait Times", "MOI Kuwait, April 2026"]
+        },
+        {
+          "bold_heading": "Borders and supply chain",
+          "text": "Nuwaiseeb (Kuwait–Saudi Arabia) crossing remains the primary overland supply route and subject to rapid closure without notice. Kuwait–Iraq border effectively closed. Emergency freight surcharges remain in effect; 50–60% above pre-conflict baseline.",
+          "sources": ["Maersk Middle East Operational Update 22, April 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "US delegation en route to Islamabad; ceasefire expires ~03:00 UTC+3, 23 April. VP Vance, Witkoff, and Kushner are travelling to Pakistan for a second round of talks. Iran's Foreign Ministry spokesperson stated 'as of now we have no plans for the next round of negotiations,' though Iranian sources told CNN a delegation will arrive Tuesday. Trump threatened 'lots of bombs going off' if no deal is reached. The absence of a confirmed Iranian negotiating commitment makes ceasefire lapse the risk baseline.",
+          "sources": ["CNBC", "ABC News", "CBS News", "Al Jazeera, 20–21 April 2026"]
+        },
+        {
+          "text": "IRGC retaliation for MV Touska delayed but not abandoned. Iran linked its response timeline to crew safety, creating a 12–36 hour window of maximum risk. Iran's joint military command warned: 'if attacks on civilian targets are repeated, the next stages of our offensive and retaliatory operations will be much more devastating and widespread.'",
+          "sources": ["NBC News", "CNN", "Al Jazeera, 19–20 April 2026"]
+        },
+        {
+          "text": "Israel-Lebanon ceasefire under strain — Day 5. Israel's 10 km 'Yellow Line' military zone in southern Lebanon continues to be contested; multiple Israeli violation reports from Lebanon's armed forces. Iran has linked Hormuz policy to Lebanon ceasefire compliance; any collapse in Lebanon cascades directly into Gulf risk.",
+          "sources": ["Al Jazeera", "PBS NewsHour, 20 April 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "CRITICAL — Ceasefire expires in <24 hours with no confirmed Iranian diplomatic participation",
+          "text": "The two-week ceasefire expires approximately 03:00 UTC+3 on 23 April. Iran's foreign ministry says 'no plans' for talks; the US delegation is flying to Islamabad regardless. Maintain full crisis-level BCP through at least 24 April 00:00 UTC+3. Do not reduce any readiness posture — the operational environment has not improved overnight.",
+          "sources": ["CNBC", "ABC News", "Al Jazeera, 20–21 April 2026"]
+        },
+        {
+          "bold_heading": "IRGC retaliation for MV Touska is an active, constrained threat within this window",
+          "text": "Iran has stated intent to retaliate once crew safety is assured; the constraint is likely to be resolved within hours. The form — maritime interdiction, kinetic strike, or cyber operation — is unknown. Gulf financial branches, payment nodes, and data centres should operate at heightened alert through ceasefire expiry.",
+          "sources": ["NBC News", "CNN, 20 April 2026"]
+        },
+        {
+          "bold_heading": "Energy price exposure: Brent ~$96.80, WTI ~$90.40 — reassess ahead of ceasefire expiry",
+          "text": "Prices remain elevated on accumulated geopolitical risk. Any post-expiry escalation could push Brent through $100. Reassess MTM on energy derivatives, commodity hedges, energy-sector credit lines, and Kuwait government/KPC-linked facilities. Margin call risk elevated for energy derivative positions.",
+          "sources": ["CNBC", "OilPrice.com, 20–21 April 2026"]
+        },
+        {
+          "bold_heading": "New CISA KEV batch (20 April): Cisco SD-WAN Manager triple CVE — federal deadline April 27 (6 days)",
+          "text": "CVE-2026-20122, CVE-2026-20128, and CVE-2026-20133 all affect Cisco Catalyst SD-WAN Manager and are actively exploited. Financial institutions using SD-WAN for branch connectivity face an authentication-bypass and credential-exfiltration pathway; patch immediately alongside existing ActiveMQ (30 April) and SharePoint (28 April) CISA deadlines.",
+          "sources": ["CISA KEV, 20 April 2026"]
+        },
+        {
+          "bold_heading": "Kuwait AQI improved to 44 (Good) — stand down from Saturday air quality emergency protocols",
+          "text": "Normal outdoor staff operations assessed as safe today. Review and reset HVAC configurations from dust-storm filtration mode. Continue monitoring through April 22 per MetDept forecast; be prepared to re-activate if AQI exceeds 100.",
+          "sources": ["WAQI/aqicn.org, 21 April 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "A Fragile Ceasefire with Iran and the Price of Ending the War",
+          "author": "Federico Manfredi Firmian & Anthony Wanis-St. John",
+          "publication": "War on the Rocks",
+          "pub_date": "April 2026 [TIMESTAMP UNCONFIRMED]",
+          "access": "Open",
+          "summary": "The article argues the current ceasefire is structurally weak, lacking specificity on redeployments, monitoring mechanisms, and the Israel problem — Iran will demand Israel be constrained by any settlement while Jerusalem insists on freedom of action in Lebanon, leaving Washington caught between ally and adversary. The authors contend the truce is unlikely to hold unless Trump forces Netanyahu's compliance.",
+          "relevance": "Directly explains the structural asymmetries that make a deal before Wednesday's expiry unlikely and make ceasefire lapse the operational planning baseline.",
+          "link": "https://warontherocks.com/a-fragile-ceasefire-with-iran-and-the-price-of-ending-the-war/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "Cisco Catalyst SD-WAN Manager — triple CVE batch — CISA KEV deadline April 27",
+          "text": "CVE-2026-20122 (Incorrect Use of Privileged APIs), CVE-2026-20128 (Storing Passwords in Recoverable Format), and CVE-2026-20133 (Exposure of Sensitive Information to Unauthorised Actor) together create an authentication-bypass and credential-exfiltration pathway across SD-WAN branch infrastructure. Actively exploited in the wild per CISA.",
+          "cve_ids": ["CVE-2026-20122", "CVE-2026-20128", "CVE-2026-20133"],
+          "threat_actor": null,
+          "recommended_action": "Apply Cisco SD-WAN security updates immediately; audit SD-WAN Manager access logs for anomalous API calls; rotate SD-WAN admin credentials; restrict management-plane exposure to out-of-band networks.",
+          "sources": ["CISA KEV, 20 April 2026"],
+          "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog"
+        },
+        {
+          "bold_heading": "Iranian APT pre-positioned implant reactivation — peak-risk window during ceasefire expiry",
+          "text": "With Iran's internet partially restored (17 April) and the ceasefire expiring tonight, Iranian APTs are at peak readiness to execute pre-positioned implants against Gulf financial and energy targets. AWS data centres in UAE and Bahrain have already been targeted. The 20:00 UTC+3, 21 April – 06:00 UTC+3, 23 April window is assessed as the single highest-risk cyber window in this series.",
+          "cve_ids": [],
+          "threat_actor": "Handala, CyberAv3ngers (IRGC Shahid Kaveh), Ghost Princess, Hydro Kitten",
+          "recommended_action": "Activate 24-hour SOC watch; review SIEM for beaconing from known Iranian C2 infrastructure; disable/restrict inbound connections from Iranian IP ranges; suspend non-essential remote admin sessions.",
+          "sources": ["Unit 42 Palo Alto Networks, updated 17 April 2026"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        },
+        {
+          "bold_heading": "PaperCut NG/MF (CVE-2023-27351) and JetBrains TeamCity (CVE-2024-27199) — CISA KEV deadline April 27",
+          "text": "Both added to KEV on 20 April. PaperCut improper authentication allows authentication bypass leading to RCE; widely deployed in financial institution print environments. TeamCity path traversal affects CI/CD pipelines used in banking technology development.",
+          "cve_ids": ["CVE-2023-27351", "CVE-2024-27199"],
+          "threat_actor": null,
+          "recommended_action": "Apply PaperCut and TeamCity patches immediately; restrict print-server and TeamCity admin-interface network exposure; audit for unauthorised access.",
+          "sources": ["CISA KEV, 20 April 2026"],
+          "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Operation Epic Fury financial sector targeting — post-ceasefire surge assessed as near-certain",
+          "text": "SOCRadar tracked 144 confirmed attacks on financial institutions (of 1,583 total verified incidents, 28 Feb – 6 April). Attack posture has shifted from DDoS to breach-and-exfiltrate, with UAE banks and payment platforms already disrupted. With ceasefire expiry imminent and Iran's internet restored, a surge in Gulf financial-sector operations — including Kuwait-based institutions — is a near-certain post-expiry scenario.",
+          "threat_actor": "Handala, Ghost Princess, Hydro Kitten, MOIS-linked groups",
+          "assessed_likelihood": "High",
+          "sources": ["SOCRadar, April 2026", "The National, 10 April 2026"],
+          "url": "https://socradar.io/blog/pro-iran-cyberattacks-financial-services-144/"
+        },
+        {
+          "bold_heading": "CyberAv3ngers / Rockwell FactoryTalk expansion — OT/ICS attack surface live [CARRY-FORWARD]",
+          "text": "IRGC Shahid Kaveh Group has expanded targeting from Unitronics PLCs to Rockwell Automation FactoryTalk across 5,600 exposed hosts globally. Financial institutions with OT/ICS exposure in building management, data-centre power, or HVAC share this attack surface. With Iran's retaliation threat active, critical infrastructure is a likely secondary retaliatory vector.",
+          "threat_actor": "CyberAv3ngers (IRGC Shahid Kaveh)",
+          "assessed_likelihood": "High",
+          "sources": ["CISA AA26-097A, 7 April 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "Iranian shift to destructive cyber operations — Handala wipe methodology now confirmed playbook",
+          "text": "Handala's remote wipe of 200,000+ Stryker Corporation devices via Microsoft Intune (March 11, 2026) demonstrated that Iran has operationalised destructive capabilities using legitimate enterprise management tools, bypassing traditional endpoint detection. This methodology is directly transferable to banking environments with Intune-managed endpoints. With the post-ceasefire window approaching, destructive operations against Gulf financial institutions represent a materially higher risk than pre-conflict baseline.",
+          "threat_actor": "Handala (MOIS/Void Manticore)",
+          "assessed_likelihood": "High",
+          "sources": ["Flashpoint, April 2026", "Seqrite, April 2026"],
+          "url": "https://flashpoint.io/blog/escalation-in-the-middle-east-operation-epic-fury/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Ceasefire expiry — ~03:00 UTC+3, 23 April (tonight/tomorrow)",
+          "why_it_matters": "If Iran sends no delegation to Islamabad or no framework agreement is announced before the deadline, ceasefire lapse is the default outcome; any post-expiry kinetic activity or Gulf maritime incidents would require immediate BCP escalation.",
+          "related_section": "Sections 1, 2, 4, 5"
+        },
+        {
+          "text": "IRGC retaliation for MV Touska — pending crew safety resolution",
+          "why_it_matters": "Iran has linked response timing to crew/family safety; once resolved, IRGC is assessed to act within hours across an unknown vector — maritime, kinetic, or cyber.",
+          "related_section": "Sections 2, 4, 5, 7A"
+        },
+        {
+          "text": "Kuwait AQI sustainability — forecast instability through April 22",
+          "why_it_matters": "Today's improvement to 44 (Good) may not hold per MetDept forecast; if readings exceed 150 (USG threshold), re-activate Saturday air quality emergency protocols.",
+          "related_section": "Sections 3, 5"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 2, "confidence": "Medium", "note": "No new MOI civil defence advisory confirmed for this specific window; US Embassy alert is SINGLE SOURCE last updated 1 April." },
+    { "section": "2 — Targets & Incidents", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "3 — Kuwait Local", "source_count": 3, "confidence": "High", "note": null },
+    { "section": "4 — Regional Context", "source_count": 5, "confidence": "High", "note": null },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "High", "note": null },
+    { "section": "7A — Cyber Tactical", "source_count": 2, "confidence": "Medium", "note": "Cisco SD-WAN CVEs sourced from CISA KEV only; APT reactivation assessment drawn from single Tier 4 source (Unit 42)." },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "High", "note": null }
+  ],
+  "footer": "Report #42 compiled 21 April 2026 at 07:30 UTC+3."
+}
