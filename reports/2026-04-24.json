@@ -1,0 +1,302 @@
+{
+  "date": "2026-04-24",
+  "headline": "24 April 2026",
+  "subtitle": "KWI Airspace Reopens; USS Bush Arrives; War Powers Deadline 1 May",
+  "report_number": "45",
+  "coverage": "23 April 2026 07:00 UTC+3 – 24 April 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-04-24",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "↑" },
+      { "metric": "Brent crude ($/bbl)", "today": "104.00", "previous": "101.65", "delta": "+2.35", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "93.87", "previous": "92.13", "delta": "+1.74", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~8–10 (re-closure)", "previous": "~8–10 (re-closure)", "delta": "→", "trend_7d": "Insufficient data" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "KWI airport status", "today": "Partial (flights from Apr 26)", "previous": "Closed", "delta": "Changed", "trend_7d": "Changed" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "51", "today_label": "Moderate", "previous": "44", "previous_label": "Good", "delta": "+7", "trend_7d": "↑" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "No new civil defence alert in this coverage window",
+          "text": "No air-raid siren, shelter-in-place order, or emergency broadcast confirmed for Kuwait during 23–24 April 2026. Standard emergency readiness orders remain in force.",
+          "sources": ["Kuwait Times", "MOI Kuwait monitored, 23–24 April 2026"]
+        },
+        {
+          "bold_heading": "State of Emergency remains in force (renewed 8–9 April for 60 days)",
+          "text": "Kuwait's state of emergency continues to underpin elevated readiness through approximately early June 2026.",
+          "sources": ["KUNA", "Kuwait Times, April 2026"]
+        },
+        {
+          "bold_heading": "Kuwait MOI permits resumption of social gatherings from 24 April",
+          "text": "The Ministry of Interior announced the resumption of weddings, private parties, and theatrical performances effective Friday 24 April 2026 — a partial normalisation signal indicating reduced immediate threat perception by authorities, though the state of emergency framework remains unchanged.",
+          "sources": ["Kuwait Times, 23 April 2026"]
+        },
+        {
+          "bold_heading": "US Embassy Kuwait Level 3 security advisory still active [SINGLE SOURCE]",
+          "text": "Advisory urging US citizens to shelter in place and suspending routine consular services remains in force; no new update within this 24-hour window.",
+          "sources": ["US Embassy Kuwait, kw.usembassy.gov"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "No confirmed new strikes on Kuwait or GCC territory in this coverage window",
+          "text": "No ballistic missile, cruise missile, or drone attack on Kuwaiti or GCC soil confirmed during 23 April 07:00 – 24 April 07:00 UTC+3. The US-Iran ceasefire (extended indefinitely by Trump 21 April) nominally holds for GCC territory.",
+          "sources": ["KUNA", "Kuwait Times", "Al Jazeera liveblog, 23–24 April 2026"]
+        },
+        {
+          "bold_heading": "MSC Francesca and MV Epaminondas remain seized by IRGC (carry-forward from 22 April)",
+          "text": "Both vessels continue to be held off Iran's southern coast following seizure on 22 April. Iran has not indicated conditions for release; Lloyd's and UK FCDO advisory remains at highest level for Hormuz transits. The Euphoria, intercepted mid-sea, was released.",
+          "sources": ["Lloyd's List", "Al Jazeera", "NBC News, 22–23 April 2026"]
+        },
+        {
+          "bold_heading": "USS George H.W. Bush (CVN-77) arrives in CENTCOM AOR — 23 April 2026",
+          "text": "The carrier transited around Africa's southern tip, arriving in the US Central Command area of responsibility on 23 April. It joins USS Ford and USS Lincoln — the first time the US has maintained three simultaneous carrier strike groups in the Middle East since the Iraq/Afghanistan era. Bush is accompanied by DDG-87, DDG-75, DDG-71, and an amphibious group carrying ~2,500 Marines.",
+          "sources": ["USNI News", "Washington Post", "Express Tribune, 23 April 2026"]
+        },
+        {
+          "bold_heading": "IMO: 20,000 seafarers stranded in Persian Gulf — 21 attacks on commercial vessels since 28 February",
+          "text": "The International Maritime Organization confirmed 21 total attacks on commercial shipping since the conflict began, 10 seafarer fatalities, and approximately 20,000 civilians aboard ~2,000 vessels unable to exit the Persian Gulf, with reports of dwindling food/water supplies aboard some vessels.",
+          "sources": ["IMO/GovPing, 23 April 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Government advisories",
+          "text": "State of emergency in force through early June 2026. MOI simultaneously announced easing of social event restrictions from 24 April — read as a deliberate stability signal to the public, not a security downgrade. Kuwait's neutrality posture remains unchanged.",
+          "sources": ["KUNA", "Kuwait Times, 23–24 April 2026"]
+        },
+        {
+          "bold_heading": "KWI airport — partial reopening announced",
+          "text": "The Public Authority of Civil Aviation (PACA) announced on Thursday 23 April that KWI airspace will reopen Thursday evening, with phased commercial flights from Terminals T4 and T5 beginning Sunday 26 April 2026. Initial routes will be selective; full resumption timeline not specified. Kuwait Airways operations from Dammam (DMM) continue during transition.",
+          "sources": ["Arab Times", "Wego Travel Blog", "Times Kuwait, 23 April 2026"]
+        },
+        {
+          "bold_heading": "Maritime restrictions eased — daytime coastal activity permitted from 24 April",
+          "text": "Kuwait MOI Coast Guard announced boats may operate 06:00–18:00 daily effective Friday 24 April, following evaluation of the security situation. Seagoers instructed to avoid oil facilities and vital installations.",
+          "sources": ["Xinhua/China.org.cn", "Middle East Star, 23 April 2026"]
+        },
+        {
+          "bold_heading": "Borders and supply chain",
+          "text": "Saudi Arabia (Nuwaiseeb crossing) remains open and the primary overland lifeline; operations running with food/medicine priority. Kuwait–Iraq border effectively closed. Emergency freight surcharges remain 50–60% above pre-conflict baseline; government continues covering import cost differentials.",
+          "sources": ["Kuwait Times", "Kuwait Mart logistics report", "Maersk Middle East update, April 2026"]
+        },
+        {
+          "bold_heading": "Air quality",
+          "text": "Kuwait City PM2.5 AQI approximately 51 (Moderate) — a moderate worsening from yesterday's 44 (Good). Outdoor activities remain manageable; no health advisory issued. Continue monitoring.",
+          "sources": ["AQICN", "IQAir, 24 April 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "Trump on Iran: 'Don't rush me' — no timeline given; 60-day War Powers deadline looms 1 May. Senate rejected the 5th War Powers resolution 46-51 on 23 April with only Sen. Rand Paul crossing party lines; Sens. Collins, Tillis, and Murkowski have signalled they may back congressional action if Trump does not begin winding down by 1 May.",
+          "sources": ["CNN", "Foreign Policy", "The Hill", "PBS News, 23 April 2026"]
+        },
+        {
+          "text": "Israel-Lebanon ceasefire extended three weeks by Trump (23 April): following White House talks, Trump announced a 3-week extension, reducing the risk of a Lebanon front reopening in the near term and easing one pressure vector on GCC stability.",
+          "sources": ["CNBC", "Washington Post", "Axios", "NPR, 23 April 2026"]
+        },
+        {
+          "text": "USS George H.W. Bush arrival completes three-carrier US posture in CENTCOM AOR — first since Iraq/Afghanistan era; Iran has called peace talks 'definitive' and no active diplomatic channel exists; structural deadlock (US: Hormuz open; Iran: blockade lifted first) unchanged.",
+          "sources": ["USNI News", "Xinhua", "Al Jazeera, 23 April 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "POSITIVE SIGNAL — KWI phased reopening from 26 April: begin resuming business travel planning",
+          "text": "The PACA announcement of flights from T4/T5 beginning 26 April is the first concrete aviation normalisation step. HR and BCP teams should assess repatriation and deployment planning, verify insurance cover for conflict-zone travel, and engage Kuwait Airways for schedule information. Do not reduce security protocols — the state of emergency remains in force.",
+          "sources": ["Arab Times", "Times Kuwait, 23 April 2026"]
+        },
+        {
+          "bold_heading": "ACTIVE — 60-day War Powers deadline 1 May: escalatory pivot point requiring BCP scenario planning",
+          "text": "If Trump seeks congressional authorisation for resumed operations or if Republican holdouts force a war powers vote, the legal and political landscape shifts significantly. A resumed US military campaign would immediately spike energy prices and likely trigger Iranian retaliatory strikes on Gulf infrastructure. Pre-position BCP escalation protocols for activation by 1 May.",
+          "sources": ["Foreign Policy", "The Hill", "PBS News, 23 April 2026"]
+        },
+        {
+          "bold_heading": "ACTIVE — Ceasefire nominally holds but structural collapse persists; do not reduce crisis posture",
+          "text": "Iran's decision to rule out peace talks is 'definitive.' Three carrier groups in theatre raises the probability of resumed kinetics. Maintain full crisis-level BCP and staff safety protocols.",
+          "sources": ["CNN", "Al Jazeera", "Xinhua, 22–23 April 2026"]
+        },
+        {
+          "bold_heading": "ELEVATED — Energy price risk: Brent ~$104, WTI ~$94 — sustained $100+ pressure continues",
+          "text": "Oil continues to drift upward on war-risk premium; the Brent-WTI spread (~$10) reflects the Hormuz supply disruption premium. Reassess energy sector counterparty credit exposure and update financial stress tests for $110+ Brent scenario ahead of May 1.",
+          "sources": ["Trading Economics", "Barchart", "OilPrice, 24 April 2026"]
+        },
+        {
+          "bold_heading": "ACTIVE — Iranian APT implant activation risk elevated with USS Bush arrival",
+          "text": "The arrival of the third carrier group is an assessed trigger event for Iranian APT groups (Handala, CyberAv3ngers/IRGC Shahid Kaveh, Ghost Princess, Hydro Kitten) to activate pre-positioned implants in Gulf financial and energy targets. Maintain 24-hour SOC watch; do not reduce alert thresholds.",
+          "sources": ["Unit 42, updated 17 April 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Trump's Iran War Approaches 60-Day Congressional War Powers Deadline",
+          "author": "Foreign Policy staff",
+          "publication": "Foreign Policy",
+          "pub_date": "2026-04-23",
+          "access": "Paywall",
+          "summary": "The 60-day clock under the 1973 War Powers Resolution expires 1 May, requiring Trump to either halt military operations or obtain congressional authorisation; the Senate's fifth successive failure to pass a war powers resolution (46-51) leaves the constitutional question unresolved, but Senators Collins, Tillis, and Murkowski signal they will push for a vote if operations continue past May 1. The article maps scenarios from a formal AUMF to a messy political standoff, each carrying distinct implications for the conflict's duration and intensity.",
+          "relevance": "The May 1 deadline is the most consequential near-term variable for whether the conflict escalates into a resumed kinetic phase or pivots to prolonged stalemate — both require different BCP postures.",
+          "link": "https://foreignpolicy.com/2026/04/23/trump-iran-war-congress-war-powers-60-days/"
+        },
+        {
+          "title": "Trump's Iran War Is a Dilemma, Not a Debacle",
+          "author": "RAND Corporation Commentary",
+          "publication": "RAND",
+          "pub_date": "2026-04",
+          "access": "Open",
+          "summary": "RAND analysts argue that while US-Israeli operations successfully destroyed ~70% of Iran's missile launchers and ~two-thirds of arms manufacturing capacity, the conflict has entered an endurance phase in which Iran leverages the Strait of Hormuz as its primary coercive instrument — one it will not surrender without credible security guarantees. Four US pathways forward are identified, all involving significant economic costs and political credibility risks.",
+          "relevance": "Confirms the war-of-endurance framing: Gulf-based institutions should plan for an extended elevated-threat environment with persistent Hormuz disruption, not a near-term resolution.",
+          "link": "https://www.rand.org/pubs/commentary/2026/04/trumps-iran-war-is-a-dilemma-not-a-debacle.html"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "CVE-2026-33825 — Microsoft Defender Insufficient Granularity of Access Control — CISA KEV; action required",
+          "text": "CISA added this Microsoft Defender vulnerability to the KEV catalog on 22 April based on evidence of active exploitation; federal remediation deadline estimated ~13 May. The vulnerability enables attackers to abuse Defender's access control model — in Intune-managed financial environments this creates an attack surface overlapping with Handala's known destructive methodology.",
+          "cve_ids": ["CVE-2026-33825"],
+          "threat_actor": "Exploitation observed in the wild; overlaps with Handala methodology",
+          "recommended_action": "Apply Microsoft Defender security updates immediately; review Defender configuration audit logs for access anomalies; elevate to priority patch queue — do not wait for the federal deadline given elevated Iranian APT posture.",
+          "sources": ["CISA KEV, 22 April 2026"],
+          "url": "https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+          "bold_heading": "FINRA Cybersecurity Alert — Heightened Threats from Iranian Cyber Actors (financial sector)",
+          "text": "FINRA issued a dedicated cybersecurity alert noting that Iranian threat actors are actively targeting US and allied financial institutions and critical infrastructure; the alert flags spear-phishing, credential theft, and DDoS as primary initial access vectors. Relevance extends to internationally-connected Gulf institutions sharing correspondent banking infrastructure.",
+          "cve_ids": [],
+          "threat_actor": "Iranian state-affiliated actors (broad)",
+          "recommended_action": "Review FINRA's specific technical indicators; verify phishing simulation coverage includes Iranian TTPs; confirm DDoS mitigation capacity; ensure financial messaging systems (SWIFT, local switches) have anomaly detection active.",
+          "sources": ["FINRA Cybersecurity Alert, April 2026"],
+          "url": "https://www.finra.org/rules-guidance/guidance/cybersecurity-alert-heightened-threats-iranian-cyber-actors"
+        },
+        {
+          "bold_heading": "Iranian APT pre-positioned implant activation risk — elevated on USS Bush CENTCOM arrival (23 April)",
+          "text": "The confirmed arrival of USS George H.W. Bush in CENTCOM AOR on 23 April constitutes an assessed trigger event for Iranian APT activation of pre-positioned implants in Gulf financial and energy targets. Groups known to have targeted Gulf BFSI entities include Handala, CyberAv3ngers (IRGC Shahid Kaveh), Ghost Princess, and Hydro Kitten.",
+          "cve_ids": [],
+          "threat_actor": "Handala, CyberAv3ngers (IRGC Shahid Kaveh), Ghost Princess, Hydro Kitten",
+          "recommended_action": "Maintain 24-hour SOC watch; conduct targeted threat hunt against known Iranian C2 indicators; review SIEM for beaconing; suspend non-essential remote admin sessions; elevate wiper and data-exfiltration alert thresholds.",
+          "sources": ["Unit 42 Palo Alto Networks, updated 17 April 2026"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Operation Epic Fury financial sector surge risk — War Powers deadline adds new trigger [UPDATED]",
+          "text": "With 144+ confirmed pro-Iran cyber incidents against Gulf/global financial institutions through 6 April and the May 1 War Powers deadline now a politically salient trigger, the probability of a coordinated destructive cyber wave against Gulf BFSI entities is elevated. UAE banks (Emirates NBD, FAB) and payment platforms have already been disrupted; Kuwait-based institutions face equivalent exposure.",
+          "threat_actor": "Handala, Ghost Princess, Hydro Kitten, MOIS-linked groups",
+          "assessed_likelihood": "High",
+          "sources": ["SOCRadar, April 2026", "The National, April 2026"],
+          "url": "https://socradar.io/blog/pro-iran-cyberattacks-financial-services-144/"
+        },
+        {
+          "bold_heading": "CyberAv3ngers / Rockwell FactoryTalk OT/ICS expansion — dwell time accumulating (CISA AA26-097A) [CARRY-FORWARD]",
+          "text": "IRGC Shahid Kaveh Group has expanded OT/ICS targeting from Unitronics PLCs to Rockwell Automation FactoryTalk across 5,600+ exposed global hosts. Financial institutions with OT exposure in building management, data-centre power, or HVAC share this attack surface; the prolonged ceasefire/stalemate period continues to allow dwell-time accumulation for already-placed implants.",
+          "threat_actor": "CyberAv3ngers (IRGC Shahid Kaveh)",
+          "assessed_likelihood": "High",
+          "sources": ["CISA AA26-097A, 7 April 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "Handala Intune-leveraged destructive wipe methodology — May 1 deadline = escalation trigger [CARRY-FORWARD, UPDATED]",
+          "text": "Handala's remote wipe of 200,000+ devices via Microsoft Intune (March 2026) demonstrated Iran has operationalised destructive capabilities using legitimate enterprise management tools. CVE-2026-33825 (Microsoft Defender) expands this attack surface. The May 1 War Powers deadline and three-carrier US posture are assessed as probable triggers for a coordinated destructive operation against Gulf financial infrastructure.",
+          "threat_actor": "Handala (MOIS/Void Manticore)",
+          "assessed_likelihood": "High",
+          "sources": ["Flashpoint, April 2026", "CISA KEV, 22 April 2026"],
+          "url": "https://flashpoint.io/blog/escalation-in-the-middle-east-operation-epic-fury/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "1 May War Powers deadline — Congressional and executive signalling in the next 24 hours",
+          "why_it_matters": "A credible wind-down signal would reduce near-term escalation risk; failure to act by May 1 likely spurs a constitutional confrontation and creates conditions for resumed kinetics.",
+          "related_section": "Sections 2, 4, 5"
+        },
+        {
+          "text": "KWI phased reopening execution — April 26 flight resumption (monitor for security incidents)",
+          "why_it_matters": "The announced resumption of flights at T4/T5 from 26 April is the first aviation normalisation event since the conflict began; any disruption is both a security and business continuity signal.",
+          "related_section": "Sections 1, 3, 5"
+        },
+        {
+          "text": "Iran's next move following USS Bush CENTCOM arrival",
+          "why_it_matters": "Three US carriers in theatre will be viewed by Tehran as preparation for resumed strikes; watch for IRGC statements, additional Hormuz maritime actions, or back-channel (Oman, UN) signals.",
+          "related_section": "Sections 2, 4, 5, 7A"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "High", "note": null },
+    { "section": "2 — Targets & Incidents", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "3 — Kuwait Local", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "4 — Regional Context", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "5 — Risk Signal", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "7A — Cyber Tactical", "source_count": 2, "confidence": "Medium", "note": "CVE-2026-33825 from CISA KEV (single authoritative source); APT activation risk from single Tier 4 source (Unit 42); FINRA alert corroborated by CISA context." },
+    { "section": "7B — Cyber Strategic", "source_count": 2, "confidence": "Medium", "note": "All three strategic items are carry-forwards from prior-day digest augmented by new contextual triggers; no new Gulf-specific strategic cyber intelligence from a CERT published specifically in this 24-hour window." }
+  ],
+  "footer": "Report #45 compiled 2026-04-24 at 07:30 UTC+3."
+}
