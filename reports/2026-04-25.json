@@ -1,0 +1,280 @@
+{
+  "date": "2026-04-25",
+  "headline": "25 April 2026",
+  "subtitle": "Kuwait border drone attack; KWI reopens 26 Apr; Hormuz at 5 transits/day; Pakistan talks begin",
+  "report_number": "46",
+  "coverage": "24 April 2026 07:00 UTC+3 – 25 April 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-04-25",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "105.33", "previous": "104.00", "delta": "+1.33", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "94.40", "previous": "93.87", "delta": "+0.53", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~5", "previous": "~8–10", "delta": "↓", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "KWI airport status", "today": "Partial (T4/T5 open Apr 26)", "previous": "Partial (flights from Apr 26)", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "51", "today_label": "Moderate", "previous": "51", "previous_label": "Moderate", "delta": "0", "trend_7d": "→" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "No air raid sirens, civil defense alerts, shelter-in-place orders, or emergency broadcasts were reported in Kuwait in the past 24 hours. The drone attack on northern border posts (see Section 2) did not trigger a nationwide civil defense alert.",
+          "sources": ["Kuwait Times", "Arab Times", "MOI Kuwait — no alert notices published"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Kuwait–Iraq Border Drone Attack (Confirmed)",
+          "text": "Kuwait's Ministry of Defense reported on 25 April that two explosive-laden drones guided by fibre-optic cables, originating from the direction of Iraq, struck two northern land border posts at an unspecified time overnight. Material damage confirmed; no casualties. No Iraqi group claimed responsibility. Iraq's Interior Minister Abdel Amir al-Shammari condemned the attack in a call with his Kuwaiti counterpart, pledging an investigation.",
+          "sources": ["Kuwait Ministry of Defense statement", "Times of Israel", "Middle East Eye", "Arab Times Kuwait", "The Hans India"]
+        },
+        {
+          "bold_heading": "Hormuz Vessel Seizure (Confirmed, 22 April) [SINGLE SOURCE]",
+          "text": "Iran seized a vessel near the Strait of Hormuz on 22 April, accusing it of collaborating with the U.S. military. This follows two separate vessel attacks by Iran on 22 April, bringing total Hormuz seizures to multiple ships since the ceasefire declaration.",
+          "sources": ["CNBC, 22 Apr 2026", "Al Jazeera, 22 Apr 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Airport",
+          "text": "Kuwait International Airport airspace reopened 23 April; Terminals 4 and 5 set to partially resume operations from 26 April 2026. Kuwait Airways to serve 17 international destinations (London, Cairo, Mumbai, Riyadh among others) from T4; Jazeera Airways to resume 9 routes from T5. Operating hours approximately 09:00–16:00 local time, subject to DGCA review. Terminals 1 and new T2 remain closed.",
+          "sources": ["Wego Travel Blog", "Arab Times", "Arabian Business", "archyde.com, 24 Apr 2026"]
+        },
+        {
+          "bold_heading": "Government Advisory",
+          "text": "Ministerial Resolution 31/2026 (Ministry of Commerce and Industry) prohibits sale and trading of drones in Kuwait; currently in force. Ministry of Commerce monitoring price caps on essential goods.",
+          "sources": ["Kuwait Mart / Kuwait government record, April 2026"]
+        },
+        {
+          "bold_heading": "Supply Chain",
+          "text": "Saudi Arabia overland land route remains Kuwait's primary import corridor. Kuwait Airways operating an interim hub out of Dammam's King Fahd International Airport; Paris and Dhaka recently added to the schedule from Dammam. Border with Saudi Arabia reported as operational.",
+          "sources": ["Kuwait Mart", "Wego Travel Blog"]
+        },
+        {
+          "bold_heading": "Iraq Border",
+          "text": "The drone attack on Kuwait's northern posts raises alert status at Iraq–Kuwait crossing points; no official border closure announced at time of compilation.",
+          "sources": ["Kuwait MOD statement", "Arab Times, 25 Apr 2026"]
+        },
+        {
+          "bold_heading": "Schools/Events",
+          "text": "No closures reported in the coverage window.",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "Ceasefire Extended Indefinitely; Talks in Islamabad",
+          "text": "Trump extended the US–Iran ceasefire on 21 April, citing Iran's \"seriously fractured\" leadership, requiring Tehran to submit a unified proposal before negotiations can conclude. US envoys Witkoff and Kushner are travelling to Pakistan on 25–26 April for talks; Iran's delegation also in Islamabad. Core sticking points: US naval blockade of Iranian ports vs. Iran's Hormuz toll regime.",
+          "sources": ["Al Jazeera", "CNN", "CNBC", "NPR, 21–24 Apr 2026"]
+        },
+        {
+          "bold_heading": "Hormuz Standoff Deepens",
+          "text": "Only ~5 vessels transited the Strait on 24 April (vs. pre-war norm of ~100+/day). Iran seized at least one ship on 22 April; the US boarded an Iranian-oil tanker in the Indian Ocean. Three US aircraft carriers now stationed in the region following USS George H.W. Bush arrival 24 April.",
+          "sources": ["US News", "CNBC", "Al Jazeera, 22–24 Apr 2026"]
+        },
+        {
+          "bold_heading": "War Powers Act Deadline Approaching",
+          "text": "The US War Powers Act 60-day clock expires approximately 28–29 April, requiring Congressional authorisation or withdrawal of US forces. Republican divisions in Congress add uncertainty; any vote or executive action in the next 72 hours could alter US military posture in the Gulf.",
+          "sources": ["Foreign Policy", "The Hill, 23–24 Apr 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Airport Reopening / Staff Travel",
+          "text": "KWI partial reopening (26 Apr, T4/T5) creates staff travel resumption for employees previously routing through Dammam. Institutions should verify and update business continuity and staff safety protocols ahead of this transition; operating hours (09:00–16:00) are restricted and service disruptions remain possible.",
+          "sources": ["Arabian Business", "Wego Blog, 23–24 Apr 2026"]
+        },
+        {
+          "bold_heading": "Iraq-Origin Drone Threat Vector",
+          "text": "The border drone attack establishes a new attack vector against Kuwait from the north, separate from Iranian/Gulf threat streams and operating independently of the ceasefire. This broadens the threat perimeter for business continuity and staff travel planning to include northern Kuwait land routes.",
+          "sources": ["Kuwait MOD", "Arab Times, 25 Apr 2026"]
+        },
+        {
+          "bold_heading": "Hormuz / Supply Chain",
+          "text": "Hormuz transit effectively closed (only 5 vessels/24h); marine cargo insurance premiums remain at crisis levels. Institutions with supply chain dependencies on Gulf-route logistics should verify alternative sourcing and payment routing are in place.",
+          "sources": ["US News", "CNBC, 24 Apr 2026"]
+        },
+        {
+          "bold_heading": "Cyber — Elevated Phishing & Financial Fraud Risk",
+          "text": "Unit 42 (updated 17 Apr) identified 7,381 conflict-themed phishing URLs targeting financial brands, airlines, and telecoms; campaigns impersonate Iranian banks and UAE financial institutions. Institutions should brief staff on conflict-themed lures and verify email gateway rules.",
+          "sources": ["Unit 42/Palo Alto Networks, 17 Apr 2026"]
+        },
+        {
+          "bold_heading": "Regulatory / War Powers Watch",
+          "text": "Congressional action on the War Powers Act 60-day deadline (est. ~28–29 Apr) could rapidly alter US force posture in the Gulf, affecting ceasefire stability and financial market conditions. Compliance and risk teams should monitor for abrupt ceasefire collapse scenarios.",
+          "sources": ["Foreign Policy", "The Hill, 23–24 Apr 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Pathways for the War with Iran",
+          "author": "Not individually named",
+          "publication": "Foreign Policy Research Institute (FPRI)",
+          "pub_date": "2026-04-04",
+          "access": "Open",
+          "summary": "Frames the conflict as a continuation of a five-decade confrontation; identifies two plausible endpoints: a negotiated settlement that gives each side a partial win, or a protracted maximalist conflict producing global economic distress. Highlights Iran's weakened ballistic missile programme but enhanced Hormuz leverage as the new strategic asymmetry.",
+          "relevance": "Provides the most concise dual-scenario framework for long-range operational risk planning and business continuity horizon-setting.",
+          "link": "https://www.fpri.org/article/2026/04/pathways-for-the-war-with-iran/"
+        },
+        {
+          "title": "Trump's Iran War Is a Dilemma, Not a Debacle",
+          "author": "Raphael Cohen",
+          "publication": "RAND Commentary",
+          "pub_date": "2026-04",
+          "access": "Open",
+          "summary": "Argues that US–Israeli strikes have degraded Iran's ballistic missile capacity by ~90% and arms manufacturing by ~two-thirds, but the central dilemma is whether Washington accepts a quick exit (with Iranian threat returning) or a costlier extended campaign for a more durable solution. Characterises the ceasefire extension as buying time without resolving this core question.",
+          "relevance": "Directly addresses the probability and duration of ongoing Gulf instability that underpins our risk planning assumptions.",
+          "link": "https://www.rand.org/pubs/commentary/2026/04/trumps-iran-war-is-a-dilemma-not-a-debacle.html"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "OT/ICS PLC Exploitation — Rockwell Automation",
+          "text": "Unit 42 identified threat cluster CL-STA-1128 (linked to Cyber Av3ngers / Storm-0784) actively targeting internet-exposed Rockwell Automation PLCs across Gulf and US critical infrastructure. No CVEs publicly disclosed as of 17 Apr; vendor advisory expected.",
+          "cve_ids": [],
+          "threat_actor": "CL-STA-1128 / Cyber Av3ngers / Storm-0784 (Iranian state-linked)",
+          "recommended_action": "Immediately audit and isolate internet-facing Rockwell Automation PLC/SCADA assets; apply any available vendor patches; verify network segmentation between OT and corporate networks.",
+          "sources": ["Unit 42/Palo Alto Networks, 17 Apr 2026"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        },
+        {
+          "bold_heading": "CISA Advisory AA26-097A — Iranian APT Exploiting PLCs",
+          "text": "CISA confirmed an Iranian-affiliated APT has disrupted PLC operations across US Government, Water/Wastewater, and Energy sectors since at least March 2026; operational disruption and financial losses confirmed at some victims. Gulf infrastructure with US-sourced SCADA technology may face spillover.",
+          "cve_ids": [],
+          "threat_actor": "Iranian-affiliated APT (unspecified in public advisory)",
+          "recommended_action": "Cross-reference CISA advisory AA26-097A against third-party service providers and facilities management vendors; request confirmation of patch status.",
+          "sources": ["CISA, 7 Apr 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "Conflict-Themed Phishing — Financial Brand Impersonation",
+          "text": "Unit 42 identified 7,381 phishing URLs across 1,881 hostnames impersonating financial institutions, telecoms, and airlines in the Gulf; campaigns include fake Iranian bank portals and UAE Emirates-branded financial fraud sites targeting credentials and payment data.",
+          "cve_ids": [],
+          "threat_actor": "Multiple Iran-linked and opportunistic actors",
+          "recommended_action": "Update email security gateway blocklists with conflict-themed domains; issue targeted staff awareness bulletin for phishing lures referencing war, relief funds, or regional financial institutions.",
+          "sources": ["Unit 42/Palo Alto Networks, 17 Apr 2026"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Operation Epic Fury — Financial Sector at Persistent Elevated Risk",
+          "text": "SOCRadar tracked 1,583 verified cyber incidents across Operation Epic Fury between 28 Feb and 6 Apr 2026; financial services is the #2 targeted sector. Gulf financial institutions with US-linked assets, Israeli business ties, or high-visibility payment platforms face the highest ongoing exposure.",
+          "threat_actor": "Multiple Iranian state-aligned and hacktivist groups",
+          "assessed_likelihood": "High",
+          "sources": ["SOCRadar blog", "The National, 10 Apr 2026"],
+          "url": "https://socradar.io/blog/pro-iran-cyberattacks-financial-services-144/"
+        },
+        {
+          "bold_heading": "MuddyWater Pre-Positioned Access — Financial Infrastructure",
+          "text": "Palo Alto Networks confirmed in March 2026 that MuddyWater (Iranian state-sponsored APT) pre-deployed Python-based backdoors inside a US bank, an airport, a defence-adjacent software company, and NGOs — all implanted before 28 Feb 2026. Similar pre-positioning across Gulf financial infrastructure is assessed as probable.",
+          "threat_actor": "MuddyWater (APT34 cluster)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["Unit 42/Palo Alto Networks"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        },
+        {
+          "bold_heading": "Iranian Internet Restoration Enables Renewed Cyber Coordination",
+          "text": "Iran began restoring limited domestic internet access on ~17 April after 47 days of near-total isolation. Domestic cyber actors can now coordinate outbound operations more effectively, signalling a potential increase in tempo and complexity of externally-directed campaigns in coming weeks.",
+          "threat_actor": "Iranian state cyber and affiliated hacktivist ecosystem",
+          "assessed_likelihood": "Moderate",
+          "sources": ["Unit 42/Palo Alto Networks, 17 Apr 2026"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Witkoff/Kushner–Iran Talks in Islamabad (25–26 Apr)",
+          "why_it_matters": "The first direct US–Iran negotiating session via Pakistan may produce a preliminary framework or a public breakdown — either outcome will move oil markets and affect ceasefire stability.",
+          "related_section": "Section 4 (Regional Context), Section 5 (Risk Signal)"
+        },
+        {
+          "text": "KWI Partial Reopening — 26 April (T4/T5)",
+          "why_it_matters": "Staff travel resumption and supply chain air freight restoring; any security incident at reopening would re-trigger airport closure.",
+          "related_section": "Section 3 (Kuwait Local), Section 5 (Risk Signal)"
+        },
+        {
+          "text": "US War Powers Act 60-Day Deadline (~28 Apr)",
+          "why_it_matters": "Congressional authorisation deadline for US operations in Iran; any Congressional action or inaction reshapes US military posture, ceasefire durability, and market pricing.",
+          "related_section": "Section 4 (Regional Context), Section 5 (Risk Signal)"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 2, "confidence": "Medium", "note": "Absence of alerts confirmed via monitoring; no positive official confirmation" },
+    { "section": "2 — Targets & Incidents", "source_count": 5, "confidence": "High", "note": "Border drone attack corroborated by 5+ independent Tier 1 sources; Hormuz seizure [SINGLE SOURCE] on count" },
+    { "section": "3 — Kuwait Local", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "4 — Regional Context", "source_count": 6, "confidence": "High", "note": null },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "High", "note": null },
+    { "section": "7A — Cyber Tactical", "source_count": 2, "confidence": "Medium", "note": "Primary source Unit 42/Palo Alto; supplemented by CISA AA26-097A" },
+    { "section": "7B — Cyber Strategic", "source_count": 2, "confidence": "Medium", "note": "Primary sources Unit 42/Palo Alto and SOCRadar; limited independent corroboration" }
+  ],
+  "footer": "Report #46 compiled 2026-04-25 at 07:30 UTC+3."
+}
