@@ -1,0 +1,271 @@
+{
+  "date": "2026-04-28",
+  "headline": "28 April 2026",
+  "subtitle": "Iran Rejects Hormuz Interim Proposal; Day 60 — Ceasefire Holds, Retaliation Window Opens",
+  "report_number": "49",
+  "coverage": "27 April 2026 07:00 UTC+3 – 28 April 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-04-28",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "108.11", "previous": "NR*", "delta": "NR", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "96.13", "previous": "NR*", "delta": "NR", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~7", "previous": "~5", "delta": "+2", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "NR", "today_label": null, "previous": "76", "previous_label": "Moderate", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "No air raid sirens, civil defense alerts, shelter-in-place orders, or emergency broadcasts were reported in Kuwait during the coverage window. The indefinitely extended ceasefire continued to hold kinetically against Kuwaiti territory. Kuwait MOI published no new emergency notifications for the period.",
+          "sources": ["Kuwait MOI — no notices published for 27–28 April", "Kuwait Times", "Arab Times"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "No New Confirmed Strikes on Kuwait Territory",
+          "text": "No missile, drone, or ground attack targeting Kuwait was confirmed within the 27–28 April coverage window. The indefinitely extended ceasefire continued to hold kinetically against GCC territory.",
+          "sources": ["Kuwait MOD", "Arab Times", "Kuwait Times — no incident reports published for this window"]
+        },
+        {
+          "bold_heading": "Strait of Hormuz — Dual Blockade Persists; Slight Transit Uptick",
+          "text": "The dual blockade remains in effect; ~7 vessels crossed in the 24-hour window (up from ~5), principally dry-bulk carriers — still a fraction of the pre-war 140/day average. No new vessel seizures or armed interdictions confirmed within the coverage window. Last confirmed seizures: Iran seized two container ships on 22 April; US seized Iranian-flagged TOUSKA on ~22 April.",
+          "sources": ["Insurance Journal 27 Apr 2026", "Bloomberg 26 Apr 2026", "Al Jazeera 23 Apr 2026"]
+        },
+        {
+          "bold_heading": "Senate Democrats Launch Kuwait Strike Investigation (Political/Accountability Development)",
+          "text": "Four senior Democratic senators (Warren, Blumenthal, Gillibrand, Kelly) launched a formal investigation into the Pentagon's handling of the 1 March Iranian drone strike at Shuaiba Port, Kuwait, which killed 6 US service members. Senators allege no warning or sirens were activated before the strike and that perimeter defences were inadequate. Pentagon deadline for response: 11 May. Not a new security incident, but relevant to assessing US force-protection posture at Kuwait installations.",
+          "sources": ["CBS News 27 Apr 2026", "The Hill 27 Apr 2026", "ABC News 27 Apr 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Airport (KWI) — Phase 2 Routes Now Active (28 Apr)",
+          "text": "Kuwait Airways commenced additional international routes from Terminal 4 on 28 April: Riyadh (Tue/Fri), Jeddah (4x/wk), London Heathrow, Mumbai, and Manila (3x/wk each). Middle East Airlines resumed as of 26 April; Himalaya Airlines commenced 28 April. Jazeera Airways continues from T5. Operating hours remain 09:00–16:00 local; T1 and new T2 remain closed. Major carriers (Emirates, Qatar Airways, BA, Turkish Airlines) have not announced KWI resumption dates.",
+          "sources": ["Wego Travel Blog 2026", "Aerotime.aero 26 Apr 2026", "Gulf News 24 Apr 2026", "Travel and Tour World 2026"]
+        },
+        {
+          "bold_heading": "Supply Chain — Normal",
+          "text": "Saudi Arabia land route (Arar crossing) remains the primary import corridor and is operating normally. Shuwaikh and Shuaiba ports continue at Security Level 2 with normal berthing. Iraq border remains on elevated alert; no formal closure order.",
+          "sources": ["GAC Kuwait operational update Apr 2026", "Maersk Update Apr 2026"]
+        },
+        {
+          "bold_heading": "Government Restrictions",
+          "text": "Ministerial Resolution 31/2026 (ban on drone sale and trading) remains in force. US Embassy Kuwait Level 3 travel designation (Reconsider Travel) unchanged. No new school or event closures reported.",
+          "sources": ["Kuwait government records", "US Embassy Kuwait advisory"]
+        },
+        {
+          "bold_heading": "Senate Probe — Shuaiba Port Context",
+          "text": "The Pentagon investigation into the 1 March Shuaiba drone strike is relevant to institutions with staff or operations in Kuwait's industrial/port belt. Until force-protection gaps are formally addressed, Kuwait-based personnel at or near military-adjacent infrastructure should maintain heightened situational awareness.",
+          "sources": ["CBS News 27 Apr 2026", "The Hill 27 Apr 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "Iran Hormuz Proposal — Trump Unlikely to Accept (28 Apr)",
+          "text": "Iran submitted a new proposal via Pakistani mediators to reopen the Strait of Hormuz in exchange for a US blockade lift and ceasefire formalisation, deferring nuclear talks to a later stage. Trump signalled Monday he would not accept a deal that removes US leverage before resolving nuclear issues; Secretary of State Rubio similarly dismissed the proposal. The rejection maintains the current stalemate and extends the uncertainty horizon for Hormuz-dependent economies.",
+          "sources": ["CNN liveblog 28 Apr 2026", "Axios 27 Apr 2026", "Foreign Policy 27 Apr 2026", "CNBC 27 Apr 2026", "Al Jazeera 27 Apr 2026"]
+        },
+        {
+          "bold_heading": "Araghchi–Putin Meeting — Russia Pledges Support, No Joint Hardening vs. GCC",
+          "text": "Iranian FM Araghchi met President Putin in St. Petersburg on 27 April for 90+ minutes. Putin pledged Russia would do everything possible to support Iran and bring peace swiftly; Araghchi described the meeting as very good. No joint statement threatening GCC states, Gulf financial infrastructure, or shipping lanes was issued — a lower-risk outcome than the worst-case scenario. Russia's posture consolidates Iran's diplomatic rear guard but does not materially shift the near-term kinetic picture for Kuwait.",
+          "sources": ["Al Jazeera 27 Apr 2026", "France 24 27 Apr 2026", "CGTN 27 Apr 2026", "Kremlin.ru 27 Apr 2026", "Jerusalem Post 27 Apr 2026"]
+        },
+        {
+          "bold_heading": "War Powers Act Deadline (May 1) — 72-Hour Critical Window",
+          "text": "The 60-day congressional authorisation deadline falls Thursday, 1 May. Senate Democrats have been blocked five times (most recently 23 April, 46–51). Trump's response — whether invoking executive authority, claiming the ceasefire suspends the clock, or requesting a new AUMF — will determine the legal architecture for continued US military operations and is the single highest near-term structural risk variable for Gulf stability.",
+          "sources": ["Foreign Policy 23 Apr 2026", "Democracy Now 23 Apr 2026", "Al Jazeera 24 Apr 2026", "CNN 25 Apr 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Iran Proposal Rejection Prolongs Hormuz Disruption Baseline",
+          "text": "Trump's likely rejection of the Hormuz-for-nuclear-delay deal means the dual blockade remains the operative reality with no resolution timeline. Institutions should treat Hormuz disruption as structural for at least the next 30–60 days; review trade finance, energy-linked credit, and supply-chain-dependent SME portfolios against this extended baseline.",
+          "sources": ["CNN 28 Apr 2026", "Axios 27 Apr 2026", "Fortune 25 Apr 2026"]
+        },
+        {
+          "bold_heading": "Oil Market — Brent $108 Sustained; Watch for Post-Rejection Spike",
+          "text": "Brent at $108.11 (Apr 27 close) already embeds a geopolitical premium from the Islamabad collapse. The public Trump rejection of the Hormuz proposal on April 28 may push Brent toward $112–115 on Tuesday open. A sustained move above $112 warrants review of energy-linked credit exposures, KWD/USD peg stress protocols, and counterparty credit for Gulf energy sector borrowers.",
+          "sources": ["Trading Economics 27 Apr 2026", "Fortune 25 Apr 2026", "Goldman Sachs forecast cited in Fortune"]
+        },
+        {
+          "bold_heading": "War Powers Deadline (May 1) — Binary Volatility Event",
+          "text": "Trump's chosen response to the 60-day deadline creates a binary market event by Thursday. Monitor US Congressional and White House overnight news flow (28–30 April). Either path — executive authority assertion or unexpected AUMF request — involves short-term volatility in oil, USD, and regional equities.",
+          "sources": ["Foreign Policy 23 Apr 2026", "CNN 25 Apr 2026", "Al Jazeera 24 Apr 2026"]
+        },
+        {
+          "bold_heading": "KWI Phase 2 Travel Policy — Update and Maintain Reclosure Protocol",
+          "text": "Phase 2 routes are now active (Riyadh, Jeddah, London, Mumbai, Manila from 28 Apr). Institutional travel policy should be updated to reflect the expanded schedule; BCM protocols must retain a rapid-reclosure trigger given ceasefire fragility and the May 1 deadline.",
+          "sources": ["Wego Travel Blog 2026", "Gulf News 24 Apr 2026"]
+        },
+        {
+          "bold_heading": "Cyber — Elevated Operational Tempo: Post-Rejection Activation Window Opens",
+          "text": "The public rejection of the Iranian Hormuz proposal, following the Islamabad talks collapse (25 Apr) and Araghchi–Putin coordination meeting (27 Apr), creates a ~7–14 day window of elevated Iranian cyber retaliation risk against GCC financial brands. Organisations with US-linked correspondent banking, SWIFT-messaging infrastructure, or Israeli business ties should review alert thresholds and conduct fresh threat hunts.",
+          "sources": ["CISA AA26-097A 7 Apr 2026", "Unit 42 17 Apr 2026", "SOCRadar Apr 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Iran Offers to Reopen the Strait of Hormuz if U.S. Agrees to Postpone Nuclear Talks",
+          "author": "Robbie Gramer",
+          "publication": "Foreign Policy",
+          "pub_date": "2026-04-27",
+          "access": "Open",
+          "summary": "Iran's latest negotiating proposal, transmitted via Pakistan, offers Hormuz reopening as a separate deliverable from a nuclear agreement, betting that US and global economic pain creates political pressure for an interim deal; the proposal specifically avoids any commitment on enrichment or uranium stockpile reduction. Trump and Rubio rejected the proposal because accepting it would eliminate key US leverage before nuclear concessions are secured.",
+          "relevance": "Directly sets the negotiating framework for the next 30 days — rejection means no Hormuz relief is structurally near, which is the single most important variable for energy market exposure and supply chain planning.",
+          "link": "https://foreignpolicy.com/2026/04/27/iran-reopen-strait-hormuz-postpone-nuclear-talks-us-blockade/"
+        },
+        {
+          "title": "War Without a Theory of Victory: How the United States Lost the Strategic Thread in Iran",
+          "author": "Small Wars Journal Staff",
+          "publication": "Small Wars Journal",
+          "pub_date": "2026-04-27",
+          "access": "Open",
+          "summary": "60 days into Operation Epic Fury, the article argues the US has no coherent theory of victory — no clearly articulated proposition linking military action to a specific change in Iranian political behaviour, leaving the US reactive, politically isolated, and absorbing domestic economic pain without a defined end-state. The analysis draws on Thomas Schelling's coercive bargaining framework to assess why US strategy is generating costs without coercive effect.",
+          "relevance": "A prolonged war without an exit strategy is the baseline scenario for institutional planning; provides the analytical scaffolding for 90-day scenario planning around continued Hormuz disruption and sustained oil-price premiums.",
+          "link": "https://smallwarsjournal.com/2026/04/27/how-the-united-states-lost-the-strategic-thread-in-iran/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "Standing Advisory — MuddyWater Dindoor/Rust Backdoor — Elevated Priority",
+          "text": "Iranian APT MuddyWater (Mango Sandstorm/Seedworm) deployed a Rust-based implant (Dindoor) against a US bank, airport, and defence-adjacent software targets in early March 2026. Gulf financial institutions with US correspondent banking relationships or shared IT vendors are at spillover risk. With the public rejection of Iran's Hormuz proposal on April 28, the risk of dormant implant activation as a retaliatory signal is elevated.",
+          "cve_ids": [],
+          "threat_actor": "MuddyWater / Mango Sandstorm (Iranian MOIS)",
+          "recommended_action": "Run targeted threat hunt for anomalous Python/Rust process execution and MuddyWater TTPs (MITRE ATT&CK G0069); escalate priority given post-rejection window.",
+          "sources": ["The Hacker News Mar 2026", "SOCRadar 2026"],
+          "url": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html"
+        },
+        {
+          "bold_heading": "Standing Advisory — PLC/OT Exploitation (Rockwell Automation) — CISA AA26-097A",
+          "text": "CL-STA-1128 (Iranian state-linked, overlapping with Cyber Av3ngers/Storm-0784) continues targeting internet-exposed Rockwell Automation PLCs across Gulf and US critical infrastructure. CISA advisory AA26-097A (7 Apr) remains active. Elevated urgency given post-rejection retaliation window.",
+          "cve_ids": [],
+          "threat_actor": "CL-STA-1128 (Iranian state-linked)",
+          "recommended_action": "Verify all internet-facing OT/SCADA assets are isolated and patched; treat as urgent given elevated post-rejection retaliation window.",
+          "sources": ["CISA AA26-097A 7 Apr 2026", "Unit 42 17 Apr 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Operation Epic Fury — Financial Sector Persistent Elevated Risk",
+          "text": "SOCRadar tracked 1,583+ verified incidents since war onset; financial services remain the #2 most globally targeted sector. Gulf institutions with US-linked assets, Israeli business ties, or high-visibility payment platforms face the highest ongoing exposure. Attack methodology continues evolving from DDoS to breach claims, persistent access, and financial system exploitation. With Iran's Hormuz proposal publicly rejected, a new wave of hacktivist/APT activity against Gulf financial brands is anticipated.",
+          "threat_actor": "70+ hacktivist groups plus MOIS-linked APTs",
+          "assessed_likelihood": "High",
+          "sources": ["SOCRadar Apr 2026", "SISA Blog 2026"],
+          "url": "https://socradar.io/blog/pro-iran-cyberattacks-financial-services-144/"
+        },
+        {
+          "bold_heading": "MuddyWater Dormant Pre-Positioning — Activation Risk Upgraded",
+          "text": "Unit 42 confirmed MuddyWater pre-deployed backdoors inside a US bank and other organisations prior to Feb 28; similar dormant access in Gulf financial infrastructure is assessed as probable. The public rejection of the Iranian Hormuz proposal (28 Apr), following the Araghchi–Putin coordination meeting (27 Apr), creates a credible trigger scenario for activation of dormant implants as a calculated signalling action.",
+          "threat_actor": "MuddyWater / APT34 cluster (MOIS)",
+          "assessed_likelihood": "Moderate–High",
+          "sources": ["Unit 42/Palo Alto Networks 17 Apr 2026", "The Hacker News Mar 2026"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        },
+        {
+          "bold_heading": "Post-Rejection Cyber Retaliation — 7–14 Day Elevated Window Commences Today",
+          "text": "Iran's pattern of responding to diplomatic setbacks with cyber escalation within 7–14 days is now triggered by the public rejection of the Hormuz proposal (28 Apr). Combined with Iranian internet restoration (~17 Apr) enabling improved outbound campaign coordination, DDoS, defacement, and credential-harvesting campaigns targeting GCC financial brands are assessed as likely before 12 May.",
+          "threat_actor": "Iranian state cyber ecosystem and affiliated hacktivists",
+          "assessed_likelihood": "High",
+          "sources": ["Unit 42 17 Apr 2026", "SOCRadar Apr 2026", "Trellix 2026"],
+          "url": "https://www.trellix.com/blogs/research/the-iranian-cyber-capability-2026/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Trump Formal Response to Iran Hormuz Proposal (Today)",
+          "why_it_matters": "A formal public rejection hardens Iranian negotiating posture and is the proximate trigger for the elevated cyber retaliation window; it also removes near-term possibility of Hormuz relief for energy market pricing.",
+          "related_section": "Section 2 (Targets & Incidents), Section 4 (Regional Context), Section 5 (Risk Signal)"
+        },
+        {
+          "text": "War Powers Act Deadline Communication (by May 1, Thursday)",
+          "why_it_matters": "Trump's chosen legal rationale will signal administration posture on resuming offensive operations and determine whether the US remains legally constrained post-May 1 — the most consequential structural variable for Gulf stability in the next 72 hours.",
+          "related_section": "Section 4 (Regional Context), Section 5 (Risk Signal)"
+        },
+        {
+          "text": "Oil Market Tuesday Open — Brent Direction Post-Rejection",
+          "why_it_matters": "If Brent breaks above $112 on sustained volume, it triggers counterparty credit review thresholds for Gulf energy sector exposures; a Brent close above $115 is the boundary scenario for acute KWD/USD peg stress.",
+          "related_section": "Section 5 (Risk Signal)"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "High", "note": null },
+    { "section": "2 — Targets & Incidents", "source_count": 4, "confidence": "Medium", "note": "Absence-of-incident assessments rely on monitoring gaps; Senate probe item sourced from 3 independent Tier 1 outlets" },
+    { "section": "3 — Kuwait Local", "source_count": 5, "confidence": "High", "note": null },
+    { "section": "4 — Regional Context", "source_count": 6, "confidence": "High", "note": "Upgraded to High given convergent reporting from CNN, Axios, FP, CNBC, and Al Jazeera on Iran proposal/rejection" },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "Medium", "note": "Risk assessments are analytical extrapolations from confirmed facts; oil price projections are analyst forecasts not confirmed market closes" },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "Medium", "note": "No new 24h advisories; standing advisories from established Tier 4 sources (CISA, Unit 42, Hacker News)" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "Medium", "note": "Likelihood upgrades are analytical assessments based on confirmed pattern data; no independent confirmation of new Gulf FS incidents in this window" }
+  ],
+  "footer": "Report #49 compiled 2026-04-28 at 07:30 UTC+3."
+}
