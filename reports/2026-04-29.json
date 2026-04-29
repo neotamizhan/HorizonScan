@@ -1,0 +1,271 @@
+{
+  "date": "2026-04-29",
+  "headline": "29 April 2026",
+  "subtitle": "War Powers Deadline, UAE Quits OPEC, Hormuz Closed",
+  "report_number": "50",
+  "coverage": "28 April 2026 07:00 UTC+3 – 29 April 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-04-29",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "111.57", "previous": "111.16", "delta": "+0.41", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "99.32", "previous": "NR", "delta": "NR", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~0", "previous": "~7", "delta": "↓", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "51", "today_label": "Moderate", "previous": "NR", "previous_label": null, "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "No alerts reported in Kuwait in the past 24 hours.",
+          "text": "No air raid sirens, civil defense alerts, shelter-in-place orders, or emergency broadcasts were reported in Kuwait during the coverage window. The U.S. Embassy Kuwait issued an April 28 security alert that was administrative in nature (exit permit and visa extension guidance), not a threat notification. Kuwait MOI published no emergency notices for the period. Note: The monthly routine Civil Defense siren test is scheduled for 10:00 local time on 1 May (first of month) — this is a drill, not a real alarm.",
+          "sources": ["U.S. Embassy Kuwait 28 Apr 2026 — kw.usembassy.gov", "Kuwait MOI — no emergency notices published 28–29 Apr"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "No Confirmed Strikes on Kuwait",
+          "text": "No missile, drone, or ground attack targeting Kuwaiti territory was confirmed within the 28–29 April coverage window. The extended ceasefire continued to hold kinetically against Kuwait.",
+          "sources": ["Kuwait MOD", "Arab Times", "Kuwait Times — no incident reports published for this window"]
+        },
+        {
+          "bold_heading": "Strait of Hormuz — Complete Closure Confirmed; ~2,000 Ships Stranded",
+          "text": "Iran's total blockade of all foreign-flagged vessels (reimposed 21 April) remained fully in effect. A billboard in Tehran's Revolution Square reading 'The Strait of Hormuz remains closed' was photographed and widely circulated on 28 April. Approximately 2,000 ships remain stranded in the Gulf awaiting passage. No new vessel seizures confirmed within the 24-hour window (last known: Iran seized two containers 22 April; US seized Iranian-flagged tanker TOUSKA ~22 April).",
+          "sources": ["Al Jazeera 28 Apr 2026", "CBS News live blog 28 Apr", "Bloomberg 26 Apr", "NBC News data graphics"]
+        },
+        {
+          "bold_heading": "UAE Announces OPEC Withdrawal Effective May 1 (28 Apr)",
+          "text": "The United Arab Emirates formally announced its exit from OPEC and OPEC+ effective 1 May 2026, ending nearly 60 years of membership. This is a structural shift in Gulf energy governance driven by production quota disputes and the economic damage from Iranian strikes and Hormuz closure.",
+          "sources": ["Al Jazeera 28 Apr", "CNBC 28 Apr", "Washington Post 28 Apr", "NPR 28 Apr 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "U.S. Embassy April 28 Alert — Administrative Update",
+          "text": "The alert updated guidance on Kuwait MOI's automatic one-month visa extension and the three-month absence permit for residents outside Kuwait as of 28 Feb. Article 17/18 visa holders must obtain exit permits via the Sahel app before travelling. U.S. Embassy Level 3 ('Reconsider Travel') designation remains unchanged.",
+          "sources": ["U.S. Embassy Kuwait 28 Apr 2026 — kw.usembassy.gov"]
+        },
+        {
+          "bold_heading": "KWI Airport — T4/T5 Partial Operations Continue",
+          "text": "Kuwait International Airport continues Phase 2 limited operations: ~40 flights/day (09:00–16:00 local) from Terminals 4 and 5. Kuwait Airways (T4) and Jazeera Airways (T5) primary; Middle East Airlines and Himalaya Airlines added 26–28 April. Major carriers (Emirates, Qatar Airways, British Airways, Turkish Airlines) have not announced KWI resumption dates. T1 and new T2 remain closed.",
+          "sources": ["Wego Travel Blog", "Aerotime.aero 26 Apr", "ibtimes.com.au 2026"]
+        },
+        {
+          "bold_heading": "Ports & Supply Chain — Normal",
+          "text": "Shuwaikh Port and Shuaiba Port operating normally at Security Level 2. Saudi Arabia land bridge (Arar crossing) is functioning normally as the primary strategic import corridor. Iraq border on elevated alert with no formal closure. No supply disruptions, panic buying, or shortages reported.",
+          "sources": ["GAC Kuwait operational update Apr 2026", "Maersk Update 26 (22 Apr)", "Inchcape Shipping Middle East Advisory"]
+        },
+        {
+          "bold_heading": "Standing Restrictions",
+          "text": "Ministerial Resolution 31/2026 (ban on drone sale, trade, and operation) remains in force. No new school or event closures reported. Senate investigation into the 1 March Shuaiba Port drone strike (Pentagon response deadline 11 May) ongoing — relevant for institutions with staff near military-adjacent port infrastructure.",
+          "sources": ["Kuwait government records", "CBS News 27 Apr 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "War Powers Act 60-Day Clock Hits Today; Deadline May 1",
+          "text": "The 60-day mark under the War Powers Resolution fell on 29 April (Trump notified Congress 2 March); formal deadline is Thursday 1 May. No AUMF has been filed; Democrats are exploring a lawsuit. Trump's response — executive authority assertion, 30-day extension, or surprise AUMF — is the highest-priority structural variable for Gulf stability this week.",
+          "sources": ["Military.com 28 Apr", "Al Jazeera 28 Apr", "Time 28 Apr", "CNN 25 Apr", "Gulf News 2026"]
+        },
+        {
+          "bold_heading": "UAE Quits OPEC — OPEC Structurally Weakened",
+          "text": "UAE's withdrawal (effective 1 May) removes OPEC's third-largest producer and primary spare capacity holder. Near-term market impact is muted while Hormuz remains closed; post-Hormuz reopening, UAE unconstrained production toward 5 mb/d target will exert downward price pressure. Update medium-term energy scenario models.",
+          "sources": ["Al Jazeera 28 Apr", "CNBC 28 Apr", "Al-Monitor 28 Apr", "Motley Fool 28 Apr 2026"]
+        },
+        {
+          "bold_heading": "Iran–US Stalemate Deepens; 'Act of War' Language Emerges",
+          "text": "Iran's Hormuz-for-ceasefire proposal remains rejected; Brent hit $111.57 Tuesday. Iran's Supreme National Security Council characterised the continued U.S. naval blockade as 'an act of war,' heightening rhetorical escalation risk even as the kinetic ceasefire formally holds.",
+          "sources": ["Al Jazeera 28 Apr", "NPR 28 Apr", "Foreign Policy 27 Apr", "CNBC 27 Apr 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Oil Threshold Watch — Brent $111.57, $112 Intraday",
+          "text": "Brent crossed $111 Tuesday with intraday reports above $112. A sustained close above $112 warrants review of energy-linked credit exposures and Gulf energy sector counterparty credit. The $115 boundary for acute KWD/USD peg stress remains a tail risk but the trajectory warrants monitoring.",
+          "sources": ["Trading Economics 29 Apr", "Fortune 28 Apr", "Angle360 29 Apr 2026"]
+        },
+        {
+          "bold_heading": "Binary Risk Event — War Powers Act May 1 Deadline",
+          "text": "Trump must respond to the War Powers deadline by Thursday. Each of three paths (executive assertion, 30-day extension, AUMF request) carries distinct volatility implications for oil, USD, and regional equities. Monitor U.S. Congressional and White House communications through 1 May.",
+          "sources": ["Military.com 28 Apr", "Al Jazeera 24 Apr", "CNN 25 Apr", "Time 28 Apr 2026"]
+        },
+        {
+          "bold_heading": "UAE OPEC Exit — Update Energy Scenario Models",
+          "text": "Post-Hormuz reopening scenario now involves UAE unconstrained by OPEC quotas and targeting 5 mb/d. Update medium-term (3–6 month) energy credit and commodity models to account for structurally weaker OPEC pricing power and UAE production flexibility.",
+          "sources": ["CNBC 28 Apr", "Al-Monitor 28 Apr", "NPR 28 Apr 2026"]
+        },
+        {
+          "bold_heading": "KWI Phase 2 — Travel Policy Update",
+          "text": "~40 flights/day now operate from T4/T5 (09:00–16:00). Update institutional travel policy. Retain rapid-reclosure trigger in BCM plans. Brief Kuwait-based staff on 1 May routine siren test at 10:00 local (drill only).",
+          "sources": ["Wego Travel Blog", "Aerotime.aero 26 Apr 2026"]
+        },
+        {
+          "bold_heading": "Cyber — Elevated Retaliation Window Day 2; Regulators Formally Warning",
+          "text": "The 7–14 day post-rejection elevated cyber retaliation window (commenced 28 Apr) is in its second day. Iran's 'act of war' rhetoric is a credible escalation trigger. Bank regulators have formally warned of increased Iran-linked cyber risk to financial institutions targeting SWIFT, correspondent banking, and payment platforms.",
+          "sources": ["Banking Dive 2026", "SOCRadar Apr 2026", "SISA Blog 2026", "Unit 42 17 Apr 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "UAE to Leave OPEC on May 1",
+          "author": "Staff",
+          "publication": "Al-Monitor",
+          "pub_date": "2026-04-28",
+          "access": "Subscription (abstract free)",
+          "summary": "The UAE's formal OPEC exit, driven by production quota friction and economic damage from Iranian strikes and Hormuz closure, strips the cartel of its primary swing producer and spare capacity holder. The move structurally reconfigures the post-war energy market even though near-term impact is muted while Hormuz remains closed.",
+          "relevance": "Directly reshapes scenario modelling for energy-linked credit and commodity exposures in any post-Hormuz normalisation; treasury and risk teams should ingest now.",
+          "link": "https://www.al-monitor.com/originals/2026/04/uae-leave-opec-may-1"
+        },
+        {
+          "title": "After 60 Days of War in Iran, Does US Congress Want a Say?",
+          "author": "Al Jazeera English",
+          "publication": "Al Jazeera",
+          "pub_date": "2026-04-28",
+          "access": "Open",
+          "summary": "Analysis of the congressional War Powers debate as the 60-day mark hits: Democrats blocked five times, Republicans divided, and the Trump administration preparing to assert constitutional authority to continue operations unilaterally; the piece maps each legislative and legal pathway and their implications for Gulf stability. The absence of an AUMF leaves the legal architecture for continued US military operations contested, creating unpredictable precedent for US force posture in the region.",
+          "relevance": "The May 1 War Powers outcome is the single most important structural risk variable this week; provides analytical framework for scenario planning across Sections 4 and 5.",
+          "link": "https://www.aljazeera.com/news/2026/4/28/after-60-days-of-war-in-iran-does-us-congress-want-a-say"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "Standing Advisory — MuddyWater (Mango Sandstorm) Dindoor/Rust Backdoor — PRIORITY ELEVATED",
+          "text": "Iranian APT MuddyWater deployed Rust-based implant 'Dindoor' against a U.S. bank, airport, and defence-adjacent targets (March 2026); dormant access in Gulf financial institutions sharing US IT vendors or correspondent banking relationships is assessed as probable. Post-rejection elevated window (commenced 28 Apr) and Iranian 'act of war' rhetoric are credible triggers for dormant implant activation.",
+          "cve_ids": [],
+          "threat_actor": "MuddyWater / Mango Sandstorm (MOIS)",
+          "recommended_action": "Escalate threat hunt priority for anomalous Rust/Python process execution and MuddyWater TTPs (MITRE ATT&CK G0069); review EDR telemetry for BugSleep/StealthCache/Dindoor indicators; brief IR team on elevated posture.",
+          "sources": ["The Hacker News Mar 2026", "Security.com", "Unit 42 17 Apr 2026"],
+          "url": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html"
+        },
+        {
+          "bold_heading": "Standing Advisory — CISA AA26-097A: Iranian-Affiliated PLC/OT Exploitation (Rockwell Automation)",
+          "text": "CL-STA-1128 (overlapping with Cyber Av3ngers/Storm-0784) continues targeting internet-exposed Rockwell Automation PLCs across Gulf and U.S. critical infrastructure. Advisory remains active (issued 7 April). Elevated operational tempo post-rejection maintains urgency; no new variants reported in the coverage window.",
+          "cve_ids": [],
+          "threat_actor": "CL-STA-1128 (Iranian state-linked, overlapping Cyber Av3ngers/Storm-0784)",
+          "recommended_action": "Confirm all internet-facing OT/SCADA assets (building management, UPS, data centre controls) are network-segmented and patched; treat as urgent given elevated retaliation window.",
+          "sources": ["CISA AA26-097A 7 Apr 2026", "Unit 42 17 Apr 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Bank Regulators Formally Warn of Iran Cyber Risk to Financial Sector",
+          "text": "Banking Dive reported that U.S. and Gulf bank regulators have formally issued warnings of increased Iran-linked cyber risk to financial institutions, citing elevated threat from Iranian APTs and affiliated hacktivists targeting SWIFT messaging infrastructure, correspondent banking links, and payment platforms. GCC institutions with US correspondent relationships or high-visibility payment platforms are explicitly named as elevated-risk targets.",
+          "threat_actor": "Iranian APT ecosystem + 70+ affiliated hacktivist groups",
+          "assessed_likelihood": "High",
+          "sources": ["Banking Dive 2026", "FINRA Cybersecurity Alert 2026"],
+          "url": "https://www.bankingdive.com/news/bank-cyber-risk-iran-war-regulators-cybersecurity/814564/"
+        },
+        {
+          "bold_heading": "IRGC Threatens U.S. Tech Firms; Gulf Spillover Risk Assessed",
+          "text": "Iran's Revolutionary Guard Corps threatened to target major U.S. technology companies (Apple, Google, Meta, Microsoft, NVIDIA) in retaliation for U.S. military operations (Time, 1 April). No confirmed successful attacks against named firms through 29 April. Gulf financial institutions relying on these platforms for cloud infrastructure, SaaS, or payment processing face a credible spillover scenario if IRGC cyber operations materialise.",
+          "threat_actor": "IRGC Cyber Command",
+          "assessed_likelihood": "Moderate",
+          "sources": ["Time 1 Apr 2026", "Dinsmore & Shohl 2026"],
+          "url": "https://time.com/article/2026/04/01/iran-revolutionary-guard-corps-tech-apple-google-meta-microsoft-nvidia/"
+        },
+        {
+          "bold_heading": "SOCRadar: 1,583+ Verified Incidents; Financial Services #2 Target; New Wave Anticipated",
+          "text": "SOCRadar tracked 1,583+ verified cyber incidents since war onset (as of 6 April); financial services is the second-most globally targeted sector. DDoS claims logged against GCC financial brands and Gulf government ministry portals. With Iran's Hormuz proposal rejected and blockade labelled 'act of war,' a new campaign wave targeting GCC financial brands is anticipated within the current 7–14 day elevated window.",
+          "threat_actor": "Iranian APT cluster + hacktivist coalition (70+ groups)",
+          "assessed_likelihood": "High",
+          "sources": ["SOCRadar Apr 2026", "SISA Blog 2026"],
+          "url": "https://socradar.io/blog/pro-iran-cyberattacks-financial-services-144/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "War Powers Act Deadline — Trump's Formal Response (by 1 May)",
+          "why_it_matters": "Trump's chosen legal response determines whether U.S. military operations in the Gulf have a defined legal architecture going forward; all three paths carry distinct market and escalation implications for Gulf stability.",
+          "related_section": "Section 4 (Regional Context), Section 5 (Risk Signal)"
+        },
+        {
+          "text": "UAE OPEC Withdrawal Takes Effect (1 May) — Oil Market Opening Watch",
+          "why_it_matters": "A structurally weaker OPEC combined with War Powers uncertainty creates compounded oil price volatility; the $112–115 Brent band remains the threshold for activating counterparty credit review and KWD/USD peg stress protocols.",
+          "related_section": "Section 2 (Targets & Incidents), Section 5 (Risk Signal)"
+        },
+        {
+          "text": "Monthly Civil Defense Siren Test — 1 May, 10:00 Local",
+          "why_it_matters": "With elevated conflict anxiety, staff may mistake the routine monthly test for a real alert; brief Kuwait-based personnel in advance to prevent unnecessary disruptions or evacuation triggers.",
+          "related_section": "Section 1 (Alerts & Sirens), Section 3 (Kuwait Local)"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 2, "confidence": "High", "note": "U.S. Embassy and Kuwait MOI both confirmed no alerts" },
+    { "section": "2 — Targets & Incidents", "source_count": 4, "confidence": "High", "note": "Al Jazeera, CBS News, CNBC, Washington Post corroborate Hormuz closure and UAE OPEC exit" },
+    { "section": "3 — Kuwait Local", "source_count": 4, "confidence": "High", "note": "U.S. Embassy, GAC, Maersk, Wego/Aerotime corroborate local situation" },
+    { "section": "4 — Regional Context", "source_count": 5, "confidence": "High", "note": "Military.com, Al Jazeera, Time, CNN, Gulf News corroborate War Powers and regional dynamics" },
+    { "section": "5 — Risk Signal", "source_count": 4, "confidence": "Medium", "note": "Intraday Brent $112 claim corroborated but not yet an official close; cyber items carry forward from prior advisories" },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "Medium", "note": "No new advisories published in the specific 24h window; CISA AA26-097A and Unit 42 standing advisories carried forward" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "Medium", "note": "Banking Dive regulatory warning is new; SOCRadar and SISA data as of 6 April carried forward" }
+  ],
+  "footer": "Report #50 compiled 2026-04-29 at 07:30 UTC+3."
+}
