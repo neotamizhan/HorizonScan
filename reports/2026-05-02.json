@@ -1,0 +1,272 @@
+{
+  "date": "2026-05-02",
+  "headline": "02 May 2026",
+  "subtitle": "Ceasefire Holds — Iran Peace Proposal Delivered; Hormuz Structurally Closed; UAE Exits OPEC",
+  "report_number": "53",
+  "coverage": "01 May 2026 07:00 UTC+3 – 02 May 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-05-02",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "0", "previous": "0", "delta": "0", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "108.94", "previous": "110.50", "delta": "-1.56", "trend_7d": "↓" },
+      { "metric": "WTI crude ($/bbl)", "today": "101.69", "previous": "104.19", "delta": "-2.50", "trend_7d": "↓" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~0", "previous": "~0", "delta": "No change", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "51", "today_label": "Moderate", "previous": "51", "previous_label": "Moderate", "delta": "0", "trend_7d": "→" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "No Alerts",
+          "text": "No confirmed civil defense alerts, air raid sirens, shelter-in-place orders, or emergency civil broadcasts were issued in Kuwait in the past 24 hours. The ceasefire (extended from April 21) remains nominally in place. No Kuwait MOI threat activations detected in the coverage window.",
+          "sources": ["Kuwait MOI standing monitoring", "Kuwait Times", "KUNA"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "No New Strikes on Kuwait",
+          "text": "No confirmed new missile, drone, or kinetic strikes on Kuwait territory in the past 24 hours. The extended ceasefire remained in effect across the coverage window; no Kuwait MOI or General Staff announcement of new air defense engagements was identified.",
+          "sources": ["Kuwait MOI", "KUNA", "Gulf News"]
+        },
+        {
+          "bold_heading": "Diplomatic Incident — Iran-US Vessel Standoff Ongoing",
+          "text": "The US naval blockade of Iranian ports remains active. No new vessel seizures or confrontations in the Gulf of Oman reported in the past 24 hours. The Touska seizure (approx. April 20) remains the most recent confirmed major incident.",
+          "sources": ["CNBC, April 20, 2026"]
+        },
+        {
+          "bold_heading": "Rare Hormuz Transits — Not Operationally Significant",
+          "text": "An isolated tanker (Idemitsu Maru) completed a Hormuz transit in late April via Iran-designated northern route past Larak Island. No resumption of commercial traffic volume reported.",
+          "sources": ["World Oil, April 28, 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "KWI Airport — T4 Only, Restricted Hours",
+          "text": "Kuwait International Airport operating T4 terminal, 09:00–16:00 local only. Kuwait Airways running 17-route network; routes to Dubai, Abu Dhabi, Doha, Baghdad, Tehran, and most Asian/European routes remain suspended. Emirates operating 2x daily DXB-KWI rotations. Some routes (Paris CDG, Ahmedabad) temporarily operating via Dammam.",
+          "sources": ["Wego Travel Blog", "Kuwait Airways", "connectingtravel.com"]
+        },
+        {
+          "bold_heading": "Supply Chain — Saudi Land Route Primary",
+          "text": "Kuwait's primary supply chain is operating via the Kingdom of Saudi Arabia land bridge, with containers transiting via Jeddah, Dammam, and truck routes. No new border closure or checkpoint disruption reported. Iraq border status unchanged.",
+          "sources": ["Kuwait Mart Company analysis", "GAC operational updates"]
+        },
+        {
+          "bold_heading": "Power Grid — Rolling Maintenance Cuts Continue",
+          "text": "Ministry of Electricity and Water scheduled maintenance outages ongoing. Grid recovering from March–April strike damage to multiple generation facilities and 7 overhead lines downed by interception debris. No emergency outages reported in past 24 hours. Summer peak load risk building (May record of 16.58GW flagged).",
+          "sources": ["Gulf Business", "AA.com.tr", "MEES"]
+        },
+        {
+          "bold_heading": "Government Services — Budget Deficit Context",
+          "text": "No new school closures, event cancellations, or emergency service disruptions announced. Draft FY 2026-27 state budget notes projected deficit of KD 9.8 billion (~USD 31.9 billion), reflecting war-related revenue and expenditure pressures.",
+          "sources": ["KUNA/Zawya, late April 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "Ceasefire nominally holding but fragile: Iran submitted an updated peace proposal to Pakistan mediators on May 1 prioritising Hormuz reopening and blockade lifting while deferring nuclear talks; Trump publicly expressed dissatisfaction. No breakthrough imminent.",
+          "sources": ["CNBC May 1, 2026", "CNN May 1, 2026", "The Star May 1, 2026"]
+        },
+        {
+          "text": "UAE formally left OPEC effective May 1, 2026 — the largest oil producer to leave the cartel — deepening Saudi-UAE competition for market share and further complicating coordinated Gulf energy policy. Kuwait remains an OPEC member.",
+          "sources": ["Al Jazeera April 28, 2026", "Washington Post April 28, 2026", "Chatham House May 2026"]
+        },
+        {
+          "text": "Hormuz remains structurally closed to commercial traffic despite Iran's April 17 declaration: US naval blockade and IRGC route restrictions coexist; approximately 400+ tankers anchored outside the Gulf. Reopening dependent on negotiated settlement.",
+          "sources": ["Al Jazeera April 10", "CNN April 29", "World Oil April 28, 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "text": "Oil price volatility — diplomatic noise vs. structural risk: Brent's ~$1.56 decline and WTI's ~$2.50 decline reflect diplomatic news (Iran's peace proposal), not structural supply change. Treat the $100–115 band as a holding range; ceasefire collapse would push Brent back toward wartime highs ($126/bbl).",
+          "sources": ["CNBC May 1", "Trading Economics", "Fortune May 1, 2026"]
+        },
+        {
+          "text": "Kuwait oil export revenues under pressure: With Hormuz effectively closed, crude export revenue is significantly impaired. Monitor sovereign credit signals and Kuwait's KD 9.8B deficit projection as a liquidity context indicator.",
+          "sources": ["KUNA/Zawya", "MEES analysis"]
+        },
+        {
+          "text": "UAE OPEC exit — GCC energy governance shift: Institutions with GCC sovereign wealth fund exposures or OPEC-price-dependent credit analysis should reassess scenarios under post-OPEC Gulf energy market dynamics.",
+          "sources": ["Chatham House May 2026", "Al Jazeera April 28, 2026"]
+        },
+        {
+          "text": "Staff travel continuity: KWI limited to 09:00–16:00 T4 operations, 17 routes only. Dammam (KSA) remains an alternative hub. Business continuity plans should account for possible further restrictions if ceasefire deteriorates.",
+          "sources": ["Kuwait Airways", "Wego Travel Blog"]
+        },
+        {
+          "text": "Cyber threat posture — elevated, persistent: Iranian-affiliated actors targeting GCC financial institutions with ~600,000 daily attack attempts across UAE/Gulf. Shift from DDoS to persistent access and data exfiltration. SWIFT/payment system anomaly monitoring should remain heightened.",
+          "sources": ["CISA AA26-097A April 7", "FINRA advisory", "Symantec/Broadcom research", "WION News"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "How the Iran war is reshaping Saudi strategy: From Hormuz and Houthis to the UAE's OPEC exit",
+          "author": "Chatham House Research Staff",
+          "publication": "Chatham House",
+          "pub_date": "2026-05-01",
+          "access": "Open",
+          "summary": "Analyses how the Iran war has fractured GCC solidarity (UAE-Saudi tension, UAE OPEC exit) and accelerated Saudi strategic recalculation on energy, security, and regional leadership. Examines the Hormuz closure as the central lever determining GCC economic and political trajectories.",
+          "relevance": "Directly relevant — UAE OPEC exit and Saudi recalibration will affect correspondent bank relationships, sovereign exposure valuations, and GCC-wide credit risk assessments.",
+          "link": "https://www.chathamhouse.org/2026/05/how-iran-war-reshaping-saudi-strategy-hormuz-and-houthis-uaes-opec-exit"
+        },
+        {
+          "title": "Could the US-Iran war become a protracted 'frozen' conflict?",
+          "author": "Al Jazeera analysis desk",
+          "publication": "Al Jazeera",
+          "pub_date": "2026-04-30",
+          "access": "Open",
+          "summary": "Explores scenarios in which the US-Iran standoff stabilises into a 'frozen conflict' with the Hormuz blockade becoming semi-permanent economic warfare. Examines precedents from North Korea and Donbas and their implications for oil markets and regional governance.",
+          "relevance": "High-priority planning input — a protracted frozen conflict scenario implies indefinite Hormuz closure risk, sustained oil price elevation, and ongoing cyber and kinetic threat exposure for Gulf financial institutions.",
+          "link": "https://www.aljazeera.com/news/2026/4/30/could-the-us-iran-war-become-a-protracted-frozen-conflict"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "CISA/FBI/NSA Joint Advisory AA26-097A — Iranian-Affiliated Actors Exploiting PLCs",
+          "text": "Iranian-affiliated APT actors (CyberAv3ngers/IRGC-CEC) actively exploiting internet-facing PLCs (Rockwell Automation/Allen-Bradley) across critical infrastructure including energy, utilities, and government facilities. Attacks cause operational disruption, false dashboard displays, and financial losses. Activity confirmed since at least March 2026.",
+          "cve_ids": [],
+          "threat_actor": "CyberAv3ngers / Shahid Kaveh Group (IRGC-CEC)",
+          "recommended_action": "Audit all OT/ICS internet-facing devices immediately; enforce IT-OT network segmentation; review all PLC firmware and configuration files.",
+          "sources": ["CISA Advisory AA26-097A, April 7, 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "FINRA Advisory — Heightened Iranian Cyber Threats to Financial Services",
+          "text": "FINRA advisory warning financial institutions of elevated Iranian threat actor targeting, with key indicators including anomalous SWIFT/wire transaction patterns, bulk password resets, unusual banking portal login patterns, and combined DDoS/credential-stuffing activity.",
+          "cve_ids": [],
+          "threat_actor": "MOIS-linked groups: Handala, DieNet, Seedworm",
+          "recommended_action": "Elevate SOC monitoring for SWIFT anomalies; enforce MFA on all banking portal access; review payment system access logs daily.",
+          "sources": ["FINRA Cybersecurity Alert, April 2026"],
+          "url": "https://www.finra.org/rules-guidance/guidance/cybersecurity-alert-heightened-threats-iranian-cyber-actors"
+        },
+        {
+          "bold_heading": "Seedworm/MuddyWater — Confirmed Persistent Access on Banking Networks",
+          "text": "Symantec/Broadcom confirmed Seedworm (MOIS-linked) established persistent backdoor access on banking, airport, and defense supply chain networks from February 2026, using Backblaze/Wasabi cloud storage for malware delivery and Rclone for exfiltration. Activity is ongoing. Represents pre-positioned access enabling destructive attacks or ransomware on short notice.",
+          "cve_ids": [],
+          "threat_actor": "Seedworm / MuddyWater (MOIS)",
+          "recommended_action": "Conduct threat hunt for Rclone, Backblaze, and Wasabi usage on banking network endpoints; review cloud sync application allow-lists immediately.",
+          "sources": ["Symantec/Broadcom Threat Intelligence; security.com, April 2026"],
+          "url": "https://www.security.com/threat-intelligence/iran-cyber-threat-activity-us"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Iran-Linked Hacktivist Umbrella — Shift to Persistent Access and Data Exfiltration",
+          "text": "70+ Iran-aligned hacktivist groups (Handala, DieNet, Ghost Princess, and MOIS-proxied operators) have shifted from disruptive DDoS to breach claims, persistent access narratives, and financial exploitation. GCC financial sector assessed as a primary target; approximately 600,000 daily attack attempts across UAE/Gulf.",
+          "threat_actor": "Multiple Iran-affiliated and Iran-proxied groups including Handala, DieNet, Ghost Princess",
+          "assessed_likelihood": "High",
+          "sources": ["AGBI March 2026", "MIT Sloan Management Review ME", "SOCRadar", "The National April 10, 2026"],
+          "url": "https://www.agbi.com/cybersecurity/2026/03/gulf-systems-targeted-by-wave-of-war-linked-cyberattacks/"
+        },
+        {
+          "bold_heading": "IRGC/MOIS Long-Dwell Espionage Posture in GCC Financial Sector",
+          "text": "Iranian state actors assessed to be maintaining long-dwell pre-positioned access within GCC financial institution IT environments. Strategic intent appears to be intelligence collection and preparation for disruptive action contingent on conflict escalation or negotiation failure. A 'frozen conflict' scenario would extend dwell time indefinitely.",
+          "threat_actor": "MOIS / IRGC cyber elements",
+          "assessed_likelihood": "Moderate",
+          "sources": ["Centripetal AI threat research", "Field Effect Seedworm analysis", "Trellix Iranian Cyber Capability 2026"],
+          "url": "https://www.centripetal.ai/threat-research/pre-positioned-access-cyber-threat-iran-conflict"
+        },
+        {
+          "bold_heading": "CyberAv3ngers/IRGC-CEC — OT Targeting Risk to Kuwait Recovering Infrastructure",
+          "text": "April 7 CISA advisory documents ICS/OT targeting across US partner-nation critical infrastructure. Kuwait's recovering power and desalination infrastructure represents an elevated OT attack surface; internet-facing PLCs in the grid remain at heightened risk as maintenance crews restore damaged systems.",
+          "threat_actor": "CyberAv3ngers / IRGC Cyber Electronic Command",
+          "assessed_likelihood": "Moderate",
+          "sources": ["CISA AA26-097A", "CSIS analysis", "Crowell & Moring advisory April 2026"],
+          "url": "https://www.cisa.gov/topics/cyber-threats-and-advisories/advanced-persistent-threats/iran"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "US response to Iran's May 1 peace proposal (submitted to Pakistan mediators)",
+          "why_it_matters": "Trump's rejection or acceptance will determine ceasefire trajectory; a rejection could trigger escalatory rhetoric or renewed kinetic/cyber pressure on Gulf states.",
+          "related_section": "Sections 1, 2, 4"
+        },
+        {
+          "text": "Hormuz tanker traffic indicators — any credible report of resumed commercial transit or IRGC vessel harassment",
+          "why_it_matters": "Resumed commercial transits signal deal progress and would materially affect oil prices and Kuwait supply chain planning; IRGC harassment signals ceasefire deterioration.",
+          "related_section": "Sections 2, 3, 5"
+        },
+        {
+          "text": "Kuwait power grid stability — MEW announcements on scheduled or emergency outages",
+          "why_it_matters": "Summer peak demand approaching; residual OT cyber compromise or maintenance failures could trigger rolling blackouts with operational continuity implications for financial institutions.",
+          "related_section": "Sections 3, 7A"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 2, "confidence": "Medium", "note": "No positive alert issued; absence-of-evidence confidence inherently limited to available monitoring sources." },
+    { "section": "2 — Targets & Incidents", "source_count": 3, "confidence": "Medium", "note": "Ceasefire period; no new attack confirmation. Historical incidents from CNBC and World Oil." },
+    { "section": "3 — Kuwait Local", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "4 — Regional Context", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "5 — Risk Signal", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "High", "note": null },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "Medium", "note": "Likelihood assessments are analyst judgements; strategic cyber activity is inherently difficult to confirm independently." }
+  ],
+  "footer": "Report #53 compiled 2026-05-02 at 07:30 UTC+3."
+}
