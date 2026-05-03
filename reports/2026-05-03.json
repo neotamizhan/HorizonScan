@@ -1,0 +1,285 @@
+{
+  "date": "2026-05-03",
+  "headline": "3 May 2026",
+  "subtitle": "Ceasefire Fragile as Trump Warns Strikes Could Resume; Jazeera T5 Restored",
+  "report_number": "54",
+  "coverage": "2 May 2026 07:00 UTC+3 – 3 May 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-05-03",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "0", "previous": "0", "delta": "0", "trend_7d": "→" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "108.17", "previous": "108.94", "delta": "-0.77", "trend_7d": "↓" },
+      { "metric": "WTI crude ($/bbl)", "today": "101.50", "previous": "101.69", "delta": "-0.19", "trend_7d": "↓" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~0", "previous": "~0", "delta": "No change", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "KWI airport status", "today": "Partial (T4+T5)", "previous": "Partial (T4 only)", "delta": "Changed ↑", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "49", "today_label": "Good", "previous": "51", "previous_label": "Moderate", "delta": "-2", "trend_7d": "→" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "No civil defense alerts, air raid sirens, shelter-in-place orders, or emergency broadcasts were issued in Kuwait in the past 24 hours. The April 21 ceasefire extension remains nominally in place. No Kuwait MOI threat activations detected during the coverage window. The next scheduled monthly siren test is June 2026.",
+          "sources": ["Kuwait MOI standing monitoring", "Kuwait Times", "KUNA"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "No confirmed missile, drone, or kinetic strikes on Kuwait territory in the past 24 hours. The ceasefire remains in effect; no Kuwait MOI or General Staff announcement of new air defense engagements was identified during the coverage window.",
+          "sources": ["Kuwait MOI monitoring", "KUNA", "Al Jazeera live blog May 2–3 2026"]
+        },
+        {
+          "bold_heading": "US-Iran diplomatic standoff — resumption of hostilities risk elevated",
+          "text": "Trump stated 3 May that he is reviewing Iran's 14-point counterproposal but wrote on social media he 'can't imagine' it is acceptable; warned strikes could resume 'if they misbehave.' The IRGC separately warned that conflict resumption is 'possible' and said Iranian forces are 'fully prepared.' No strike order has been issued.",
+          "sources": ["Al Jazeera May 3 2026", "PBS NewsHour May 3 2026", "ABC News May 3 2026", "Times of Israel May 3 2026"]
+        },
+        {
+          "bold_heading": "Hormuz — no change in closure",
+          "text": "Commercial shipping remains at ~5% of pre-war volume. Approximately 2,000 vessels stranded in the Gulf. No new vessel seizures or IRGC naval incidents reported in the past 24 hours. US naval blockade of Iranian ports continues.",
+          "sources": ["Al Jazeera", "CNN", "2026 Strait of Hormuz crisis — Wikipedia summary"]
+        },
+        {
+          "bold_heading": "Israel-Lebanon operations ongoing",
+          "text": "Israeli forces continued strikes on southern Lebanon in the coverage window; IRGC warned of a 'regretful response' if Lebanon attacks continue. This represents a ceasefire-adjacent risk that could broaden the conflict and implicate Gulf states. [SINGLE SOURCE for Lebanon-IRGC warning]",
+          "sources": ["Al Jazeera live blog May 2 2026", "CBS News live updates May 3 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "KWI airport — significant improvement, T5 restored",
+          "text": "Jazeera Airways resumed full operations from Terminal 5 on 3 May 2026, ending its 57-day disruption; 27 destinations operating daily 06:00–18:00. Kuwait Airways continues T4 operations (09:00–16:00 local, 17 routes). Flights to nine Indian cities remain suspended until 15 May 2026. During the closure, ~200,000 passengers were transported via 'Project Barakah' Saudi Arabia-based shuttle operations.",
+          "sources": ["Travel and Tour World May 3 2026", "Arabian Business", "Zawya", "Kuwait Times", "Times Kuwait"]
+        },
+        {
+          "bold_heading": "Supply chain — Saudi land route stable",
+          "text": "Kuwait's primary supply chain continues to operate via the Saudi land bridge (Jeddah, Dammam truck routes). No new border closure or checkpoint disruption reported at Saudi or Iraq crossings in the coverage window.",
+          "sources": ["Maersk Operational Update 26 April 22", "Global Cold Chain Alliance", "Kuwait border monitoring"]
+        },
+        {
+          "bold_heading": "Power grid — 56 new contracts planned, summer pressure building",
+          "text": "Kuwait's Ministry of Electricity, Water and Renewable Energy has included 56 contracts in its FY2026-27 plan to enhance grid capacity and reliability. GCC interconnection link nearing completion for import flexibility before summer peak. No emergency outages reported in the past 24 hours; maintenance cuts continue on schedule. Summer peak risk (record 16.58GW) is a live planning concern.",
+          "sources": ["Times Kuwait", "Gulf Business", "MEES"]
+        },
+        {
+          "bold_heading": "Government and civil services",
+          "text": "No new school closures, event cancellations, or emergency service disruptions reported. Budget situation unchanged (KD 9.8B projected deficit).",
+          "sources": ["KUNA/Zawya — no new issuances in coverage window"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "Ceasefire fragile — escalation rhetoric from both sides: Trump's public warning that strikes could resume and the IRGC's parallel statement that it is 'fully prepared' represent the highest rhetorical escalation in two weeks. The ceasefire has not formally collapsed, but the diplomatic window is narrowing; Iran's 14-point proposal remains under US review with no indication of acceptance.",
+          "sources": ["Al Jazeera May 3 2026", "PBS May 3 2026", "ABC News May 3 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Hormuz structurally closed — no diplomatic path to near-term reopening: Iran's 14-point proposal includes a 'new mechanism governing the Strait of Hormuz' and lifting the US blockade as preconditions, while the US insists on nuclear guarantees. ~2,000 vessels stranded; global oil and LNG disruption at historically unprecedented levels per IEA.",
+          "sources": ["NPR May 2 2026", "CNN May 1 2026", "Al Jazeera April 28 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Gulf sovereign wealth funds shifting capital domestically: Saudi PIF announced cuts to international investment from 30% to 20%; broader GCC SWFs directing more capital to domestic recovery. This will affect global capital flows to Western markets and has direct implications for GCC-linked counterparty and liquidity risk at regional financial institutions.",
+          "sources": ["CFR / Rebecca Patterson May 1 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "Escalation rhetoric signals elevated tail risk on ceasefire collapse: Trump's public statement that strikes 'could' resume and IRGC's readiness declaration are the clearest signals in two weeks of a potential ceasefire breakdown. If US-Iran talks fail definitively, rapid escalation would likely push Brent back toward $126/bbl and could trigger renewed kinetic activity in the Gulf. Contingency plans should be on standby.",
+          "sources": ["Al Jazeera May 3 2026", "PBS May 3 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Oil price — holding band, not structural calm: Brent ~$108.17, WTI ~$101.50. Weekend session; no material new signal. Price decline from recent highs reflects ceasefire and diplomatic news only — not a structural supply change. Treasury and markets teams should continue treating the $100–115 band as the working range with upside scenario at $126+ if talks fail.",
+          "sources": ["Trading Economics", "Fortune May 1 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "KWI airport partial restoration improves staff mobility options: Jazeera T5 resumption (27 destinations) meaningfully expands travel options for staff and executives. BCPs that assumed T4-only access should be updated. Restrictions remain: Indian routes suspended until May 15; check-in via Park & Fly facility required; full pre-war network not yet restored.",
+          "sources": ["Arabian Business", "Travel and Tour World", "Kuwait Times May 3 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Gulf SWF capital repatriation — counterparty and liquidity signal: Saudi PIF's announced shift from 30% to 20% international allocation signals a broader GCC trend toward domestic capital retention. Financial institutions with exposure to GCC sovereign investors or dependent on Gulf capital for USD liquidity should monitor SWF allocation announcements closely.",
+          "sources": ["CFR/Patterson May 1 2026", "Al Jazeera April 28 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Cyber threat posture — unchanged, elevated: Iranian-affiliated actors remain in persistent-access mode across GCC financial institutions. No new 24-hour-specific advisory issued, but CISA AA26-097A and FINRA banking alerts remain fully active. SWIFT/payment anomaly monitoring, SOC vigilance, and endpoint threat hunting for Rclone/cloud sync abuse remain highest-priority defensive actions.",
+          "sources": ["CISA AA26-097A April 7 2026", "FINRA April 2026", "Symantec/Broadcom"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Disappearing Gulf Capital: The Iran War Risk Wall Street Isn't Watching",
+          "author": "Rebecca Patterson",
+          "publication": "Council on Foreign Relations",
+          "pub_date": "2026-05-01",
+          "access": "Open",
+          "summary": "Argues that the Iran war's most underappreciated financial risk is the supply of Gulf SWF capital to US tech firms and financial markets — with Saudi PIF cutting international allocation from 30% to 20% and broader GCC funds redirecting capital domestically, a major source of USD liquidity for Western markets is quietly shrinking. Quantifies the $119B in 2025 GCC SWF global investments now at risk of rerouting.",
+          "relevance": "Directly applicable — GCC SWF capital repatriation affects correspondent bank liquidity, USD availability for regional operations, and credit risk assessments of GCC sovereign counterparties.",
+          "link": "https://www.cfr.org/articles/disappearing-gulf-capital-the-iran-war-risk-wall-street-isnt-watching"
+        },
+        {
+          "title": "U.S.-Iran Peace Talks Hit an Impasse. What Comes Next?",
+          "author": "James M. Lindsay",
+          "publication": "Council on Foreign Relations",
+          "pub_date": "2026-04-30",
+          "access": "Open",
+          "summary": "Reviews the breakdown of the Islamabad peace talks and maps four scenarios for what follows — renewed US military strikes, negotiated settlement, frozen conflict, or Iranian regime collapse — assessing the probability and Gulf implications of each. Concludes a 'frozen conflict' is the most likely near-term outcome, with indefinite Hormuz closure as the baseline.",
+          "relevance": "Essential scenario-planning input — the 'frozen conflict' baseline directly informs working assumptions on Hormuz timeline, oil price range, and sustained cyber threat exposure for GCC financial institutions.",
+          "link": "https://www.cfr.org/articles/u-s-iran-peace-talks-hit-an-impasse-what-comes-next"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "[Standing — CISA AA26-097A] Iranian OT/ICS Exploitation of Internet-Facing PLCs",
+          "text": "CISA/FBI/NSA joint advisory remains active; CyberAv3ngers/IRGC-CEC continuing to exploit internet-facing PLCs (Rockwell Automation/Allen-Bradley) in critical infrastructure including energy and utilities. Kuwait's war-damaged power and desalination infrastructure undergoing repair with elevated OT attack surface. No new Kuwait-specific incident in past 24 hours, but advisory remains fully actionable.",
+          "cve_ids": [],
+          "threat_actor": "CyberAv3ngers / IRGC Cyber Electronic Command",
+          "recommended_action": "Verify all OT/ICS internet-facing device audits are complete; confirm IT-OT network segmentation is enforced on any recently restored grid assets.",
+          "sources": ["CISA Advisory AA26-097A April 7 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "[Standing — FINRA] Elevated Iranian Threat to SWIFT and Banking Portal Access",
+          "text": "FINRA cybersecurity alert (April 2026) remains actionable; anomalous SWIFT/wire transaction patterns, bulk password resets, and credential-stuffing combined with DDoS remain active TTPs. Escalation rhetoric from Trump and IRGC on May 3 increases the probability of retaliatory cyber action.",
+          "cve_ids": [],
+          "threat_actor": "MOIS-linked groups (Handala, DieNet, Seedworm)",
+          "recommended_action": "Maintain elevated SOC monitoring for SWIFT anomalies; enforce MFA on all banking portal access; review payment system access logs daily through the current negotiation window.",
+          "sources": ["FINRA Cybersecurity Alert April 2026"],
+          "url": "https://www.finra.org/rules-guidance/guidance/cybersecurity-alert-heightened-threats-iranian-cyber-actors"
+        },
+        {
+          "bold_heading": "[Standing — Symantec/Broadcom] Seedworm Persistent Backdoor on Banking Networks",
+          "text": "Seedworm (MOIS) confirmed backdoor access on banking, airport, and defense networks since February 2026 using cloud storage (Backblaze/Wasabi) for delivery and Rclone for exfiltration; campaign ongoing. Heightened ceasefire-collapse risk this week makes this pre-positioned access more immediately dangerous.",
+          "cve_ids": [],
+          "threat_actor": "Seedworm / MuddyWater (MOIS)",
+          "recommended_action": "Re-run threat hunt for Rclone, Backblaze, and Wasabi usage across banking network endpoints; verify cloud sync application allow-lists; escalate any unexplained outbound cloud storage activity to IR.",
+          "sources": ["Symantec/Broadcom Threat Intelligence April 2026"],
+          "url": "https://www.security.com/threat-intelligence/iran-cyber-threat-activity-us"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Iran-Linked Hacktivist Coalition — Shift to Data Exfiltration and Financial Exploitation Deepening",
+          "text": "The 70+ group Iran-aligned hacktivist umbrella (Handala, DieNet, Ghost Princess, MOIS-proxied operators) continues to shift from DDoS to persistent access, breach claims, and financial exploitation targeting GCC financial institutions, telecom, and government sectors. GCC-targeted attacks have surged ~8x from pre-war baseline; financial sector assessed as primary target.",
+          "threat_actor": "Multiple Iran-affiliated and Iran-proxied groups",
+          "assessed_likelihood": "High",
+          "sources": ["Gulf Business/StormWall March 2026", "AGBI March 2026", "SOCRadar", "The National April 10 2026"],
+          "url": "https://gulfbusiness.com/en/2026/tech/iran-linked-cyberattacks-middle-east-8x-surge/"
+        },
+        {
+          "bold_heading": "IRGC/MOIS Long-Dwell Pre-Positioned Access in GCC Financial Sector",
+          "text": "Iranian state actors assessed to be maintaining persistent pre-positioned access within GCC financial institution IT environments for intelligence collection and potential disruptive action, contingent on conflict trajectory. With 'frozen conflict' now the CFR baseline scenario, this dwell time may extend indefinitely.",
+          "threat_actor": "MOIS / IRGC cyber elements",
+          "assessed_likelihood": "Moderate-High",
+          "sources": ["Centripetal AI threat research", "Field Effect Seedworm analysis", "Trellix Iranian Cyber Capability 2026"],
+          "url": "https://www.centripetal.ai/threat-research/pre-positioned-access-cyber-threat-iran-conflict"
+        },
+        {
+          "bold_heading": "Payments Ecosystem Under Sustained Threat — SWIFT, Wire Transfer, and Settlement Platform Targeting",
+          "text": "Bank regulators and payment security specialists have flagged sustained elevated risk to SWIFT messaging systems, international wire transfers, interbank settlement platforms, and payment clearing networks. Attack vectors include combined DDoS, credential-stuffing, and wiper malware. Conflict rhetoric escalation on May 3 increases near-term likelihood of retaliatory cyber action against US-aligned financial targets.",
+          "threat_actor": "IRGC-CEC and MOIS-proxied groups",
+          "assessed_likelihood": "Moderate",
+          "sources": ["Banking Dive", "ABA Banking Journal", "SISA InfoSec Threat Advisory April 2026"],
+          "url": "https://www.sisainfosec.com/blogs/threat-advisory-elevated-cyber-risk-to-the-payments-ecosystem-amid-israel-us-iran-conflict-escalation/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "US formal response to Iran's 14-point proposal",
+          "why_it_matters": "Trump said on May 3 he is reviewing the proposal but considers it likely unacceptable; a formal rejection significantly raises the risk of renewed kinetic or cyber action against Gulf states.",
+          "related_section": "Section 1 (Alerts), Section 2 (Incidents), Section 4 (Regional Context), Section 7A (Cyber Tactical)"
+        },
+        {
+          "text": "Jazeera T5 operational stability — first day post-resumption",
+          "why_it_matters": "May 3 is Jazeera's first day back at T5; monitor for operational disruptions, security incidents, or ceasefire-related airspace closures that could force a reversal, affecting staff travel continuity.",
+          "related_section": "Section 3 (Kuwait Local), Section 5 (Risk Signal)"
+        },
+        {
+          "text": "Kuwait power grid — weekend/weekday transition into summer heat",
+          "why_it_matters": "As summer peak demand season begins, any OT/cyber disruption to recently restored grid assets or failure of the incoming GCC interconnection line could trigger rolling blackouts.",
+          "related_section": "Section 3 (Kuwait Local), Section 7A (Cyber Tactical)"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 2, "confidence": "Medium", "note": "No active alert; monitoring only" },
+    { "section": "2 — Targets & Incidents", "source_count": 4, "confidence": "High", "note": "Lebanon-IRGC warning is single source" },
+    { "section": "3 — Kuwait Local", "source_count": 5, "confidence": "High", "note": null },
+    { "section": "4 — Regional Context", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "5 — Risk Signal", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "High", "note": "All standing advisories; no new 24h advisory issued" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "Medium", "note": "Some sources are March-April vintage; no new May-specific strategic intel" }
+  ],
+  "footer": "Report #54 compiled 2026-05-03 at 07:30 UTC+3."
+}
