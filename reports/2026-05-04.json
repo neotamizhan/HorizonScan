@@ -1,0 +1,269 @@
+{
+  "date": "2026-05-04",
+  "headline": "04 May 2026",
+  "subtitle": "Project Freedom Day 1: ADNOC Tanker Struck, Two US Vessels Transit, Oil Surges",
+  "report_number": "55",
+  "coverage": "03 May 2026 07:00 UTC+3 – 04 May 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-05-04",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "0", "previous": "0", "delta": "0", "trend_7d": "→" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "115.01", "previous": "108.17", "delta": "+6.84", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "103.74", "previous": "101.50", "delta": "+2.24", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~2 (US escort)", "previous": "~0", "delta": "+2", "trend_7d": "→" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "KWI airport status", "today": "Partial (T4+T5)", "previous": "Partial (T4+T5)", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "51", "today_label": "Moderate", "previous": "49", "previous_label": "Good", "delta": "+2", "trend_7d": "→" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "text": "No air raid sirens, civil defense alerts, shelter-in-place orders, or emergency broadcasts were reported for Kuwait during the coverage window.",
+          "sources": ["Kuwait MOI monitoring", "KUNA", "Kuwait Times"]
+        },
+        {
+          "bold_heading": "Note",
+          "text": "Civil Defense conducts scheduled monthly siren tests; no unscheduled activations corroborated during this period.",
+          "sources": ["Kuwait Times"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "text": "No confirmed kinetic strikes on Kuwait territory (24h). Kuwait MOI and General Staff issued no new air defense engagement announcements. Ceasefire technically in effect.",
+          "sources": ["Kuwait MOI monitoring", "KUNA"]
+        },
+        {
+          "bold_heading": "ADNOC tanker 'Barakah' struck by Iranian drones — Strait of Hormuz, 04 May 2026",
+          "text": "Two Iranian drones struck the UAE state-owned ADNOC crude tanker Barakah as it attempted to transit the Strait of Hormuz under Project Freedom; vessel was unladen (no cargo); no injuries reported among crew. UAE MFA condemned the attack as 'a flagrant violation of UNSCR 2817' and called it 'acts of piracy by the IRGC.'",
+          "sources": ["UAE MFA statement", "The National", "Arabian Business", "Times of Israel", "Al Arabiya — 04 May 2026"]
+        },
+        {
+          "bold_heading": "Disputed warship incident — Strait of Hormuz, 04 May 2026 [SINGLE SOURCE — Iranian state media]",
+          "text": "Iran's IRGC-affiliated Fars News Agency claimed two Iranian missiles struck a US Navy frigate near Jask Island after it allegedly ignored Iranian warnings. CENTCOM flatly denied: 'No U.S. Navy ships have been struck.' Claim remains unverified and contradicted by authoritative US military statement.",
+          "sources": ["Fars News Agency (unverified)", "CENTCOM statement via Al Arabiya/CNN — 04 May 2026"]
+        },
+        {
+          "bold_heading": "Project Freedom — first convoy transit",
+          "text": "US CENTCOM confirmed two US-flagged merchant vessels successfully transited the Strait of Hormuz on 4 May as part of Operation Project Freedom, supported by guided-missile destroyers, 100+ aircraft, and 15,000 service members. Iran's IRGC disputed the claim, calling US statements 'baseless lies.'",
+          "sources": ["CENTCOM statement", "CNN", "PBS NewsHour", "Times of Israel — 04 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "text": "No new government advisory issued 4 May. Kuwait Cabinet's standing directive — adhere to Ministry of Defence/Interior guidance, avoid spreading rumours, do not photograph targeted sites — remains in effect.",
+          "sources": ["Kuwait Times", "Kuwait Cabinet statement"]
+        },
+        {
+          "bold_heading": "KWI airport — Partial (T4+T5)",
+          "text": "Kuwait Airways operating from T4 (09:00–16:00 daily, 17 international destinations); Jazeera Airways from T5 (06:00–18:00, 27 destinations). T1 closed for drone-strike damage repairs; T2 under construction (target: late 2026). No foreign carrier has announced a resumption date.",
+          "sources": ["Aerotime", "Travel Tourister", "Gulf News", "Wego — April–May 2026"]
+        },
+        {
+          "bold_heading": "Supply chain — land corridor stable but under pressure",
+          "text": "Saudi Arabia land bridge is Kuwait's primary import lifeline; Ministry of Commerce monitoring price caps and food export prohibitions remain in force. Border congestion causing 1–2 day delays in some corridors; no acute shortage reported.",
+          "sources": ["Kuwait Mart Co.", "DSV Middle East advisory", "Times Kuwait"]
+        },
+        {
+          "text": "No school closures, event cancellations, or port disruptions specific to 04 May reported.",
+          "sources": ["KUNA monitoring — no items found for coverage window"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "Project Freedom triggered fresh Iranian hostilities against GCC shipping",
+          "text": "Iran struck an ADNOC tanker with drones and disputed a US naval incident on Day 1 of the US convoy operation, signalling Tehran's intent to enforce the Hormuz blockade despite the ceasefire. Iran characterised Project Freedom as 'a ceasefire violation,' elevating the risk of conflict resumption.",
+          "sources": ["Al Jazeera", "CNN", "Gulf News — 04 May 2026"]
+        },
+        {
+          "bold_heading": "Iran-US nuclear talks stalled",
+          "text": "Trump publicly demanded 'complete dismantlement' of Iran's nuclear programme (4 May) — a position Iran has consistently rejected; Oman-hosted talks postponed from 3 May citing logistics; Iran's Foreign Ministry described contradictory US signals as 'unhelpful' but said it will engage with the US negotiating team's substantive positions.",
+          "sources": ["PBS NewsHour", "Axios", "Arms Control Association", "Iranian Foreign Ministry statement — 04 May 2026"]
+        },
+        {
+          "bold_heading": "GCC energy security under renewed stress",
+          "text": "The ADNOC attack on Day 1 of Project Freedom raises the prospect of sustained Iranian targeting of GCC-flagged vessels; Saudi Arabia and UAE are reassessing export routing. Brent at $115 reflects market re-pricing of renewed escalation risk.",
+          "sources": ["Fortune", "CNBC", "Chatham House — May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Oil price shock — operational FX and liquidity exposure",
+          "text": "Brent spiked +$6.84 to $115.01 in a single session driven by Project Freedom launch; further escalation scenarios (additional IRGC tanker attacks, US-Iran kinetic exchange) could push Brent toward $130+. Institutions with energy sector credit exposure or KWD/USD FX positions should review mark-to-market sensitivities.",
+          "sources": ["CNBC", "Fortune — 04 May 2026"]
+        },
+        {
+          "bold_heading": "Correspondent banking and payment continuity",
+          "text": "Project Freedom's launch and Iranian counter-actions create new escalation vectors. A confirmed US-Iran kinetic exchange could trigger rapid ceasefire collapse, disrupting SWIFT messaging routes through affected counterparties; test BCPs for Gulf settlement corridor degradation.",
+          "sources": ["CNN", "PBS NewsHour — risk assessment based on 04 May 2026 developments"]
+        },
+        {
+          "bold_heading": "Staff safety — evacuation planning",
+          "text": "KWI T4+T5 offer limited capacity; no foreign carriers operational. Any rapid deterioration (ceasefire breakdown, renewed Iranian strikes) would create significant evacuation bottleneck. Ensure warden lists are current and alternative land-route protocols (Saudi border, Iraq Abdali crossing) are documented.",
+          "sources": ["Aerotime", "Travel Tourister", "Kuwait Times"]
+        },
+        {
+          "bold_heading": "Cyber threat — elevated Iranian APT activity targeting financial sector",
+          "text": "CISA advisory AA26-097A (April 7) and FINRA alert (March 2026) both document active Iranian APT campaigns; MuddyWater confirmed in networks of a US-based bank. GCC financial institutions should treat their threat posture as HIGH and verify MFA enforcement, privileged access controls, and email gateway security. Dindoor backdoor IOCs should be added to SOC watchlists.",
+          "sources": ["CISA AA26-097A", "FINRA", "The Hacker News/Symantec — 2026"]
+        },
+        {
+          "bold_heading": "Regulatory/sanctions watch",
+          "text": "Trump's War Powers Act letter (1 May) declared hostilities 'terminated' for legal purposes; however, the naval blockade continues and Project Freedom creates new legal ambiguity. Monitor OFAC for new Iran sanctions designations; a ceasefire collapse could trigger emergency executive orders affecting correspondent banking relationships.",
+          "sources": ["PBS NewsHour", "CNBC", "CNN Politics — May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "How the Iran War Is Reshaping Saudi Strategy: From Hormuz and Houthis to the UAE's OPEC Exit",
+          "author": "Not attributed",
+          "publication": "Chatham House",
+          "pub_date": "May 2026",
+          "access": "Open",
+          "summary": "Analyses how the Strait of Hormuz closure has forced Saudi Arabia to reassess its entire export strategy, with the UAE's de-facto exit from OPEC production discipline accelerating as Abu Dhabi seeks to reroute oil via the East-West pipeline. Examines Riyadh's recalibration between US alliance obligations and its own economic survival.",
+          "relevance": "Directly relevant — Saudi export disruption amplifies Kuwait's land supply corridor pressure and raises systemic energy pricing risk for Gulf financial institutions.",
+          "link": "https://www.chathamhouse.org/2026/05/how-iran-war-reshaping-saudi-strategy-hormuz-and-houthis-uaes-opec-exit"
+        },
+        {
+          "title": "'Project Freedom': Trump's Plan to 'Guide' Ships Through Hormuz Leaves Many Questions Unanswered",
+          "author": "Staff analysis",
+          "publication": "CNN",
+          "pub_date": "04 May 2026",
+          "access": "Open",
+          "summary": "Dissects the legal, operational, and strategic contradictions in Project Freedom — noting the US Navy is providing navigation information rather than physical escort, that Iranian mines remain an active threat, and the operation's scope is insufficient to restore commercial shipping at scale. Raises the risk of Iranian escalation without delivering market relief.",
+          "relevance": "Operationally critical — clarifies that Hormuz is NOT reopening at scale; institutions should not assume supply chain normalisation from Project Freedom's headline.",
+          "link": "https://www.cnn.com/2026/05/04/middleeast/project-freedom-hormuz-guide-ships-analysis-intl-hnk-ml"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "Iranian APT — PLC/OT exploitation in critical infrastructure (CISA AA26-097A)",
+          "text": "Iranian-affiliated APT actors exploiting internet-facing Rockwell Automation Allen-Bradley PLCs across US water, energy, and government facilities since March 2026 via leased overseas IP infrastructure and Studio 5000 Logix Designer software. Attack vector: unauthenticated remote access to internet-exposed PLCs. [ADVISORY DATE: 07 April 2026 — most recent available; no superseding advisory in past 48h]",
+          "cve_ids": [],
+          "threat_actor": "Iranian state-affiliated APT (unnamed in advisory)",
+          "recommended_action": "Audit all internet-facing PLC/SCADA assets; enforce network segmentation; review Rockwell Automation remote access configurations; add to SOC alerting.",
+          "sources": ["CISA AA26-097A — 07 April 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "MuddyWater — Dindoor backdoor confirmed in financial sector networks",
+          "text": "Iran-linked MuddyWater deployed Dindoor backdoor against a US-based bank, airport, nonprofit, and Israel-linked software firm (confirmed Symantec/Carbon Black, March–April 2026); campaign assessed ongoing. MuddyWater uses spear-phishing and compromised remote tools. [ADVISORY DATE: March–April 2026 — campaign confirmed active]",
+          "cve_ids": [],
+          "threat_actor": "MuddyWater (Iran-linked)",
+          "recommended_action": "Push Dindoor IOCs to endpoint detection tools; verify email gateway filtering of MuddyWater-linked C2 domains; enforce MFA on all remote access systems.",
+          "sources": ["FINRA alert March 2026", "The Hacker News March 2026", "Broadcom Symantec"],
+          "url": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "APT34 (OilRig) — Dark Scepter cluster expanding C2 infrastructure targeting Gulf financial/energy sector",
+          "text": "Unit 42 and Hunt.io identified new APT34 Dark Scepter C2 domains and fresh MuddyWater open-directory servers in April 2026 — consistent with pre-attack infrastructure staging. APT34 historically targets GCC governments, energy, and financial institutions.",
+          "threat_actor": "APT34 / OilRig (Iran-linked)",
+          "assessed_likelihood": "High",
+          "sources": ["Palo Alto Unit 42", "Hunt.io", "SocRadar Iran-Israel Cyber Conflict Dashboard — April 2026"],
+          "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/"
+        },
+        {
+          "bold_heading": "Charming Kitten (APT35/Mint Sandstorm) — pivot to UAE/Gulf governmental targets",
+          "text": "Trellix and Rapid7 document Charming Kitten's 2026 toolchain upgrades (BellaCPP, PowerLess v3.3.4 with AMSI/ETW bypass, AES-encrypted LNK payloads, Telegram C2) and a pivot toward UAE and Gulf governmental organisations, exploiting CVE-2024-30088 via compromised Exchange servers. Credential-harvesting campaigns have historically spilled into financial sector suppliers.",
+          "threat_actor": "Charming Kitten / APT35 / Mint Sandstorm (Iran-linked)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["Trellix Iranian Cyber Capability 2026", "Rapid7 Iran Cyber Playbook 2026"],
+          "url": "https://www.trellix.com/blogs/research/the-iranian-cyber-capability-2026/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Project Freedom Day 2 — additional convoy attempts and Iranian response",
+          "why_it_matters": "Any confirmed Iranian interdiction of US-escorted vessels, drone/missile attacks on convoyed ships, or IRGC mine deployment would collapse the ceasefire and trigger rapid market and security deterioration.",
+          "related_section": "Section 2 (Targets & Incidents) and Section 4 (Regional Context)"
+        },
+        {
+          "text": "Iran-US nuclear talks resumption (Oman channel)",
+          "why_it_matters": "The postponed May 3 Oman meeting is expected to be rescheduled; Trump's 'complete dismantlement' demand and Iran's rejection of enrichment limits leave talks at a critical juncture — failure to resume or a public walkout by either side would elevate the risk of renewed hostilities.",
+          "related_section": "Section 4 (Regional Context) and Section 5 (Risk Signal)"
+        },
+        {
+          "text": "GCC diplomatic response to ADNOC tanker attack",
+          "why_it_matters": "UAE's MFA condemned the attack as a violation of UNSCR 2817; a GCC emergency consultation, UN Security Council session, or Kuwait government statement could signal a shift in Kuwait's diplomatic or military posture.",
+          "related_section": "Section 3 (Kuwait Local) and Section 5 (Risk Signal)"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 2, "confidence": "Medium", "note": "No alert event to confirm; absence-of-evidence from KUNA and Kuwait Times monitoring" },
+    { "section": "2 — Targets & Incidents", "source_count": 6, "confidence": "High", "note": "ADNOC tanker attack corroborated by UAE MFA, The National, Arabian Business, Al Arabiya; CENTCOM denial of warship strike authoritative" },
+    { "section": "3 — Kuwait Local", "source_count": 3, "confidence": "Medium", "note": "No specific May 4 advisory found; standing Cabinet guidance and airport data from multiple sources" },
+    { "section": "4 — Regional Context", "source_count": 5, "confidence": "High", "note": "Project Freedom and nuclear talks corroborated across CNN, PBS, Al Jazeera, Fortune, Chatham House" },
+    { "section": "5 — Risk Signal", "source_count": 4, "confidence": "High", "note": "Oil prices from CNBC/Fortune; cyber risk from CISA/FINRA; institutional risk assessment based on confirmed events" },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "High", "note": "CISA AA26-097A and FINRA advisories are dated April 7 and March 2026 respectively — outside 48h window; most recent available; campaigns assessed active" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "Medium", "note": "Unit 42/Trellix/Rapid7 provide corroborating threat intel; likelihood ratings assessed conservatively" }
+  ],
+  "footer": "Report #55 compiled 04 May 2026 at 07:30 UTC+3."
+}
