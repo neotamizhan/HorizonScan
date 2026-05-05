@@ -1,0 +1,280 @@
+{
+  "date": "2026-05-05",
+  "headline": "05 May 2026",
+  "subtitle": "UAE under largest missile salvo since ceasefire; Project Freedom Day 2 stalled; ceasefire status unresolved",
+  "report_number": "56",
+  "coverage": "04 May 2026 07:00 UTC+3 – 05 May 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-05-05",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "19 (UAE)", "previous": "3 (UAE)", "delta": "+16", "trend_7d": "↑" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "NR (last conf.: 115.01)", "previous": "115.01", "delta": "NR", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "NR (last conf.: 103.74)", "previous": "103.74", "delta": "NR", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~2 (Project Freedom, US escort only)", "previous": "~2 (US escort)", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "2", "previous": "NR", "delta": "+2", "trend_7d": "Insufficient data" },
+      { "metric": "KWI airport status", "today": "Partial (T4+T5)", "previous": "Partial (T4+T5)", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "NR", "today_label": null, "previous": "51", "previous_label": "Moderate", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "text": "No air raid sirens, civil defense alerts, shelter-in-place orders, or emergency broadcasts were reported for Kuwait during the coverage window. Kuwait MOI's standing public-safety directive remains in force.",
+          "sources": ["KUNA monitoring", "Kuwait Times"]
+        },
+        {
+          "bold_heading": "Note",
+          "text": "The UAE issued active missile alerts for Dubai, Sharjah, Abu Dhabi, and Fujairah during the coverage window (approx. 17:00–23:00 UTC+3 on 04 May). No equivalent alert was activated in Kuwait.",
+          "sources": ["UAE NCEMA", "The National", "Gulf News, 04 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "text": "No confirmed kinetic strikes on Kuwait territory (24h). Kuwait MOI and General Staff issued no new air defense engagement announcements during the coverage window.",
+          "sources": ["KUNA monitoring", "Kuwait Times"]
+        },
+        {
+          "bold_heading": "⚠️ UAE — major Iranian missile and drone salvo, 04 May (17:00–23:00 UTC+3 est.)",
+          "text": "Iran launched 12 ballistic missiles, 3 cruise missiles, and 4 drones at the UAE — the largest single-day attack on a Gulf state since the April 8 ceasefire. UAE air defenses engaged all 19 projectiles. The Fujairah Petroleum Industries Zone (FPIZ) sustained a drone strike causing a large fire; 3 Indian nationals were moderately injured. UAE NCEMA issued active missile alerts for Dubai, Sharjah, and Abu Dhabi; residents directed to shelters. UAE MFA called the attacks 'a dangerous escalation and an unacceptable violation' of the ceasefire.",
+          "sources": ["Gulf News", "CNBC", "The National", "Al Jazeera", "Khaleej Times", "Washington Post", "Times of Israel, 04–05 May 2026"]
+        },
+        {
+          "bold_heading": "ADNOC tanker Barakah — drone strike confirmed, Strait of Hormuz, 04 May",
+          "text": "Two Iranian drones struck the UAE-state-owned ADNOC crude tanker Barakah during a transit attempt under Project Freedom; vessel was unladen; no crew casualties. UAE MFA cited 'flagrant violation of UNSCR 2817.'",
+          "sources": ["UAE MFA statement", "The National", "Arabian Business", "Al Arabiya, 04 May 2026"]
+        },
+        {
+          "bold_heading": "US forces sink ~7 Iranian small boats, Strait of Hormuz, 04 May [SINGLE SOURCE — CENTCOM; Iranian denial noted]",
+          "text": "CENTCOM confirmed US Navy forces sank approximately 7 Iranian small boats that approached or engaged vessels during the Project Freedom operation. Iran disputed US characterisation of events.",
+          "sources": ["CNBC", "Washington Post", "CBC News, 04 May 2026"]
+        },
+        {
+          "bold_heading": "Project Freedom Day 1 confirmed transits — 04 May",
+          "text": "Two US-flagged merchant vessels successfully transited the Strait of Hormuz under US Navy guidance. No Day 2 transits confirmed by time of compilation. Commercial shipping companies characterise the strait as 'incredibly hazardous'; no scale resumption expected short-term.",
+          "sources": ["CENTCOM statement", "CNN", "NPR", "GMA News, 04–05 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "text": "No new government advisory issued during coverage window. Kuwait Cabinet standing directive remains in force: follow Ministry of Defence/Interior guidance, avoid spreading rumours, do not photograph targeted or sensitive sites.",
+          "sources": ["KUNA", "Kuwait Times"]
+        },
+        {
+          "text": "Kuwait MFA condemned Iranian attacks on UAE territory and the ADNOC tanker, describing the use of drones in maritime attacks as 'a direct threat to the safety of maritime navigation and the security of international waterways.'",
+          "sources": ["MOFA Kuwait", "GMA News monitoring, 04–05 May 2026"]
+        },
+        {
+          "bold_heading": "KWI airport — Partial (T4+T5) unchanged",
+          "text": "Kuwait Airways operating from T4 (09:00–16:00 daily, 17 international destinations); Jazeera Airways from T5 (06:00–18:00, 27 destinations). T1 remains closed (drone-strike repairs ongoing). No foreign carrier has set a resumption date.",
+          "sources": ["Traveltourister", "Gulf News", "Wego, April–May 2026"]
+        },
+        {
+          "bold_heading": "Kuwait crude oil exports: zero in April 2026",
+          "text": "First zero-export month since the Gulf War of 1991. Kuwait continues producing; supply directed to domestic storage or refining. The Strait of Hormuz blockade has effectively suspended Kuwait's primary revenue stream.",
+          "sources": ["GMA News live updates, 05 May 2026"]
+        },
+        {
+          "bold_heading": "US fast-tracks $2.5B arms sale to Kuwait",
+          "text": "Integrated Battle Command System (IBCS) and related equipment approved by US DoS — signals enduring US security commitment to Kuwait's air defense modernisation.",
+          "sources": ["US Department of State, May 2026"]
+        },
+        {
+          "text": "Supply chain: Saudi Arabia land bridge remains Kuwait's primary import lifeline; Ministry of Commerce price caps in force; border delays of 1–2 days persist at Salmi/Abdali crossings. No acute shortage reported.",
+          "sources": ["DSV Middle East advisory", "Times Kuwait"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "Ceasefire in deep jeopardy — formal status unresolved: Iran launched its largest GCC attack since April 8, firing 19 missiles and drones at the UAE in direct response to Project Freedom. Trump declined to confirm whether the ceasefire remains in force; Tehran characterised Project Freedom as 'a ceasefire violation'; Trump warned Iran would be 'blown off the face of the Earth' if US ships are attacked. Risk of formal ceasefire collapse within 24–72 hours is materially elevated.",
+          "sources": ["CNN", "Irish Times", "Washington Post", "CNBC", "Al Jazeera, 04–05 May 2026"]
+        },
+        {
+          "text": "Nuclear talks stalled; Supreme Leader declares 'victory': No Oman channel talks scheduled; Islamabad talks collapsed mid-April. Iran's Supreme Leader publicly declared 'dominance over the Strait of Hormuz' — a position irreconcilable with Trump's 'complete dismantlement' demand. No diplomatic bridge is visible.",
+          "sources": ["PBS NewsHour", "Al Jazeera", "CNN, 03–05 May 2026"]
+        },
+        {
+          "text": "Project Freedom unlikely to restore commercial shipping at scale: Analysts assess the 2 US-flagged vessels transited on Day 1 represent a fraction of the 120+ daily transits required for market normalisation. Iran's ballistic missile use signals willingness to escalate beyond its prior cruise missile and drone playbook.",
+          "sources": ["Breaking Defense", "CFR", "CNN", "GMA News, 04–05 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Kuwait oil revenue: zero since late February — balance sheet stress accelerating",
+          "text": "Kuwait's April zero-export confirmation means sovereign wealth drawdown and FX reserves are bearing full government spending burden. Institutions with Kuwait government, KPC, or Ministry of Finance counterparty exposure should re-validate liquidity and debt-service assumptions.",
+          "sources": ["GMA News", "Kuwait Times, May 2026"]
+        },
+        {
+          "bold_heading": "Ceasefire collapse scenario — 24–72h window of maximum risk",
+          "text": "Trump's ambiguous statement + Iran's ballistic missile use = highest-probability window for ceasefire collapse since April 8. Trigger would likely cause: KWI full closure, disruption to Saudi land bridge, emergency OFAC designations, and acute GCC financial market stress. Activate contingency protocols for payment corridor degradation and staff evacuation now.",
+          "sources": ["CNN", "Washington Post", "Irish Times, 04–05 May 2026"]
+        },
+        {
+          "bold_heading": "GCC infrastructure targeting precedent — Kuwait exposure",
+          "text": "Iran has demonstrated willingness to use ballistic missiles against UAE civilian/economic targets. Kuwait's oil infrastructure, Ali Al Salem Air Base, and KWI T4/T5 are within Iranian ballistic missile range. Verify emergency shelter-in-place procedures, warden rosters, and cross-border evacuation routes for all Kuwait-based staff.",
+          "sources": ["Gulf News", "The National", "CNBC, 04–05 May 2026"]
+        },
+        {
+          "bold_heading": "SWIFT/payment corridor risk — elevated",
+          "text": "Any formal US–Iran kinetic exchange or Iranian attack on a GCC financial centre could disrupt SWIFT messaging infrastructure for Gulf settlement. Identify and pre-position alternative payment corridors; verify ACH/SWIFT BCP testing records are current.",
+          "sources": ["CNBC", "Bloomberg, 04–05 May 2026"]
+        },
+        {
+          "bold_heading": "Cyber threat — heightened; 24–72h lag pattern",
+          "text": "Iranian APT groups historically intensify cyber operations 24–72 hours after major kinetic escalations. The May 4 attack wave is the most significant escalation since the ceasefire. Push APT34/MuddyWater IOCs to SOC watchlists; existing CISA advisory AA26-097A remains current.",
+          "sources": ["CISA", "Symantec", "FINRA", "SocRadar, 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Trump's 'Project Freedom' Strains U.S.-Iran Cease-Fire in Strait of Hormuz",
+          "author": "Staff analysis",
+          "publication": "Foreign Policy",
+          "pub_date": "04 May 2026",
+          "access": "Open",
+          "summary": "Analyses how the launch of Project Freedom on May 4 directly provoked Iran's largest attack on UAE territory since the ceasefire, with both sides trading fire in the Strait; notes that by declaring a new campaign Trump sidestepped the 60-day War Powers Act deadline that expired May 2. Raises the risk that a 'defensive' operation may instead trigger ceasefire collapse.",
+          "relevance": "Operationally critical — establishes that Project Freedom is not a path to near-term Hormuz normalisation and that ceasefire collapse risk is now acute.",
+          "link": "https://foreignpolicy.com/2026/05/04/us-project-freedom-strait-hormuz-trump-iran-war-strikes-uae-south-korea/"
+        },
+        {
+          "title": "Trump's Project Freedom Isn't Going to Open the Strait of Hormuz",
+          "author": "Staff analysis",
+          "publication": "Council on Foreign Relations",
+          "pub_date": "May 2026",
+          "access": "Open",
+          "summary": "CFR argues the US can protect the 2–3 vessels it commits to escorting, but restoring the 120+ daily commercial transits required for market normalisation is infeasible under sustained Iranian resistance; the operation creates material escalation risk without solving the structural supply disruption.",
+          "relevance": "Directly material for Hormuz-dependent supply chain and oil price risk modelling — supply disruption should be treated as structural, not temporary.",
+          "link": "https://www.cfr.org/articles/trumps-project-freedom-isnt-going-to-open-the-strait-of-hormuz"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "Iranian APT — PLC/OT exploitation (CISA AA26-097A)",
+          "text": "Iranian-affiliated APT actors continue exploiting internet-facing Rockwell Automation Allen-Bradley PLCs across US/GCC water, energy, and government facilities. No superseding advisory in past 48h. Attack vector: unauthenticated remote access via Studio 5000 Logix Designer.",
+          "cve_ids": [],
+          "threat_actor": "Iranian state-affiliated (unnamed in advisory)",
+          "recommended_action": "Audit all internet-facing PLC/SCADA assets; enforce network segmentation; add Rockwell Automation remote access configurations to SOC review checklist.",
+          "sources": ["CISA AA26-097A, 07 April 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "MuddyWater (Seedworm) — Dindoor backdoor active in financial sector",
+          "text": "Dindoor backdoor confirmed in networks of a US-based bank, an airport, and an Israel-linked software firm; campaign assessed ongoing as of April 2026. Kinetic escalation of May 4 historically correlates with MuddyWater intensification within 24–72 hours. Initial access via spear-phishing and compromised remote management tools.",
+          "cve_ids": [],
+          "threat_actor": "MuddyWater (Seedworm) — Iran-linked, MOIS-affiliated",
+          "recommended_action": "Push Dindoor IOCs to all endpoint detection tools immediately; enforce MFA on all remote access systems; review email gateway blocking of known MuddyWater C2 domains.",
+          "sources": ["Symantec/Broadcom", "FINRA cybersecurity alert, March–April 2026"],
+          "url": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "APT34 (OilRig) Dark Scepter cluster — pre-attack C2 infrastructure staging",
+          "text": "Unit 42 and Hunt.io identified new APT34 Dark Scepter C2 domains and fresh open-directory servers in April 2026, consistent with pre-attack staging patterns observed ahead of prior escalation cycles. APT34 historically targets GCC governments, financial institutions, and energy sector.",
+          "threat_actor": "APT34 (OilRig) — Iranian state-sponsored",
+          "assessed_likelihood": "High",
+          "sources": ["Palo Alto Unit 42", "Hunt.io", "SocRadar, April 2026"],
+          "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/"
+        },
+        {
+          "bold_heading": "Pro-Iran hacktivist coalition — financial services under sustained and intensifying attack",
+          "text": "SocRadar documented 144+ pro-Iran cyber incidents targeting financial services since February 28, 2026; attacks shifting from disruption to potential destruction (wipers, ransomware, targeted leaks). UAE cybersecurity chief reported attacks tripled to 600,000 post-ceasefire. May 4 kinetic escalation expected to drive a corresponding surge in hacktivist activity.",
+          "threat_actor": "Pro-Iran hacktivist coalition (70+ groups)",
+          "assessed_likelihood": "High",
+          "sources": ["SocRadar blog, May 2026"],
+          "url": "https://socradar.io/blog/pro-iran-cyberattacks-financial-services-144/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Project Freedom Day 3 and Iranian response",
+          "why_it_matters": "A confirmed kinetic US-Iran exchange at sea would be the tripwire for formal ceasefire collapse; watch for additional commercial transit confirmations or Iranian interdiction attempts.",
+          "related_section": "Section 2 (Incidents) and Section 4 (Regional Context)"
+        },
+        {
+          "text": "Trump/CENTCOM ceasefire clarification or formal hostility resumption",
+          "why_it_matters": "Any White House or CENTCOM statement formally declaring the ceasefire void, or any US offensive strike on Iranian territory, would trigger immediate GCC financial market disruption and require BCP activation.",
+          "related_section": "Section 4 (Regional Context) and Section 5 (Risk Signal)"
+        },
+        {
+          "text": "Cyber escalation pulse — Iranian APT activity (24–72h post-kinetic lag)",
+          "why_it_matters": "Based on the 24–72h lag pattern, heightened vigilance window for APT34/MuddyWater spear-phishing, credential harvesting, and lateral movement runs through end of 07 May.",
+          "related_section": "Section 7A (Cyber Tactical)"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 2, "confidence": "Medium", "note": "No unscheduled Kuwait alert corroborated; based on monitoring absence" },
+    { "section": "2 — Targets & Incidents", "source_count": 9, "confidence": "High", "note": "US boat-sinking count single-sourced (CENTCOM); Iranian denial noted" },
+    { "section": "3 — Kuwait Local", "source_count": 4, "confidence": "Medium", "note": "April zero-export figure from GMA News live feed; single source" },
+    { "section": "4 — Regional Context", "source_count": 5, "confidence": "High", "note": null },
+    { "section": "5 — Risk Signal", "source_count": 4, "confidence": "High", "note": null },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "High", "note": "CISA AA26-097A dated April 7 — most recent available; no superseding advisory" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "Medium", "note": "SocRadar incident count (144) not independently corroborated by second source" }
+  ],
+  "footer": "Report #56 compiled 2026-05-05 at 07:30 UTC+3."
+}
