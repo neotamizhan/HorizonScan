@@ -1,0 +1,273 @@
+{
+  "date": "2026-05-07",
+  "headline": "07 May 2026",
+  "subtitle": "US-Iran MOU at critical juncture; oil falls 7%; Israel strikes Beirut; MuddyWater Teams TTP active",
+  "report_number": "58",
+  "coverage": "06 May 2026 07:00 UTC+3 – 07 May 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-05-07",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "↑" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "101", "previous": "108", "delta": "-7", "trend_7d": "↑ (declining from peak)" },
+      { "metric": "WTI crude ($/bbl)", "today": "95", "previous": "100", "delta": "-5", "trend_7d": "↑ (declining from peak)" },
+      { "metric": "Strait of Hormuz transits/day", "today": "0", "previous": "0", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "3", "previous": "3", "delta": "0", "trend_7d": "↑" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "NR", "today_label": null, "previous": "NR", "previous_label": null, "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "No air raid sirens, civil defense alerts, shelter-in-place orders, or emergency broadcasts reported in Kuwait during the coverage window. Kuwait MOI and General Staff issued no new interception announcements. The Cabinet's standing public-safety directive remains in force: follow Ministry of Defence/Interior guidance, avoid spreading rumours, do not photograph sensitive or targeted sites.",
+          "sources": ["KUNA monitoring", "Kuwait Times, 06–07 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "No confirmed kinetic strikes on Kuwait territory (24h).",
+          "text": "Kuwait MOI and General Staff issued no new air defence engagement announcements during the coverage window.",
+          "sources": ["KUNA monitoring", "Kuwait Times, 06–07 May 2026"]
+        },
+        {
+          "bold_heading": "Israel strikes Beirut's Dahieh suburb (06 May, afternoon–evening UTC+3) — targeting Hezbollah Radwan Force commander.",
+          "text": "Israeli airstrikes hit Beirut's southern suburb of Dahieh for the first time since the April 17 Lebanon ceasefire. PM Netanyahu confirmed the target was the Hezbollah Radwan Force commander. Concurrent strikes on Zellaya killed at least 5 (including a village mayor and family); strikes on Saksakiyeh (Sidon district) killed at least 4, injured 13. Drone activity intensified over Beirut.",
+          "sources": ["Al Jazeera", "The National, 06 May 2026"]
+        },
+        {
+          "bold_heading": "No confirmed new Iranian missile/drone strike on UAE during coverage window (06–07 May).",
+          "text": "The last confirmed UAE salvo was Day 2 (05 May). UAE schools continued remote-learning operations through Friday 08 May as a precautionary measure. Iran's IRGC continued to deny responsibility for the May 4–5 attacks.",
+          "sources": ["Al Jazeera liveblog", "Gulf News", "UAE Ministry of Education, 06 May 2026"]
+        },
+        {
+          "bold_heading": "Project Freedom remains paused; ~1,600 ships stranded in Strait of Hormuz.",
+          "text": "No commercial vessel transits confirmed under US Navy escort during coverage window. CMA CGM San Antonio (struck by cruise missile May 5) remains the last confirmed vessel casualty. Iran's Persian Gulf Strait Authority (est. May 5) is offering IRGC-vetting-based transit; no vessels confirmed to have used this route.",
+          "sources": ["CNN Business", "Washington Times", "Military Times, 06 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "No new government advisory issued during coverage window.",
+          "text": "Kuwait Cabinet's standing directive remains in force: adhere to Ministry of Defence/Interior guidance, do not photograph targeted sites, avoid rumours.",
+          "sources": ["KUNA", "Kuwait Times, 06–07 May 2026"]
+        },
+        {
+          "bold_heading": "KWI airport — Partial (T4+T5) status unchanged; 9 cancellations, 2 delays noted.",
+          "text": "Kuwait Airways (T4, 29 destinations) and Jazeera Airways (T5, 27 destinations) operating. Emirates Kuwait services continuing (up to 5 daily by late May). T1 remains closed for drone-strike repairs; British Airways, Turkish Airlines, Air India and others have no confirmed restart date.",
+          "sources": ["Nomad Lawyer", "Wego", "Traveltourister, April–May 2026"]
+        },
+        {
+          "bold_heading": "Kuwait crude oil exports: zero for April 2026 (confirmed).",
+          "text": "First zero-export month since 1991; Hormuz blockade is the binding constraint. Sovereign wealth drawdown and central bank FX reserves remain the fiscal backstop.",
+          "sources": ["GMA News", "Kuwait Times, May 2026"]
+        },
+        {
+          "bold_heading": "Kuwait AML crackdown intensified — FATF compliance push.",
+          "text": "Ministry of Commerce and Industry issued Decision No. 25 of 2026: new violation/penalty matrix for non-financial businesses covering AML/CFT, with violations classified as low/medium/high risk. Kuwait remains on FATF's 'Jurisdictions under Increased Monitoring' list (as of Feb 13, 2026). PM chaired April 30 meeting reviewing FATF observations.",
+          "sources": ["Kuwait Times", "Ministry of Commerce and Industry, April–May 2026"]
+        },
+        {
+          "bold_heading": "Saudi land bridge and border crossings: no new disruption reported.",
+          "text": "Truck traffic through Al-Khafji and Al-Raq'e crossings continues; Ministry of Commerce price caps in force; 1–2 day delays at Salmi/Abdali persist but no acute shortage reported.",
+          "sources": ["Arab News", "DSV Middle East, April–May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "US-Iran MOU negotiations at critical juncture — Iran response expected within 48 hours. Axios reported (06 May) that the US and Iran are closing in on a 14-point, one-page MOU: it would declare an end to the war and launch a 30-day nuclear negotiation period; enrichment moratorium of 12–15 years under discussion. US envoys Witkoff and Kushner negotiating directly and through Pakistan. Trump on 07 May expressed doubt: 'it's perhaps a big assumption' Iran will accept. Iranian FM confirmed the proposal is 'under review.'",
+          "sources": ["Axios", "CNN Politics", "Times of Israel", "CNBC, 06–07 May 2026"]
+        },
+        {
+          "text": "Israel's Lebanon strikes — ceasefire integrity in question. Israeli strikes on Dahieh and Lebanese villages (06 May), the first on Beirut's southern suburbs since the April 17 ceasefire, killed at least 9 and signal ongoing Israeli operations against Hezbollah. Continued strikes risk re-igniting the Lebanon front and complicating the broader US-led de-escalation track.",
+          "sources": ["Al Jazeera", "The National, 06 May 2026"]
+        },
+        {
+          "text": "Oil markets repricing deal optimism — but no structural resolution. Brent (~$101) and WTI (~$95) both fell ~7–8% during the window on MOU deal reports; any deal failure risks a rapid reversal toward $115–120. The naval blockade of Iranian ports remains in effect regardless of the MOU status.",
+          "sources": ["CNBC", "NBC News", "OilPrice.com, 06–07 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "text": "MOU deal clock is running — failure within 48h is the primary near-term risk trigger. The 48-hour Iranian response window expires approximately 07–08 May. Trump's public expression of doubt signals the deal is genuinely uncertain. A breakdown would likely cause a rapid oil price reversal (Brent back toward $115+) and potential re-launch of Project Freedom — triggering full BCP activation review.",
+          "sources": ["Axios", "CNBC", "NBC News, 06–07 May 2026"]
+        },
+        {
+          "text": "Oil at ~$101 (Brent) reduces import-bill pressure for some GCC counterparties but Kuwait revenue remains zero. The price decline improves conditions for oil-importing GCC entities. For Kuwait, the Hormuz closure remains the binding constraint. Continue close monitoring of KPC/Kuwait MoF counterparty liquidity and sovereign wealth fund drawdown pace.",
+          "sources": ["CNBC", "OilPrice.com, 06–07 May 2026"]
+        },
+        {
+          "text": "Kuwait FATF 'Increased Monitoring' status — compliance and correspondent banking risk. Kuwait's FATF listing and Decision No. 25 of 2026 create enhanced due diligence obligations. Financial institutions with Kuwait correspondent relationships should review KYC/transaction monitoring frameworks and assess de-risking exposure.",
+          "sources": ["Kuwait Times", "FATF, April–May 2026"]
+        },
+        {
+          "text": "MuddyWater Teams false-flag TTP now widely documented — patch and train urgently. Rapid7/Hacker News (published 06 May 2026) confirmed MuddyWater used Microsoft Teams social engineering to steal credentials and bypass MFA using Chaos ransomware as false flag. Recommended action: brief helpdesk staff on Teams-based social engineering, tighten external Teams federation policies, enforce FIDO2 phishing-resistant MFA.",
+          "sources": ["The Hacker News", "Rapid7", "SecurityWeek, 06 May 2026"]
+        },
+        {
+          "text": "Israel Lebanon escalation — regional risk premium re-emerging. First Israeli strikes on Beirut since April 17 ceasefire introduce renewed Lebanon-front risk. Review exposure to Lebanese-corridor correspondent banking and ensure Lebanon-linked financial flows are monitored.",
+          "sources": ["Al Jazeera", "The National, 06 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "China will benefit from the Iran war, regardless of any deal between Trump and Tehran",
+          "author": "Staff analysis",
+          "publication": "Chatham House",
+          "pub_date": "May 2026",
+          "access": "Open",
+          "summary": "Argues that China benefits strategically from the Iran conflict regardless of outcome — a prolonged war deepens Gulf Arab dependence on Chinese diplomacy and arms, while a US-Iran deal that reduces Iran's leverage also reduces China's need to buffer Iran. Beijing is exploiting the conflict to expand its role as the Gulf's preferred external stabiliser.",
+          "relevance": "Directly relevant — a deepening Chinese footprint in Gulf security and financial infrastructure has implications for sanctions compliance, dual-use technology flows, and long-term correspondent banking risk exposure.",
+          "link": "https://www.chathamhouse.org/2026/05/china-will-benefit-iran-war-regardless-any-deal-between-trump-and-tehran"
+        },
+        {
+          "title": "Trump has an incentive to strike a deal with Iran, as midterms approach. But at what cost?",
+          "author": "Staff analysis",
+          "publication": "Chatham House",
+          "pub_date": "April 2026",
+          "access": "Open",
+          "summary": "Examines Trump's domestic political incentive to end the war before the November 2026 midterms; argues the deal on offer may deliver tactical political wins but structural concessions could be insufficient to prevent Iran from rebuilding nuclear capacity within one presidential term.",
+          "relevance": "Provides structural context for why a deal is likely but potentially fragile — key for BCP scenario planning if the MOU collapses or is reversed in 2027–28. Extended to 48h window — no second eligible Tier 3 article identified within 24h.",
+          "link": "https://www.chathamhouse.org/2026/04/trump-has-incentive-strike-deal-iran-midterms-approach-what-cost"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "MuddyWater — Microsoft Teams false-flag ransomware (URGENT, 24–72h action required)",
+          "text": "Rapid7 and The Hacker News (published 06 May 2026) confirmed that MuddyWater (Seedworm/IRGC-MOIS) is actively using Microsoft Teams social engineering to steal credentials, bypass MFA, and deploy Chaos ransomware as a false flag — prioritising espionage over encryption. Victims engaged via Teams chats; screen-sharing sessions used to harvest credentials and redirect to phishing pages; AnyDesk deployed for persistent access. No CVE cited; attack vector is purely social.",
+          "cve_ids": [],
+          "threat_actor": "MuddyWater (Iran, IRGC-MOIS)",
+          "recommended_action": "Immediately restrict external Teams federation settings; brief helpdesk staff on this TTP; enforce FIDO2 phishing-resistant MFA on all M365/Teams accounts; add Rapid7/Symantec IOCs to SIEM.",
+          "sources": ["The Hacker News", "Rapid7", "SecurityWeek, 06 May 2026"],
+          "url": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html"
+        },
+        {
+          "bold_heading": "CISA CI Fortify — geopolitical cyber crisis planning guidance (action window: immediate)",
+          "text": "CISA launched 'CI Fortify' (May 2026), directing critical infrastructure operators to plan for 'isolation and recovery' under a geopolitical cyber conflict scenario where third-party connections (internet, telco, vendors, cloud) are assumed unavailable. CISA explicitly assumes threat actors will have some OT network access.",
+          "cve_ids": [],
+          "threat_actor": null,
+          "recommended_action": "Initiate a tabletop or gap-assessment against CI Fortify objectives; specifically test whether core payment and settlement systems can operate in degraded-connectivity mode; confirm OT/IT segmentation is consistent with CISA guidance.",
+          "sources": ["CISA CI Fortify", "SecurityWeek", "Federal News Network, May 2026"],
+          "url": "https://www.cisa.gov/topics/industrial-control-systems/ci-fortify"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "APT34 (OilRig) Dark Scepter cluster — pre-attack staging persists; 1–2 week escalation window from May 4–5 attacks",
+          "text": "Unit 42 and Hunt.io identified APT34 Dark Scepter C2 domain expansion and fresh open-directory servers (April 2026), consistent with pre-attack staging observed ahead of prior escalation cycles. The May 4–5 UAE kinetic attacks historically correlate with APT34 post-escalation cyber operations within 1–2 weeks — placing the primary risk window from approximately 11–19 May 2026.",
+          "threat_actor": "APT34 / OilRig (Iran, IRGC-QF linked)",
+          "assessed_likelihood": "High",
+          "sources": ["Palo Alto Unit 42", "Hunt.io", "SocRadar, April 2026"],
+          "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/"
+        },
+        {
+          "bold_heading": "Pro-Iran hacktivist coalition — escalation to destructive attacks on GCC financial services",
+          "text": "SocRadar documented 144+ pro-Iran cyber incidents targeting financial services since Feb 28, 2026; tactics are shifting from disruption (DDoS) toward destruction (wipers, ransomware, data leaks). UAE Cybersecurity Council reported cyberattacks tripling to 600,000 in the post-ceasefire period. The parallel track of deniable kinetic operations and deniable cyber operations suggests Iran is deliberately maintaining ambiguity.",
+          "threat_actor": "Pro-Iran hacktivist coalition (IRGC-proximate)",
+          "assessed_likelihood": "High",
+          "sources": ["SocRadar", "UAE Cybersecurity Council", "FINRA alert, April–May 2026"],
+          "url": "https://socradar.io/blog/pro-iran-cyberattacks-financial-services-144/"
+        },
+        {
+          "bold_heading": "CIRCIA mandatory cyber incident reporting — enforcement deadline approaching (May 2026)",
+          "text": "CISA moved the Cyber Incident Reporting for Critical Infrastructure Act (CIRCIA) final rules deadline to May 2026. Financial institutions operating in the US or with US-regulated subsidiaries that have not yet assessed their CIRCIA reporting obligations against the conflict-environment incident volume are at compliance risk.",
+          "threat_actor": null,
+          "assessed_likelihood": "Medium",
+          "sources": ["CISA", "Industrial Cyber", "MIT Urban Cyber Defense, 2026"],
+          "url": "https://www.cisa.gov/topics/cyber-threats-and-advisories/information-sharing/circia"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Iran's response to the 14-point MOU (deadline ~07–08 May)",
+          "why_it_matters": "A positive response could trigger Hormuz reopening talks and an oil price slide below $95; a rejection could re-launch Project Freedom and spike prices back toward $115.",
+          "related_section": "Section 2 (Incidents), Section 4 (Regional Context), Section 5 (Risk Signal)"
+        },
+        {
+          "text": "APT34/MuddyWater post-kinetic escalation window opens ~11 May",
+          "why_it_matters": "The 1–2 week post-kinetic lag from the May 4–5 UAE attacks places the highest APT34 risk window starting approximately May 11–12; confirm IOCs from the May 6 MuddyWater Teams disclosure are deployed across all EDR/SIEM tools before that date.",
+          "related_section": "Section 7A (Cyber Tactical), Section 7B (Cyber Strategic)"
+        },
+        {
+          "text": "Israel-Lebanon second-front escalation (Dahieh aftermath)",
+          "why_it_matters": "Any Hezbollah retaliatory strike for the May 6 Dahieh targeting — rockets, drones, or cyber — would reopen the Lebanon front and signal broader regional de-escalation has failed; watch for Hezbollah statements and Israeli displacement orders as leading indicators.",
+          "related_section": "Section 2 (Targets & Incidents), Section 4 (Regional Context)"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 2, "confidence": "Medium", "note": "KUNA monitoring + Kuwait Times; no MOI press release directly verified" },
+    { "section": "2 — Targets & Incidents", "source_count": 5, "confidence": "High", "note": "Al Jazeera, The National, CNN Business, Washington Times, Gulf News" },
+    { "section": "3 — Kuwait Local", "source_count": 4, "confidence": "Medium", "note": "KUNA, Kuwait Times, Arab News, FATF/MoCI" },
+    { "section": "4 — Regional Context", "source_count": 5, "confidence": "High", "note": "Axios, CNN Politics, CNBC, NBC News, Times of Israel" },
+    { "section": "5 — Risk Signal", "source_count": 4, "confidence": "High", "note": "CNBC, Kuwait Times/MoCI, Rapid7/Hacker News, Al Jazeera" },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "High", "note": "Rapid7, Hacker News, CISA CI Fortify" },
+    { "section": "7B — Cyber Strategic", "source_count": 2, "confidence": "Medium", "note": "Unit 42/SocRadar, CISA/MIT; single intel source for APT34 staging" }
+  ],
+  "footer": "Report #58 compiled 07 May 2026 at 07:30 UTC+3."
+}
