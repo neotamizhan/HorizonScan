@@ -1,0 +1,402 @@
+{
+  "date": "2026-05-11",
+  "headline": "11 May 2026",
+  "subtitle": "Ceasefire Under Acute Stress: Kuwait Drones, Triple-GCC Attacks, Oman Talks Begin",
+  "report_number": "62",
+  "coverage": "10 May 2026 07:00 UTC+3 – 11 May 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-05-11",
+    "metrics": [
+      {
+        "metric": "Missile/drone interceptions (24h)",
+        "today": "Multiple (Kuwait dawn 10 May); UAE: 2",
+        "previous": "NR",
+        "delta": "↑ from NR",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "Debris reports (cumulative)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "NR",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "Brent crude ($/bbl)",
+        "today": "102.52",
+        "previous": "101.27",
+        "delta": "+1.25",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "WTI crude ($/bbl)",
+        "today": "~96.00 (est., 11 May open range)",
+        "previous": "95.08",
+        "delta": "+0.92",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Strait of Hormuz transits/day",
+        "today": "NR (~6/day per JMIC 5 May; Al Kharaitiyat LNG transited 10 May — first Qatari LNG since 28 Feb)",
+        "previous": "NR",
+        "delta": "NR",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Infrastructure items damaged (cumulative)",
+        "today": "4",
+        "previous": "3",
+        "delta": "+1",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "KWI airport status",
+        "today": "Partial",
+        "previous": "Partial",
+        "delta": "No change",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Kuwait AQI (PM2.5)",
+        "today": "58",
+        "today_label": "Moderate",
+        "previous": "58",
+        "previous_label": "Moderate",
+        "delta": "0",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "Days since last confirmed cyber incident (Gulf FS)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "NR",
+        "trend_7d": "Insufficient data"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "Air raid sirens activated across Kuwait — 10 May (drone interception event)",
+          "text": "Kuwait Armed Forces detected and intercepted multiple hostile drones at dawn (~04:15 UTC+3, 10 May); MOD issued a public statement during the coverage window. Sirens sounded across Kuwait City and surrounding governorates; no shelter-in-place order was issued. Citizens advised to follow MOD/MOI guidance. [Note: kinetic event occurred ~2.75h before window opens; MOD statement confirmed within window; not captured in Report #61 due to late-breaking timing.]",
+          "sources": ["Kuwait MOD", "Al Arabiya", "BSS News", "Times of Oman", "New Kerala, 10 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Kuwait — Multiple hostile drones intercepted at dawn 10 May; first kinetic engagement since April 8 ceasefire",
+          "text": "Brigadier General Saud Abdulaziz Al-Otaibi (MOD spokesperson) confirmed armed forces detected a number of hostile drones and dealt with them in accordance with established procedures. No casualties or infrastructure damage confirmed. UAE strongly condemned the attack.",
+          "sources": ["Kuwait MOD statement", "Al Arabiya", "BSS News", "Defcon Level", "The Tribune India, 10 May 2026"]
+        },
+        {
+          "bold_heading": "UAE — Two drones attributed to Iran shot down on 10 May",
+          "text": "UAE MOD confirmed interception of two Iranian-attributed drones; no casualties or infrastructure damage reported; part of coordinated multi-GCC attack pattern.",
+          "sources": ["Times of Israel", "UAE MOD", "Fortune, 10 May 2026"]
+        },
+        {
+          "bold_heading": "Qatar — Cargo vessel struck by drone NE of Mesaieed Port (~23nm NE of Doha), 10 May",
+          "text": "UKMTO confirmed a bulk carrier travelling from Abu Dhabi to Qatar was struck; limited fire reported and extinguished; no crew casualties. Qatar MOD condemned the attack in its territorial waters. First confirmed vessel strike since May 7 US-Iran Hormuz exchange. [SINGLE SOURCE for some details from UKMTO; corroborated by Qatar MOD and multiple wire reports]",
+          "sources": ["UKMTO", "Qatar MOD", "Business Standard", "ANI", "KSAT, 10 May 2026"]
+        },
+        {
+          "bold_heading": "No new confirmed incidents following dawn 10 May attacks through window close 11 May 07:00 UTC+3",
+          "text": "KUNA monitoring and Kuwait Times report no further kinetic incidents within the coverage window.",
+          "sources": ["KUNA monitoring", "Kuwait Times, 10–11 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "MOD readiness statement following drone intercept",
+          "text": "Kuwait Armed Forces reaffirmed full readiness to maintain security; Cabinet standing directive remains in force: comply with MOD/MOI guidance, avoid rumours, do not photograph targeted infrastructure.",
+          "sources": ["Kuwait MOD", "KUNA, 10 May 2026"]
+        },
+        {
+          "bold_heading": "Air raid sirens sounded during dawn drone engagement (10 May); resolved same morning",
+          "text": "No shelter-in-place or evacuation order issued; situation resolved within the morning.",
+          "sources": ["Al Arabiya", "Worldnews.com", "The Tribune India, 10 May 2026"]
+        },
+        {
+          "bold_heading": "KWI — Partial (T4+T5) status unchanged; Kuwait Airways now 30 destinations",
+          "text": "Cairo/Sphinx route added 3x weekly from May 10 bringing total to 30; T1 remains under repair; scattered cancellations continue for some Middle East routes.",
+          "sources": ["Arab Times", "Wego Travel Blog, 10 May 2026"]
+        },
+        {
+          "bold_heading": "Maritime daylight operations in force (from 10 May)",
+          "text": "Fishing/recreational vessels permitted 05:00–19:00 daily via Sahel QR code; must avoid oil facilities, vital infrastructure, and restricted zones.",
+          "sources": ["Kuwait Times", "Arab Times", "Times Kuwait, 10 May 2026"]
+        },
+        {
+          "bold_heading": "Kuwait crude exports remain zero; land borders open with delays; FATF monitoring ongoing",
+          "text": "Hormuz blockade persists; Saudi land bridge open with 1–2 day delays; food prices +30%+; FATF Increased Monitoring (since 13 Feb 2026) and Ministry of Commerce Decision No. 25/2026 AML penalty matrix remain in effect.",
+          "sources": ["Kuwait Times", "Arab News", "DSV Middle East", "FATF, April–May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "Trump called Iran's MOU response 'totally unacceptable' (10 May); 4th round of Oman talks 'difficult but constructive' (11 May)",
+          "text": "Iran demanded immediate sanctions relief, end to hostilities on all fronts, and Iranian management of Hormuz before nuclear talks; Trump threatened to revive Project Freedom at 'significantly higher level' if diplomacy collapses. 4th round in Muscat lasted 3+ hours; technical negotiators absent; Iran proposed joint nuclear-enrichment project with Arab states — Witkoff denied; both sides agreed to continue.",
+          "sources": ["NBC News", "CBS News Live", "Axios", "Times of Israel", "CNN Day 72", "CNBC, 10–11 May 2026"]
+        },
+        {
+          "bold_heading": "Multi-GCC drone attacks on 10 May: first coordinated ceasefire breach since April 8",
+          "text": "Kuwait, UAE, and Qatar all struck on same day; cargo ship hit in Qatari waters. IRGC had previously threatened 'heavy assault on US centres' if Iranian tankers were targeted. Pattern indicates deliberate kinetic pressure as negotiating signal — not full ceasefire collapse.",
+          "sources": ["Times of Israel", "PBS News", "Fortune", "Gulf News, 10 May 2026"]
+        },
+        {
+          "bold_heading": "Al Kharaitiyat completed first Qatari LNG Hormuz transit since 28 Feb; Pakistan pursuing more",
+          "text": "Vessel departed Ras Laffan, transited Iranian-approved northern Hormuz route, due at Port Qasim 11 May. Pakistan in active negotiations with Iran for additional Qatari LNG transits. Selective confidence-building measure — not a Hormuz reopening.",
+          "sources": ["Bloomberg", "gCaptain", "Fortune", "The Week India, 10 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Ceasefire fragility at acute level: BCP escalation protocols must remain fully activated",
+          "text": "May 10 tri-GCC drone attacks + Trump rejection + IRGC threat posture = most severe ceasefire stress since April 8. Maintain Hormuz-closure scenario planning and liquidity buffers through minimum end-Q3 2026.",
+          "sources": ["Kuwait MOD", "CBS News", "Gulf News", "IRGC statement, 10–11 May 2026"]
+        },
+        {
+          "bold_heading": "APT34 (OilRig/IRGC) peak targeting window NOW OPEN (11–19 May): immediate SOC escalation required",
+          "text": "Today is Day 1 of peak APT34 risk (1–2 week lag from May 4–5 UAE kinetic attacks). Confirm at business open: Exchange CVE-2024-30088 patching verified, M365/Teams federation restricted, FIDO2 MFA enforced. Any anomalous Exchange activity or unsolicited Teams screen-share = priority incident.",
+          "sources": ["Palo Alto Unit 42", "Hunt.io", "SocRadar", "Rapid7, April–May 2026"]
+        },
+        {
+          "bold_heading": "Project Freedom reinstatement risk: trade finance and shipping portfolios require immediate review",
+          "text": "Trump threatened to revive military escort at 'significantly higher level'; if implemented, Iran likely responds with intensified anti-shipping operations, elevating AWRP beyond ~1% H&M/voyage and triggering new designation risk.",
+          "sources": ["CBS News", "NBC News", "Reuters, 10–11 May 2026"]
+        },
+        {
+          "bold_heading": "New sanctions risk from May 10 GCC drone attacks: immediate counterparty screen advised",
+          "text": "US response to confirmed Iranian drone strikes on Kuwait, UAE, and Qatar is likely to include new OFAC designations of IRGC-linked entities. Screen counterparties in energy, shipping, and commodities against OFAC SDN/pending lists now.",
+          "sources": ["US State Department precedent", "Kuwait MOD", "Qatar MOD, 10 May 2026"]
+        },
+        {
+          "bold_heading": "Al Kharaitiyat transit: narrow data point; do not adjust BCP assumptions",
+          "text": "A single Iranian-approved LNG transit under a Pakistan government-to-government deal does not signal commercial Hormuz reopening; BCP and liquidity buffers remain at conflict-footing levels.",
+          "sources": ["Bloomberg", "gCaptain", "Albany Antree, 10 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "JWC JWLA-033 in force — no update in window; AWRP ~1% H&M/voyage (8x pre-war)",
+          "text": "Kuwait, Bahrain, Qatar, Oman remain Listed Areas since 3 March 2026; Hormuz rated CRITICAL (JMIC Update 041, 5 May); all Gulf coverage voyage-by-voyage only. Financial institutions with trade finance covering Kuwaiti/Qatari/UAE counterparties should confirm underwriting terms are current.",
+          "sources": ["LMA", "Albany Antree 6 May 2026", "JMIC/UKMTO, 5 May 2026"]
+        },
+        {
+          "bold_heading": "Cargo ship drone strike (Qatari waters, 10 May): AWRP likely to maintain or widen; P&I monitoring",
+          "text": "New hull war event within Listed Areas; no P&I club advisory yet in window. If Oman talks collapse, underwriters will revise premium floors upward immediately.",
+          "sources": ["UKMTO", "Qatar MOD", "Business Standard", "Albany Antree 6 May 2026"]
+        },
+        {
+          "bold_heading": "Al Kharaitiyat transit signal: insurers watching, but formal agreement required for material AWRP relief",
+          "text": "Pakistan negotiating further Iran-approved Qatari LNG transits; cargo underwriters may offer marginal improvement for Pakistan-destined Qatar LNG only; war risk for general Gulf cargoes will not ease without a signed agreement.",
+          "sources": ["Bloomberg", "gCaptain", "Fortune", "Pakistan negotiations via Bloomberg, 10 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "With a Fragile Ceasefire under Threat, What Future for the Strait of Hormuz?",
+          "author": "International Crisis Group Staff",
+          "publication": "International Crisis Group",
+          "pub_date": "~07 May 2026",
+          "access": "Open",
+          "summary": "Examines how May 4–5 Gulf escalation placed the April 8 ceasefire under severe stress; Iran's phased framework (Hormuz first, nuclear second) drives a fundamental diplomatic impasse because the US insists nuclear concessions must accompany any Hormuz opening. Gulf states (Saudi Arabia, Qatar, Oman) prefer negotiation but resist accepting Iranian coercion over Hormuz as a new baseline.",
+          "relevance": "May 10 tri-GCC attacks and Trump rejection confirm ICG's warning; the Oman talks are the last diplomatic circuit-breaker before potential kinetic resumption.",
+          "link": "https://www.crisisgroup.org/qna/global/iran-israelpalestine-united-states/fragile-ceasefire-under-threat-what-future-strait-hormuz"
+        },
+        {
+          "title": "Iran Crisis Monitor #4",
+          "author": "International Crisis Group",
+          "publication": "International Crisis Group",
+          "pub_date": "05 May 2026",
+          "access": "Open",
+          "summary": "Briefing Note on the May 4 Gulf escalation; details Iran's 14-point counter-framework (sanctions relief, end to US naval blockade, cessation of hostilities, deferral of nuclear talks); explains Iran's logic of treating Hormuz leverage as its primary asset. Notes Pakistan and Qatar as key mediating conduits; any breakdown likely followed by resumed US airstrikes at higher intensity.",
+          "relevance": "Confirms conflict extension through end-Q3 2026 as base case — both parties remain structurally far apart; Oman talks outcome is the near-term risk hinge.",
+          "link": "https://www.crisisgroup.org/bnt/middle-east-north-africa/iran-israelpalestine-united-states/iran-crisis-monitor-4"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "APT34 (OilRig) — PEAK WINDOW DAY 1 (11–19 May 2026): maximum-priority SOC posture NOW",
+          "text": "Unit 42 and Hunt.io confirmed APT34 C2 infrastructure staging expansion consistent with pre-attack preparation; 1–2 week post-kinetic lag from May 4–5 UAE attacks places today as Day 1. APT34 exploits Exchange CVE-2024-30088, custom .NET backdoors, and PowerShell credential harvesting against GCC financial institutions.",
+          "cve_ids": ["CVE-2024-30088"],
+          "threat_actor": "APT34/OilRig (IRGC-linked)",
+          "recommended_action": "Escalate SOC to heightened monitoring at business open; confirm zero unpatched Exchange instances; flag anomalous outbound DNS from Exchange servers; treat unsolicited Teams screen-share requests from external parties as potentially malicious.",
+          "sources": ["Palo Alto Unit 42", "Hunt.io", "SocRadar, April–May 2026"],
+          "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/"
+        },
+        {
+          "bold_heading": "MuddyWater (IRGC-MOIS) — Teams credential harvesting + Chaos ransomware cover: campaign active, new RustyWater RAT identified",
+          "text": "Rapid7 (May 6) and Trellix (May 2026) confirm Rust-based 'RustyWater' RAT deployed alongside AnyDesk/Teams vector against GCC financial, maritime, and diplomatic targets. May 10 kinetic escalation historically correlates with IRGC cyber intensification within 24–72h.",
+          "cve_ids": [],
+          "threat_actor": "MuddyWater/Seedworm (IRGC-MOIS)",
+          "recommended_action": "Execute Teams external-federation audit immediately if not complete; pause new external-federation approvals; brief helpdesk on Teams social engineering indicators; confirm no unauthorised AnyDesk installations.",
+          "sources": ["Rapid7", "The Hacker News", "Trellix", "SecurityWeek, May 2026"],
+          "url": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Pro-Iran hacktivist coalition — sustained destructive campaign against GCC financial services (continued)",
+          "text": "SocRadar documents 144+ verified incidents since 28 Feb 2026 (313 Team, DieNet, Fatimion, ALTOUFAN TEAM); 313 Team specifically targeted 26 Kuwaiti government domains. TTPs maturing from DDoS to wipers, data leaks, and ransomware. UAE Cybersecurity Council reported 600,000+ daily attack attempts at peak. May 10 kinetic escalation likely to trigger hacktivist follow-on operations within 24–72h.",
+          "threat_actor": "313 Team, DieNet, Fatimion, ALTOUFAN TEAM",
+          "assessed_likelihood": "High",
+          "sources": ["SocRadar", "UAE Cybersecurity Council", "Seqrite Blog, April–May 2026"],
+          "url": "https://socradar.io/blog/pro-iran-cyberattacks-financial-services-144/"
+        },
+        {
+          "bold_heading": "CISA CI Fortify (May 2026) + AA26-113a Volt Typhoon-successor (April 2026) — converging strategic signals",
+          "text": "CISA's CI Fortify initiative urges critical infrastructure operators to plan for geopolitical crisis scenarios including severed connectivity; directly applicable to GCC financial continuity planning. CISA/NCSC-UK AA26-113a identified Chinese state-sponsored Volt Typhoon-successor botnet probing GCC-region internet-facing assets; US-China tensions from May 9 Iran sanctions add geopolitical motive for accelerated reconnaissance.",
+          "threat_actor": "Chinese state-sponsored APT (Volt Typhoon-successor)",
+          "assessed_likelihood": "Medium",
+          "sources": ["CISA", "Nextgov/FCW", "NCSC-UK", "HSToday, April–May 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a"
+        },
+        {
+          "bold_heading": "CISA AA26-097a — Iranian-affiliated PLC exploitation: OT risk for GCC institutions",
+          "text": "Since March 2026, IRGC-affiliated actors have exploited PLCs across US critical infrastructure (water, energy, government); similar TTP risk exists for GCC infrastructure with US-origin OT equipment. Financial institutions with OT in data centre or facility management should confirm PLC/SCADA network segregation.",
+          "threat_actor": "IRGC-affiliated APT (assessed)",
+          "assessed_likelihood": "Low-Medium",
+          "sources": ["CISA AA26-097a", "Industrial Cyber, April 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "4th round Oman talks follow-up: outcome timeline unclear; watch for formal statement within 24–48h",
+          "why_it_matters": "Trump's 'totally unacceptable' rejection and simultaneous diplomatic talks create a binary outcome: resumed talks with a revised framework, or kinetic resumption — either will drive oil prices, AWRP, and cyber threat intensity for the week.",
+          "related_section": "Sections 2, 4, 5, 7A"
+        },
+        {
+          "text": "Al Kharaitiyat arrival at Port Qasim (~11 May) and Pakistan's negotiations for further Qatari LNG transits",
+          "why_it_matters": "Successful completion + additional Iran approvals could begin modest AWRP recalibration by insurers; Iranian reversal or blocking would signal diplomatic breakdown and trigger immediate premium spikes.",
+          "related_section": "Sections 2, 4, 5A"
+        },
+        {
+          "text": "IRGC/MuddyWater cyber response to May 10 kinetic escalation: expect within 24–72h",
+          "why_it_matters": "Historical pattern shows IRGC cyber units intensify operations within days of significant kinetic activity; SOC should be on heightened alert for anomalous authentication, Teams social engineering, and DDoS against Gulf banking platforms from Monday business hours.",
+          "related_section": "Sections 7A, 7B"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    {
+      "section": "1 — Alerts & Sirens",
+      "source_count": 4,
+      "confidence": "High",
+      "note": "Kuwait MOD official statement; corroborated by Al Arabiya, BSS News, Times of Oman, New Kerala"
+    },
+    {
+      "section": "2 — Targets & Incidents",
+      "source_count": 5,
+      "confidence": "High",
+      "note": "Kuwait MOD; UAE MOD; UKMTO corroborated by Qatar MOD and multiple wire services; Kuwait Times"
+    },
+    {
+      "section": "3 — Kuwait Local",
+      "source_count": 4,
+      "confidence": "High",
+      "note": "Kuwait MOD/KUNA; Arab Times; Kuwait Times; aqicn.org (cached 10 May — AQI may not reflect 11 May reading)"
+    },
+    {
+      "section": "4 — Regional Context",
+      "source_count": 5,
+      "confidence": "High",
+      "note": "NBC/CBS/Axios; CNN/Al Jazeera; Bloomberg/gCaptain; Times of Israel; Fortune/PBS"
+    },
+    {
+      "section": "5 — Risk Signal",
+      "source_count": 4,
+      "confidence": "High",
+      "note": "Kuwait MOD; Unit 42/SocRadar; CBS/NBC; US State Dept precedent for sanctions timing"
+    },
+    {
+      "section": "5A — Insurance Risks",
+      "source_count": 3,
+      "confidence": "Medium",
+      "note": "JMIC/UKMTO via Albany Antree (6 May); UKMTO/Qatar MOD; Bloomberg/gCaptain — no new JWC update in window; most recent Albany Antree update is 5 days old"
+    },
+    {
+      "section": "7A — Cyber Tactical",
+      "source_count": 3,
+      "confidence": "Medium",
+      "note": "Unit 42/SocRadar/Hunt.io; Rapid7/Trellix/Hacker News; all sourced from late April–early May research; no new specific advisory issued in coverage window"
+    },
+    {
+      "section": "7B — Cyber Strategic",
+      "source_count": 3,
+      "confidence": "Medium",
+      "note": "SocRadar/Seqrite; CISA/Nextgov; CISA AA26-097a — strategic assessments based on April–May research; no new CERT advisory in coverage window"
+    }
+  ],
+  "footer": "Report #62 compiled 2026-05-11 at 07:30 UTC+3."
+}
