@@ -1,0 +1,296 @@
+{
+  "date": "2026-05-14",
+  "headline": "14 May 2026",
+  "subtitle": "Trump-Xi Beijing Summit Underway; Bubiyan Consular Standoff; Ceasefire on Life Support",
+  "report_number": "65",
+  "coverage": "13 May 2026 07:00 UTC+3 – 14 May 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-05-14",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "0", "previous": "0", "delta": "0", "trend_7d": "↓" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "~107 (est.)", "previous": "107.05", "delta": "~0", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "102.21", "previous": "~101.00", "delta": "+1.21", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "→" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "4", "previous": "4", "delta": "0", "trend_7d": "↑" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "94", "today_label": "Moderate", "previous": "NR", "previous_label": "Moderate", "delta": "NR", "trend_7d": "↓" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "No air raid sirens, civil defense alerts, shelter-in-place orders, or emergency broadcasts reported in Kuwait during the coverage window (13 May 07:00 UTC+3 – 14 May 07:00 UTC+3). The standing MOD directive to follow official channels, avoid rumour-spreading, and not photograph security infrastructure remains in force.",
+          "sources": ["KUNA monitoring", "Kuwait MOD standing advisory"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Bubiyan Island standoff deepens: Iran formally rejects Kuwait's IRGC infiltration claims, demands consular access to four detainees (13 May 2026)",
+          "text": "Iran's Foreign Ministry on 13 May issued a formal rejection of Kuwait's allegations as 'utterly baseless' and demanded immediate consular access to the four detained nationals, insisting they are military personnel who strayed into Kuwaiti waters due to a navigation system malfunction. Kuwait has not publicly acknowledged the consular access request and maintains its Article 51 self-defence reservation. [SINGLE SOURCE for Iranian characterisation of detainees as non-hostile]",
+          "sources": ["PressTV, 13 May 2026", "ANI News, 13 May 2026", "Asianet Newsable, 13 May 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "No new confirmed kinetic strikes, drone attacks, or maritime incidents against Kuwait or GCC territory during the coverage window (13 May 07:00 UTC+3 – 14 May 07:00 UTC+3). The last confirmed kinetic events remain the tri-GCC drone attacks of 10 May 2026.",
+          "sources": ["KUNA monitoring", "Reuters", "Al Jazeera, 13–14 May 2026"]
+        },
+        {
+          "bold_heading": "PGSA toll-payment dynamic continues; OFAC sanctions exposure unchanged",
+          "text": "No new transit figures or toll-payment incidents confirmed in coverage window. The structural extortion dynamic and OFAC advisory warning against any form of PGSA payment remain in force.",
+          "sources": ["OFAC advisory 1 May 2026", "Newsmax 12 May 2026", "AGBI May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "KWI partial operations continue (T4+T5); no new confirmed wave of cancellations in coverage window",
+          "text": "Situation stable relative to prior report; T1 remains closed for drone-strike repairs; Kuwait Airways' base transition from Dammam to T4 continues to add scheduling complexity. DGCA previously confirmed airport 'fully operationally ready' pending authority approval for full T1 resumption.",
+          "sources": ["Nomad Lawyer", "Kuwait Times", "Wego Travel Blog, May 2026"]
+        },
+        {
+          "bold_heading": "Bubiyan consular standoff: Kuwait holds four IRGC-linked detainees as Iran demands release",
+          "text": "Iran's formal demand for consular access was not acknowledged by Kuwait MFA as of compilation at 07:30 UTC+3. The standoff introduces a new legal dimension without a visible near-term resolution pathway.",
+          "sources": ["ANI News", "PressTV", "Asianet Newsable, 13–14 May 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Maritime daylight-only restrictions remain in force (05:00–19:00 UTC+3). QR code via Sahel app required for maritime activity; oil facility and critical infrastructure approach restrictions unchanged.",
+          "sources": ["Kuwait Times", "Arab Times, May 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Kuwait crude exports remain zero; Hormuz closure structurally intact. KIA sovereign wealth fund and FX reserves continue as fiscal backstop. Kuwait-Saudi land bridge logistics integration highlighted as strategic supply chain resilience measure.",
+          "sources": ["Kuwait Times", "Kuwait Mart", "KUNA, May 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Land borders (Salmi/Abdali Saudi crossings): open with 1–2 day trucking delays. Food price inflation ongoing (meat/fish +30%+ reported). Ministry of Commerce Ministerial Resolution No. 31/2026 banning civilian drone sales remains in effect.",
+          "sources": ["Kuwait Times", "DSV Middle East", "Arab Times, May 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "FATF Increased Monitoring obligations ongoing. Kuwait remains on FATF grey list (since 13 February 2026); Ministry of Commerce Decision No. 25/2026 AML penalty matrix in force.",
+          "sources": ["FATF", "ACAMS", "ComplyAdvantage, February–May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "Trump-Xi Beijing summit underway (13–14 May): Iran war and Hormuz reopening top of agenda",
+          "text": "Trump arrived in Beijing on 13 May for two days of talks with Xi Jinping; Iran, the Strait of Hormuz, Taiwan, and trade are all on the table. Analysts assess Beijing will seek significant US concessions — likely on Taiwan or trade — before offering meaningful pressure on Tehran to reopen Hormuz. No joint statement issued as of compilation.",
+          "sources": ["CNN", "Al Jazeera", "CNBC", "Washington Post, 13 May 2026"]
+        },
+        {
+          "bold_heading": "Ceasefire structurally stalled; no 5th round announced; Iran divisions prevent unified negotiating position",
+          "text": "Iran formally rejected the US MOU framework (10–11 May); Trump has not issued a revised proposal. JD Vance said on 13 May talks are still 'making progress' but Iran International assessed Tehran's hardliners as blocking any concurrent Hormuz + nuclear concession.",
+          "sources": ["CNN", "NPR", "CNBC", "Iran International", "Axios, 11–13 May 2026"]
+        },
+        {
+          "bold_heading": "Iran-Kuwait diplomatic dispute risks international escalation via UNSC",
+          "text": "Iran's formal denial of the IRGC operation and demand for consular access sets up a potential international legal dispute; GCC allies (Saudi Arabia, Qatar, UAE) have condemned the Bubiyan incident. If Kuwait escalates to the UN Security Council, Iranian P5 allies (Russia, China) complicate any UNSC resolution.",
+          "sources": ["PressTV", "Al Arabiya", "ANI News", "Middle East Monitor, 13–14 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Trump-Xi summit outcome: monitor for Hormuz breakthrough signal — would trigger rapid repricing of trade finance and insurance positions",
+          "text": "If Beijing signals willingness to press Iran on Hormuz reopening as part of a broader US-China deal, market repricing could be swift and asymmetric. Financial institutions should maintain scenario playbooks for both rapid reopening (trade finance surge, insurance premium compression) and continued stalemate (sustained elevated WRP, inventory draws).",
+          "sources": ["CNN", "Al Jazeera", "CNBC, 13 May 2026"]
+        },
+        {
+          "bold_heading": "Bubiyan consular standoff: prolonged legal dispute carries UNSC escalation risk, which could alter CBK regulatory posture",
+          "text": "Iran's demand for consular access to detainees it characterises as non-hostile military personnel — combined with Kuwait's Article 51 reservation — creates a formal international law dispute. Any UNSC engagement could affect Kuwait's Central Bank (CBK) guidance to financial institutions on Iranian counterparties and correspondent banking protocols.",
+          "sources": ["ANI News", "PressTV", "Middle East Monitor, 13–14 May 2026"]
+        },
+        {
+          "bold_heading": "APT34/MuddyWater peak window Day 4 (through 19 May): SOC heightened posture mandatory",
+          "text": "No confirmed cyber incident in coverage window, but compounded political triggers (May 10 tri-GCC attacks + May 12 Bubiyan IRGC confirmation + May 13 Iran's public rebuttal of Kuwait) sustain elevated motivation for IRGC-linked cyber retaliation. Priority actions: confirm Exchange CVE-2024-30088 patching, complete Teams external-federation audit, enforce FIDO2 MFA on privileged accounts.",
+          "sources": ["Palo Alto Unit 42", "SocRadar", "Rapid7, April–May 2026"]
+        },
+        {
+          "bold_heading": "Oil at ~$107 Brent / ~$102 WTI: IEA projects steepest inventory draws of 2026 in May–June, supporting price floor",
+          "text": "EIA STEO forecasts Brent ~$106/bbl for May–June; IEA projects 8.5 mb/d global inventory draw Q2 2026. Energy-linked lending books, commodity trade finance exposures, and KWD-USD hedging should be reviewed against margining thresholds.",
+          "sources": ["OilPrice.com", "EIA STEO May 2026", "IEA Q2 2026 forecast"]
+        },
+        {
+          "bold_heading": "FATF grey list: no change; enhanced due diligence on Kuwait-linked transactions mandatory",
+          "text": "Compliance teams must maintain elevated screening protocols for Kuwaiti counterparties across all correspondent banking relationships.",
+          "sources": ["FATF", "ACAMS", "ComplyAdvantage, February–May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "JWC JWLA-033 in force; AWRP ~0.8%–1% H&M value per voyage; no new amendment in coverage window",
+          "text": "Bubiyan Island diplomatic standoff and 'life support' ceasefire give underwriters no basis to reduce premiums. Financial institutions with trade finance or cargo insurance covering Kuwait, Qatar, UAE, or Oman counterparties must confirm underwriting terms are current; annual covers remain unavailable.",
+          "sources": ["JWC JWLA-033", "LMA", "Albany Antree, 6 May 2026"]
+        },
+        {
+          "bold_heading": "Insurance identified as an irregular warfare instrument: Small Wars Journal analysis (May 13) documents market-closure mechanism as a conflict force multiplier",
+          "text": "War risk repricing by insurance markets triggered a self-enforcing maritime shutdown that exceeded what any belligerent state intended — effectively closing Hormuz before military force alone could have done so. Hormuz reopening will require weeks-to-months of incident-free transits before markets recalibrate premiums, regardless of ceasefire terms.",
+          "sources": ["Small Wars Journal / Irregular Warfare Journal, 13 May 2026", "AGBI May 2026"]
+        },
+        {
+          "bold_heading": "Safety, not price, is now the primary barrier to Hormuz transits",
+          "text": "AGBI (May 2026) reports shipowners have largely declined to seek war risk cover not due to cost, but because there is 'no safe way to navigate' the strait. Clients may reject coverage-linked performance obligations even if the financial institution has secured underwriting, creating potential documentary credit and contract performance disputes.",
+          "sources": ["AGBI May 2026", "S&P Global March 2026", "Property Casualty 360, March 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "The Insurance Weapon: How Commercial Risk Logic Became an Irregular Warfare Tool at Hormuz",
+          "author": "Staff",
+          "publication": "Small Wars Journal / Irregular Warfare Journal",
+          "pub_date": "2026-05-13",
+          "access": "Open",
+          "summary": "Documents how the insurance market's institutional logic — not deliberate state strategy — became the primary mechanism closing the Strait of Hormuz; US-Israeli strikes triggered the cascade, Iran's tanker attacks sustained it, and the self-enforcing market shutdown exceeded any party's original intent. Draws operational conclusions for future chokepoint conflicts, arguing that financial risk pricing can function as an irregular warfare instrument independent of direct kinetic coercion.",
+          "relevance": "Directly frames the insurance crisis as systemic and market-driven, not purely geopolitical — meaning recovery requires trusted incident-free track records rather than a ceasefire announcement alone, with direct implications for trade finance pricing horizon, recovery planning, and war risk cover review timelines.",
+          "link": "https://smallwarsjournal.com/2026/05/13/the-insurance-weapon/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "APT34 (OilRig/IRGC) — PEAK WINDOW DAY 4 (through 19 May 2026): maintain maximum SOC posture",
+          "text": "No new confirmed APT34 incident in coverage window; compounded political triggers (10 May tri-GCC attacks + 12 May Bubiyan IRGC confirmation + 13 May Iran public rebuttal) add a third escalation motivator. APT34 TTPs: Exchange CVE-2024-30088 exploitation, DNS-tunneling C2, custom .NET backdoors ('Karkoff,' 'DNSpionage'), PowerShell credential harvesting.",
+          "cve_ids": ["CVE-2024-30088"],
+          "threat_actor": "APT34/OilRig (IRGC-linked)",
+          "recommended_action": "Confirm zero unpatched Exchange instances; flag anomalous outbound DNS from Exchange servers; treat unsolicited external Teams screen-share requests as priority SOC incidents requiring immediate triage.",
+          "sources": ["Palo Alto Unit 42", "SocRadar", "Hunt.io", "Dark Reading, April–May 2026"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        },
+        {
+          "bold_heading": "MuddyWater (IRGC-MOIS) / FINRA alert: 'RustyWater' RAT active; financial institution targeting advisory remains in force",
+          "text": "FINRA (March 2026) alert on Iranian threats to financial institutions remains operative with parallel risk for GCC financial institutions. MuddyWater/Seedworm deploys RustyWater (Rust-based RAT) via Teams/AnyDesk social engineering. No new GCC financial sector incidents confirmed in coverage window.",
+          "cve_ids": [],
+          "threat_actor": "MuddyWater/Seedworm (IRGC-MOIS)",
+          "recommended_action": "Complete Teams external-federation audit if outstanding; brief helpdesk on RustyWater social engineering indicators; verify offline fallback procedures for payment and reconciliation systems are tested.",
+          "sources": ["Rapid7", "Trellix", "FINRA advisory March 2026", "CISA CI Fortify, May 2026"],
+          "url": "https://www.finra.org/rules-guidance/guidance/cybersecurity-alert-heightened-threats-iranian-cyber-actors"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Pro-Iran hacktivist coalition (313 Team, DieNet, Fatimion, ALTOUFAN TEAM) — Iran's 13 May public rebuttal of Kuwait may trigger intensification within 48–72 hours",
+          "text": "SocRadar documents 144+ verified incidents against GCC targets since 28 February; Iran's formal denial of the Bubiyan IRGC operation and the consular standoff represent a new political mobilisation trigger for Iran-aligned hacktivists targeting GCC government and financial services.",
+          "threat_actor": "313 Team, DieNet, Fatimion, ALTOUFAN TEAM (Iran-aligned hacktivists)",
+          "assessed_likelihood": "High",
+          "sources": ["SocRadar", "UAE Cybersecurity Council", "Seqrite Blog, April–May 2026"],
+          "url": "https://socradar.io/blog/pro-iran-cyberattacks-financial-services-144/"
+        },
+        {
+          "bold_heading": "CISA CI Fortify + AA26-113a — Trump-Xi summit adds uncertainty to China-affiliated cyber posture assessment",
+          "text": "The Beijing summit may lead to temporary restraint in Chinese state-affiliated cyber activity as a goodwill gesture, or alternatively intensified GCC reconnaissance as diplomatic leverage. CI Fortify warns of potential communications/cloud disruption scenarios; AA26-113a documents Chinese pre-positioning in GCC financial and energy assets.",
+          "threat_actor": "Volt Typhoon-successor (Chinese state-affiliated)",
+          "assessed_likelihood": "Medium",
+          "sources": ["CISA CI Fortify", "CISA AA26-113a", "Nextgov/FCW", "CNN, May 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a"
+        },
+        {
+          "bold_heading": "CISA AA26-097a (PLC exploitation by Iran-affiliated actors) — OT segregation verification required",
+          "text": "Iran-affiliated actors continue exploiting Rockwell/Allen-Bradley PLCs in critical infrastructure; parallel risk for GCC financial institutions with OT components in data centres or facility management. Verify SCADA/BMS network segregation is air-gapped or strictly firewalled.",
+          "threat_actor": "Iran-affiliated OT threat actors (IRGC-linked)",
+          "assessed_likelihood": "Low-Medium (direct Kuwait institutional OT); High (global IRGC-affiliated OT targeting)",
+          "sources": ["CISA AA26-097a", "Industrial Cyber, April 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Trump-Xi Beijing summit joint outcome (expected 14–15 May): watch for any statement on China's role in Iran/Hormuz mediation.",
+          "why_it_matters": "A joint signal of Chinese willingness to press Iran on Hormuz reopening would be the most significant positive development for Gulf commercial normalisation since the conflict began; silence reinforces the multi-quarter structural disruption baseline.",
+          "related_section": "Section 4 (Regional Context), Section 5 (Risk Signal), Section 5A (Insurance & Maritime)"
+        },
+        {
+          "text": "Iran's formal diplomatic response to Kuwait's Article 51 invocation: watch for any UNSC engagement attempt.",
+          "why_it_matters": "Iran has formally rejected Kuwait's IRGC narrative but has not responded via multilateral channels; any UN Security Council engagement would rapidly escalate Kuwait's diplomatic and regulatory posture and may affect CBK guidance.",
+          "related_section": "Section 1 (Alerts & Sirens), Section 2 (Targets & Incidents), Section 3 (Kuwait Local), Section 5 (Risk Signal)"
+        },
+        {
+          "text": "APT34/MuddyWater peak window Day 4 of 9 (through 19 May): business-open monitoring required.",
+          "why_it_matters": "Compounded political triggers sustain elevated IRGC-linked cyber retaliation motivation; monitor Exchange anomalies, Teams external-party activity, and DDoS watches on banking platforms at each business open.",
+          "related_section": "Section 7A (Cyber Tactical), Section 7B (Cyber Strategic)"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 2, "confidence": "Medium", "note": "No alerts to report; based on KUNA monitoring and standing advisory" },
+    { "section": "2 — Targets & Incidents", "source_count": 4, "confidence": "Medium", "note": "Iranian characterisation of detainees as non-hostile is single-sourced via PressTV (state-affiliated)" },
+    { "section": "3 — Kuwait Local", "source_count": 3, "confidence": "Medium", "note": null },
+    { "section": "4 — Regional Context", "source_count": 4, "confidence": "Medium-High", "note": null },
+    { "section": "5 — Risk Signal", "source_count": 4, "confidence": "Medium", "note": null },
+    { "section": "5A — Insurance Risks", "source_count": 3, "confidence": "Medium", "note": null },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "Medium", "note": null },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "Medium", "note": null }
+  ],
+  "footer": "Report #65 compiled 2026-05-14 at 07:30 UTC+3."
+}
