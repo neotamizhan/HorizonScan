@@ -1,0 +1,311 @@
+{
+  "date": "2026-05-15",
+  "headline": "15 May 2026",
+  "subtitle": "Trump-Xi Hormuz Joint Communiqué; IRGC Expands Maritime Control Zone into Gulf of Oman",
+  "report_number": "66",
+  "coverage": "14 May 2026 07:00 UTC+3 – 15 May 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-05-15",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "0", "previous": "0", "delta": "0", "trend_7d": "↓" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "106.89", "previous": "107.00", "delta": "-0.11", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "102.45", "previous": "102.21", "delta": "+0.24", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "→" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "4", "previous": "4", "delta": "0", "trend_7d": "↑" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "~90", "today_label": "Moderate", "previous": "94", "previous_label": "Moderate", "delta": "~-4", "trend_7d": "↓" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "No air raid sirens, civil defense alerts, shelter-in-place orders, or emergency broadcasts reported in Kuwait during the coverage window (14 May 07:00 UTC+3 – 15 May 07:00 UTC+3). Kuwait Cabinet issued a standing directive urging the public to follow official guidance from the Ministries of Defense and Interior and the National Guard, and to refrain from circulating images or videos of targeted sites.",
+          "sources": ["KUNA monitoring", "Kuwait Times May 2026", "Kuwait Cabinet advisory"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "No new confirmed kinetic strikes, drone attacks, or maritime incidents targeting Kuwait or GCC territory during the coverage window (14 May 07:00 UTC+3 – 15 May 07:00 UTC+3). The last confirmed kinetic events remain the tri-GCC drone attacks of 10 May 2026 (Kuwait, UAE, Qatar). No follow-on activity reported.",
+          "sources": ["KUNA monitoring", "Al Jazeera", "Reuters 14–15 May 2026"]
+        },
+        {
+          "bold_heading": "IRGC expands maritime control zone into Gulf of Oman (15 May 2026) — new escalatory signal.",
+          "text": "Iran's IRGC announced an expansion of the maritime control area it considers part of the Strait of Hormuz, extending the claimed zone westward into the Gulf of Oman; this creates a larger area where Iranian forces may stop, inspect, or attack vessels, and where the PGSA can demand permits and tolls. The expansion directly contradicts the Trump-Xi joint communiqué issued on 14 May stating Hormuz must remain 'open and free of tolls.' [SINGLE SOURCE for precise geographic extent of new zone]",
+          "sources": ["The Week 11 May 2026", "2026 Strait of Hormuz Crisis Wikipedia", "Kesco Logistics Weekly Freight Report 15 May 2026"]
+        },
+        {
+          "bold_heading": "Bubiyan Island standoff: Iran awaited formal multilateral response; no UNSC move confirmed.",
+          "text": "Kuwait continues to hold four detained IRGC-linked nationals; Iran's Foreign Ministry formal rejection of Kuwait's narrative (13 May) and consular access demand remain unacknowledged by Kuwait MFA. Kuwait has not confirmed or denied whether it will escalate to the UN Security Council; the Article 51 self-defence reservation remains active.",
+          "sources": ["Al Jazeera", "The National", "Gulf News", "PressTV 12–14 May 2026"]
+        },
+        {
+          "bold_heading": "PGSA toll extortion dynamic continues; State Department now explicitly condemns tolls.",
+          "text": "Senior US officials confirmed post-Trump-Xi summit that 'no country should be permitted to charge transit tolls in the Strait of Hormuz'; OFAC advisory warning against PGSA payments remains in force. No new toll-payment incidents confirmed in coverage window.",
+          "sources": ["State Department readout 14 May 2026", "OFAC advisory 1 May 2026", "CBS News 14 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "KWI partial operations continue (T4+T5, 06:00–18:00 commercial window); T1 remains closed for drone-strike repairs. Kuwait Airways has announced 11 new summer destinations with rollout from 9 June 2026, subject to security conditions. UK FCDO 'all but essential travel' and US State Department Level 3 advisories remain in force.",
+          "sources": ["Wego Travel Blog", "Nomad Lawyer", "FCDO", "US State Department May 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Bubiyan consular standoff: Kuwait holds four IRGC-linked detainees; Iran's formal diplomatic response pending. No UNSC referral confirmed; Article 51 reservation active.",
+          "sources": ["Al Jazeera", "The National", "Gulf News 12–14 May 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Maritime daylight-only restrictions remain in force (05:00–19:00 UTC+3). QR code via Sahel app required for maritime activity; oil facility and critical infrastructure approach restrictions unchanged.",
+          "sources": ["Kuwait Times", "Arab Times May 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Kuwait crude exports remain zero; Hormuz structural closure intact. IRGC zone expansion into Gulf of Oman adds further operational uncertainty. KIA sovereign wealth fund and FX reserves continue as fiscal backstop.",
+          "sources": ["Kuwait Times", "KUNA May 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Land borders (Salmi/Abdali Saudi crossings): open with 1–2 day trucking delays. Food price inflation ongoing (meat/fish +30%+ reported). Ministry of Commerce Ministerial Resolution No. 31/2026 banning civilian drone sales remains in effect.",
+          "sources": ["Kuwait Times", "DSV Middle East", "Arab Times May 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "FATF Increased Monitoring obligations ongoing. Kuwait on grey list since 13 February 2026. New KNBCC cybersecurity baseline (NCSC Decision No. 2/2026) published 5 April 2026; 18-month compliance window runs to approximately October 2027.",
+          "sources": ["FATF", "ACAMS", "ComplyAdvantage", "6clicks/KNBCC April–May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "Trump-Xi Beijing summit concludes with joint Hormuz communiqué — diplomatically significant, operationally insufficient.",
+          "text": "Both governments committed that the Strait of Hormuz 'must remain open and free of tolls' and that Iran 'can never have a nuclear weapon'; Xi offered to help broker peace with Iran; US Treasury Secretary Bessent said China will work 'behind the scenes' to reopen Hormuz. However, Foreign Policy's post-summit assessment notes 'few wins for Trump'; Iran's immediate counter-signal was expanding IRGC maritime control into the Gulf of Oman, signalling Tehran is not yet responding to US-China pressure.",
+          "sources": ["CBS News", "Time", "CNBC", "Foreign Policy", "Iran International 14–15 May 2026"]
+        },
+        {
+          "bold_heading": "Ceasefire structurally stalled; 5th round not announced.",
+          "text": "Iran insists on war reparations, sovereignty over Hormuz, sanctions relief, and release of frozen assets; US-proposed 20-year enrichment moratorium rejected by Tehran. Trump has not issued a revised proposal. IRGC zone expansion into Gulf of Oman is being read by analysts as a deliberate counter-signal following the Beijing communiqué.",
+          "sources": ["CNBC", "CNN", "Iran International", "Al Jazeera 11–15 May 2026"]
+        },
+        {
+          "bold_heading": "GCC-Iran diplomatic rupture deepens; Bubiyan standoff adds new bilateral flashpoint.",
+          "text": "Saudi Arabia, Qatar, and UAE have condemned the IRGC Bubiyan infiltration; any UNSC engagement by Kuwait would test GCC solidarity and complicate Chinese mediation, given Beijing's hesitance to act against Tehran at the Security Council.",
+          "sources": ["Al Arabiya", "Middle East Monitor", "Al Jazeera 13–15 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "Trump-Xi Hormuz joint communiqué is a diplomatic signal, not an operational trigger — do not reprice trade finance ahead of an incident-free track record. Insurance markets require weeks-to-months of confirmed safe transits before premiums recalibrate; Iran's IRGC zone expansion on 15 May further validates this caution. Do not relax war-risk underwriting thresholds, SBLC/LC terms, or documentary credit performance conditions on the basis of the Beijing communiqué alone.",
+          "sources": ["Khaleej Times", "AGBI", "S&P Global", "Foreign Policy 14–15 May 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "IRGC Gulf of Oman zone expansion: direct operational risk for shipping clients and trade finance counterparties. The expanded control zone extends exposure beyond the strait itself; financial institutions with trade finance, cargo insurance, or correspondent banking exposure for vessels transiting the Arabian Sea approach to Hormuz must reassess geographic risk perimeters.",
+          "sources": ["The Week", "Kesco Logistics 15 May 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "APT34/MuddyWater peak window Day 5 of 9 (through 19 May): SOC heightened posture mandatory. No confirmed GCC financial sector incident in coverage window; four compounded political triggers sustain elevated IRGC-linked cyber retaliation motivation. Priority: confirm Exchange CVE-2024-30088 patching, Teams external-federation audit, FIDO2 MFA on privileged accounts.",
+          "sources": ["Palo Alto Unit 42", "SocRadar", "FINRA", "Rapid7 March–May 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Oil at Brent $106.89 / WTI $102.45: price floor sustained; Trump-Xi summit generated Xi's interest in more US oil purchases, reducing Chinese Gulf crude dependence over the medium term, but near-term supply disruption is unchanged while Hormuz is closed. Review energy-linked lending and commodity trade finance against margining thresholds.",
+          "sources": ["TradingEconomics", "EIA STEO May 2026", "CNBC 14–15 May 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "FATF grey list: no change; enhanced due diligence mandatory. KNBCC cybersecurity compliance clock running (deadline ~October 2027); assess internal readiness against the new mandatory baseline.",
+          "sources": ["FATF", "6clicks/KNBCC April–May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "JWC JWLA-033 in force; AWRP 0.8%–1% H&M per voyage for Gulf region; Trump-Xi joint statement will not compress premiums. Underwriters require sustained incident-free track record, mine-clearance certification, and military escort arrangements before repricing. Financial institutions with trade finance or cargo insurance covering Kuwait, Qatar, UAE, or Oman counterparties must confirm underwriting terms remain current; annual covers remain unavailable.",
+          "sources": ["JWC JWLA-033", "LMA", "Khaleej Times", "AGBI May 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "IRGC maritime zone expansion into Gulf of Oman (15 May) may prompt JWC listed-area amendment. The extended IRGC control zone stretches beyond the existing Persian Gulf high-risk designation; monitor insurers and P&I clubs for updated notices covering Gulf of Oman approach lanes. If JWC amends JWLA-033 to expand the listed area, H&M and cargo endorsements covering approach routes will require renegotiation. [SINGLE SOURCE — The Week / Kesco Logistics; monitor for JWC formal response]",
+          "sources": ["The Week", "Kesco Logistics 15 May 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "US DFC political risk reinsurance facility ($40bn revolving) announced but not yet operational. Financial institutions with trade finance clients seeking to resume Hormuz passage should monitor DFC operational status — it does not substitute for JWC listed-area clearance.",
+          "sources": ["World Economic Forum", "Khaleej Times April–May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "From Iran to Trade, China Summit Produces Few Wins for Trump",
+          "author": "Staff",
+          "publication": "Foreign Policy",
+          "pub_date": "2026-05-14",
+          "access": "Paywall",
+          "summary": "Post-summit analysis argues Trump failed to secure major concessions from Xi: no rare-earths deal, no material Taiwan concessions, and on Iran only a symbolic joint statement lacking enforcement mechanism; China agreed to buy more Boeing jets and resume US beef imports but Beijing's Iran leverage is described as structurally constrained. The piece notes Xi's Taiwan warning overshadowed the summit's cooperative framing.",
+          "relevance": "Directly calibrates how much operational weight to assign the Hormuz joint communiqué — the answer is less than headline coverage suggests; trade finance and insurance scenario planning should not accelerate Hormuz-reopening timelines on the basis of the Beijing statement alone.",
+          "link": "https://foreignpolicy.com/2026/05/14/trump-xi-jinping-china-summit-taiwan-iran-trade-beef/"
+        },
+        {
+          "title": "The Trump–Xi Summit: Can Progress Be Made on Iran?",
+          "author": "Staff",
+          "publication": "Chatham House",
+          "pub_date": "2026-05-13",
+          "access": "Open",
+          "summary": "Pre-summit analysis frames the Beijing talks as a test of Chinese leverage over Tehran, noting Beijing has economic influence over Iran but has historically been unwilling to apply coercive diplomatic pressure; China's preference is to position itself as an honest broker without burning its relationship with Tehran, meaning any deliverables on Iran will be framed as facilitation rather than pressure.",
+          "relevance": "Provides the analytical lens for interpreting the summit outcome — China's mediation offer is real but its execution timeline is long and uncertain; operational risk posture should not change until verified Iranian behavioural change at Hormuz.",
+          "link": "https://www.chathamhouse.org/2026/05/trump-xi-summit-can-progress-be-made-iran"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "APT34 (OilRig/IRGC) — PEAK WINDOW DAY 5 (through 19 May 2026): maintain maximum SOC posture; IRGC zone expansion adds new escalation trigger.",
+          "text": "No new confirmed APT34 incident in coverage window; IRGC's 15 May maritime zone expansion into the Gulf of Oman represents a fourth compounded political trigger sustaining elevated motivation for cyber retaliation. APT34 TTPs: Exchange CVE-2024-30088 exploitation, DNS-tunneling C2, custom .NET backdoors ('Karkoff,' 'DNSpionage'), PowerShell credential harvesting.",
+          "cve_ids": ["CVE-2024-30088"],
+          "threat_actor": "APT34/OilRig (IRGC-linked)",
+          "recommended_action": "Confirm zero unpatched Exchange instances; flag anomalous outbound DNS from Exchange servers; treat any unsolicited external Teams screen-share requests as priority SOC incidents.",
+          "sources": ["Palo Alto Unit 42", "SocRadar", "Dark Reading April–May 2026"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        },
+        {
+          "bold_heading": "MuddyWater (IRGC-MOIS) / 'Chaos' ransomware false-flag tactic confirmed: FINRA advisory operative.",
+          "text": "Trellix and SecurityWeek document a 2026 MuddyWater campaign disguising targeted intrusions as Chaos ransomware attacks — a false-flag tactic complicating incident attribution for Gulf financial sector SOC teams. Social engineering via Teams/AnyDesk remains primary initial access vector (RustyWater RAT).",
+          "cve_ids": [],
+          "threat_actor": "MuddyWater/Seedworm (IRGC-MOIS)",
+          "recommended_action": "SOC teams should not dismiss ransomware-presenting incidents without ruling out APT false-flag; complete Teams external-federation audit; verify payment system offline fallbacks are tested and current.",
+          "sources": ["Trellix", "SecurityWeek", "FINRA advisory March 2026", "Rapid7 April–May 2026"],
+          "url": "https://www.trellix.com/blogs/research/the-iranian-cyber-capability-2026/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Pro-Iran hacktivist coalition (313 Team, DieNet, Fatimion, ALTOUFAN TEAM) — IRGC zone expansion adds fresh mobilisation trigger.",
+          "text": "SocRadar documents 144+ verified incidents against GCC targets since 28 February; IRGC's assertive maritime posture announcement on 15 May will likely be exploited as hacktivist recruitment and mobilisation messaging. Sustained and escalating operations against GCC government and financial services through end-May 2026.",
+          "threat_actor": "313 Team, DieNet, Fatimion, ALTOUFAN TEAM (Iran-aligned hacktivists)",
+          "assessed_likelihood": "High",
+          "sources": ["SocRadar", "UAE Cybersecurity Council", "Seqrite Blog April–May 2026"],
+          "url": "https://socradar.io/blog/pro-iran-cyberattacks-financial-services-144/"
+        },
+        {
+          "bold_heading": "CISA CI Fortify + AA26-113a — Chinese cyber posture post-summit: monitoring period, not stand-down.",
+          "text": "The Beijing summit's conclusion does not signal a cessation of Chinese state-affiliated cyber reconnaissance; Chatham House analysis confirms China's approach is long-game positioning. CI Fortify warns of communications/cloud disruption scenarios; AA26-113a documents Chinese pre-positioning in GCC financial and energy assets.",
+          "threat_actor": "Chinese state-affiliated actors",
+          "assessed_likelihood": "Medium",
+          "sources": ["CISA CI Fortify", "CISA AA26-113a", "Chatham House May 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a"
+        },
+        {
+          "bold_heading": "CISA AA26-097a (PLC exploitation by Iran-affiliated actors) — OT segregation verification required.",
+          "text": "Iran-affiliated actors continue exploiting Rockwell/Allen-Bradley PLCs in critical infrastructure; parallel risk for GCC financial institutions with OT components in data centres or facility management systems. IRGC zone expansion may signal broader willingness to escalate asymmetric responses including OT targeting.",
+          "threat_actor": "IRGC-affiliated actors",
+          "assessed_likelihood": "Low-Medium for direct Kuwait institutional OT; High for continued global IRGC-affiliated OT campaign",
+          "sources": ["CISA AA26-097a", "IC3 CSA 260407", "Industrial Cyber April 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Iran's formal response to Trump-Xi Hormuz joint communiqué: watch for Tehran's characterisation of the Beijing statement.",
+          "why_it_matters": "IRGC zone expansion is an implicit rejection; a formal Foreign Ministry statement explicitly repudiating the communiqué would signal Chinese mediation has been rebuffed at the outset, collapsing the summit's primary Iran deliverable and resetting ceasefire timelines.",
+          "related_section": "Section 4 (Regional Context), Section 5 (Risk Signal), Section 5A (Insurance & Maritime)"
+        },
+        {
+          "text": "Bubiyan Island: Kuwait's response to Iran's consular access demand — watch for UNSC engagement.",
+          "why_it_matters": "Any UNSC referral escalates the dispute into a multilateral arena where Russian and Chinese P5 presence complicates resolution, and may affect CBK regulatory guidance on Iranian counterparties.",
+          "related_section": "Section 1 (Alerts), Section 2 (Targets & Incidents), Section 3 (Kuwait Local), Section 5 (Risk Signal)"
+        },
+        {
+          "text": "APT34/MuddyWater peak window Day 6 of 9 (through 19 May): business-open monitoring required.",
+          "why_it_matters": "Four compounded political triggers now active; the new Chaos ransomware false-flag MuddyWater tactic means ransomware-presenting incidents should trigger APT false-flag protocols before attribution is assumed.",
+          "related_section": "Section 7A (Cyber Tactical), Section 7B (Cyber Strategic)"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "Medium", "note": null },
+    { "section": "2 — Targets & Incidents", "source_count": 5, "confidence": "Medium", "note": "Single-source on IRGC zone expansion geographic extent" },
+    { "section": "3 — Kuwait Local", "source_count": 4, "confidence": "Medium", "note": null },
+    { "section": "4 — Regional Context", "source_count": 5, "confidence": "Medium-High", "note": null },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "Medium", "note": null },
+    { "section": "5A — Insurance Risks", "source_count": 4, "confidence": "Medium", "note": "JWC formal response to IRGC zone expansion not yet confirmed" },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "Medium", "note": null },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "Medium", "note": null }
+  ],
+  "footer": "Report #66 compiled 2026-05-15 at 07:30 UTC+3."
+}
