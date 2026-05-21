@@ -1,0 +1,306 @@
+{
+  "date": "2026-05-21",
+  "headline": "21 May 2026",
+  "subtitle": "One-Page MOU Negotiations Active; Oil Prices Fall on Deal Optimism; Blockade at 91 Vessels Redirected",
+  "report_number": "72",
+  "coverage": "20 May 2026 07:00 UTC+3 – 21 May 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-05-21",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "0", "previous": "0", "delta": "0", "trend_7d": "→" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "105.54", "previous": "111.15", "delta": "-5.61", "trend_7d": "↓" },
+      { "metric": "WTI crude ($/bbl)", "today": "97.33", "previous": "103.00", "delta": "-5.67", "trend_7d": "↓" },
+      { "metric": "Strait of Hormuz transits/day", "today": "2", "previous": "~0 (structurally suppressed)", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "5", "previous": "5", "delta": "0", "trend_7d": "→" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "29", "today_label": "Good", "previous": "29", "previous_label": "Good", "delta": "0", "trend_7d": "→" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "No air raid sirens, civil defense alerts, shelter-in-place orders, or emergency broadcasts issued in Kuwait during the coverage window (20 May 07:00 UTC+3 – 21 May 07:00 UTC+3). Kuwait Cabinet's standing directive urging the public to follow official guidance from the Ministries of Defence and Interior and the National Guard, and to refrain from circulating images or videos of targeted sites, remains in effect.",
+          "sources": ["KUNA monitoring", "Kuwait Times, May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "No kinetic incident in Kuwait",
+          "text": "No KUNA bulletin, Kuwait MoD press statement, or credible Tier 1 source reported a strike, siren, or security incident in Kuwait on 20–21 May 2026. Standing Cabinet directive remains in effect.",
+          "sources": ["KUNA monitoring", "Kuwait Times, May 2026"]
+        },
+        {
+          "bold_heading": "US Marines board and release Iranian-flagged tanker M/T Celestial Sea in Gulf of Oman (19–20 May)",
+          "text": "CENTCOM confirmed on 20 May 2026 that US Marines (31st MEU) boarded the Iran-flagged commercial oil tanker M/T Celestial Sea, suspected of attempting to violate the US naval blockade of Iranian ports, in the Gulf of Oman on 19 May. The vessel was searched, released, and directed to change course. Total ships redirected under blockade: 91.",
+          "sources": ["Stars and Stripes", "Bloomberg", "The Hill", "gCaptain", "CENTCOM, 20 May 2026"]
+        },
+        {
+          "bold_heading": "One-page MOU negotiations ongoing; ceasefire holding below major-combat threshold [SINGLE SOURCE]",
+          "text": "Axios reported on 6 May that US and Iranian officials are closing in on a 14-point MOU covering: declaration of war end, 30-day negotiation period for Hormuz, Iran's nuclear programme, and sanctions. Joint Chiefs Chairman Gen. Dan Caine confirmed all recent incidents are below the threshold of restarting major combat operations; Secretary Hegseth stated the ceasefire certainly holds. No signed agreement announced.",
+          "sources": ["Axios", "CBS News", "NBC News liveblog", "CNBC, May 2026"]
+        },
+        {
+          "bold_heading": "US Senate advanced Iran war powers resolution 50-47 on procedural vote (19–20 May)",
+          "text": "The Senate voted 50-47 to advance Sen. Tim Kaine's war powers resolution directing Trump to remove US forces from hostilities against Iran absent Congressional authorisation. Four Republicans crossed — Collins, Murkowski, Paul, Cassidy. Final vote timing not confirmed; significant hurdles remain.",
+          "sources": ["NBC News", "CBS News", "Washington Post", "The Hill, 19–20 May 2026"]
+        },
+        {
+          "bold_heading": "Bubiyan Island IRGC standoff: no new development",
+          "text": "Four IRGC detainees (arrested 3 May; confirmed 12 May) remain in custody; two accomplices still at large; Iran continues to deny IRGC involvement. Kuwait's request for Iran's consular access response remains outstanding.",
+          "sources": ["Al Jazeera", "The National", "Kuwait Times", "JPOST, May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "KWI: Partial operations expand slightly; T1 still closed",
+          "text": "Emirates increased to 5 daily flights by 21 May (up from 4). Kuwait Airways (T4) and Jazeera Airways (T5) operating normally within commercial windows. Qatar Airways restart targeted 16 June. T1 remains closed. US State Dept Level 3 and UK FCDO advisories in effect.",
+          "sources": ["Wego Travel Blog", "Nomad Lawyer", "Gulf News", "FCDO", "US State Dept, May 2026"]
+        },
+        {
+          "bold_heading": "Shuwaikh Port: Security Level 2; daylight-only restrictions unchanged",
+          "text": "Operations restricted to 05:00–19:00 UTC+3; QR code via Sahel app required for all maritime activity. Oil facility and critical infrastructure approach restrictions unchanged.",
+          "sources": ["Inchcape Shipping Services", "GAC, May 2026"]
+        },
+        {
+          "bold_heading": "Land borders: open with 1–2 day trucking delays; food price inflation persists",
+          "text": "Saudi and Iraq crossings functioning. Cumulative food price inflation (meat/fish +30%+) ongoing. Ministerial Resolution No. 31/2026 (civilian drone ban) remains in effect.",
+          "sources": ["DSV Middle East", "Kuwait Mart Company", "Arab Times", "Logistics Cluster, May 2026"]
+        },
+        {
+          "bold_heading": "FATF grey list: AML crackdown intensifying; PM chaired compliance meeting 30 April",
+          "text": "Ministerial Resolution No. 25/2026 (AML/CFT penalty matrices for DNFBPs) in force. MOI and Customs signed data-sharing agreement aligned with FATF guidelines. Kuwait remains on FATF grey list (since 13 February 2026); KNBCC cybersecurity compliance window (~October 2027) ongoing.",
+          "sources": ["Kuwait Times", "Washington Centre", "FATF", "AGBI, May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "Ceasefire holding but fragile; one-page MOU track the single most important near-term signal. The April 8 ceasefire remains technically intact; US officials characterise incidents as sub-threshold. The Axios-reported 14-point MOU negotiation is the primary deal vehicle; its outcome within the next 72 hours will determine whether oil prices recover or reverse sharply. Absent a signed framework, the 18 May strike postponement lapses without formal extension.",
+          "sources": ["Axios", "CNBC", "CBS News", "NBC News liveblog, May 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Hormuz remains structurally closed to commercial shipping; PGSA at ~2% capacity. Only approximately 2 vessels transited on 21 May 2026 (pre-crisis baseline ~95/day). PGSA transit permits being issued; no official tariff yet; fees up to $2M per transit in Chinese yuan. US naval blockade enforced — 91 ships redirected to date.",
+          "sources": ["Straits.live", "CENTCOM", "Windward", "Euronews", "Bloomberg, May 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Senate war powers resolution passed procedural hurdle; final vote and signature outcome uncertain. If passed and signed, it would constrain further strikes; if vetoed, it removes one political brake on military resumption. Either scenario reshapes diplomatic trajectory significantly.",
+          "sources": ["NBC News", "Washington Post", "The Hill, 20 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Do NOT reduce BCP posture based on oil price drop",
+          "text": "Brent's 5.16% single-day fall to $105.54 and WTI's 6.55% drop to $97.33 reflect market pricing of deal probability, not a signed framework. A deal failure would trigger rapid reversal to $115+ Brent. Maintain full BCP readiness through resolution or definitive collapse of MOU talks.",
+          "sources": ["Trading Economics", "Investing.com", "Axios, May 2026"]
+        },
+        {
+          "bold_heading": "CENTCOM tanker boarding (91 ships total): OFAC nexus widening",
+          "text": "The M/T Celestial Sea boarding confirms the blockade is actively enforced. Any institution with correspondent flows or trade finance clients touching Iranian-linked shipping must confirm OFAC clear-path. Payment legs in Chinese yuan or via entities processing PGSA fees remain the highest-risk exposure vector.",
+          "sources": ["Stars and Stripes", "Bloomberg", "CENTCOM, 20 May 2026"]
+        },
+        {
+          "bold_heading": "Senate war powers resolution final vote: monitor this week",
+          "text": "A final vote would either introduce a formal Congressional brake on further strikes or confirm its absence, reshaping the 72-hour risk window and medium-term diplomatic trajectory.",
+          "sources": ["NBC News", "CBS News", "Washington Post, 20 May 2026"]
+        },
+        {
+          "bold_heading": "Brent/WTI divergence tightening; energy-linked lending covenants at risk on upside reversal",
+          "text": "Brent at $105.54, WTI at $97.33; Brent-WTI spread ($8.21) reflects Hormuz-driven Atlantic-basin premium. If MOU talks fail and Brent spikes toward $115–120, review energy-linked lending covenant thresholds and trade finance margining on Hormuz-routing cargo collateral.",
+          "sources": ["Trading Economics", "Investing.com, 20 May 2026"]
+        },
+        {
+          "bold_heading": "Kuwait AML crackdown intensifying: counterparty due diligence review recommended",
+          "text": "Ministerial Resolution No. 25/2026 introduces formal AML/CFT penalty matrices for DNFBPs; MOI-Customs data-sharing agreement now live. Institutions with Kuwaiti DNFBP counterparties should verify current KYC/CDD reflects the updated regulatory environment; enhanced monitoring warranted for the FATF grey-list period.",
+          "sources": ["Kuwait Times", "Washington Centre", "FATF, May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "JWC JWLA-033 in force; war risk premiums 3–10% of hull value; no change",
+          "text": "JWC high-risk designation covers the entire Persian Gulf. War risk premiums remain at 3–8% (standard tankers) to up to 10% (US-flagged vessels) of hull value per voyage. Annual hull covers unavailable for Persian Gulf transits. Elevated WRP costs expected through Q3 2026 minimum.",
+          "sources": ["Lloyd's List", "Albany Antree", "Insurance Journal", "S&P Global, March–May 2026"]
+        },
+        {
+          "bold_heading": "PGSA transit permits live; P&I and H&M cover voidance risk in active effect",
+          "text": "Any operator paying PGSA fees via sanctioned-entity-linked accounts faces active risk of voiding P&I Club and H&M underwriter cover under sanctions and conflict exclusion clauses. The M/T Celestial Sea boarding confirms US enforcement posture. Institutions must obtain explicit written confirmation from underwriters of cover retention before disbursing against any PGSA-transiting trade finance facility.",
+          "sources": ["Euronews", "Maritime Executive", "Windward", "Lloyd's List", "Kennedys Law, May 2026"]
+        },
+        {
+          "bold_heading": "Six P&I clubs continue to restrict Gulf cover; DFC $40bn reinsurance facility remains inactive",
+          "text": "No change from prior digest. The DFC $40bn political risk reinsurance facility has not been activated. The market gap between cover withdrawal and available government-backed alternatives remains unresolved.",
+          "sources": ["World Economic Forum", "Maritime Executive, May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "The Iran War Could Be Trump's Greatest Foreign-Policy Failure",
+          "author": "Staff",
+          "publication": "Foreign Policy",
+          "pub_date": "2026-05-18",
+          "access": "Partial paywall",
+          "summary": "Argues that while Operation Epic Fury achieved its immediate military objectives, the failure to plan for Hormuz closure and the compounding economic damage (IMF cut global growth forecast to 2%) are producing strategic costs that dwarf tactical gains. The ceasefire-on-life-support is framed as an outcome neither the US nor Iran can sustain indefinitely, with Gulf allies questioning the alliance calculus.",
+          "relevance": "Directly frames the medium-term scenario in which Hormuz closure becomes structural — with significant implications for trade finance, energy-linked lending, and Gulf correspondent relationships.",
+          "link": "https://foreignpolicy.com/2026/05/18/iran-war-trump-foreign-policy-failure-energy-crisis-military/"
+        },
+        {
+          "title": "Three Scenarios for the Gulf States After the Iran War",
+          "author": "Staff",
+          "publication": "Carnegie Endowment for International Peace",
+          "pub_date": "2026-04",
+          "access": "Open",
+          "summary": "Models three post-war trajectories for Gulf states: rapid normalisation, protracted dual-blockade with GCC fragmentation, or renewed kinetic escalation. Assesses the Bubiyan IRGC incident as a deliberate Iranian pressure signal testing Kuwait's neutrality boundary.",
+          "relevance": "Scenario framework maps directly to institutional risk planning — the protracted dual-blockade scenario is the current baseline and requires sustained defensive financial posture.",
+          "link": "https://carnegieendowment.org/emissary/2026/04/gulf-states-gcc-iran-war-three-scenarios"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "Pro-Iran hacktivist coalition: DDoS threat structurally elevated; do not stand down",
+          "text": "SocRadar: 144+ verified incidents against GCC targets since 28 Feb 2026; financial services is #2 most targeted sector. Oil price declines and MOU optimism do not reduce underlying threat. If MOU talks collapse within 24–72 hours, expect immediate DDoS/defacement escalation.",
+          "cve_ids": [],
+          "threat_actor": "313 Team, DieNet, Fatimion, ALTOUFAN TEAM (pro-Iran hacktivist coalition)",
+          "recommended_action": "Maintain DDoS scrubbing, WAF, and CDN protections at current defensive posture through MOU resolution; do not stand down defences based on oil price moves alone.",
+          "sources": ["SocRadar", "UAE Cybersecurity Council", "SISA InfoSec, April–May 2026"],
+          "url": "https://socradar.io/blog/pro-iran-cyberattacks-financial-services-144/"
+        },
+        {
+          "bold_heading": "CISA AA26-097a: Iranian-affiliated PLC exploitation; OT patch verification required",
+          "text": "Iranian-affiliated actors are actively exploiting internet-connected Rockwell Automation/Allen-Bradley PLCs across critical infrastructure, manipulating HMI/SCADA displays. Financial sector relevance: facility management, data centre energy controls, and building management systems. Advisory issued April 7, 2026; threat remains active.",
+          "cve_ids": ["See CISA AA26-097a"],
+          "threat_actor": "Iranian-affiliated APT (IRGC-linked)",
+          "recommended_action": "Verify network segmentation and isolation of all facility management and data centre OT systems; apply CISA mitigations for Rockwell/Allen-Bradley devices; report exploitation evidence to CISA.",
+          "sources": ["CISA AA26-097a", "IC3 CSA 260407", "Industrial Cyber, April–May 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "APT34 (OilRig)/MuddyWater: sustained Gulf FS targeting through June 2026",
+          "text": "APT34/OilRig remains highly active against Gulf financial institutions; latest TTPs include StealHook backdoor (credential exfiltration from on-premises Exchange) and CVE-2024-30088 exploitation. MuddyWater has shifted to custom Rust-based implants (RustyWater, CHAR backdoor). Seedworm confirmed intrusion operations against a US bank in early 2026.",
+          "threat_actor": "APT34/OilRig, MuddyWater/Seedworm (Iranian state-sponsored)",
+          "assessed_likelihood": "High",
+          "sources": ["Trellix", "LevelBlue SpiderLabs", "Palo Alto Unit 42", "SocRadar", "Nozomi Networks, April–May 2026"],
+          "url": "https://www.trellix.com/blogs/research/the-iranian-cyber-capability-2026/"
+        },
+        {
+          "bold_heading": "CISA CI Fortify Initiative: formalise geopolitical cyber outage response plans",
+          "text": "CISA's May 2026 CI Fortify guidance instructs financial sector operators to develop and test geopolitical-crisis-scenario cyber outage response plans. FINRA confirmed awareness of Iranian actors actively targeting US financial institutions in March 2026.",
+          "threat_actor": "Iranian state-sponsored APTs (broad)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["CISA CI Fortify guidance", "FINRA", "Federal News Network, May 2026"],
+          "url": "https://federalnewsnetwork.com/cybersecurity/2026/05/cisa-tells-critical-organizations-to-prepare-for-cyber-outages/"
+        },
+        {
+          "bold_heading": "MuddyWater Rust-based implants (RustyWater, CHAR): detection gap risk for legacy endpoint tooling",
+          "text": "MuddyWater's shift to Rust-based payloads is a deliberate evasion strategy against signature-based and legacy AV detection. Gulf financial institutions relying on older endpoint detection tooling may face detection gaps. Phoenix backdoor and Fooder loader — earlier in the same family — already used in MENA-region campaigns.",
+          "threat_actor": "MuddyWater (IRGC-aligned)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["Trellix", "LevelBlue SpiderLabs", "Nozomi Networks, April–May 2026"],
+          "url": "https://www.levelblue.com/blogs/levelblue-blog/inside-apt34-oilrig-tools-techniques-and-global-cyber-threats"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "One-page MOU outcome: deal, collapse, or further extension.",
+          "why_it_matters": "The 14-point MOU is the single most consequential near-term signal; a deal would reduce BCP posture requirements, a collapse would restore pre-18 May strike threat environment and spike Brent toward $115+.",
+          "related_section": "Section 2 (Targets & Incidents), Section 5 (Risk Signal)"
+        },
+        {
+          "text": "US Senate war powers resolution: final vote timing.",
+          "why_it_matters": "A final vote would either introduce a formal Congressional constraint on Trump's strike authority or confirm its absence, reshaping the 72-hour risk window and medium-term diplomatic trajectory.",
+          "related_section": "Section 2 (Targets & Incidents), Section 4 (Regional Context)"
+        },
+        {
+          "text": "PGSA official tariff publication.",
+          "why_it_matters": "Once published, institutions must immediately assess counterparty OFAC nexus, confirm P&I Club and H&M underwriter cover retention for PGSA-transiting vessels, and escalate any Bitcoin or Chinese yuan payment pathway review to compliance counsel.",
+          "related_section": "Section 5A (Insurance & Maritime), Section 5 (Risk Signal)"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 2, "confidence": "Medium", "note": "Absence of alerts confirmed via KUNA monitoring and Kuwait Times; no positive alert reported" },
+    { "section": "2 — Targets & Incidents", "source_count": 7, "confidence": "High", "note": "CENTCOM boarding confirmed by multiple Tier 1 outlets; MOU proximity claim single-sourced (Axios) and flagged" },
+    { "section": "3 — Kuwait Local", "source_count": 5, "confidence": "Medium", "note": "Airport and port data from specialist travel/shipping sources; FATF from official FATF registry" },
+    { "section": "4 — Regional Context", "source_count": 5, "confidence": "Medium-High", "note": "Hormuz transit count from Straits.live (live tracker); broader context from Axios, CNBC, CENTCOM" },
+    { "section": "5 — Risk Signal", "source_count": 4, "confidence": "Medium", "note": "Oil prices from Trading Economics; blockade data from CENTCOM; AML from Kuwait Times and FATF" },
+    { "section": "5A — Insurance Risks", "source_count": 4, "confidence": "Medium", "note": "WRP data from Lloyd's List and S&P Global; cover voidance analysis from Kennedys Law and Maritime Executive" },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "Medium", "note": "CISA AA26-097a issued April 7 — advisory is active and standing; SocRadar cumulative count methodology not independently verified" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "Medium", "note": "APT34/MuddyWater capability data from Trellix and LevelBlue; CISA CI Fortify from Federal News Network" }
+  ],
+  "footer": "Report #72 compiled 2026-05-21 at 07:30 UTC+3."
+}
