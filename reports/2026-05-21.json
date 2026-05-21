@@ -64,6 +64,11 @@
           "bold_heading": "Bubiyan Island IRGC standoff: no new development",
           "text": "Four IRGC detainees (arrested 3 May; confirmed 12 May) remain in custody; two accomplices still at large; Iran continues to deny IRGC involvement. Kuwait's request for Iran's consular access response remains outstanding.",
           "sources": ["Al Jazeera", "The National", "Kuwait Times", "JPOST, May 2026"]
+        },
+        {
+          "bold_heading": "CRS Report: 42 US aircraft lost or damaged in Operation Epic Fury; war cost reaches $29 billion",
+          "text": "A Congressional Research Service report (IN12692, ~20 May 2026), compiled from Pentagon statements and CENTCOM briefings, tallies 42 fixed-wing, rotary-wing, and uncrewed aircraft lost or damaged since 28 Feb 2026. Breakdown: 24 MQ-9 Reaper drones, 1 F-15E shot down over Iran (5 April), 1 F-35A damaged by Iranian ground fire, 3 special operations aircraft destroyed on the ground in Iran, 1 KC-135 tanker crashed in Iraq (6 crew killed). Pentagon acting comptroller Jules Hurst testified war costs have reached $29 billion. Note: DoD has not released a standalone full official accounting; CRS figures compiled from open-source Pentagon and CENTCOM statements.",
+          "sources": ["CRS Report IN12692 (Congress.gov)", "Stars and Stripes, 20 May 2026", "Gulf News, 20 May 2026"]
         }
       ]
     },
@@ -294,7 +299,7 @@
   ],
   "source_confidence": [
     { "section": "1 — Alerts & Sirens", "source_count": 2, "confidence": "Medium", "note": "Absence of alerts confirmed via KUNA monitoring and Kuwait Times; no positive alert reported" },
-    { "section": "2 — Targets & Incidents", "source_count": 7, "confidence": "High", "note": "CENTCOM boarding confirmed by multiple Tier 1 outlets; MOU proximity claim single-sourced (Axios) and flagged" },
+    { "section": "2 — Targets & Incidents", "source_count": 9, "confidence": "High", "note": "CENTCOM boarding confirmed by multiple Tier 1 outlets; MOU proximity claim single-sourced (Axios) and flagged; CRS aircraft losses corroborated by Stars and Stripes (Tier 1) and Congress.gov primary source" },
     { "section": "3 — Kuwait Local", "source_count": 5, "confidence": "Medium", "note": "Airport and port data from specialist travel/shipping sources; FATF from official FATF registry" },
     { "section": "4 — Regional Context", "source_count": 5, "confidence": "Medium-High", "note": "Hormuz transit count from Straits.live (live tracker); broader context from Axios, CNBC, CENTCOM" },
     { "section": "5 — Risk Signal", "source_count": 4, "confidence": "Medium", "note": "Oil prices from Trading Economics; blockade data from CENTCOM; AML from Kuwait Times and FATF" },
