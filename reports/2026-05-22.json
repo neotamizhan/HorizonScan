@@ -1,0 +1,311 @@
+{
+  "date": "2026-05-22",
+  "headline": "22 May 2026",
+  "subtitle": "Israel Pushes for Resumed Strikes; Iran Declares Controlled Maritime Zone; Brent Intraday Volatility Exceeds $12",
+  "report_number": "73",
+  "coverage": "21 May 2026 07:00 UTC+3 – 22 May 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-05-22",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "0", "previous": "0", "delta": "0", "trend_7d": "→" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "104.52", "previous": "105.54", "delta": "-1.02", "trend_7d": "↓" },
+      { "metric": "WTI crude ($/bbl)", "today": "96.30", "previous": "97.33", "delta": "-1.03", "trend_7d": "↓" },
+      { "metric": "Strait of Hormuz transits/day", "today": "2", "previous": "2", "delta": "0", "trend_7d": "→" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "5", "previous": "5", "delta": "0", "trend_7d": "→" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "29", "today_label": "Good", "previous": "29", "previous_label": "Good", "delta": "0", "trend_7d": "→" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "No air raid sirens, civil defense alerts, shelter-in-place orders, or emergency broadcasts issued in Kuwait during the coverage window (21 May 07:00 UTC+3 – 22 May 07:00 UTC+3). Kuwait Cabinet's standing directive urging the public to follow official guidance from the Ministries of Defence and Interior and the National Guard, and to refrain from circulating images or videos of targeted sites, remains in effect.",
+          "sources": ["KUNA monitoring", "Kuwait Times, May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "No kinetic incident in Kuwait",
+          "text": "No KUNA bulletin, Kuwait MoD press statement, or credible Tier 1 source reported a strike, siren, or security incident in Kuwait in the 21–22 May 2026 window. Standing Cabinet directive remains in effect.",
+          "sources": ["KUNA monitoring", "Kuwait Times, May 2026"]
+        },
+        {
+          "bold_heading": "Iran declares 'Controlled Maritime Zone' in Strait of Hormuz (21 May 2026)",
+          "text": "Iran announced a formal 'Controlled Maritime Zone' (CMZ) encompassing Hormuz, formalising IRGC coordination requirements for all transiting vessels and converting the previously informal PGSA toll/permit mechanism into an explicitly declared administrative regime. Iran's PGSA has also launched 'Hormuz Safe,' a maritime insurance platform for PGSA-compliant vessels.",
+          "sources": ["Democracy Now!/wire pickups, 21 May 2026", "International Crisis Group, 19 May 2026", "Windward, May 2026", "Euronews, 18 May 2026"]
+        },
+        {
+          "bold_heading": "Rubio: PGSA tolling makes deal 'unfeasible'; 'some good signs' (21 May 2026)",
+          "text": "Secretary of State Rubio told the Financial Times there were 'some good signs' for a deal but stated explicitly that an agreement would be 'unfeasible' if Iran pursues its Hormuz transit toll plan. Pakistani Interior Minister Naqvi met Iranian President Pezeshkian in Tehran (21 May) to convey US-Iran negotiating positions. No signed agreement announced.",
+          "sources": ["Al Jazeera liveblog, 21 May 2026", "Times of Israel, 21 May 2026", "Tribune India, 21 May 2026", "Bloomberg, 21 May 2026"]
+        },
+        {
+          "bold_heading": "Israel pressing for resumption of hostilities; US preparing options [SINGLE SOURCE on Kharg/commando option]",
+          "text": "Al Jazeera reported Israel is actively pushing the US to resume strikes on Iran; Israeli officials said they were 'preparing for imminent war' and awaiting Trump's decision. Times of Israel separately reported preparations for intensive strike options including potential seizure of Kharg Island. US officials have not publicly confirmed. [SINGLE SOURCE on Kharg Island/commando option — Times of Israel]",
+          "sources": ["Al Jazeera, 21 May 2026", "Times of Israel, 21 May 2026"]
+        },
+        {
+          "bold_heading": "Bubiyan Island IRGC standoff: no new development",
+          "text": "Four IRGC detainees (incident: 1 May; confirmed: 12 May) remain in Kuwaiti custody; two accomplices still at large. Iran denies IRGC involvement and seeks consular access; Kuwait MFA has not publicly responded.",
+          "sources": ["Al Jazeera, May 2026", "The National, May 2026", "Kuwait Times, May 2026", "Jerusalem Post, May 2026"]
+        },
+        {
+          "bold_heading": "US naval blockade: 91 ships redirected to date; no new boardings in coverage window",
+          "text": "The M/T Celestial Sea boarding (19–20 May, confirmed by CENTCOM 20 May) remains the most recent confirmed enforcement action. Blockade remains actively enforced.",
+          "sources": ["CENTCOM, 20 May 2026", "Stars and Stripes, 20 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "KWI: Partial operations unchanged; T4+T5 operating; T1 closed",
+          "text": "Emirates at 5 daily flights; Kuwait Airways (T4) and Jazeera Airways (T5) operating normally within commercial windows (06:00–18:00). Qatar Airways restart targeted for 16 June — not yet confirmed. Limak International (Turkey) contracted for T2 completion (Q4 2026). US State Dept Level 3 and UK FCDO advisories remain in effect.",
+          "sources": ["Wego Travel Blog, May 2026", "Nomad Lawyer, May 2026", "Gulf News, May 2026", "FCDO", "US State Dept, May 2026"]
+        },
+        {
+          "bold_heading": "Shuwaikh Port: Security Level 2; daylight-only restrictions in force",
+          "text": "Operations 05:00–19:00 UTC+3; Sahel app QR code required. Kuwait Chamber coordinating with Saudi/UAE ports for Hormuz bypass supply chain.",
+          "sources": ["Inchcape Shipping Services, May 2026", "Kuwait Times, May 2026", "GAC, May 2026"]
+        },
+        {
+          "bold_heading": "Land borders: open with 1–2 day trucking delays; food inflation persists",
+          "text": "Al-Khafji and Al-Ruqai crossings handling high cargo volumes. Cumulative food price inflation (meat/fish +30%+) ongoing. Kuwait Customs GCC land corridor rerouting plan active. Ministerial Resolution No. 31/2026 (drone ban) in force.",
+          "sources": ["Kuwait Times, May 2026", "Kuwait Mart Company, May 2026", "DSV Middle East, May 2026", "Logistics Cluster, May 2026"]
+        },
+        {
+          "bold_heading": "FATF grey list: no change; AML enforcement intensifying",
+          "text": "Kuwait remains on FATF grey list (since 13 February 2026). Ministerial Resolution No. 25/2026 AML/CFT matrix in force; MOI-Customs data-sharing live. KNBCC cybersecurity baseline compliance window (~October 2027) running.",
+          "sources": ["FATF, 2026", "Kuwait Times, May 2026", "Washington Centre, May 2026", "AGBI, May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "Israel's push for resumed strikes is the primary near-term escalation risk",
+          "text": "Al Jazeera (21 May) reports Israel is actively pressing the US to restart military operations; Israeli officials describe preparation for 'imminent war.' This shifts the risk calculus from ceasefire-vs-MOU to whether Israel acts before any deal can close.",
+          "sources": ["Al Jazeera, 21 May 2026", "Times of Israel, 21 May 2026"]
+        },
+        {
+          "bold_heading": "Rubio 'unfeasible' statement and Pakistan mediation create binary outcome",
+          "text": "Pakistan's Naqvi is in Tehran (21 May) as mediator. Iran accepting PGSA suspension = deal path opens; Iran refusing = deal-breaker per Rubio. The May 23 Rome talks (5th round) ended without a breakthrough.",
+          "sources": ["Al Jazeera liveblog, 21 May 2026", "Times of Israel, 21 May 2026", "Bloomberg, 21 May 2026"]
+        },
+        {
+          "bold_heading": "Iran's CMZ formalises a structural shift in Hormuz governance",
+          "text": "The CMZ, PGSA permit system, and Hormuz Safe insurance platform together constitute an emerging permanent Iranian administrative regime over the strait. ICG assesses this points to a wartime contingency being converted into a permanent structure regardless of conflict outcome.",
+          "sources": ["International Crisis Group, 19 May 2026", "Euronews, 18 May 2026", "Windward, May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Israel escalation risk is now #1 acute tail risk for Gulf financial institutions",
+          "text": "A resumed kinetic campaign by Israel would immediately spike Brent toward $130+, trigger fresh GCC missile/drone attacks, and invalidate all current BCP assumptions. Review BCP activation thresholds and staff communication trees.",
+          "sources": ["Al Jazeera, 21 May 2026", "Times of Israel, 21 May 2026"]
+        },
+        {
+          "bold_heading": "PGSA CMZ formalisation: verify OFAC nexus on Hormuz transit flows immediately",
+          "text": "Rubio's explicit framing of PGSA tolling as a deal-breaker heightens OFAC sanctions risk on PGSA-linked payment flows. Obtain written legal advice on nexus status of any Hormuz-transit-related payment flows this week.",
+          "sources": ["Al Jazeera liveblog, 21 May 2026", "Times of Israel, 21 May 2026", "Euronews, 21 May 2026"]
+        },
+        {
+          "bold_heading": "Oil price volatility: $12–15 intraday swings on 21 May — margining and collateral calls are live risk",
+          "text": "Brent moved from ~$105 (morning) to ~$117 (afternoon) back to ~$104 range within 24 hours. Confirm margin call procedures are active and counterparty capacity is monitored.",
+          "sources": ["Straits.live, 21 May 2026", "Trading Economics, May 2026", "Bloomberg, 21 May 2026"]
+        },
+        {
+          "bold_heading": "Senate war powers final vote: strategic signal pending",
+          "text": "50-47 procedural vote advanced the resolution; no final vote scheduled. Outcome determines the formal legislative constraint on Trump's strike authority.",
+          "sources": ["NBC News, 19 May 2026", "CBS News, 19 May 2026", "Washington Post, 20 May 2026"]
+        },
+        {
+          "bold_heading": "Kuwait AML crackdown: DNFBP counterparty review warranted",
+          "text": "Ministerial Resolution No. 25/2026 AML/CFT matrix live; MOI-Customs data-sharing active. Verify current KYC/CDD for Kuwaiti DNFBP counterparties reflects updated regulatory environment.",
+          "sources": ["Kuwait Times, May 2026", "FATF, 2026", "Washington Centre, May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": "5A",
+      "title": "Insurance Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "JWC JWLA-033 in force; war risk premiums at 8× pre-crisis; VLCC transit ~$2.5M",
+          "text": "6 P&I clubs withdrawn (Gard, Skuld, North Standard, London P&I, American Club, Steamship Mutual). Annual hull covers unavailable for Persian Gulf transits. Plan for persistently elevated WRP through at least Q3 2026.",
+          "sources": ["Straits.live, 18 May 2026", "Lloyd's List, May 2026", "Albany Antree, May 2026", "JWC JWLA-033"]
+        },
+        {
+          "bold_heading": "Hormuz Safe insurance platform: explicit sanctions voidance risk",
+          "text": "PGSA's Hormuz Safe platform creates a sanctions-voidance trap — any vessel using it may automatically void primary P&I/H&M cover. Institutions financing such voyages must confirm no Hormuz Safe cover is in place before disbursing.",
+          "sources": ["International Crisis Group, 19 May 2026", "Euronews, 18 May 2026", "Windward, May 2026"]
+        },
+        {
+          "bold_heading": "UK/France-led multinational escort mission: 40+ nations in planning; not yet operational",
+          "text": "HMS Dragon (Type-45) pre-positioned; Charles de Gaulle in Red Sea. Iran warned of 'decisive and immediate response.' No operational escort mission exists; does not substitute for JWC listed-area clearance.",
+          "sources": ["Fortune, 9 May 2026", "Bloomberg, 9 May 2026", "Stars and Stripes, 9 May 2026", "Naval News, 9 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Iran War Widens Gulf State Fissures",
+          "author": "Staff",
+          "publication": "The Soufan Center",
+          "pub_date": "14 May 2026",
+          "access": "Open",
+          "summary": "Analyses how the Iran war has deepened GCC fault lines — Saudi Arabia favouring accommodation vs UAE favouring confrontation — with Kuwait, Qatar, and Bahrain as most exposed to prolonged Hormuz closure given no pipeline alternatives. Notes Kuwait's Bubiyan IRGC incident as a deliberate Iranian sovereignty pressure test.",
+          "relevance": "Directly maps to our operating environment — a bifurcated GCC response creates uncertainty in the regional regulatory and diplomatic framework governing our correspondent relationships.",
+          "link": "https://thesoufancenter.org/intelbrief-2026-may-14/"
+        },
+        {
+          "title": "Iran Crisis Monitor #6",
+          "author": "Staff",
+          "publication": "International Crisis Group",
+          "pub_date": "19 May 2026",
+          "access": "Open",
+          "summary": "Documents Iran's formalisation of the CMZ and PGSA regime including the Hormuz Safe insurance platform, the UAE Barakah nuclear plant fire (18 May), the stalled Trump-Xi coordination summit, and the assessment that a prolonged dual-blockade with selective Iranian tolling is now the structural baseline. Kuwait, Qatar, and Bahrain assessed as most exposed.",
+          "relevance": "Provides authoritative framing of CMZ as a potentially permanent Iranian administrative regime over Hormuz — a structural shift for our trade finance, insurance, and maritime risk analysis.",
+          "link": "https://www.crisisgroup.org/bnt/middle-east-north-africa/iran/iran-crisis-monitor-6"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "Pro-Iran hacktivist coalition: CMZ/PGSA formalisation is new mobilisation trigger",
+          "text": "SocRadar confirms 144+ verified incidents against GCC targets since 28 Feb 2026; financial services is #2 most targeted sector. Iran's CMZ declaration and Rubio's 'deal-breaker' statement are both exploitable as hacktivist mobilisation content in the next 24–72 hours.",
+          "cve_ids": [],
+          "threat_actor": "313 Team, DieNet, Fatimion, ALTOUFAN TEAM (pro-Iran hacktivist coalition)",
+          "recommended_action": "Maintain DDoS scrubbing, WAF, and CDN at current defensive posture; do not reduce protection levels based on diplomatic 'good signs' statements.",
+          "sources": ["SocRadar, April–May 2026", "UAE Cybersecurity Council, May 2026", "SISA InfoSec, May 2026"],
+          "url": "https://socradar.io/blog/pro-iran-cyberattacks-financial-services-144/"
+        },
+        {
+          "bold_heading": "MuddyWater 'Dindoor' Deno-runtime backdoor targeting financial institutions",
+          "text": "MuddyWater deployed the Dindoor backdoor (novel Deno-runtime JavaScript/TypeScript) against a US bank and defence-linked software supplier via spear-phishing. The Deno runtime may evade legacy sandbox-based email attachment detection.",
+          "cve_ids": [],
+          "threat_actor": "MuddyWater/Seedworm (IRGC-MOIS)",
+          "recommended_action": "Verify email gateway rules block or sandbox Deno-runtime executables; review inbound spear-phishing filters; escalate any Deno-runtime-related endpoint alerts as priority SOC incidents.",
+          "sources": ["The Hacker News, March 2026", "SocRadar, May 2026", "Rapid7, April–May 2026"],
+          "url": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "APT34/MuddyWater: Israel push for resumed hostilities elevates Iranian cyber retaliation intent",
+          "text": "No new confirmed Gulf FS incident in coverage window. However, Israel's reported push for resumed hostilities — if materialising — would trigger the highest-probability APT34/MuddyWater retaliation scenario since the April 8 ceasefire. Active TTPs: StealHook Exchange credential exfiltration, DNS-tunnelling C2, Dindoor Deno backdoor, RustyWater RAT, Chaos ransomware false-flag masquerade.",
+          "threat_actor": "APT34/OilRig (IRGC-linked); MuddyWater/Seedworm (IRGC-MOIS)",
+          "assessed_likelihood": "High (if kinetic hostilities resume); Moderate (under current ceasefire)",
+          "sources": ["Trellix, May 2026", "LevelBlue SpiderLabs, May 2026", "Palo Alto Unit 42, May 2026", "SocRadar, May 2026"],
+          "url": "https://www.trellix.com/blogs/research/the-iranian-cyber-capability-2026/"
+        },
+        {
+          "bold_heading": "Chinese state-affiliated pre-positioning in Gulf financial/energy infrastructure: reconnaissance continues",
+          "text": "CISA AA26-113a documents Chinese pre-positioning in GCC financial, communications, and energy infrastructure. The Trump-Xi summit (14–15 May) produced no bilateral cyber stand-down. China's long-term Hormuz/LNG reconnaissance interest continues unabated.",
+          "threat_actor": "Chinese state-affiliated actors",
+          "assessed_likelihood": "Moderate",
+          "sources": ["CISA AA26-113a, 2026", "CISA CI Fortify, 2026", "Chatham House, May 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a"
+        },
+        {
+          "bold_heading": "CISA AA26-097a: Iranian-affiliated PLC/OT exploitation — data centre facility management at risk",
+          "text": "Iran-affiliated actors continue exploiting Rockwell Automation/Allen-Bradley PLCs. Financial sector exposure via facility management, data centre energy controls, and BMS systems.",
+          "threat_actor": "Iranian-affiliated OT threat actors (IRGC-linked)",
+          "assessed_likelihood": "Low-Moderate for direct Kuwait institutional OT targeting; High for continued global IRGC-affiliated OT campaign",
+          "sources": ["CISA AA26-097a, April 2026", "IC3 CSA 260407, 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Israel/US decision on resuming strikes against Iran",
+          "why_it_matters": "Al Jazeera and Times of Israel report Israel is pressing for imminent action; a strike decision immediately spikes Brent, triggers fresh GCC retaliation risk, and activates full BCP protocols.",
+          "related_section": "Section 2 (Targets & Incidents), Section 5 (Risk Signal)"
+        },
+        {
+          "text": "Pakistan-Iran mediation outcome: does Iran agree to suspend PGSA tolling?",
+          "why_it_matters": "Naqvi's Tehran visit (21 May) is the proximate test — Iran accepting a CMZ/PGSA suspension reopens the deal path; Iran refusing makes deal 'unfeasible' per Rubio and leaves ceasefire without resolution framework.",
+          "related_section": "Section 4 (Regional Context), Section 5A (Insurance & Maritime)"
+        },
+        {
+          "text": "Senate war powers resolution final vote scheduling",
+          "why_it_matters": "Outcome determines the formal legislative constraint on Trump's strike authority and reshapes the Israeli-push dynamic and 72-hour strategic risk environment.",
+          "related_section": "Section 2 (Targets & Incidents), Section 4 (Regional Context)"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 2, "confidence": "Medium", "note": "No specific confirmed alert in coverage window; monitoring only" },
+    { "section": "2 — Targets & Incidents", "source_count": 8, "confidence": "High", "note": "Israel push for war item corroborated by Al Jazeera (Tier 1) and Times of Israel; Kharg/commando option is single source [Times of Israel]" },
+    { "section": "3 — Kuwait Local", "source_count": 5, "confidence": "Medium", "note": null },
+    { "section": "4 — Regional Context", "source_count": 5, "confidence": "Medium-High", "note": null },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "Medium", "note": null },
+    { "section": "5A — Insurance Risks", "source_count": 4, "confidence": "Medium", "note": "Straits.live 8× figure dated 18 May; most recent available" },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "Medium", "note": "No new confirmed incident in coverage window; Dindoor advisory from March 2026 — included for elevated relevance given Israeli push scenario" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "Medium", "note": null }
+  ],
+  "footer": "Report #73 compiled 2026-05-22 at 07:30 UTC+3."
+}
