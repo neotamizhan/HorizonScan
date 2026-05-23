@@ -1,0 +1,296 @@
+{
+  "date": "2026-05-23",
+  "headline": "23 May 2026",
+  "subtitle": "Khamenei Uranium Order Stalls Deal; Ceasefire Holds Day 45",
+  "report_number": "74",
+  "coverage": "22 May 2026 07:00 UTC+3 – 23 May 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-05-23",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "0", "previous": "0", "delta": "0", "trend_7d": "→" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "105.20", "previous": "104.52", "delta": "+0.68", "trend_7d": "↓" },
+      { "metric": "WTI crude ($/bbl)", "today": "98.15", "previous": "96.30", "delta": "+1.85", "trend_7d": "↓" },
+      { "metric": "Strait of Hormuz transits/day", "today": "2", "previous": "2", "delta": "0", "trend_7d": "→" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "5", "previous": "5", "delta": "0", "trend_7d": "→" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "NR", "today_label": null, "previous": "NR", "previous_label": "Good", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "No alerts reported in Kuwait in the past 24 hours. No air raid sirens, civil defense shelter-in-place orders, or emergency broadcasts were issued by Kuwait MOI or Kuwait Civil Defense during the coverage window.",
+          "sources": ["KUNA", "Kuwait MOI", "US Embassy Kuwait advisory archive, 23 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "No confirmed strikes, attacks, or military incidents targeting Kuwait or GCC territory reported in the past 24 hours. The April 8 ceasefire between the US/Israel and Iran continues to hold for Day 45.",
+          "sources": ["Al Jazeera liveblog", "Reuters Middle East", "KUNA, 23 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "IRGC infiltrators referred to criminal court (21 May 2026).",
+          "text": "Kuwait Public Prosecution formally referred four detained IRGC-linked operatives — two colonels, one captain, one first lieutenant — to criminal court on charges of illegal entry and planning hostile acts against Kuwaiti military and sovereign sites. Suspects detained on Bubiyan Island on 1 May following a covert maritime infiltration attempt.",
+          "sources": ["Arab Times Kuwait", "Times Kuwait", "Middle East Monitor", "Al Jazeera, 12–21 May 2026"]
+        },
+        {
+          "bold_heading": "KWI: Partial operations unchanged; T4 and T5 active; T1 remains closed for drone-strike repairs.",
+          "text": "Kuwait Airways (T4) and Jazeera Airways (T5) operating normal commercial schedules (06:00–18:00 window). Emirates maintaining up to 5 daily flights. Qatar Airways restart targeted for 16 June (not yet confirmed). US State Dept Level 3 and UK FCDO 'all but essential travel' advisories remain in effect.",
+          "sources": ["Wego Travel Blog", "ibtimes.com.au", "Gulf News", "FCDO", "US State Dept, May 2026"]
+        },
+        {
+          "bold_heading": "Normal civil operations: full workforce and secondary schools in-person since 3 May 2026.",
+          "text": "No new closures or shelter-in-place orders in coverage window. Kuwait Cabinet reversed emergency remote-working and distance-learning measures on 3 May; no reversal reported.",
+          "sources": ["Arab Times Kuwait", "Zawya, 3 May 2026"]
+        },
+        {
+          "bold_heading": "Shuwaikh Port: Security Level 2 maintained; daylight-only operational window.",
+          "text": "[SINGLE SOURCE — carried from prior digest; no new advisory in coverage window] Port operating 05:00–19:00 UTC+3; QR code (Sahel app) required for all maritime activity. KCCI continuing co-ordination with King Abdullah Port (Saudi Arabia), Abu Dhabi, and Fujairah as Hormuz bypass alternatives.",
+          "sources": ["Inchcape Shipping Services", "GAC", "Kuwait Times, May 2026"]
+        },
+        {
+          "bold_heading": "Land border crossings open with caveats.",
+          "text": "Al-Nuwaisib (Saudi Arabia) and Abdali (Iraq/Safwan) crossings operational. Kuwait-Saudi logistics integration functioning well; Iraq-Kuwait border may close on short notice given residual threat from Iran-aligned Iraqi militia groups.",
+          "sources": ["Kuwait Times", "Logistics Cluster snapshot 10 May 2026", "US Embassy Baghdad advisory, April 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "No reported panic buying, essential supply disruptions, or curfew in coverage window.",
+          "sources": ["KUNA", "Kuwait Times, May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "Khamenei orders enriched uranium to stay in Iran (22 May 2026) — deal-breaker signal.",
+          "text": "Supreme Leader Khamenei issued a direct order prohibiting the transfer of Iran's ~440 kg of 60%-enriched uranium stockpile abroad, directly contradicting the central US demand in the MOU framework. Trump reiterated the US will not permit Iran to retain the stockpile. Explicit impasse on the single most critical deal term.",
+          "sources": ["Reuters", "Korea Times", "News24", "Oneindia News, 22 May 2026"]
+        },
+        {
+          "bold_heading": "US-Iran negotiations effectively stalled; fifth Oman round not yet scheduled.",
+          "text": "The fourth Oman round (11 May) ended with both sides describing talks as 'difficult but constructive.' Witkoff/Kushner MOU framework circulating but Iran's internal divisions and Khamenei uranium order mean consensus is not imminent. Witkoff has warned talks will end if the next round fails.",
+          "sources": ["Axios", "Time", "Al Jazeera", "CBS News, 6–22 May 2026"]
+        },
+        {
+          "bold_heading": "Ceasefire holds (Day 45) but is structurally fragile.",
+          "text": "No new kinetic exchanges reported in the coverage window. Khamenei's uranium order, Iran's formal CMZ in Hormuz, and persistent PGSA permit requirements are all escalation triggers that could collapse the ceasefire rapidly.",
+          "sources": ["Al Jazeera liveblog", "Times of Israel, May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Khamenei uranium order materially elevates probability of ceasefire collapse.",
+          "text": "By publicly prohibiting overseas transfer of enriched uranium — the central US ask — Khamenei has narrowed the deal space. If Trump interprets this as Iran walking away, renewed US/Israeli military action within days cannot be ruled out. Confirm BCP activation thresholds and staff emergency communication trees are current and tested.",
+          "sources": ["Reuters", "Korea Times", "Oneindia, 22 May 2026"]
+        },
+        {
+          "bold_heading": "OFAC/CMZ sanctions risk on Hormuz-linked trade finance remains elevated.",
+          "text": "Iran's formal CMZ and PGSA permit regime remains in place. Khamenei's uranium order makes a sanctions relaxation deal less likely near-term. Any institution with trade finance, LCs, or correspondent banking exposure to PGSA-linked transactions must maintain active legal review of OFAC nexus status.",
+          "sources": ["ICG", "Euronews", "Windward, May 2026"]
+        },
+        {
+          "bold_heading": "Oil price re-volatility risk: Brent closing above $105 on Friday on Khamenei uranium news.",
+          "text": "If Monday/Sunday opening confirms a deal breakdown interpretation, expect Brent to spike toward $115–$120. Commodity-linked collateral calls, energy lending portfolios, and Brent-indexed derivatives require active monitoring ahead of Sunday/Monday open.",
+          "sources": ["Reuters", "Trading Economics", "Investing.com, 22 May 2026"]
+        },
+        {
+          "bold_heading": "Kuwait FATF grey list: ongoing AML/CFT compliance burden; no status change.",
+          "text": "Kuwait remains on FATF grey list (added 13 February 2026). International counterparts applying enhanced due diligence on Kuwait-linked transactions. KNBCC cybersecurity baseline compliance requirement (Decision No. 2/2026) window open (~October 2027 target).",
+          "sources": ["FATF", "AGBI", "ACAMS, February–May 2026"]
+        },
+        {
+          "bold_heading": "Kuwait IRGC infiltration case: sovereign/counterintelligence risk note for institutions.",
+          "text": "The Bubiyan Island IRGC infiltration plot (trial now underway) is a reminder that Iran is conducting active intelligence and reconnaissance operations inside Kuwait's sovereign territory. Review physical security protocols for sensitive facilities near military or government zones.",
+          "sources": ["Arab Times Kuwait", "Al Jazeera", "Middle East Monitor, 12–21 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "JWC JWLA-033 in force; war risk premiums at 8× pre-crisis; no listing change in coverage window.",
+          "text": "JWC Gulf-wide listed-area designation (JWLA-033) unchanged. WRP confirmed at 8.0× pre-crisis (Straits.live, May 2026). Six P&I clubs maintain withdrawn cover for PGSA-zone voyages. Annual hull covers unavailable; weekly renewable only. VLCC voyage insurance ~$2.5M per transit.",
+          "sources": ["Straits.live", "Lloyd's List", "JWC JWLA-033", "Albany Antree, May 2026"]
+        },
+        {
+          "bold_heading": "'Hormuz Safe' sanctions voidance risk persists; Khamenei uranium order makes sanctions relief less likely.",
+          "text": "Iran's PGSA-affiliated 'Hormuz Safe' insurance platform remains operational. Acceptance of Hormuz Safe cover risks automatic P&I Club and H&M underwriter voidance under sanctions exclusion clauses. Institutions financing Hormuz voyages must confirm no PGSA/Hormuz Safe cover is in place prior to facility disbursement.",
+          "sources": ["ICG", "Euronews", "Windward", "Khaleej Times, May 2026"]
+        },
+        {
+          "bold_heading": "Strait transit normalisation by end-May is unlikely; Polymarket reflects <15% probability.",
+          "text": "Only 2 transits/day vs. ~95/day pre-crisis baseline. Khamenei uranium order adds new deal-collapse risk vector. Operational baseline for the coming week: Hormuz effectively closed to commercial shipping. Plan for continued 8× WRP through at least Q3 2026.",
+          "sources": ["IMF PortWatch", "Polymarket Hormuz normalisation market", "Straits.live, May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Two Wars Later, Iran's Nuclear Question Is Still on the Table",
+          "author": "Jane Darby Menton & Mohammad Ayatollahi Tabaar",
+          "publication": "Carnegie Endowment for International Peace",
+          "pub_date": "2026-05-19",
+          "access": "Open",
+          "summary": "Argues that despite two military campaigns targeting Iran's nuclear infrastructure, Iran retains both the technical capability and political will to preserve its enrichment programme; the war may have hardened Iranian resolve to avoid irreversible nuclear concessions. Assesses that Iran's immediate priorities are conventional capability reconstitution and Hormuz governance, not weaponisation — but the longer-term trajectory toward a nuclear threshold has not been disrupted.",
+          "relevance": "The 'no irreversible concessions' framing explains why Khamenei's May 22 uranium order should be read as a firm strategic position, not a negotiating tactic — making deal collapse a genuine base case, not a tail risk.",
+          "link": "https://carnegieendowment.org/emissary/2026/05/iran-nuclear-program-progress-deal"
+        },
+        {
+          "title": "Iran's enriched uranium stockpile: Can it be safely transferred?",
+          "author": "Al Jazeera English",
+          "publication": "Al Jazeera",
+          "pub_date": "2026-05-22",
+          "access": "Open",
+          "summary": "Analyses the technical, logistical, and diplomatic challenges of transferring Iran's ~440 kg of 60%-enriched uranium to a third country, examining options (Saudi Arabia, Oman, Turkey, Russia) and the non-proliferation safeguards required; notes that even if Iran agreed in principle, execution would take months. Provides expert assessment of why Iran views the stockpile as both a strategic deterrent and a negotiating asset it is unwilling to surrender unconditionally.",
+          "relevance": "Provides essential context for today's Khamenei order — the uranium transfer demand is not a simple diplomatic ask but a technically and politically complex requirement that Iran's leadership regards as existentially risky to concede.",
+          "link": "https://www.aljazeera.com/news/2026/5/22/irans-enriched-uranium-stockpile-can-it-be-safely-transferred"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "Pro-Iran hacktivist coalition: Khamenei uranium order is a new mobilisation trigger; DDoS/defacement threat elevated.",
+          "text": "Khamenei's public rejection of uranium transfer on 22 May provides fresh ideological mobilisation content for pro-Iran hacktivist groups. SocRadar confirms 144+ verified incidents against GCC targets since 28 Feb 2026; financial services remains the #2 most targeted sector. CVE IDs: None (volumetric/application-layer).",
+          "cve_ids": [],
+          "threat_actor": "313 Team, DieNet, Fatimion, ALTOUFAN TEAM",
+          "recommended_action": "Maintain DDoS scrubbing, WAF, and CDN at current defensive posture; ensure weekend on-call cover is active given Saturday/Sunday attack window.",
+          "sources": ["SocRadar, April–May 2026", "SISA InfoSec, May 2026", "Intel 471, 2026"],
+          "url": "https://socradar.io/blog/pro-iran-cyberattacks-financial-services-144/"
+        },
+        {
+          "bold_heading": "SISA InfoSec Threat Advisory: elevated cyber risk to payments ecosystem remains in effect.",
+          "text": "SISA's advisory remains live for Gulf financial institutions. Key exposure vectors: SWIFT messaging credential theft, payment gateway web shells, and Chaos ransomware false-flag masquerades targeting core banking. No new Kuwait-specific incident in coverage window.",
+          "cve_ids": [],
+          "threat_actor": "APT34 (OilRig), MuddyWater, hacktivist proxies",
+          "recommended_action": "Verify SWIFT CSP controls are current; review payment gateway access logs for anomalous after-hours activity.",
+          "sources": ["SISA InfoSec", "Unit 42 Palo Alto", "Rapid7, May 2026"],
+          "url": "https://www.sisainfosec.com/blogs/threat-advisory-elevated-cyber-risk-to-the-payments-ecosystem-amid-israel-us-iran-conflict-escalation/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "APT34 (OilRig/IRGC) and MuddyWater: Khamenei uranium order elevates retaliation intent baseline.",
+          "text": "No new confirmed Gulf FS incident in the coverage window. Khamenei's order signals regime resolve and raises probability that IRGC cyber units will escalate operations against Gulf financial infrastructure if talks collapse or kinetic operations resume. TTPs: StealHook Exchange credential exfiltration, DNS-tunnelling C2 ('DNSpionage'), Dindoor Deno backdoor, RustyWater RAT, Chaos ransomware false-flag masquerade.",
+          "threat_actor": "APT34 (OilRig), MuddyWater (IRGC/MOIS)",
+          "assessed_likelihood": "High (conditional on ceasefire collapse)",
+          "sources": ["Trellix, May 2026", "LevelBlue SpiderLabs", "Unit 42", "SocRadar"],
+          "url": "https://www.trellix.com/blogs/research/the-iranian-cyber-capability-2026/"
+        },
+        {
+          "bold_heading": "Chinese state-affiliated pre-positioning in Gulf financial and energy infrastructure: continued reconnaissance.",
+          "text": "CISA AA26-113a documents Chinese state-affiliated pre-positioning in GCC financial, communications, and energy infrastructure. No bilateral cyber stand-down agreement emerged from the Trump-Xi summit (14–15 May). Long-term Hormuz reconnaissance interest continues unabated.",
+          "threat_actor": "Chinese state-affiliated actors",
+          "assessed_likelihood": "Moderate",
+          "sources": ["CISA AA26-113a, 2026", "Chatham House, May 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a"
+        },
+        {
+          "bold_heading": "CISA AA26-097a: Iranian-affiliated PLC/OT exploitation ongoing; financial sector data-centre exposure persists.",
+          "text": "Iran-affiliated actors continue targeting Rockwell Automation/Allen-Bradley PLCs; financial sector exposure via facility management, data-centre energy controls, and BMS systems.",
+          "threat_actor": "Iran-affiliated OT actors (IRGC-linked)",
+          "assessed_likelihood": "Low-Moderate (direct Kuwait); High (global IRGC OT campaign)",
+          "sources": ["CISA AA26-097a", "IC3 CSA 260407, April 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Iranian official response to Khamenei uranium order and US/Witkoff reaction.",
+          "why_it_matters": "If Trump issues a formal ultimatum or announces resumption of military preparations, this immediately activates full BCP protocols and spikes Brent toward $115+.",
+          "related_section": "Section 2 (Targets & Incidents), Section 5 (Risk Signal for FIs)"
+        },
+        {
+          "text": "Sunday/Monday oil market open — watch for sustained Brent spike above $110.",
+          "why_it_matters": "Weekend Brent close ~$105.20; a sustained spike above $110 on open signals markets are pricing ceasefire collapse as base case, triggering margining and collateral call reviews.",
+          "related_section": "Section 1A (Trend Tracker), Section 5 (Risk Signal)"
+        },
+        {
+          "text": "Any new IRGC/Iran-linked maritime activity in Kuwait waters or Hormuz.",
+          "why_it_matters": "The Bubiyan Island infiltration demonstrates IRGC willingness to probe Kuwait's sovereign boundaries even during ceasefire; weekend period with reduced surveillance tempo is a potential exploitation window.",
+          "related_section": "Section 2 (Targets & Incidents), Section 3 (Kuwait Local)"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "HIGH", "note": "No alerts found across KUNA, US Embassy archive, Kuwait Times" },
+    { "section": "2 — Targets & Incidents", "source_count": 3, "confidence": "HIGH", "note": "Ceasefire hold confirmed across multiple wires" },
+    { "section": "3 — Kuwait Local", "source_count": 8, "confidence": "HIGH", "note": "KWI/port/border status corroborated across multiple Tier 1 sources" },
+    { "section": "4 — Regional Context", "source_count": 6, "confidence": "HIGH", "note": "Khamenei uranium order confirmed by Reuters, Korea Times, News24" },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "MEDIUM-HIGH", "note": "Analysis-layer; sourced from Tier 1 and Tier 3" },
+    { "section": "5A — Insurance Risks", "source_count": 4, "confidence": "HIGH", "note": "JWC/WRP figures carry from prior digest; no new listing changes found" },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "MEDIUM", "note": "No new Kuwait-specific incident; posture elevation inferred from mobilisation trigger" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "MEDIUM", "note": "No new confirmed intrusion; likelihood assessments based on established actor TTPs" }
+  ],
+  "footer": "Report #74 compiled 2026-05-23 at 07:30 UTC+3."
+}
