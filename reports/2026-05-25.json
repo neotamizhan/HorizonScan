@@ -1,0 +1,303 @@
+{
+  "date": "2026-05-25",
+  "headline": "25 May 2026",
+  "subtitle": "US-Iran MOU not signed; wording disputes extend impasse; Brent falls below $100 on deal optimism",
+  "report_number": "76",
+  "coverage": "24 May 2026 07:00 UTC+3 – 25 May 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-05-25",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "0", "previous": "0", "delta": "0", "trend_7d": "→" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "~98.40 (intraday Mon est.)", "previous": "103.00", "delta": "~-4.60", "trend_7d": "↓" },
+      { "metric": "WTI crude ($/bbl)", "today": "~91.75 (intraday Mon est.)", "previous": "96.00", "delta": "~-4.25", "trend_7d": "↓" },
+      { "metric": "Strait of Hormuz transits/day", "today": "2", "previous": "2", "delta": "0", "trend_7d": "→" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "5", "previous": "5", "delta": "0", "trend_7d": "→" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "NR", "today_label": "USG", "previous": "NR", "previous_label": "USG", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "No alerts reported in Kuwait in the past 24 hours. No air raid sirens, civil defense shelter-in-place orders, or emergency broadcasts were issued by Kuwait MOI or Kuwait Civil Defense during the coverage window. The next routine monthly siren test is scheduled for 1 June 2026 at 10:00 local time.",
+          "sources": ["Kuwait MOI", "KUNA", "US Embassy Kuwait advisory archive, 25 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "No confirmed strikes, attacks, or military incidents targeting Kuwait or GCC territory reported in the past 24 hours. The April 8 ceasefire continues to hold for Day 47. US-Iran MOU negotiations are ongoing but no agreement was signed on Sunday 24 May as previously anticipated; US officials on Sunday actively tamped down expectations of an imminent announcement, citing remaining wording disputes. No new IRGC-affiliated incident reported in Kuwait or Gulf waters during the coverage window.",
+          "sources": ["CBS News live blog", "Al Jazeera", "Axios, 24–25 May 2026", "KUNA, 25 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "KWI: T1 phased resumption from 1 June remains on schedule; T4 and T5 fully operational.",
+          "text": "GACA confirmed Terminal 1 will resume operations for Arab and international carriers from 1 June following completion of repair and rehabilitation works. Kuwait Airways (T4) and Jazeera Airways (T5) maintaining normal commercial schedules. Emirates running up to 5 daily flights. Qatar Airways restart targeted for 16 June (not yet confirmed). US State Dept Level 3 and UK FCDO advisories remain in effect for Kuwait.",
+          "sources": ["Arab Times Kuwait (GACA), 21 May 2026", "Wego Travel Blog", "ibtimes.com.au", "US State Dept", "FCDO, May 2026"]
+        },
+        {
+          "bold_heading": "Normal civil and workforce operations continue; no new closures.",
+          "text": "Full civil government operations and secondary schools in-person since 3 May. No shelter-in-place orders, curfew, or emergency closures during coverage window.",
+          "sources": ["Arab Times Kuwait", "KUNA, May 2026"]
+        },
+        {
+          "bold_heading": "Kuwait PM chairs FATF compliance meeting; AML enforcement escalating.",
+          "text": "PM Sheikh Ahmad Al-Abdullah Al-Ahmad Al-Sabah chaired a high-level meeting in May to review FATF requirements following Kuwait's addition to the grey list in February 2026. The Ministry of Commerce issued Decision No. 25/2026 outlining an AML/CFT violation and penalty matrix with fines up to KD 500,000 (~USD 1.64M). KNBCC cybersecurity compliance Decision No. 2/2026 implementation window also remains open.",
+          "sources": ["Kuwait Times", "AML Watcher", "Fincrime Central", "FATF, February–May 2026"]
+        },
+        {
+          "bold_heading": "Shuwaikh Port: Security Level 2 maintained; daylight-only operations (05:00–19:00 UTC+3).",
+          "text": "QR code (Sahel app) required for all maritime activity. Kuwait Chamber of Commerce coordination with King Abdullah Port and Fujairah bypass alternatives continues.",
+          "sources": ["Inchcape Shipping Services", "GAC", "Kuwait Times, May 2026"]
+        },
+        {
+          "bold_heading": "Land border crossings open with caveats.",
+          "text": "Al-Nuwaisib (Saudi Arabia) and Abdali (Iraq/Safwan) crossings operational. Iraq-Kuwait border may close on short notice given residual IRGC-aligned militia threat in southern Iraq.",
+          "sources": ["Kuwait Times", "Logistics Cluster snapshot, May 2026"]
+        },
+        {
+          "bold_heading": "IRGC infiltrators trial continuing; no new security incident.",
+          "text": "Four IRGC-linked operatives detained on Bubiyan Island on 1 May remain in criminal proceedings before Kuwait courts. No new incidents reported in coverage window.",
+          "sources": ["Arab Times Kuwait", "Al Jazeera, May 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "No reported panic buying, essential supply disruptions, or curfew in coverage window.",
+          "sources": ["KUNA", "Kuwait Times, 25 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "US-Iran MOU not signed Sunday; wording disputes persist on Hormuz framing and sanctions timing.",
+          "text": "Iran-US negotiators agreed on broad principles, but US officials on Sunday 24 May tamped down expectations, citing remaining back-and-forth on specific wording. Key sticking points: Hormuz 'management' framing; timing of sanctions waivers; and Iran's enriched uranium stockpile disposition. Trump said 'time is on our side' and instructed envoys not to rush.",
+          "sources": ["CBS News live blog", "Axios", "CNN, 24–25 May 2026"]
+        },
+        {
+          "bold_heading": "Ceasefire holds (Day 47) but neither blockade has been lifted.",
+          "text": "The US counter-blockade on Iranian ports (active since 13 April) and Iran's Strait of Hormuz constraints remain in parallel. A deal or breakdown will be the defining event of the coming week.",
+          "sources": ["2026 Iran war ceasefire, Wikipedia", "Axios", "Al Jazeera, 24–25 May 2026"]
+        },
+        {
+          "bold_heading": "Israel-Hezbollah Lebanon clause remains a potential deal-breaker.",
+          "text": "Netanyahu continues signaling Israel will not accept a deal clause constraining IDF operations against Hezbollah in Lebanon; Israel has continued strikes since the April 16 Lebanon ceasefire, killing 500+. A formal Israeli rejection could give Iran grounds to withdraw from the MOU.",
+          "sources": ["Times of Israel daily briefing", "House of Saud analysis, 24 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Oil price drop on deal progress is real but not final; whipsaw risk is high this week.",
+          "text": "Brent fell below $100 intraday Monday on Iran deal optimism. If the MOU is finalised this week, a further Brent move toward $80–$90 is plausible. However, if talks collapse, Brent could rebound sharply toward $110+. Dual-scenario margin and collateral protocols must remain active this week.",
+          "sources": ["Business Upturn", "CNBC", "Axios, 25 May 2026"]
+        },
+        {
+          "bold_heading": "OFAC/sanctions: No waivers issued; compliance controls unchanged.",
+          "text": "No MOU signature means no OFAC sanctions waivers. Institutions must not pre-emptively modify KYC/compliance controls for Iranian- or PGSA-adjacent counterparties until OFAC officially acts.",
+          "sources": ["Axios", "OFAC guidance, May 2026"]
+        },
+        {
+          "bold_heading": "War risk premium repositioning premature; JWC JWLA-033 in force.",
+          "text": "Marine WRP (~3–8% of vessel value vs. 0.1–0.25% pre-crisis) will not normalise on deal rumours alone. JWC requires sustained evidence of safe transit before any delisting. WRP assumptions should remain unchanged until JWC formally acts.",
+          "sources": ["Albany Antree", "Lloyd's List", "Insurance Journal, May 2026"]
+        },
+        {
+          "bold_heading": "Kuwait FATF grey list compliance deadline pressure rising.",
+          "text": "Decision No. 25/2026 penalty matrix now in force with fines up to KD 500,000. International correspondent banks applying enhanced due diligence to Kuwait-domiciled institutions. FATF remediation plans should align with PM-level compliance guidance issued this month.",
+          "sources": ["FATF", "Kuwait Times", "Fincrime Central, February–May 2026"]
+        },
+        {
+          "bold_heading": "Pro-Iran hacktivist tempo during deal-wording window: elevated.",
+          "text": "Sunday deal failure may embolden IRGC-adjacent hardline hacktivist groups. SocRadar confirms 144+ verified GCC incidents since 28 Feb; financial services is the #2 most targeted sector. Monday-open window is historically high-activity; ensure SOC coverage is active.",
+          "sources": ["SocRadar", "Intel 471, May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "JWC JWLA-033 remains in force; no delisting expected until verified, sustained Hormuz transit evidence accumulates.",
+          "text": "With the MOU unsigned, the JWC has no basis to act. War risk premiums for Persian Gulf transits are at 3–8% of vessel value (vs. 0.1–0.25% pre-crisis), translating to USD 3–8M per VLCC voyage. Even on MOU signature, mine-clearance verification is required before underwriters normalise terms — a multi-week minimum runway.",
+          "sources": ["Albany Antree (14 May 2026)", "Insurance Journal", "Lloyd's List, May 2026"]
+        },
+        {
+          "bold_heading": "Hormuz mine risk and transit cost remain structurally elevated.",
+          "text": "JMIC Advisory Note 004-26 confirms mine risk near the Traffic Separation Scheme has not been fully surveyed. Current transit cost (~$2.5M VLCC voyage premium) will not snap back overnight even if the MOU is signed. Institutions financing tanker voyages should maintain elevated WRP assumptions for at least 4–6 weeks post-signature.",
+          "sources": ["Albany Antree", "JMIC UKMTO", "CNBC, May 2026"]
+        },
+        {
+          "bold_heading": "Hormuz Safe sanctions voidance risk persists.",
+          "text": "Iran's PGSA-affiliated 'Hormuz Safe' insurance platform remains operational and non-compliant with OFAC sanctions. Acceptance of Hormuz Safe cover continues to risk automatic voidance of P&I Club and H&M cover. No OFAC exemption has been issued.",
+          "sources": ["Khaleej Times", "Windward", "ICG, May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Iran War Widens Gulf State Fissures",
+          "author": "Gaby Tejeda",
+          "publication": "The Soufan Center",
+          "pub_date": "2026-05-14",
+          "access": "Open",
+          "summary": "Analyses how Iran's wartime strategy of targeting Gulf state infrastructure has widened pre-existing intra-Gulf rifts rather than unifying the GCC. The UAE has aligned decisively with the US and Israel; Saudi Arabia and Kuwait continue calling for de-escalation and diplomacy. Kuwait's oil exports face maximum Hormuz exposure, with no bypass pipeline alternatives available.",
+          "relevance": "Directly contextualises Kuwait's structural vulnerability in ongoing deal negotiations and explains why Kuwait's government stance (supporting de-escalation) aligns with its economic survival imperatives — critical backdrop for BCP and risk posture planning.",
+          "link": "https://thesoufancenter.org/intelbrief-2026-may-14/",
+          "note": "Article dated 14 May 2026 — beyond 48h window; included for direct analytical relevance to Kuwait's strategic position. No qualifying 24–48h Tier 3 piece identified."
+        },
+        {
+          "title": "The Insurance Weapon: How Commercial Risk Logic Became an Irregular Warfare Tool at Hormuz",
+          "author": "Irregular Warfare Center",
+          "publication": "Small Wars Journal",
+          "pub_date": "2026-05-13",
+          "access": "Open",
+          "summary": "Argues that commercial war-risk insurance has become a de facto instrument of economic coercion — Iran's ability to render shipping commercially uninsurable has achieved strategic effects equivalent to a kinetic blockade. Provides a framework for understanding why WRP will normalise slowly even after a deal: underwriter caution is structural, not just reactive.",
+          "relevance": "Essential analytical frame for Section 5A — explains why institutions must not expect rapid WRP normalisation post-MOU and why JWC delisting will lag market repricing.",
+          "link": "https://smallwarsjournal.com/2026/05/13/the-insurance-weapon/",
+          "note": "Article dated 13 May 2026 — beyond 48h window; included for direct relevance to Sections 5 and 5A. No qualifying 24–48h Tier 3 piece identified."
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "Pro-Iran hacktivist elevated posture: deal-wording impasse extends high-risk cyber window.",
+          "text": "Pro-Iran hacktivist coalitions (313 Team, DieNet, Fatimion, ALTOUFAN TEAM) remain active. Sunday's failure to announce a signed MOU means hardline IRGC-adjacent groups retain a mobilisation rationale. SocRadar confirms 144+ verified GCC incidents since 28 Feb 2026; financial services is the #2 most targeted sector; Monday market open is a historically active attack window.",
+          "cve_ids": [],
+          "threat_actor": "313 Team; DieNet; Fatimion; ALTOUFAN TEAM (IRGC-adjacent hacktivist coalitions)",
+          "recommended_action": "Maintain DDoS scrubbing, WAF, and CDN at full defensive posture; confirm SOC on-call coverage is active for Monday opening.",
+          "sources": ["SocRadar, April–May 2026", "Intel 471, 2026"],
+          "url": "https://socradar.io/blog/pro-iran-cyberattacks-financial-services-144/"
+        },
+        {
+          "bold_heading": "FINRA cybersecurity alert (active): elevated threat from Iranian cyber actors to financial sector.",
+          "text": "FINRA's March 2026 advisory remains active, citing Iranian state-sponsored and Iran-aligned actors targeting US and GCC financial institutions with credential theft, ransomware, and DDoS. SISA InfoSec advisory identifies SWIFT messaging credential theft, payment gateway web shells, and Chaos ransomware false-flag attacks as live vectors.",
+          "cve_ids": [],
+          "threat_actor": "APT34 (OilRig); MuddyWater",
+          "recommended_action": "Verify SWIFT CSP controls are current; review payment gateway access logs for anomalous after-hours activity ahead of Monday open.",
+          "sources": ["FINRA cybersecurity alert, March–May 2026", "SISA InfoSec, May 2026"],
+          "url": "https://www.finra.org/rules-compliance/key-topics/cybersecurity/cybersecurity-alert-heightened-threats-iranian-cyber-actors"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "APT34 (OilRig/IRGC) and MuddyWater: deal-wording delay preserves elevated cyber operational tempo.",
+          "text": "A prolonged MOU impasse means IRGC cyber units will not stand down. APT34 TTPs remain active: StealHook Exchange credential exfiltration, DNS-tunnelling C2, Dindoor Deno backdoor, RustyWater RAT, Chaos ransomware false-flag. Dindoor backdoor has been observed in US banking sector compromises.",
+          "threat_actor": "APT34 (OilRig/IRGC); MuddyWater (Mango Sandstorm)",
+          "assessed_likelihood": "Moderate (escalates to High if MOU collapses)",
+          "sources": ["Trellix Iranian Cyber Capability 2026", "LevelBlue SpiderLabs", "Unit 42", "SocRadar"],
+          "url": "https://www.trellix.com/blogs/research/the-iranian-cyber-capability-2026/"
+        },
+        {
+          "bold_heading": "Chinese state-affiliated pre-positioning in Gulf financial and energy infrastructure: persistent.",
+          "text": "CISA AA26-113a documents ongoing Chinese pre-positioning in GCC financial, communications, and energy infrastructure. No bilateral cyber stand-down agreement emerged from the Trump-Xi summit (14–15 May). Iran deal uncertainty may reduce China's immediate interest in active disruption but reconnaissance posture is assessed as sustained.",
+          "threat_actor": "Chinese state-affiliated actors (unnamed)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["CISA AA26-113a, 2026", "Chatham House, May 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a"
+        },
+        {
+          "bold_heading": "CISA AA26-097a: Iranian-affiliated PLC/OT exploitation posture unchanged.",
+          "text": "Iran-affiliated actors continue targeting Rockwell Automation/Allen-Bradley PLCs; financial sector exposure via facility management, data-centre energy controls, and BMS systems remains. IRGC OT capabilities do not de-escalate automatically with a deal.",
+          "threat_actor": "Iranian-affiliated APT (IRGC-linked OT actors)",
+          "assessed_likelihood": "Low-Moderate for direct Kuwait institutional OT targeting; High for continued global IRGC-affiliated OT campaign through 60-day MOU window if deal signed",
+          "sources": ["CISA AA26-097a", "IC3 CSA 260407, April 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Iran-US MOU wording resolution or breakdown.",
+          "why_it_matters": "A signed MOU triggers Brent drop, WRP repricing, and Hormuz normalisation timeline; a breakdown could re-escalate kinetically and reverse Monday's oil price decline sharply.",
+          "related_section": "Sections 2, 4, 5, 5A"
+        },
+        {
+          "text": "Monday oil market close: deal pricing or reversal.",
+          "why_it_matters": "If Brent closes below $95 on confirmed deal momentum, initiate active collateral and margin monitoring; if above $105 on collapse scenario, activate energy exposure escalation protocols.",
+          "related_section": "Sections 1A, 5"
+        },
+        {
+          "text": "Israel formal response on Lebanon clause.",
+          "why_it_matters": "A formal Israeli rejection or continued IDF strikes in Lebanon at scale could provide Iran grounds to withdraw from the MOU, re-opening the path to kinetic escalation.",
+          "related_section": "Sections 2, 4"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "HIGH", "note": "No alerts confirmed across KUNA, US Embassy archive, Kuwait MOI" },
+    { "section": "2 — Targets & Incidents", "source_count": 4, "confidence": "HIGH", "note": "Ceasefire hold confirmed across multiple Tier 1 wires; MOU not signed confirmed by CBS/Axios" },
+    { "section": "3 — Kuwait Local", "source_count": 9, "confidence": "HIGH", "note": "KWI status, FATF, port/border all corroborated across multiple Tier 1 sources" },
+    { "section": "4 — Regional Context", "source_count": 5, "confidence": "HIGH", "note": "Deal status confirmed by Axios, CBS, CNN with multiple official sources; Iran divergence noted" },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "MEDIUM-HIGH", "note": "Analysis-layer; oil estimates intraday [TIMESTAMP UNCONFIRMED]" },
+    { "section": "5A — Insurance Risks", "source_count": 4, "confidence": "HIGH", "note": "JWC/WRP figures from Albany Antree (14 May 2026); mine-risk via JMIC; confirmed unchanged" },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "MEDIUM", "note": "No new Kuwait-specific incident; posture inferred from deal-wording impasse and established threat intelligence" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "MEDIUM", "note": "No new confirmed intrusion; likelihood assessments based on established actor TTPs and deal outcome scenarios" }
+  ],
+  "footer": "Report #76 compiled 2026-05-25 at 07:30 UTC+3."
+}

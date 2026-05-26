@@ -1,0 +1,306 @@
+{
+  "date": "2026-05-26",
+  "headline": "26 May 2026",
+  "subtitle": "CENTCOM Self-Defense Strikes Shake Ceasefire; MOU Window Narrows",
+  "report_number": "77",
+  "coverage": "25 May 2026 07:00 UTC+3 – 26 May 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-05-26",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "0", "previous": "0", "delta": "0", "trend_7d": "→" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "98.11", "previous": "98.40", "delta": "-0.29", "trend_7d": "↓" },
+      { "metric": "WTI crude ($/bbl)", "today": "90.69", "previous": "91.75", "delta": "-1.06", "trend_7d": "↓" },
+      { "metric": "Strait of Hormuz transits/day", "today": "2", "previous": "2", "delta": "0", "trend_7d": "→" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "5", "previous": "5", "delta": "0", "trend_7d": "→" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "55", "today_label": "Moderate", "previous": "NR", "previous_label": "USG", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "False-alarm siren in northern Kuwait border community; stand-down confirmed.",
+          "text": "Drone warning sirens were activated in a northern Kuwait border community during the coverage window; Kuwait military confirmed this was a false alarm and residents were cleared from shelters. No civil defense shelter-in-place order, curfew, or emergency broadcast was issued at the national level by Kuwait MOI or Kuwait Civil Defense during the coverage window.",
+          "sources": ["Times of Israel liveblog, 26 May 2026 [SINGLE SOURCE]"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "CENTCOM 'self-defense' strikes on Iranian missile sites and mine-placing boats, Strait of Hormuz — 25–26 May.",
+          "text": "US forces struck Iranian missile launch sites in southern Iran and IRGC boats engaged in mine emplacement near the Strait of Hormuz Traffic Separation Scheme, citing protection of US personnel. Strikes occurred hours after Iranian negotiators met Qatari mediators in Doha. Iranian state media characterised strikes as ceasefire violations; no official Iranian government response as of reporting time. Ceasefire (Day 48) technically holds.",
+          "sources": ["CENTCOM statement", "CNN live blog", "Washington Post", "PBS NewsHour", "ABC News, 25–26 May 2026"]
+        },
+        {
+          "bold_heading": "No confirmed strikes or attacks on Kuwait territory in coverage window.",
+          "text": "The April 8 ceasefire holds for Day 48. The false-alarm siren in northern Kuwait produced no confirmed incident.",
+          "sources": ["Kuwait MOI", "KUNA", "Times of Israel liveblog, 26 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "KWI: T4 and T5 fully operational; T1 phased reopening from 1 June on schedule.",
+          "text": "No change from prior day. Kuwait Airways (T4) and Jazeera Airways (T5) maintain normal schedules; Emirates operating up to 5 daily flights. T1 repair and rehabilitation on track for 1 June resumption. US State Dept Level 3 and UK FCDO 'all but essential travel' advisories remain in effect.",
+          "sources": ["Arab Times Kuwait (GACA), 21 May 2026", "ibtimes.com.au", "Wego Travel Blog", "US State Dept", "FCDO, May 2026"]
+        },
+        {
+          "bold_heading": "Kuwait Hajj airlift underway; 63 flights for 8,400 pilgrims from T4.",
+          "text": "GACA confirmed all Hajj flights scheduled from Terminal 4, operating in coordination with Saudi authorities. No disruption reported.",
+          "sources": ["Gulf News, May 2026"]
+        },
+        {
+          "bold_heading": "FATF: 'Significant progress' recognised at May 11–13 Plenary; grey list status unchanged but trajectory positive.",
+          "text": "FATF acknowledged 95% progress on Kuwait's AML/CFT action plan. Grey list status continues pending completion of real estate STR reporting and beneficial ownership registry items. PM-level compliance committee coordination ongoing. Correspondent bank enhanced due diligence expected to continue for at least one further Plenary cycle (October 2026).",
+          "sources": ["FATF Plenary statement, May 2026", "Kuwait Times", "AML Watcher", "Fincrime Central, May 2026"]
+        },
+        {
+          "bold_heading": "Northern border false-alarm siren; no civil impact.",
+          "text": "Drone warning sirens in northern Kuwait community near Iraqi border confirmed as false alarm by military. Residents cleared from shelters; no service disruptions reported.",
+          "sources": ["Times of Israel liveblog, 26 May 2026 [SINGLE SOURCE]"]
+        },
+        {
+          "bold_heading": "Normal civil operations; no closures, curfew, or supply disruptions.",
+          "text": "Full civil government and in-person schooling in place since 3 May. No curfew, panic buying, or supply disruptions during coverage window.",
+          "sources": ["KUNA", "Kuwait Times, 26 May 2026"]
+        },
+        {
+          "bold_heading": "Shuwaikh Port: Security Level 2, daylight-only operations unchanged.",
+          "text": "05:00–19:00 UTC+3 operational window; Sahel app QR code required for all maritime activity.",
+          "sources": ["Inchcape Shipping Services", "GAC, May 2026"]
+        },
+        {
+          "bold_heading": "Land border crossings open with caveats.",
+          "text": "Al-Nuwaisib (Saudi Arabia) and Abdali (Iraq/Safwan) operational; Iraq-Kuwait border subject to short-notice closure given residual IRGC-aligned militia threat in southern Iraq.",
+          "sources": ["Kuwait Times", "Logistics Cluster, May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "CENTCOM self-defense strikes shake ceasefire (Day 48) but do not collapse it; Rubio signals deal 'a couple of days' away.",
+          "text": "US struck Iranian missile sites and mine-placing IRGC boats on 25–26 May; ceasefire technically holds. Rubio says 'a pretty solid thing on the table' and a deal within 'a couple of days.' 60-day framework: Hormuz de-mined/reopened, US blockade lifted, Iran oil sales permitted, nuclear talks initiated.",
+          "sources": ["CNN live blog", "Washington Post", "ABC News", "CNBC", "Axios, 25–26 May 2026"]
+        },
+        {
+          "bold_heading": "Netanyahu intensifies Lebanon strikes; Iran-deal Lebanon clause remains principal deal-breaker risk.",
+          "text": "Netanyahu stated on 26 May that Israel will 'intensify' strikes on Hezbollah. Draft deal includes language ending Israel-Hezbollah war; Israeli formal rejection of Lebanon clause could give Iran cover to withdraw from negotiations. 3,185+ killed in Lebanon since April 16 Lebanon ceasefire.",
+          "sources": ["Japan Times", "CNN", "Al Jazeera, 26 May 2026"]
+        },
+        {
+          "bold_heading": "China continues missile fuel precursor shipments to Iran; no US-China cyber stand-down.",
+          "text": "PRC sent multiple shipments of missile fuel precursors supporting Iranian missile reconstitution. No bilateral stand-down agreement confirmed. CISA AA26-113a pre-positioning advisory remains active.",
+          "sources": ["Eurasia/Iran Update, 21 May 2026", "CISA AA26-113a"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Oil prices stabilised near $98 Brent / $90 WTI; dual-scenario protocols must remain active.",
+          "text": "Deal optimism keeps prices depressed but CENTCOM strikes introduce reversal risk. MOU signature → Brent toward $80–90; ceasefire collapse → rebound toward $110+. Maintain dual-scenario margin and collateral monitoring on energy-linked portfolios.",
+          "sources": ["TradingEconomics", "Barchart", "CNN", "Axios, 25–26 May 2026"]
+        },
+        {
+          "bold_heading": "OFAC: No waivers issued; compliance controls unchanged.",
+          "text": "Unsigned MOU means no OFAC sanctions waivers. 'Relief for performance' requires verified Hormuz de-mining before relief materialises. Do not pre-emptively modify KYC/compliance controls for Iranian- or PGSA-adjacent counterparties.",
+          "sources": ["OFAC guidance", "Axios, May 2026"]
+        },
+        {
+          "bold_heading": "FATF grey list positive trajectory — correspondent due diligence not yet lifting.",
+          "text": "95% FATF progress recognition is positive but formal grey list removal requires completion of remaining action items. Correspondent bank enhanced due diligence to continue at least through October 2026 Plenary.",
+          "sources": ["FATF Plenary, May 2026", "Kuwait Times", "AML Watcher"]
+        },
+        {
+          "bold_heading": "JWC JWLA-033 unchanged; CENTCOM mine-clearing strikes do not trigger de-listing.",
+          "text": "JWC requires documented, sustained, safe Hormuz transit evidence. WRP at 3–8% of vessel value unchanged. Hold current WRP assumptions in shipping finance, commodity trade finance, and WRP-linked guarantees.",
+          "sources": ["Albany Antree", "Lloyd's List", "Insurance Journal, May 2026"]
+        },
+        {
+          "bold_heading": "CENTCOM strike-triggered cyber retaliation window: elevated for next 24–72h.",
+          "text": "Historical pattern: IRGC-linked hacktivist groups increase activity within 24–72h of US kinetic actions. Pro-Iran groups (313 Team, DieNet, Fatimion) target GCC financial services. SOC at heightened posture through Wednesday 27 May.",
+          "sources": ["SocRadar", "Intel 471", "Unit 42, May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "JWC JWLA-033 in force; US mine-clearing strikes do not constitute verified Hormuz reopening.",
+          "text": "CENTCOM's strikes on mine-placing IRGC boats are a positive operational step but mine survey and TSS clearance remains incomplete. WRP at 3–8% of vessel value; no adjustment warranted.",
+          "sources": ["Albany Antree (14 May 2026)", "Insurance Journal", "Lloyd's List, May 2026"]
+        },
+        {
+          "bold_heading": "Hormuz mine risk structurally elevated; JMIC Advisory Note 004-26 unchanged.",
+          "text": "Mine risk near the TSS not fully surveyed. Transit cost (~$2.5M VLCC voyage premium) will not normalise for at least 4–6 weeks post-MOU signature even in best case.",
+          "sources": ["Albany Antree", "JMIC UKMTO", "CNBC, May 2026"]
+        },
+        {
+          "bold_heading": "'Hormuz Safe' sanctions voidance risk persists.",
+          "text": "Iran's PGSA-affiliated 'Hormuz Safe' platform remains operational and OFAC-non-compliant. Acceptance of Hormuz Safe cover automatically voids P&I Club and H&M cover. No OFAC exemption issued; treat all PGSA/Hormuz Safe counterparties as prohibited.",
+          "sources": ["Khaleej Times", "Windward", "ICG, May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Why a possible Iran deal may be almost as divisive as Trump's decision to wage war",
+          "author": "Stephen Collinson",
+          "publication": "CNN Politics",
+          "pub_date": "2026-05-25",
+          "access": "Open",
+          "summary": "Analyses growing bipartisan criticism of the emerging deal framework — Republican hawks warn it falls short of original war aims while Democrats argue it rewards Iranian coercion. The 'relief for performance' model creates sustained verification-and-compliance uncertainty through an extended implementation period.",
+          "relevance": "Directly relevant for compliance teams: prolonged uncertainty between MOU signature and full implementation creates an extended grey zone for KYC/sanctions compliance — normalisation will not be rapid or linear.",
+          "link": "https://www.cnn.com/2026/05/25/politics/trump-iran-war-deal-analysis"
+        },
+        {
+          "title": "Analysis: Why Trump's most puzzling Iran move yet is unlikely to work",
+          "author": "CNN Politics",
+          "publication": "CNN Politics",
+          "pub_date": "2026-05-26",
+          "access": "Open",
+          "summary": "Argues that CENTCOM self-defense strikes conducted while deal talks were active in Doha signal internal US administration incoherence between Pentagon operational tempo and State Department deal-making, undermining Iranian confidence in ceasefire commitments. Iran has structured its negotiating position to exploit this ambiguity.",
+          "relevance": "If Iranian leadership interprets CENTCOM strikes as bad faith, the deal window may close faster than the 'couple of days' framing suggests, requiring institutions to maintain pre-MOU risk postures indefinitely.",
+          "link": "https://edition.cnn.com/2026/05/26/politics/trump-iran-war-peace-deal-analysis"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "CENTCOM kinetic action elevates IRGC-linked cyber retaliation risk for next 24–72h.",
+          "text": "US strikes on Iranian IRGC boats and missile sites follow a historical pattern of triggering retaliatory hacktivist cyber operations within 24–72 hours. Pro-Iran groups — 313 Team, DieNet, Fatimion, ALTOUFAN TEAM — maintain active C2 infrastructure; SocRadar reports 144+ verified GCC incidents; financial services is #2 most targeted sector.",
+          "cve_ids": [],
+          "threat_actor": "313 Team, DieNet, Fatimion, ALTOUFAN TEAM (IRGC-linked)",
+          "recommended_action": "Elevate SOC posture to heightened through Wednesday 27 May; ensure DDoS scrubbing, WAF, and CDN at full defensive capacity; verify out-of-hours coverage.",
+          "sources": ["SocRadar, May 2026", "Intel 471, May 2026", "CENTCOM, 25–26 May 2026"],
+          "url": "https://socradar.io/blog/pro-iran-cyberattacks-financial-services-144/"
+        },
+        {
+          "bold_heading": "SWIFT credential theft and payment gateway web shells remain active vectors (FINRA/SISA advisory).",
+          "text": "FINRA March 2026 advisory remains in force. SISA InfoSec identifies SWIFT messaging credential theft, payment gateway web shell insertion, and Chaos ransomware false-flag attacks as active vectors. Threat actors: APT34 (OilRig), MuddyWater.",
+          "cve_ids": [],
+          "threat_actor": "APT34 (OilRig), MuddyWater",
+          "recommended_action": "Audit SWIFT CSP controls; review payment gateway access logs for anomalous activity; confirm privileged account MFA is enforced.",
+          "sources": ["FINRA cybersecurity alert, March–May 2026", "SISA InfoSec, May 2026"],
+          "url": "https://www.finra.org/rules-compliance/key-topics/cybersecurity/cybersecurity-alert-heightened-threats-iranian-cyber-actors"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "APT34 (OilRig/IRGC) and MuddyWater: CENTCOM strikes may temporarily increase operational tempo.",
+          "text": "Deal-making uncertainty combined with US kinetic activity creates IRGC rationale to signal capability. Active TTPs: StealHook Exchange credential exfiltration, DNS-tunnelling C2, Dindoor Deno backdoor, Chaos ransomware false-flag. Dindoor backdoor observed in US banking compromises.",
+          "threat_actor": "APT34 (OilRig), MuddyWater (IRGC-affiliated)",
+          "assessed_likelihood": "Moderate–High (escalates to High if Iran formally declares ceasefire violation)",
+          "sources": ["Trellix Iranian Cyber Capability 2026", "LevelBlue SpiderLabs", "Unit 42", "SocRadar, May 2026"],
+          "url": "https://www.trellix.com/blogs/research/the-iranian-cyber-capability-2026/"
+        },
+        {
+          "bold_heading": "Chinese state-affiliated pre-positioning: sustained reconnaissance in Gulf financial infrastructure.",
+          "text": "PRC's continued missile fuel precursor shipments signal sustained strategic alignment with Tehran. No US-China cyber stand-down confirmed. CISA AA26-113a documents GCC financial, communications, and energy pre-positioning.",
+          "threat_actor": "PRC state-affiliated (unnamed in CISA advisory)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["CISA AA26-113a, 2026", "Eurasia Iran Update, 21 May 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a"
+        },
+        {
+          "bold_heading": "CISA AA26-097a: Iranian-affiliated PLC/OT exploitation posture unchanged.",
+          "text": "Iran-affiliated actors continue targeting Rockwell Automation/Allen-Bradley PLCs in critical infrastructure including data-centre energy and building management systems. IRGC OT units do not stand down automatically with a deal.",
+          "threat_actor": "IRGC-affiliated OT actors",
+          "assessed_likelihood": "Low–Moderate (direct Kuwait institutional OT targeting); High (continued global IRGC-affiliated OT campaign)",
+          "sources": ["CISA AA26-097a", "IC3 CSA 260407, April 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Iran's official response to CENTCOM self-defense strikes.",
+          "why_it_matters": "An official Iranian ceasefire-violation declaration would collapse deal talks, spike oil prices, and activate pre-positioned IRGC cyber units.",
+          "related_section": "Sections 2, 4, 5, 7A"
+        },
+        {
+          "text": "MOU signature window: Rubio's 'couple of days' deadline (target 27–28 May).",
+          "why_it_matters": "A signature triggers Brent repricing toward $80–90, JWC/WRP reassessment timelines, OFAC waiver drafting, and FATF normalisation expectations; an unsigned outcome by Friday reopens escalation risk.",
+          "related_section": "Sections 1A, 5, 5A"
+        },
+        {
+          "text": "Netanyahu Lebanon clause: formal Israeli rejection risk.",
+          "why_it_matters": "Netanyahu's intensification order directly challenges the deal's Lebanon ceasefire clause — a formal Israeli rejection gives Iran political cover to suspend negotiations.",
+          "related_section": "Sections 2, 4"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 1, "confidence": "LOW-MEDIUM", "note": "False-alarm siren: single source (Times of Israel liveblog); no KUNA/Kuwait MOI corroboration found" },
+    { "section": "2 — Targets & Incidents", "source_count": 5, "confidence": "HIGH", "note": "CENTCOM strikes confirmed across CNN, WashPost, PBS, ABC News; no Kuwait-territory incidents corroborated via KUNA" },
+    { "section": "3 — Kuwait Local", "source_count": 7, "confidence": "HIGH", "note": "KWI/FATF/port/border corroborated across multiple Tier 1 sources; false-alarm item tagged SINGLE SOURCE" },
+    { "section": "4 — Regional Context", "source_count": 6, "confidence": "HIGH", "note": "Deal status, strikes, Lebanon confirmed via CNN, Axios, Japan Times, multiple wires" },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "MEDIUM-HIGH", "note": "Analysis-layer sourced from Tier 1; oil prices confirmed at market close" },
+    { "section": "5A — Insurance Risks", "source_count": 4, "confidence": "HIGH", "note": "JWC/WRP from Albany Antree (14 May); mine risk via JMIC; no change confirmed" },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "MEDIUM", "note": "No new Kuwait-specific incident; posture elevated based on CENTCOM strike pattern and established threat intelligence" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "MEDIUM", "note": "Likelihood ratings based on established actor TTPs; no new confirmed Gulf FS intrusion" }
+  ],
+  "footer": "Report #77 compiled 2026-05-26 at 07:30 UTC+3."
+}
