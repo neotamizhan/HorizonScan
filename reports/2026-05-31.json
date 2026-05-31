@@ -1,0 +1,292 @@
+{
+  "date": "2026-05-31",
+  "headline": "31 May 2026",
+  "subtitle": "Ali Al Salem Threshold Crossed; MOU Decision Imminent; June 1 Return-to-Operations",
+  "report_number": "82",
+  "coverage": "30 May 2026 07:00 UTC+3 – 31 May 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-05-31",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "1", "previous": "1+", "delta": "0", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "91.12", "previous": "91.37", "delta": "-0.25", "trend_7d": "↓" },
+      { "metric": "WTI crude ($/bbl)", "today": "87.36", "previous": "87.50", "delta": "-0.14", "trend_7d": "↓" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~4", "previous": "~2", "delta": "+2", "trend_7d": "↑" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "7", "previous": "7", "delta": "0", "trend_7d": "↑" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "NR", "today_label": null, "previous": "NR", "previous_label": null, "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "PAC-3 air defense activation at Ali Al Salem Air Base — 30 May",
+          "text": "Kuwait's air defense system engaged an Iranian Fateh-110 SRBM targeting Ali Al Salem Air Base. Interception was successful but falling debris struck the flight line, injuring five US personnel and destroying at least one MQ-9 Reaper. First confirmed instance of Iranian ballistic missile debris striking a US base on Kuwaiti soil. No civilian-area sirens or evacuation orders separately confirmed outside base perimeter.",
+          "sources": ["Bloomberg, 30 May 2026", "PBS NewsHour, 30 May 2026", "Stars and Stripes, 30 May 2026", "Kyiv Post, 30 May 2026"]
+        },
+        {
+          "bold_heading": "Elevated civil defense posture — no all-clear issued as of 07:00 UTC+3 31 May",
+          "text": "Kuwait MOI has not issued a formal downgrade of the heightened readiness posture. Citizens and residents advised to remain near designated shelter areas and monitor KUNA/MOI official channels.",
+          "sources": ["Kuwait MOI — carry-forward", "KUNA — carry-forward"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Iranian Fateh-110 SRBM strikes Ali Al Salem flight line — 30 May; first Iranian ballistic missile debris to hit a US installation in Kuwait [SINGLE SOURCE for full damage assessment: Bloomberg]",
+          "text": "PAC-3 battery intercepted incoming Fateh-110 but debris struck flight line, injuring five Americans (minor injuries; mix of active-duty and contractors) and destroying one MQ-9 Reaper (~$30M); one additional MQ-9 seriously damaged. IRGC confirmed via Tasnim, citing retaliation for a US strike on IRGC drone-control station near Bandar Abbas (27 May). CENTCOM: 'egregious ceasefire violation.' Qualitative threshold crossed — previous Ali Al Salem intercepts produced no debris impact.",
+          "sources": ["Bloomberg, 30 May 2026", "PBS NewsHour, 30 May 2026", "Stars and Stripes, 30 May 2026", "Iran International, 30 May 2026", "Kyiv Post, 30 May 2026"]
+        },
+        {
+          "bold_heading": "No new confirmed maritime incidents in Strait of Hormuz during coverage window",
+          "text": "Hormuz commercial transits slowly recovering (~4/day per PortWatch May 24 data; pre-crisis baseline ~95/day). US military providing navigation advice to commercial vessels on request; not conducting escorts. IRGC Persian Gulf Strait Authority permit requirement remains in effect. No new UKMTO incident report identified.",
+          "sources": ["Bloomberg, 29 May 2026", "PortWatch data, May 24 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "June 1 full return-to-operations: banking, public sector, and KWI Terminal 1",
+          "text": "National Bank of Kuwait confirms Eid holiday ends 31 May; banking and public sector resume 1 June. GACA officially confirmed KWI Terminal 1 gradual reopening from 1 June; individual airline schedule confirmation still required. KWI T4 and T5 continued operations throughout the coverage window with no confirmed flight disruptions.",
+          "sources": ["NBK announcement", "GACA, 21 May 2026", "Kuwait Times", "ibtimes.com.au"]
+        },
+        {
+          "bold_heading": "Ali Al Salem airspace — monitor for NOTAMs following 30 May strike",
+          "text": "No GACA/DGCA NOTAM publicly confirmed at compilation time, but flight-line strike and elevated base security posture make short-notice airspace restrictions probable. Monitor dgca.gov.kw before scheduling regional charter or business aviation.",
+          "sources": ["Bloomberg, 30 May 2026"]
+        },
+        {
+          "bold_heading": "Kuwait AQI (PM2.5) — NR [TIMESTAMP UNCONFIRMED]",
+          "text": "Last confirmed reading 225 (Very Unhealthy) from aqi.in on 29 May. A 25 May reading from a different station showed 55 (Moderate); inter-station variance is high during shamal season. Continue outdoor exposure caution; verify at aqicn.org or IQAir Kuwait City before 1 June commute.",
+          "sources": ["aqi.in — carry-forward"]
+        },
+        {
+          "bold_heading": "Shuwaikh Port and land borders — carry-forward",
+          "text": "Shuwaikh Port: ISPS Level 2; daylight-only restrictions (05:00–19:00 UTC+3). Al-Nuwaisib (Saudi) post-Eid traffic stabilizing. Abdali (Iraq/Safwan) maintains short-notice closure risk given IRGC kinetic posture.",
+          "sources": ["Inchcape Shipping Services — carry-forward", "Logistics Cluster — carry-forward"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "Trump MOU decision remains outstanding as of 31 May 07:00 UTC+3. Hegseth confirmed negotiations ongoing. Key unresolved disputes: Iran's claim to $12B in frozen assets (denied by US), enrichment rights, US force withdrawal language. Regional mediators (Saudi Arabia, Qatar, UAE, Egypt, Turkey, Pakistan, Jordan) have endorsed MOU framework. IRGC General Rezaei warned Iran is 'willing to attack the blockade' if Trump 'betrays negotiations' — dual diplomatic-escalatory posture.",
+          "sources": ["CBS News liveblog, 30 May 2026", "Al Jazeera, 29–30 May 2026", "CNN, 29–30 May 2026"]
+        },
+        {
+          "text": "Ali Al Salem threshold crossed: first Iranian ballistic missile debris to strike a US installation in Kuwait. CENTCOM 'egregious ceasefire violation' language is escalatory framing and increases domestic US pressure for military response.",
+          "sources": ["Bloomberg, 30 May 2026", "PBS NewsHour, 30 May 2026", "Kyiv Post, 30 May 2026"]
+        },
+        {
+          "text": "Hormuz transits recovering slowly (~4/day vs. 95/day baseline) but remain structurally suppressed. IRGC Persian Gulf Strait Authority is now a permanent institution — permit requirement persists regardless of MOU outcome absent explicit dismantlement.",
+          "sources": ["Bloomberg, 29 May 2026", "PortWatch", "ICG Iran Crisis Monitor #7, 26 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "June 1 return-to-operations: complete the readiness checklist BEFORE doors open",
+          "text": "Priority actions before 09:00 UTC+3 on 1 June: SAR backlog under FinCEN FIN-2026-Alert002 (IRGC shadow fleet); OFAC screening queue; SWIFT CSP access-log audit for 26–31 May holiday gap; privileged-account MFA verification; SOC staffing and escalation confirmation; physical security protocol refresh post-Ali Al Salem.",
+          "sources": ["FinCEN FIN-2026-Alert002", "CBK", "FINRA cybersecurity advisory"]
+        },
+        {
+          "bold_heading": "Qualitative escalation: Ali Al Salem strike crosses new threshold",
+          "text": "First confirmed instance of Iranian ballistic missile debris striking a US military installation in Kuwait. While civilian infrastructure was not targeted, the precedent elevates probability of more deliberate future strikes. Review physical security and evacuation procedures for Kuwait-based staff and operations sites.",
+          "sources": ["Bloomberg, 30 May 2026", "PBS NewsHour, 30 May 2026"]
+        },
+        {
+          "bold_heading": "Oil price dual-scenario: MOU decision overdue — reassess positions before Monday 1 June open",
+          "text": "Brent $91.12 (Friday 29 May close). MOU signature → Brent ~$85–88 within 3 trading days. MOU rejection + Ali Al Salem response → Brent $100–110+ spike. Monday 1 June is the first US trading day post-holiday. Position reviews and hedging decisions should be completed over the weekend.",
+          "sources": ["Bloomberg, 29 May 2026", "TradingEconomics, 29 May 2026"]
+        },
+        {
+          "bold_heading": "Cyber retaliation window reset by Ali Al Salem strike — elevated SOC through 2 June",
+          "text": "The 30 May IRGC kinetic action resets the 48–72h hacktivist and APT retaliation window. Active groups: 313 Team, ALTOUFAN TEAM, DieNet, Fatimion. SOC on-call contacts must be confirmed reachable before 1 June market open.",
+          "sources": ["SocRadar, April–May 2026", "Unit 42 (Palo Alto Networks), April–May 2026"]
+        },
+        {
+          "bold_heading": "KWI T1 gradual reopening 1 June — verify individual airline schedules",
+          "text": "GACA confirmed phased return; not all carriers have confirmed schedule resumption. Business travel via T1 from 1 June requires airline-by-airline verification before booking.",
+          "sources": ["GACA, 21 May 2026", "Kuwait Times"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "JWC JWLA-033 unchanged — full Persian Gulf listed area; WRP elevated following 30 May escalation",
+          "text": "Ali Al Salem strike further forecloses near-term JWC de-listing of Kuwait. WRP for Gulf transits: 3–8% of hull value per voyage; US/UK/Israeli-flagged vessels at upper end.",
+          "sources": ["JWC JWLA-033", "Insurance Journal, March 2026", "Caixin Global, March 2026"]
+        },
+        {
+          "bold_heading": "No WRP reduction warranted until MOU signed AND Hormuz de-mining commences",
+          "text": "Draft MOU commits Iran to de-mine Hormuz within 30 days of signature. Trump has not signed as of 07:00 UTC+3 31 May. Insurers require sustained stability post-signature. No AWRP reduction should be modelled for planning purposes.",
+          "sources": ["Bloomberg, 29–30 May 2026", "Khaleej Times, 29–30 May 2026"]
+        },
+        {
+          "bold_heading": "IRGC Persian Gulf Strait Authority permit requirement in effect — P&I and H&M clause review required",
+          "text": "Vessels transiting without IRGC permit face interdiction. Confirm P&I and H&M policies explicitly cover permit-denial and hostile-action scenarios. This requirement is institutionalized regardless of MOU outcome.",
+          "sources": ["ICG Iran Crisis Monitor #7, 26 May 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Last Rounds? Status of Key Munitions at the Iran War Ceasefire",
+          "author": "CSIS Staff",
+          "publication": "CSIS (Center for Strategic and International Studies)",
+          "pub_date": "2026-05-27",
+          "access": "Open",
+          "summary": "Assesses US missile inventory depletion after the Iran war air campaign, finding stockpiles of key long-range precision munitions (GBU-57, JASSM-ER, Tomahawk) are materially reduced. Argues the ceasefire timing may partly reflect US logistical constraints — a factor Iran's negotiating team likely understands, with implications for any resumption of hostilities.",
+          "relevance": "Constrained US retaliatory capacity creates a longer escalation fuse following IRGC attacks on Kuwait, implying the elevated-risk and insurance-premium environment may persist longer than earlier conflict phases.",
+          "link": "https://www.csis.org/analysis/last-rounds-status-key-munitions-iran-war-ceasefire"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "Pro-Iran hacktivist retaliation window RESET — elevated SOC requirement through 2 June",
+          "text": "Ali Al Salem strike (30 May) resets the 48–72h hacktivist surge window through 2 June. Active groups: 313 Team (confirmed Kuwait Armed Forces/MOD targeting), ALTOUFAN TEAM, DieNet (100+ DDoS attacks/day), Fatimion. GCC financial services is #2 most-targeted sector (144+ verified incidents).",
+          "cve_ids": [],
+          "threat_actor": "313 Team, ALTOUFAN TEAM, DieNet, Fatimion (pro-Iran hacktivist coalition)",
+          "recommended_action": "Maintain elevated SOC posture through 2 June; verify DDoS scrubbing, WAF, and CDN capacity; confirm all on-call escalation contacts reachable before 1 June market open.",
+          "sources": ["SocRadar, April–May 2026", "Unit 42 (Palo Alto Networks), April–May 2026", "Flare.io, April–May 2026"],
+          "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/"
+        },
+        {
+          "bold_heading": "APT34/MuddyWater SWIFT credential advisory — Eid holiday gap closes 1 June; audit BEFORE market open",
+          "text": "Active FINRA advisory documents APT34/MuddyWater targeting SWIFT messaging credentials and inserting web shells on payment gateways. The 26–31 May Eid holiday is precisely this type of reduced-staffing detection blind-spot period.",
+          "cve_ids": [],
+          "threat_actor": "APT34/MuddyWater (IRGC-affiliated)",
+          "recommended_action": "Audit SWIFT CSP controls and review payment gateway access logs for 26–31 May BEFORE 09:00 UTC+3 on 1 June; confirm privileged-account MFA is active across all payment systems.",
+          "sources": ["FINRA cybersecurity alert, March–May 2026", "SISA InfoSec, May 2026"],
+          "url": "https://www.finra.org/rules-guidance/guidance/cybersecurity-alert-heightened-threats-iranian-cyber-actors"
+        },
+        {
+          "bold_heading": "UAE Cybersecurity Council: Iran using AI to triple Gulf attack volumes",
+          "text": "UAE Cybersecurity Council Chairman confirmed Iran deploying AI tools (including ChatGPT) to engineer attacks; Gulf attacks tripled from 200,000 to 600,000 since war began. Financial, aviation, and law enforcement platforms targeted.",
+          "cve_ids": [],
+          "threat_actor": "Iran state-directed cyber actors",
+          "recommended_action": "Review SOC ML-based detection rules for AI-enhanced spear-phishing; brief security awareness team on AI-assisted social engineering before 1 June staff return.",
+          "sources": ["Gulf News, April–May 2026", "UAE Cybersecurity Council, April–May 2026"],
+          "url": "https://gulfnews.com/uae/government/uae-issues-warning-as-iran-deploys-ai-for-cyber-attacks-1.500525604"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Hydro Kitten: GCC financial sector targeting sustained — High likelihood",
+          "text": "Iran-linked Hydro Kitten maintains active GCC financial service targeting via ransomware, wipers, data leaks, and automated defacements. The 30 May kinetic escalation sustains group's operational tempo rationale. Sector: GCC financial services.",
+          "threat_actor": "Hydro Kitten (Iran-linked)",
+          "assessed_likelihood": "High",
+          "sources": ["The National, April–May 2026", "Cybersecurity Dive, April–May 2026"],
+          "url": "https://www.thenationalnews.com/future/technology/2026/04/10/iranian-cyber-attacks-move-from-disruptive-to-complex-threats-in-gulf/"
+        },
+        {
+          "bold_heading": "CISA AA26-097a: IRGC OT/PLC exploitation — likelihood elevated following May 30 escalation",
+          "text": "IRGC-affiliated actors continue targeting Rockwell Automation/Allen-Bradley PLCs. May 30 kinetic escalation may activate pre-positioned OT contingency plans targeting Gulf data-centre energy management systems. Sector: critical infrastructure, energy management.",
+          "threat_actor": "IRGC-affiliated OT actors",
+          "assessed_likelihood": "Moderate (Kuwait OT); High (global IRGC OT campaign)",
+          "sources": ["CISA AA26-097a, April 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "CISA AA26-113a: PRC pre-positioning in Gulf financial/energy infrastructure — Moderate, unchanged",
+          "text": "PRC-affiliated actors maintain low-level reconnaissance of Gulf financial, communications, and energy infrastructure. PRC-Iran strategic alignment (sanctions-exempt oil purchases) sustains access-maintenance incentive.",
+          "threat_actor": "PRC state-affiliated actors",
+          "assessed_likelihood": "Moderate",
+          "sources": ["CISA AA26-113a, 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Trump MOU decision — expected Monday 1 June at or before US market open (13:30 UTC+3)",
+          "why_it_matters": "MOU signature triggers Brent repricing toward $85–88, sanctions waiver cascade, and Hormuz de-mining clock; rejection triggers $100–110+ spike and re-escalation risk — with immediate impact on 1 June market open.",
+          "related_section": "Sections 1A, 4, 5, 5A"
+        },
+        {
+          "text": "1 June return-to-operations readiness window — Saturday/Sunday is the action window",
+          "why_it_matters": "Banks, public sector, and KWI T1 resume simultaneously on 1 June; all post-Eid readiness tasks (SAR backlog, SWIFT audit, patch deployment, SOC staffing, evacuation refresh) must be completed BEFORE the morning open.",
+          "related_section": "Sections 3, 5, 7A"
+        },
+        {
+          "text": "Monitor for US military response to Ali Al Salem 'egregious ceasefire violation'",
+          "why_it_matters": "If the US conducts a retaliatory strike on IRGC assets, a follow-on Iranian salvo targeting Kuwait or GCC assets within 24–48h is probable; civil defense alert posture remains active.",
+          "related_section": "Sections 1, 2, 3"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 4, "confidence": "HIGH", "note": "Bloomberg, PBS, Stars and Stripes, Kyiv Post — corroborated; no civilian siren activation separately confirmed" },
+    { "section": "2 — Targets & Incidents", "source_count": 5, "confidence": "HIGH", "note": "Bloomberg primary; corroborated by PBS, Stars and Stripes, Iran International, Kyiv Post; IRGC confirmation via Tasnim" },
+    { "section": "3 — Kuwait Local", "source_count": 3, "confidence": "MEDIUM", "note": "NBK confirmed banking resumption; GACA T1 confirmed; AQI NR [TIMESTAMP UNCONFIRMED]; port/border carry-forward" },
+    { "section": "4 — Regional Context", "source_count": 4, "confidence": "HIGH", "note": "MOU from CBS/CNN/Al Jazeera; IRGC Rezaei via regional media; Hormuz from Bloomberg/PortWatch" },
+    { "section": "5 — Risk Signal", "source_count": 3, "confidence": "MEDIUM-HIGH", "note": "Analysis layer on confirmed events; FinCEN, CBK, FINRA for compliance items" },
+    { "section": "5A — Insurance Risks", "source_count": 3, "confidence": "HIGH", "note": "JWC JWLA-033 unchanged; WRP ranges from Insurance Journal/Caixin; ICG for PGSA (extended window)" },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "MEDIUM", "note": "FINRA official; SocRadar/Unit 42 commercial intel; UAE Council via Gulf News — all within 30 days" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "MEDIUM", "note": "CISA official advisories; likelihood ratings updated for 30 May escalation context" }
+  ],
+  "footer": "Report #82 compiled 2026-05-31 at 07:30 UTC+3."
+}
