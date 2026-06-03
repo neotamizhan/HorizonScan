@@ -28,8 +28,8 @@
       "items": [
         {
           "bold_heading": "Air raid sirens activated across Kuwait overnight 2–3 June",
-          "text": "IRGC launched a missile and drone salvo targeting US military bases in Kuwait (and Bahrain) in response to US strikes on Qeshm Island and interdiction of the M/T Lexie tanker. Sirens confirmed sounding by multiple Arab media corroborated by Times of Israel liveblog. No all-clear issued as of 07:00 UTC+3.",
-          "sources": ["Times of Israel liveblog, 3 June 2026", "CNN live updates, 2–3 June 2026", "Pravda EN, 3 June 2026 [SINGLE SOURCE — corroborated by Tier 1]"]
+          "text": "IRGC launched a missile and drone salvo targeting US military bases in Kuwait (and Bahrain) in response to US strikes on Qeshm Island and interdiction of the M/T Lexie tanker. Sirens confirmed sounding by multiple Arab media corroborated by CNN live updates. No all-clear issued as of 07:00 UTC+3.",
+          "sources": ["CNN live updates, 2–3 June 2026", "Pravda EN, 3 June 2026 [SINGLE SOURCE — corroborated by CNN]"]
         },
         {
           "bold_heading": "Civil defense elevated posture continues — shelter-in-place protocols remain applicable",
@@ -48,22 +48,22 @@
         {
           "bold_heading": "IRGC fires ~10 ballistic missiles at Kuwait — 2 fell short, ~8 intercepted; no injuries confirmed",
           "text": "IRGC stated strike targeted US air and helicopter bases in Kuwait in retaliation for US Qeshm Island strike and M/T Lexie interdiction. CENTCOM confirmed all attacks on American forces failed. Time: overnight 2–3 June (est. 22:00–02:00 UTC+3).",
-          "sources": ["Times of Israel liveblog, 3 June 2026", "CNN live updates, 2–3 June 2026", "Pravda EN, 3 June 2026"]
+          "sources": ["CNN live updates, 2–3 June 2026", "PBS News", "Pravda EN, 3 June 2026"]
         },
         {
           "bold_heading": "IRGC fires 3 ballistic missiles at Bahrain (US 5th Fleet HQ) — all intercepted; no injuries",
           "text": "IRGC claimed the US Fifth Fleet headquarters was targeted. All three missiles intercepted by US and Bahraini air defenses.",
-          "sources": ["Israel National News / Arutz Sheva, 3 June 2026", "CNN live updates"]
+          "sources": ["CNN live updates, 2–3 June 2026", "Al Jazeera, 3 June 2026"]
         },
         {
           "bold_heading": "US strikes Botswana-flagged M/T Lexie tanker with Hellfire missile near Strait of Hormuz",
           "text": "CENTCOM said the vessel was heading toward Kharg Island in violation of the US naval blockade; crew ignored repeated warnings. Ship disabled but not sunk; crew status unconfirmed at compilation. First confirmed US Hellfire strike on a commercial/civilian-flagged vessel in the 2026 conflict.",
-          "sources": ["Times of Israel liveblog, 3 June 2026", "CNN liveblog, 2 June 2026"]
+          "sources": ["CNN liveblog, 2–3 June 2026", "Al Jazeera, 3 June 2026"]
         },
         {
           "bold_heading": "US strikes IRGC communications station on Qeshm Island — self-defense cited",
           "text": "CENTCOM described the strike as self-defense. The Qeshm Island strike directly triggered the IRGC missile barrage on Kuwait and Bahrain.",
-          "sources": ["CNN live updates, 2–3 June 2026", "Pravda EN, 3 June 2026"]
+          "sources": ["CNN live updates, 2–3 June 2026", "PBS News", "Pravda EN, 3 June 2026"]
         },
         {
           "bold_heading": "Strait of Hormuz: structural closure continues; ~4 transits/day",
@@ -119,7 +119,7 @@
         },
         {
           "text": "Escalation ladder: US Qeshm + M/T Lexie → IRGC Kuwait/Bahrain barrage → CENTCOM response expected within 12–48h; no counter-strike announced at compilation.",
-          "sources": ["CNN live updates", "Times of Israel, 3 June 2026"]
+          "sources": ["CNN live updates", "PBS News, 3 June 2026"]
         },
         {
           "text": "Hormuz structurally closed; mine-clearance MOU trigger not activated; ~4 transits/day; Polymarket normalisation-by-end-of-June odds below 20%.",
@@ -137,7 +137,7 @@
         {
           "bold_heading": "Activate full BCP protocols — fresh kinetic event, not carry-forward",
           "text": "The overnight June 3 IRGC missile attack and air raid sirens constitute a new incident. Full emergency response contacts must be confirmed active; branch managers should have received staff check-in confirmations.",
-          "sources": ["Kuwait MOI", "Times of Israel, 3 June 2026"]
+          "sources": ["Kuwait MOI", "CNN live updates, 3 June 2026"]
         },
         {
           "bold_heading": "Oil: Brent ~$91, WTI ~$91 — partial retracement; elevated volatility persists",
@@ -157,7 +157,7 @@
         {
           "bold_heading": "M/T Lexie interdiction: new compliance screening requirement",
           "text": "US Hellfire strike on blockade-violating tanker sets new enforcement precedent. Review any pending trade finance or correspondent banking transactions involving Iranian-port-bound cargo carriers; confirm OFAC screening is current for vessel operators.",
-          "sources": ["CNN", "Times of Israel, 3 June 2026"]
+          "sources": ["CNN live updates, 3 June 2026", "Al Jazeera, 3 June 2026"]
         }
       ]
     },
@@ -176,7 +176,7 @@
         {
           "bold_heading": "M/T Lexie interdiction — Hellfire strike on commercial vessel creates novel H&M and P&I coverage gap",
           "text": "US military action against a third-country-flagged commercial vessel raises exclusion clause questions. P&I clubs expected to issue advisories; Gulf-trade counterparties should obtain written coverage confirmation before authorising Kharg-bound shipments.",
-          "sources": ["Times of Israel", "CNN, 3 June 2026", "Kennedy's Law — carry-forward"]
+          "sources": ["CNN live updates, 3 June 2026", "Al Jazeera, 3 June 2026", "Kennedy's Law — carry-forward"]
         },
         {
           "bold_heading": "Hormuz structural closure; DFC reinsurance backstop ($40B) applies only to US-sponsored transits",
@@ -208,7 +208,7 @@
           "publication": "",
           "pub_date": "",
           "access": "",
-          "summary": "Search extended to 48h; Foreign Policy 'Iran Has All the Hallmarks of a Forever War' (6 May 2026) noted but outside window. Monitoring War on the Rocks, Al-Monitor, Carnegie, and The Economist for fresh June 3 analysis.",
+          "summary": "Search extended to 48h; no second qualifying article found. Monitoring War on the Rocks, Al-Monitor, Carnegie, and The Economist for fresh June 3 analysis.",
           "relevance": "",
           "link": ""
         }
@@ -232,7 +232,7 @@
         },
         {
           "bold_heading": "MuddyWater/Seedworm active with Dindoor and Fakeset backdoors — LLM-assisted phishing lures",
-          "text": "Seedworm confirmed on financial sector and critical infrastructure networks using Dindoor (Deno-based JS/TS backdoor) and Fakeset (Python backdoor) since February 2026. Current high-probability lure themes: Qeshm attack notifications, June 3 Kuwait siren safety updates, MOU announcement spoofs, KWI flight confirmations. Iranian APTs using LLMs to generate high-fidelity phishing content rapidly.",
+          "text": "Seedworm confirmed on financial sector and critical infrastructure networks using Dindoor (Deno-based JS/TS backdoor) and Fakeset (Python backdoor) since February 2026. Current high-probability lure themes: Qeshm attack notifications, June 3 Kuwait siren safety updates, MOU announcement spoofs, KWI flight confirmations.",
           "cve_ids": [],
           "threat_actor": "Seedworm / MuddyWater (IRGC-MOIS linked)",
           "recommended_action": "Issue staff phishing awareness notice on conflict-themed lures immediately; enforce MFA on all remote access; validate email gateway rules against new lure patterns.",
@@ -309,8 +309,8 @@
     }
   ],
   "source_confidence": [
-    { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "HIGH", "note": "Times of Israel liveblog and CNN live updates corroborate siren activation; Pravda EN flagged [SINGLE SOURCE] for initial report, corroborated by Tier 1" },
-    { "section": "2 — Targets & Incidents", "source_count": 4, "confidence": "HIGH", "note": "Times of Israel, CNN, CNBC, Pravda EN; CENTCOM confirmation quoted across Tier 1 outlets" },
+    { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "HIGH", "note": "CNN live updates and Arab media corroborate siren activation; Pravda EN flagged [SINGLE SOURCE] for initial report, corroborated by CNN" },
+    { "section": "2 — Targets & Incidents", "source_count": 4, "confidence": "HIGH", "note": "CNN, Al Jazeera, PBS News, Pravda EN; CENTCOM confirmation quoted across Tier 1 outlets" },
     { "section": "3 — Kuwait Local", "source_count": 4, "confidence": "MEDIUM", "note": "KWI T1 Day 3 status extrapolated from Day 2 reporting; supply chain from commercial logistics sources; no June 3-specific KUNA advisory at compilation" },
     { "section": "4 — Regional Context", "source_count": 5, "confidence": "HIGH", "note": "Axios, CBS News, CNN, Foreign Affairs, hormuztracking.com all corroborate" },
     { "section": "5 — Risk Signal", "source_count": 4, "confidence": "HIGH", "note": "Derived from confirmed June 3 incident, oil data, and standing advisories" },
