@@ -1,0 +1,327 @@
+{
+  "date": "2026-06-04",
+  "headline": "4 June 2026",
+  "subtitle": "IRGC strikes Kuwait airport — 1 killed, 63 injured; T1 closed; flights via T4 only",
+  "report_number": "86",
+  "coverage": "3 June 2026 07:00 UTC+3 – 4 June 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-06-04",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "~29 (1 impact at KWI T1)", "previous": "~11", "delta": "+18", "trend_7d": "↑" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "~96.00", "previous": "~91.00", "delta": "+5.00", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "~94.00", "previous": "~91.00", "delta": "+3.00", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~4", "previous": "~4", "delta": "0", "trend_7d": "→" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "8", "previous": "7", "delta": "+1", "trend_7d": "↑" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Open", "delta": "Changed", "trend_7d": "Changed" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "~137", "today_label": "USG", "previous": "NR", "previous_label": null, "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "Air raid sirens activated across Kuwait overnight 3–4 June",
+          "text": "Kuwait armed forces intercepted 13 ballistic missiles and 17 drones; one impacted Terminal 1 of Kuwait International Airport. No formal all-clear as of 07:00 UTC+3.",
+          "sources": ["KUNA", "Kuwait MOI", "NPR 3 June 2026", "Al Jazeera 3 June 2026"]
+        },
+        {
+          "bold_heading": "Civil defense elevated posture — shelter-in-place remains applicable",
+          "text": "Citizens and institutional staff should monitor KUNA and MOI channels before resuming routine movement on 4 June.",
+          "sources": ["Kuwait MOI", "Al Jazeera 3 June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "IRGC fires 13 missiles and 17 drones at Kuwait; KWI Terminal 1 hit; 1 killed, 63 injured",
+          "text": "One Indian national killed; 63 wounded including airport workers and passengers. Terminal 1 structurally damaged. CENTCOM confirmed all US force attacks were defeated. Time: overnight 3–4 June (est. 22:00–02:00 UTC+3).",
+          "sources": ["NPR 3 June 2026", "NBC News 3 June 2026", "Al Jazeera 3 June 2026", "Aerotime 3 June 2026"]
+        },
+        {
+          "bold_heading": "IRGC claims airport damage caused by US Patriot interceptor; CENTCOM rejects as 'totally false'",
+          "text": "Iran's IRGC via IRIB attributed KWI T1 damage to a US Patriot failure. CENTCOM categorically denied this, attributing all damage to Iranian drones.",
+          "sources": ["Tribune India 3 June 2026", "Defconalerts 3 June 2026"]
+        },
+        {
+          "bold_heading": "Kuwait expels two Iranian diplomats; summons Iranian chargé d'affaires",
+          "text": "Deputy FM Al-Mashaan presented a formal note of protest; two Iranian diplomats declared persona non grata and ordered to leave within 24 hours; Iranian embassy staffing to be reduced.",
+          "sources": ["Xinhua 3 June 2026", "Daily News Egypt 3 June 2026", "Yahoo News 3 June 2026"]
+        },
+        {
+          "bold_heading": "No confirmed CENTCOM counter-strike on Iranian territory within coverage window",
+          "text": "The preceding kinetic cycle has not produced a confirmed US counter-strike as of 07:00 UTC+3 on 4 June. This is the primary watchlist trigger for the next 24 hours.",
+          "sources": ["CENTCOM public statements", "Al Jazeera live updates"]
+        },
+        {
+          "bold_heading": "Strait of Hormuz: structural closure continues; ~4 transits/day on escorted basis",
+          "text": "No MOU signature; mine-clearance clause not activated.",
+          "sources": ["Straits.live tracker", "CNN Business 2 June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Air raid sirens overnight; no all-clear issued; shelter-in-place remains applicable",
+          "text": "Staff must verify latest KUNA/MOI advisories before commuting on 4 June.",
+          "sources": ["KUNA", "Kuwait MOI"]
+        },
+        {
+          "bold_heading": "KWI Terminal 1 badly damaged — flights from Terminal 4 only; multiple international carriers suspended",
+          "text": "Kuwait Airways and Jazeera Airways resumed via T4 after safety assessment. IndiGo and other international carriers suspended until at least midnight 4 June. T1 closed; no resumption date announced.",
+          "sources": ["CGTN/KUNA 3 June 2026", "Gulf News 3 June 2026", "The National 3 June 2026", "FlightGlobal 3 June 2026"]
+        },
+        {
+          "bold_heading": "Kuwait expels two Iranian diplomats — review screening for residual Iranian counterparty exposure",
+          "text": "Kuwait-Iran diplomatic relations formally downgraded; institutions should update compliance screening.",
+          "sources": ["Xinhua 3 June 2026", "Daily News Egypt 3 June 2026"]
+        },
+        {
+          "bold_heading": "Supply chain: KWI air cargo disruption adds pressure to Saudi land bridge route",
+          "text": "T1 closure eliminates primary air cargo terminal; Shuwaikh Port (ISPS Level 2, daylight ops) and Saudi trucking remain viable alternatives. Tightened availability of perishables and high-value air freight expected.",
+          "sources": ["Kuwait Times supply chain June 2026", "Inchcape Shipping Services carry-forward"]
+        },
+        {
+          "bold_heading": "Civil service 30% physical attendance directive remains in effect",
+          "text": "Remote-work guidance from Kuwait Civil Service Commission continues; elevated relevance given overnight attack.",
+          "sources": ["Kuwait Times carry-forward"]
+        },
+        {
+          "bold_heading": "Indian national killed at KWI — consular and staff welfare dimension",
+          "text": "Institutions with large Indian expatriate workforce in Kuwait should confirm staff welfare and communicate consular contacts.",
+          "sources": ["NPR 3 June 2026", "Onmanorama 3 June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "US House passes Iran war powers resolution 215–208 — first such measure to clear either chamber; Rubio simultaneously claims 'Epic Fury concluded' while exchanges continue; White House expected to veto if Senate passes.",
+          "sources": ["NPR 3 June 2026", "CNN Politics 3 June 2026", "Al Jazeera 3 June 2026"]
+        },
+        {
+          "text": "MOU tentative framework still unsigned; Rubio says Mojtaba Khamenei 'increasingly engaging' — but June 3 IRGC airport strike complicates Trump approval; sticking points remain enrichment, Lebanon, frozen assets.",
+          "sources": ["Axios 28 May 2026", "Al Jazeera 29 May 2026", "Time 2 June 2026"]
+        },
+        {
+          "text": "Conflict trajectory at Day 97: IRGC striking civilian infrastructure alongside military targets; Hormuz normalisation priced below 20% by end of June.",
+          "sources": ["Straits.live", "CNN Business 2 June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Activate or maintain full BCP — IRGC hit civilian airport infrastructure",
+          "text": "KWI Terminal 1 strike (1 killed, 63 injured) is first confirmed IRGC hit on a commercial airport terminal in Kuwait; branch emergency contacts must be confirmed active.",
+          "sources": ["NPR 3 June 2026", "Al Jazeera 3 June 2026"]
+        },
+        {
+          "bold_heading": "Oil: Brent ~$96, WTI ~$94 — sharp rebound from June 3 trough",
+          "text": "Airport strike and continued Hormuz closure sustain upward price pressure; review commodity-linked exposure and mark-to-market oil-indexed positions.",
+          "sources": ["Bloomberg/TradingEconomics 3–4 June 2026"]
+        },
+        {
+          "bold_heading": "Cyber: post-kinetic retaliation window elevated through 6 June",
+          "text": "313 Team, ALTOUFAN TEAM, DieNet, Fatimion, Hydro Kitten on active watch; maintain WAF at elevated sensitivity and DDoS mitigation on hot standby.",
+          "sources": ["SocRadar", "Unit 42 Iran Threat Brief May 2026", "FINRA Cybersecurity Alert March 2026"]
+        },
+        {
+          "bold_heading": "Staff safety: KWI operational degradation — all Kuwait business travel requires senior approval",
+          "text": "T1 destroyed; T4 limited; some international carriers suspended; all travel must have Saudi or UAE routing contingency. US State Dept Level 3, UK FCO 'all but essential' remain in force.",
+          "sources": ["US Embassy Kuwait", "UK FCO", "The National 3 June 2026"]
+        },
+        {
+          "bold_heading": "Kuwait-Iran diplomatic expulsion — compliance and sanctions screening update required",
+          "text": "Review any trade finance, correspondent banking, or onboarding files with Iranian embassy or diplomatic mission involvement; update screening per new bilateral status.",
+          "sources": ["Xinhua 3 June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "KWI T1 strike: aviation war risk on Kuwait-originating cargo and passenger policies — confirm coverage with underwriters",
+          "text": "T1 strike constitutes a conflict event for aviation insurance; cargo in transit at KWI T1 may be subject to war exclusion clauses; obtain written coverage confirmation.",
+          "sources": ["NPR 3 June 2026", "FlightGlobal 3 June 2026", "Al Jazeera 3 June 2026"]
+        },
+        {
+          "bold_heading": "JWC JWLA-033 unchanged — airport strike confirms Kuwait in active conflict zone; WRP 3–8% unchanged",
+          "text": "No WRP reduction basis while IRGC strikes civilian infrastructure and MOU unsigned; US/UK/Israeli-flagged vessels pay at high end.",
+          "sources": ["JWC JWLA-033", "Lloyd's List March 2026", "Insurance Journal March 2026"]
+        },
+        {
+          "bold_heading": "Hormuz: commercial insurance absent; 4,000× normal premiums for independent voyages; DFC backstop for US-escorted transits only",
+          "text": "No commercial normalisation basis until MOU signed and mines cleared; no independent transit coverage available from private markets.",
+          "sources": ["The National 3 June 2026", "World Economic Forum April 2026", "Hormuz Strait Monitor"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "After Gulf attacks, Rubio faces pushback on 'war is over' claim",
+          "author": "Staff reporters",
+          "publication": "Al-Monitor",
+          "pub_date": "2026-06-03",
+          "access": "Open",
+          "summary": "Rubio told the House Foreign Affairs Committee that Operation Epic Fury has concluded and US strikes are purely defensive, even as the region experienced its heaviest fighting since the April ceasefire; the assertion drew sharp bipartisan criticism noting the contradiction. The Kuwait airport strike and House war powers vote on the same day made the administration's narrative increasingly untenable.",
+          "relevance": "Political pressure to end or contain the conflict creates potential for a rapid MOU signing decision, the most immediate positive trigger for Hormuz reopening and WRP normalisation.",
+          "link": "https://www.al-monitor.com/originals/2026/06/after-gulf-attacks-rubio-faces-pushback-war-over-claim"
+        },
+        {
+          "title": "Kuwait blames Iran for deadly airport attack as war escalates: What to know",
+          "author": "Laura Rozen et al.",
+          "publication": "Al-Monitor",
+          "pub_date": "2026-06-03",
+          "access": "Open",
+          "summary": "Comprehensive summary of the Kuwait airport strike, Iran's denial, CENTCOM's rebuttal, and diplomatic fallout including Kuwait's expulsion of Iranian diplomats and GCC solidarity statements; contextualises the escalation within the fragile April ceasefire framework. Notes that the IRGC strike on a civilian terminal represents a deliberate escalation of target category.",
+          "relevance": "Confirms civilian infrastructure targeting is now normalised IRGC practice in Kuwait, requiring permanent upward recalibration of physical security and BCP assumptions.",
+          "link": "https://www.al-monitor.com/originals/2026/06/kuwait-blames-iran-deadly-airport-attack-war-escalates-what-know"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "Post-kinetic hacktivist DDoS/defacement window elevated through 6 June",
+          "text": "313 Team, ALTOUFAN TEAM, DieNet, Fatimion, Hydro Kitten have consistent 48–72h post-kinetic pattern; financial services portals, e-payment platforms, government digital services, and aviation systems in Kuwait and GCC are priority targets.",
+          "cve_ids": [],
+          "threat_actor": "313 Team, ALTOUFAN TEAM, DieNet, Fatimion Cyber Team, Hydro Kitten",
+          "recommended_action": "Maintain WAF sensitivity at elevated setting; keep DDoS mitigation on hot standby; confirm ISP/CDN incident response contacts before close of business 4 June.",
+          "sources": ["SocRadar", "Unit 42 Iran Threat Brief May 2026", "FINRA Cybersecurity Alert March 2026"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        },
+        {
+          "bold_heading": "MuddyWater MS Teams false-flag ransomware and DLL side-loading — conflict-themed lures active",
+          "text": "New May 2026 campaigns use DLL side-loading via signed Fortemedia and SentinelOne binaries and MS Teams social engineering to deploy Chaos ransomware as destructive cover; active lures include Kuwait airport attack notifications, KWI T4 flight updates, and MOU signing spoofs.",
+          "cve_ids": [],
+          "threat_actor": "MuddyWater/Seedworm (IRGC-linked)",
+          "recommended_action": "Issue staff awareness alert on conflict-themed lures immediately; enforce MFA on all remote access; validate MS Teams external tenant federation settings to block unknown tenants.",
+          "sources": ["The Hacker News May 2026", "SecurityWeek May 2026", "Group-IB 2026"],
+          "url": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html"
+        },
+        {
+          "bold_heading": "No new CVE-specific advisory requiring immediate patch action in past 24h",
+          "text": "CISA AA26-097a (April 7, 2026, Iranian-affiliated APT targeting PLC/OT devices) remains the standing advisory; no superseding advisory issued within the coverage window.",
+          "cve_ids": [],
+          "threat_actor": null,
+          "recommended_action": "Verify CISA AA26-097a mitigations are implemented; no new emergency patching required as of 4 June.",
+          "sources": ["CISA AA26-097a April 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "IRGC APT dual-track posture — espionage + destructive pre-positioning — accelerated tempo post-June 3",
+          "text": "Seedworm/MuddyWater and APT42 confirmed on Gulf financial and government networks; SWIFT transaction monitoring for sanctions-evasion intelligence and OT-adjacent pre-positioning are priority objectives; June 3 escalation and war powers vote are APT operational triggers.",
+          "threat_actor": "Seedworm/MuddyWater; APT42 (Charming Kitten)",
+          "assessed_likelihood": "HIGH",
+          "sources": ["Trellix Iranian Cyber Capability 2026", "SocRadar Dashboard May–June 2026"],
+          "url": "https://socradar.io/blog/cyber-reflections-us-israel-iran-war/"
+        },
+        {
+          "bold_heading": "Chaos ransomware variant used for destructive attacks masquerading as criminal ransomware",
+          "text": "Blending of state and criminal tactics complicates attribution and may trigger cyber war insurance exclusion clauses; any ransomware note on Gulf FS infrastructure during current elevated window should be treated as potential state-actor destructive activity pending forensic determination.",
+          "threat_actor": "IRGC-affiliated APT (MuddyWater-linked)",
+          "assessed_likelihood": "MODERATE",
+          "sources": ["SecurityWeek/Rapid7 2026"],
+          "url": "https://www.securityweek.com/iranian-apt-intrusion-masquerades-as-chaos-ransomware-attack/"
+        },
+        {
+          "bold_heading": "MuddyWater DLL side-loading expanding target base — 9 countries, financial services and critical infrastructure",
+          "text": "Group-IB and SECURITY.COM confirmed intrusions across 9 countries in Q1 2026 including a US bank; LLM-assisted social engineering accelerates lure production to near-real-time; trajectory points toward HIGH likelihood of Gulf FS intrusion attempt within current conflict window.",
+          "threat_actor": "MuddyWater/Seedworm",
+          "assessed_likelihood": "MODERATE (→ HIGH given current kinetic escalation)",
+          "sources": ["Group-IB 2026", "TechNadu 2026"],
+          "url": "https://www.group-ib.com/blog/muddywater-espionage/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "CENTCOM counter-strike on Iranian territory in response to June 3 IRGC attack on Kuwait airport",
+          "why_it_matters": "Prior cycle has produced US counter-strike within 12–48h; no confirmed response as of 07:00 UTC+3; a strike would reset IRGC retaliation cycle and hacktivist cyber window.",
+          "related_section": "Section 2, Section 4, Section 7A"
+        },
+        {
+          "text": "Trump MOU approval or public breakdown — accelerated by war powers vote and Kuwait airport civilian casualty",
+          "why_it_matters": "House vote and airport fatality simultaneously increase pressure to end war and harden position against signing; decision either way in next 24–48h is more probable than at any prior point; if signed, Hormuz mine-clearance clock starts and oil drops sharply.",
+          "related_section": "Section 4, Section 5A"
+        },
+        {
+          "text": "Kuwait civil defense formal all-clear — or fresh KUNA/MOI advisory",
+          "why_it_matters": "No stand-down issued as of compilation; a new advisory will either confirm return to normal operations or signal another incident requiring activation of staff safety protocols.",
+          "related_section": "Section 1, Section 3"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 4, "confidence": "HIGH", "note": "KUNA, Kuwait MOI, NPR, Al Jazeera corroborate siren activation and interception announcement" },
+    { "section": "2 — Targets & Incidents", "source_count": 6, "confidence": "HIGH", "note": "NPR, NBC News, Al Jazeera, Aerotime, Xinhua, CENTCOM statements; Iran denial noted and attributed" },
+    { "section": "3 — Kuwait Local", "source_count": 5, "confidence": "MEDIUM-HIGH", "note": "KWI T4 operations from Gulf News/CGTN/KUNA confirmed; diplomatic expulsion confirmed; supply chain items from logistics sources" },
+    { "section": "4 — Regional Context", "source_count": 5, "confidence": "HIGH", "note": "NPR, CNN, Al Jazeera, Axios, Time all corroborate war powers vote and MOU status" },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "HIGH", "note": "Derived from confirmed June 3–4 incident, oil data, standing advisories, and diplomatic actions" },
+    { "section": "5A — Insurance Risks", "source_count": 4, "confidence": "MEDIUM", "note": "JWC listing and WRP range confirmed; aviation war risk implication is assessed — no formal underwriter advisory yet issued for KWI T1 strike specifically" },
+    { "section": "7A — Cyber Tactical", "source_count": 4, "confidence": "MEDIUM", "note": "Hacktivist pattern based on established post-kinetic cycle; MuddyWater MS Teams campaign confirmed May 2026; no new June 4-specific cyber incident confirmed" },
+    { "section": "7B — Cyber Strategic", "source_count": 4, "confidence": "MEDIUM", "note": "Commercial intelligence sources; capability assessments from Trellix, SocRadar, Group-IB; no new June 4-specific strategic signal" }
+  ],
+  "footer": "Report #86 compiled 2026-06-04 at 07:30 UTC+3."
+}
