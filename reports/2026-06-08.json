@@ -1,16 +1,16 @@
 {
   "date": "2026-06-08",
   "headline": "08 June 2026",
-  "subtitle": "MOU Stalemate Continues; Oil Gap on Monday Open; Second Clean Window for Kuwait",
+  "subtitle": "Israel-Iran Kinetic Exchange Collapses MOU Track; Oil Spikes to $96; Kuwait Air Raid Risk Elevated",
   "report_number": "90",
   "coverage": "07 June 2026 07:00 UTC+3 – 08 June 2026 07:00 UTC+3",
   "trend_tracker": {
     "as_of": "2026-06-08",
     "metrics": [
-      { "metric": "Missile/drone interceptions (24h)", "today": "2 (NAVCENT counter-drone, Strait of Hormuz)", "previous": "0", "delta": "+2", "trend_7d": "Insufficient data" },
+      { "metric": "Missile/drone interceptions (24h)", "today": "2 (NAVCENT/Hormuz) + 11 Iranian BMs intercepted over Israel; Israeli IAF strikes on Iran", "previous": "0", "delta": "significant increase", "trend_7d": "↑" },
       { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
-      { "metric": "Brent crude ($/bbl)", "today": "95.67", "previous": "93.50", "delta": "+2.17", "trend_7d": "↑" },
-      { "metric": "WTI crude ($/bbl)", "today": "93.63", "previous": "90.00", "delta": "+3.63", "trend_7d": "↑" },
+      { "metric": "Brent crude ($/bbl)", "today": "96.05", "previous": "93.50", "delta": "+2.55", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "93.67", "previous": "90.00", "delta": "+3.67", "trend_7d": "↑" },
       { "metric": "Strait of Hormuz transits/day", "today": "10", "previous": "10", "delta": "0", "trend_7d": "→" },
       { "metric": "Infrastructure items damaged (cumulative)", "today": "8", "previous": "8", "delta": "0", "trend_7d": "→" },
       { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
@@ -28,7 +28,7 @@
       "items": [
         {
           "bold_heading": null,
-          "text": "No air raid sirens, civil defense alerts, shelter-in-place orders, or emergency broadcasts issued in Kuwait during the coverage window (07 June 07:00 UTC+3 – 08 June 07:00 UTC+3). Kuwait MOI issued no new emergency advisory. The last confirmed siren activation was 06 June 04:15 local, outside this window. Staff should continue monitoring @MOIKuwait and KUNA before travelling to the office.",
+          "text": "No air raid sirens, civil defense alerts, shelter-in-place orders, or emergency broadcasts issued in Kuwait during the coverage window (07 June 07:00 UTC+3 – 08 June 07:00 UTC+3). Kuwait MOI issued no new emergency advisory. The last confirmed siren activation was 06 June 04:15 local, outside this window. Staff should continue monitoring @MOIKuwait and KUNA before travelling to the office — with Kuwait air raid risk now materially elevated following Israeli strikes on Iran.",
           "sources": ["KUNA", "Kuwait MOI", "kw.usembassy.gov, 07–08 June 2026"]
         }
       ]
@@ -42,17 +42,22 @@
       "items": [
         {
           "bold_heading": "No confirmed strikes on Kuwait or GCC territory in coverage window",
-          "text": "No confirmed missile or drone strikes on Kuwait or GCC territory within the coverage window (07 June 07:00 UTC+3 – 08 June 07:00 UTC+3). This is the second consecutive clean 24-hour window for Kuwait.",
+          "text": "No confirmed missile or drone strikes on Kuwait or GCC territory within the coverage window (07 June 07:00 UTC+3 – 08 June 07:00 UTC+3). This is the second consecutive clean 24-hour window for Kuwait — however the Israel-Iran kinetic exchange materially elevates the probability of IRGC GCC retaliation in the next 24–72h.",
           "sources": ["KUNA", "Kuwait MOI", "Al Jazeera, 07–08 June 2026"]
         },
         {
           "bold_heading": "NAVCENT downed 2 Iranian drones, Strait of Hormuz, 07 June",
-          "text": "US forces conducted counter-drone operations in the Strait of Hormuz on 07 June, downing 2 Iranian drones assessed as posing a threat to regional maritime traffic. Consistent with NAVCENT's public operations notice issued Jun 1. These are US self-defence operations, not inbound attacks on GCC territory.",
+          "text": "US forces conducted counter-drone operations in the Strait of Hormuz on 07 June, downing 2 Iranian drones assessed as posing a threat to regional maritime traffic. Consistent with NAVCENT's public operations notice issued Jun 1. US self-defence operations, not inbound attacks on GCC territory.",
           "sources": ["ABC7/CENTCOM liveblog", "Iran Sitrep", "The Hill, 07 June 2026"]
         },
         {
-          "bold_heading": "IRGC Bahrain (Juffair) naval claims — SINGLE SOURCE, unconfirmed by CENTCOM",
-          "text": "IRGC claims from Jun 6 regarding missile, drone, and naval strikes against US Fifth Fleet facilities in Bahrain remain unconfirmed by CENTCOM as of compilation. Treat as [SINGLE SOURCE — IRGC statement only].",
+          "bold_heading": "MAJOR ESCALATION — Israel strikes Beirut/Dahieh (07 June); Iran retaliates with 11 ballistic missiles at Israel; Israel counter-strikes Tehran, Isfahan, Tabriz, Karaj, Kermanshah (08 June)",
+          "text": "Israel struck Hezbollah command infrastructure in Beirut (Dahieh) on Jun 7, triggering the first direct Iran-Israel kinetic exchange since the April 8 ceasefire. Iran fired 11 ballistic missiles at Israel across multiple salvos on Jun 7–8; Israel responded with air-launched ballistic missiles hitting military targets across western and central Iran. Houthis also launched a ballistic missile at central Israel (intercepted). Iran closed airspace around Tehran Imam Khomeini International Airport following the strikes. This represents a step-change in regional escalation trajectory: the Beirut trigger gives Iran domestic justification to exit the MOU entirely, as Iran has consistently demanded the Lebanon front be included in any ceasefire framework.",
+          "sources": ["Times of Israel liveblog", "NBC News", "Al Jazeera", "NPR", "CNN", "CBS News, 07–08 June 2026"]
+        },
+        {
+          "bold_heading": "IRGC Bahrain (Juffair) naval claims from Jun 6 — SINGLE SOURCE, unconfirmed by CENTCOM",
+          "text": "IRGC claims from Jun 6 regarding missile, drone, and naval strikes against US Fifth Fleet facilities in Bahrain remain unconfirmed by CENTCOM as of compilation. [SINGLE SOURCE — IRGC statement only].",
           "sources": ["Kurdistan24/IRGC statement", "CBS News", "CENTCOM, 06 June 2026"]
         }
       ]
@@ -66,7 +71,7 @@
       "items": [
         {
           "bold_heading": null,
-          "text": "No new civil defense alerts or emergency broadcasts in coverage window. Kuwait remains in cautious normal posture.",
+          "text": "No new civil defense alerts or emergency broadcasts in coverage window. Kuwait remains in cautious normal posture — however IRGC GCC retaliation risk is materially elevated following Israeli strikes on Iran; monitor MOI channels continuously.",
           "sources": ["KUNA", "Kuwait MOI, 07–08 June 2026"]
         },
         {
@@ -100,18 +105,18 @@
       "items": [
         {
           "bold_heading": null,
-          "text": "MOU negotiations deadlocked: Trump sent draft back to Iran over Jun 7–8 weekend demanding clearer nuclear commitment timing and immediate Hormuz handover; Iran's top negotiator Ghalibaf stated Tehran 'takes concessions through missiles, not dialogue.'",
-          "sources": ["Soufan Center IntelBrief, 01 June 2026", "Axios", "CNN, 01–08 June 2026"]
+          "text": "The Israel-Beirut strike (Jun 7) has functionally collapsed the MOU track: Iran suspended contact with mediators and an Iranian official stated a deal with Trump is 'no longer feasible at this stage.' Iran's Lebanon demand — excluded from the US-Iran MOU framework — has now re-ignited as a live front, giving Tehran domestic justification to exit negotiations entirely.",
+          "sources": ["CBS News", "NPR", "CNN", "ms.now, 07–08 June 2026"]
         },
         {
           "bold_heading": null,
-          "text": "Pakistan's Interior Minister Naqvi delivered dual letters (PM Sharif + Army Chief Munir) to Iran FM Araghchi for Supreme Leader Mojtaba Khamenei on 07 June, in a fresh mediation push via civilian and military tracks simultaneously.",
+          "text": "Pakistan's Interior Minister Naqvi delivered dual letters (PM Sharif + Army Chief Munir) to Iran FM Araghchi for Supreme Leader Khamenei on 07 June, but this mediation push now faces an acute test given Iran's suspension of mediator contact following the Israeli strikes on Iran.",
           "sources": ["Al Jazeera", "Arab News", "Geo.tv, 07 June 2026"]
         },
         {
           "bold_heading": null,
-          "text": "Oil markets opened sharply higher Monday (Brent ~$95.67, WTI ~$93.63) after MOU non-signing weekend; NAVCENT Hormuz operations remain active, sustaining structurally elevated escalation risk.",
-          "sources": ["TradingEconomics", "CENTCOM", "Reuters, 08 June 2026"]
+          "text": "Oil spiked sharply: Brent to ~$96.05 (+3.18%), WTI to ~$93.67 (+3.46%), driven by the Israel-Iran kinetic exchange. The $100/bbl threshold is now within a single escalation event; a formal Iranian exit from the MOU or restored Hormuz coercion could push Brent well above $100.",
+          "sources": ["CNBC", "TradingEconomics", "Reuters, 08 June 2026"]
         }
       ]
     },
@@ -123,29 +128,29 @@
       "color": "#d29922",
       "items": [
         {
-          "bold_heading": "Oil gap risk: Brent ~$95.67 Monday open",
-          "text": "Institutions with mark-to-market energy exposures, oil-linked collateral, or energy-sector credit portfolios should review weekend gap against stress scenarios; MOU collapse or fresh escalation could push Brent above $100 intraday.",
-          "sources": ["TradingEconomics", "Reuters, 08 June 2026"]
+          "bold_heading": "Oil risk acute: Brent ~$96.05; $100 threshold within one escalation event",
+          "text": "The Israel-Iran kinetic exchange added a direct price shock on top of the MOU non-signing gap. Institutions with mark-to-market energy exposures, oil-linked collateral, or energy-sector credit portfolios should reassess stress scenarios immediately — $100 Brent is now a base-case outcome if Iran formally exits the MOU or threatens Hormuz closure.",
+          "sources": ["CNBC", "TradingEconomics", "Reuters, 08 June 2026"]
         },
         {
-          "bold_heading": "BCP: second clean window but no stand-down",
-          "text": "MOU remains unsigned; NAVCENT Hormuz operations are active and could trigger a new IRGC retaliation cycle. Full BCP stand-down requires signed MOU AND formal Kuwait MOI all-clear. Neither is met.",
-          "sources": ["KUNA", "CENTCOM", "Soufan Center, 07–08 June 2026"]
+          "bold_heading": "BCP: upgrade from stand-down premature to open-ended elevated",
+          "text": "Iran's suspension of mediator contact removes any credible near-term MOU pathway. The IRGC retaliation cycle (Israel/CENTCOM action to IRGC strikes on GCC hosts) means Kuwait air raid risk has materially increased. Do not plan for de-escalation before a clear diplomatic circuit-breaker emerges. Review BCP posture with senior management today.",
+          "sources": ["KUNA", "Times of Israel", "CBS News", "CENTCOM, 07–08 June 2026"]
         },
         {
-          "bold_heading": "Cyber retaliation window: post-Jun 5 closed; new cycle risk from Jun 7 NAVCENT engagements",
-          "text": "NAVCENT's Jun 7 counter-drone operations may trigger hacktivist DDoS/defacement waves within 24–72h. Monitor CENTCOM press releases for new strike announcements; each triggers an elevated cyber window.",
-          "sources": ["SocRadar Iran-Israel Cyber Dashboard", "CISA AA26-097a, May–Jun 2026"]
+          "bold_heading": "Fresh 24–72h cyber retaliation window active from Israeli strikes on Tehran and Isfahan",
+          "text": "The Israeli IAF strikes on Iran's capital and major military-industrial cities represent a more significant cyber retaliation trigger than the prior CENTCOM Goruk/Qeshm strikes. Maintain WAF and DDoS mitigation at elevated sensitivity; do not stand down before Jun 10 EOB.",
+          "sources": ["SocRadar Iran-Israel Cyber Dashboard", "CISA AA26-097a", "Unit 42, Jun 2026"]
         },
         {
-          "bold_heading": "IRGC Bahrain claim (SINGLE SOURCE): watch for CENTCOM confirmation",
-          "text": "If CENTCOM confirms IRGC strike on NSA Bahrain/Juffair, trigger immediate review of correspondent banking and payment intermediaries domiciled in Bahrain.",
-          "sources": ["Kurdistan24/IRGC", "CBS News, 06 June 2026"]
+          "bold_heading": "Kuwait air raid risk elevated — IRGC GCC retaliation cycle pattern applies",
+          "text": "Each prior Israeli or CENTCOM strike on Iran has been followed by IRGC retaliatory strikes on GCC hosts of US bases within 24–72h (Kuwait Jun 3, Jun 6 pattern). Ali Al-Salem (Kuwait) and Juffair (Bahrain) are the established IRGC targets. Monitor MOI alerts in real time; staff travel near government/military areas should be risk-assessed.",
+          "sources": ["Al Jazeera", "CENTCOM", "KUNA, 03–08 June 2026"]
         },
         {
-          "bold_heading": "Plan for extended elevated posture through mid-June",
-          "text": "Given Trump's amendment demands and Iran's sanctions-first sequencing insistence, rapid MOU resolution before Jun 15 appears unlikely. Budget all elevated BCP, insurance, and cyber postures for at least two more weeks.",
-          "sources": ["Soufan Center, 01 June 2026", "Axios", "CNN, 08 June 2026"]
+          "bold_heading": "MOU collapse risk — treat elevated posture as structural baseline, not temporary",
+          "text": "Iran's 'deal no longer feasible' statement and mediator suspension signal the MOU track may require a full diplomatic reset. All BCP, insurance, and cyber elevated postures should be treated as the new normal baseline until a credible diplomatic signal emerges.",
+          "sources": ["CBS News", "NPR", "CNN, 08 June 2026"]
         }
       ]
     },
@@ -158,17 +163,17 @@
       "items": [
         {
           "bold_heading": "JWC JWLA-033 unchanged; WRP 1.5–3% hull value",
-          "text": "Entire Persian Gulf, Strait of Hormuz, Gulf of Oman, and northern Arabian Sea remain Listed Areas. NAVCENT Jun 7 operations reinforce risk basis; no WRP reduction credible before signed MOU. APCs of $150,000–$400,000 per vessel per call remain in effect.",
+          "text": "Entire Persian Gulf, Strait of Hormuz, Gulf of Oman, and northern Arabian Sea remain Listed Areas. NAVCENT Jun 7 operations and the Israel-Iran kinetic exchange reinforce the risk basis; no WRP reduction credible until MOU is signed and Hormuz clearance begins. APCs of $150,000–$400,000 per vessel per call remain in effect.",
           "sources": ["JWC JWLA-033", "gCaptain", "Lloyd's List", "Safety4Sea, 2026"]
         },
         {
-          "bold_heading": "Monday oil gap increases cargo valuation exposure",
-          "text": "Brent +$2.17 weekend gap may create underinsurance risk for undeclared or stale valuations on in-transit Gulf cargoes. Review declared values in open cargo policies for Gulf-routed shipments.",
-          "sources": ["TradingEconomics", "Bahrain Intelligence maritime analysis, 08 June 2026"]
+          "bold_heading": "Oil spike to Brent ~$96.05 materially increases cargo valuation exposure",
+          "text": "The Israel-Iran exchange adds a fresh escalation premium on top of the MOU gap; war risk premiums are partly cargo-value-indexed and a 3%+ intraday move creates underinsurance risk for stale open-cover valuations on in-transit Gulf cargoes. If Iran formally exits the MOU and re-tightens Hormuz, the next leg up could be rapid. Review declared values in open cargo policies immediately.",
+          "sources": ["CNBC", "TradingEconomics", "Bahrain Intelligence maritime analysis, 08 June 2026"]
         },
         {
           "bold_heading": "KWI T1 aviation war risk: LMA watch active",
-          "text": "Aviation war risk policies activated by Jun 3 KWI T1 strike remain in force. No new LMA advisory issued for Jun 7 NAVCENT Hormuz operations. Seek written confirmation of war exclusion clause applicability for cargo in transit at T1 during Jun 3 event.",
+          "text": "Aviation war risk policies activated by Jun 3 KWI T1 strike remain in force. No new LMA advisory issued for Jun 7 NAVCENT Hormuz operations or Jun 8 Israel-Iran exchange. Seek written confirmation of war exclusion clause applicability for cargo in transit at T1 during Jun 3 event.",
           "sources": ["LMA advisory watch", "FlightGlobal", "NPR, 03–08 June 2026"]
         }
       ]
@@ -186,8 +191,8 @@
           "publication": "The Soufan Center",
           "pub_date": "2026-06-01",
           "access": "Open",
-          "summary": "Details how mutual distrust over MOU sequencing — US demanding clearer nuclear commitment timing and immediate Hormuz handover before sanctions relief; Iran insisting on front-loaded sanctions release — is stalling the deal despite both sides claiming near-completion; maps specific sticking points including HEU disposal, proposed $300bn reconstruction fund, and Mojtaba Khamenei's ambiguous decision-making authority.",
-          "relevance": "The specific unresolved sequencing issues (HEU timing, sanctions, Hormuz control triggers) are the exact tripwires that will determine when BCP de-escalation, WRP normalisation, and oil hedges can safely begin.",
+          "summary": "Details how mutual distrust over MOU sequencing — US demanding clearer nuclear commitment timing and immediate Hormuz handover before sanctions relief; Iran insisting on front-loaded sanctions release — was stalling the deal despite both sides claiming near-completion; maps specific sticking points including HEU disposal, proposed $300bn reconstruction fund, and Mojtaba Khamenei's ambiguous decision-making authority. Context: written before the Israel-Iran kinetic exchange that has now functionally collapsed the track.",
+          "relevance": "The specific unresolved sequencing issues mapped in this piece are now moot pending diplomatic reset; the piece is essential background for understanding why the MOU could not be closed before the Beirut trigger.",
           "link": "https://thesoufancenter.org/intelbrief-2026-june-1/"
         },
         {
@@ -197,7 +202,7 @@
           "pub_date": "2026-06",
           "access": "Partial paywall",
           "summary": "Argues Iran deliberately applied dispersed missile salvos and drone swarms to deplete interceptor stockpiles while weaponising Hormuz closure as a strategic deterrent designed to outlast US political will; assesses Iranian social cohesion has strengthened rather than collapsed under bombardment, contrary to US assumptions.",
-          "relevance": "If Hormuz leverage is a permanent Iranian strategic asset rather than a temporary bargaining chip, war-risk premia and BCP postures cannot revert to pre-conflict baselines even after an MOU is signed.",
+          "relevance": "Iran's willingness to absorb Israeli strikes on Tehran and Isfahan and continue the conflict validates the 'outlast US political will' strategy assessed here — war-risk premia and BCP postures cannot revert to pre-conflict baselines even after an MOU is eventually signed.",
           "link": "https://www.foreignaffairs.com/iran/irans-new-grand-strategy"
         }
       ]
@@ -210,26 +215,26 @@
       "color": "#f0883e",
       "items": [
         {
-          "bold_heading": "MuddyWater/Seedworm phishing lure refresh — Day 101 and MOU stalemate hooks",
-          "text": "Operation Olalampo continues; lure themes update within 24–48h of major news events. Day 101 milestone and MOU weekend non-signing are high-credibility phishing vectors. DLL side-loading and MS Teams external federation remain primary attack vectors.",
+          "bold_heading": "MuddyWater/Seedworm phishing lure refresh — Israel-Iran exchange and Day 101 hooks",
+          "text": "Operation Olalampo continues; lure themes update within 24–48h of major news events. The Israel-Beirut-Iran-Israel exchange provides high-credibility multi-angle phishing vectors. DLL side-loading and MS Teams external federation remain primary attack vectors.",
           "cve_ids": [],
           "threat_actor": "MuddyWater/Seedworm (IRGC-linked)",
-          "recommended_action": "Issue staff awareness alert today incorporating MOU-stalemate and Day 101 lures; block unknown external Teams federation tenants.",
+          "recommended_action": "Issue staff awareness alert today incorporating Israel-Iran exchange lures; block unknown external Teams federation tenants.",
           "sources": ["CISA AA26-097a, April 2026", "The Hacker News, March 2026"],
           "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
         },
         {
-          "bold_heading": "Iran-linked hacktivist clusters on elevated alert; Jun 7 NAVCENT ops may trigger new wave",
-          "text": "313 Team, ALTOUFAN TEAM, DieNet, Hydro Kitten remain on high-tempo post-kinetic alert posture. NAVCENT's Jun 7 drone engagements may re-trigger a hacktivist DDoS wave within 24–72h targeting GCC financial services portals and e-payment platforms.",
+          "bold_heading": "ACTIVE WINDOW — Iran-linked hacktivist clusters in 24–72h retaliation window from Israeli strikes on Tehran and Isfahan",
+          "text": "313 Team, ALTOUFAN TEAM, DieNet, and Hydro Kitten are now in a fresh high-priority retaliation window. Israeli IAF strikes on Iran's capital and major military-industrial cities are a more significant provocation trigger than CENTCOM self-defence strikes; history shows faster and higher-intensity GCC financial portal targeting following direct Israeli strikes on Iran. Do not stand down WAF elevated sensitivity or DDoS mitigation before Jun 10 EOB.",
           "cve_ids": [],
           "threat_actor": "Iran-linked hacktivist clusters (IRGC-coordinated)",
-          "recommended_action": "Maintain DDoS mitigation hot standby and WAF elevated sensitivity; confirm ISP escalation paths are live for at least 48h after any new CENTCOM strike announcement.",
+          "recommended_action": "Confirm ISP DDoS escalation path is live now; maintain WAF elevated sensitivity through Jun 10 EOB minimum.",
           "sources": ["SocRadar Iran-Israel Cyber Dashboard, June 2026", "Unit 42 Iran Threat Brief, May 2026"],
           "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/"
         },
         {
           "bold_heading": "CISA AA26-097a OT/ICS advisory: Gulf energy and utility operators at elevated risk",
-          "text": "Iranian-affiliated APT actors have disrupted PLCs across government, water/wastewater, and energy sectors since March 2026. MOU stalemate extension raises probability of OT-adjacent targeting to demonstrate leverage.",
+          "text": "Iranian-affiliated APT actors have disrupted PLCs across government, water/wastewater, and energy sectors since March 2026. MOU collapse risk and the fresh Israel-Iran exchange elevate the probability of OT-adjacent targeting to demonstrate leverage.",
           "cve_ids": [],
           "threat_actor": "Iranian-affiliated APT (IRGC-linked)",
           "recommended_action": "Verify OT/ICS network segmentation; confirm PLC firmware patching; escalate any anomalous OT alerts immediately.",
@@ -246,8 +251,8 @@
       "color": "#39d353",
       "items": [
         {
-          "bold_heading": "Iran-linked Gulf cyber surge 8× baseline — shift to complex breaches and pre-positioning",
-          "text": "UAE Cybersecurity chief reported 600,000 attacks since late February across ransomware, data breaches, targeted leaks, wipers, and defacements; banking and telecom face both symbolic and operationally critical targeting. MOU stalemate extends the high-activity window indefinitely.",
+          "bold_heading": "Iran-linked Gulf cyber surge 8× baseline — shift to complex breaches and pre-positioning; MOU collapse extends high-activity window indefinitely",
+          "text": "UAE Cybersecurity chief reported 600,000 attacks since late February across ransomware, data breaches, targeted leaks, wipers, and defacements; banking and telecom face both symbolic and operationally critical targeting. The Israel-Iran kinetic exchange and MOU collapse risk now extend the high-activity window with no defined end horizon.",
           "threat_actor": "IRGC-coordinated APTs and hacktivist clusters (Seedworm, APT42, 313 Team, ALTOUFAN)",
           "assessed_likelihood": "HIGH",
           "sources": ["The National UAE, 10 April 2026", "Gulf Business, 2026"],
@@ -263,7 +268,7 @@
         },
         {
           "bold_heading": "Chaos ransomware-as-cover destructive risk — war exclusion clause exposure rising",
-          "text": "IRGC-affiliated actors deploy destructive intrusions disguised as ransomware, potentially triggering cyber insurance war-exclusion clauses and leaving institutions uncompensated. Probability increases with each escalation cycle and each failed MOU deadline.",
+          "text": "IRGC-affiliated actors deploy destructive intrusions disguised as ransomware, potentially triggering cyber insurance war-exclusion clauses and leaving institutions uncompensated. Probability increases with each escalation cycle; the Israel-Iran exchange raises the baseline significantly.",
           "threat_actor": "IRGC-affiliated (MuddyWater-linked)",
           "assessed_likelihood": "MODERATE",
           "sources": ["Halcyon ransomware alerts 2026", "SecurityWeek/Rapid7, 2026"],
@@ -279,31 +284,31 @@
       "color": "#b392f0",
       "items": [
         {
-          "text": "Iran's formal response to Trump's amended MOU draft",
-          "why_it_matters": "A collapse triggers kinetic/cyber escalation, oil spike above $100, and expanded air raid risk for Kuwait; an acceptance starts the Hormuz mine-clearance clock and de-escalation path.",
+          "text": "IRGC kinetic retaliation against Kuwait or Bahrain",
+          "why_it_matters": "Jun 3 and Jun 6 IRGC retaliation pattern (Israeli/CENTCOM strike to GCC host retaliation within 24–72h) now applies to Jun 8 Israeli strikes on Iran; Ali Al-Salem (Kuwait) and Juffair (Bahrain) are the established targets. A Kuwait MOI siren triggers immediate BCP activation.",
+          "related_section": "Sections 1, 2, 3, 5"
+        },
+        {
+          "text": "Iran formally announcing withdrawal from MOU process",
+          "why_it_matters": "Would end the diplomatic de-escalation track, likely trigger fresh IRGC Hormuz assertiveness, and push Brent above $100 — activating oil-linked collateral triggers and energy-sector credit reviews.",
           "related_section": "Sections 4, 5, 5A"
         },
         {
-          "text": "NAVCENT Hormuz operations and IRGC counter-response watch",
-          "why_it_matters": "Jun 7 counter-drone engagements may trigger Iran-linked cyber retaliation (DDoS/defacement) within 24–72h; monitor CENTCOM press releases and SocRadar dashboard.",
-          "related_section": "Sections 2, 7A, 5"
-        },
-        {
-          "text": "CENTCOM confirmation or denial of Jun 6 IRGC claims against Fifth Fleet Juffair (Bahrain)",
-          "why_it_matters": "Confirmation elevates risk for Bahrain-domiciled correspondent banking relationships and may trigger fresh JWC listing review for Bahrain-specific exclusions.",
-          "related_section": "Sections 2, 5, 5A"
+          "text": "Brent breaking $100/bbl intraday",
+          "why_it_matters": "With Brent at ~$96.05 and MOU track at acute risk, a single adverse event could breach the threshold — activating oil-linked collateral and energy-sector credit review triggers at many institutions.",
+          "related_section": "Sections 5, 5A"
         }
       ]
     }
   ],
   "source_confidence": [
     { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "HIGH", "note": "Confirmed absence across KUNA + US Embassy + MOI" },
-    { "section": "2 — Targets & Incidents", "source_count": 4, "confidence": "MEDIUM", "note": "NAVCENT drone engagements confirmed; IRGC Bahrain claims SINGLE SOURCE" },
+    { "section": "2 — Targets & Incidents", "source_count": 6, "confidence": "HIGH", "note": "Israel-Lebanon, Iran-Israel, Israel-Iran exchanges confirmed across multiple Tier 1 sources; IRGC Bahrain claims SINGLE SOURCE" },
     { "section": "3 — Kuwait Local", "source_count": 4, "confidence": "HIGH", "note": "Consistent across Tier 1 Gulf media; CSC update corroborated" },
-    { "section": "4 — Regional Context", "source_count": 5, "confidence": "HIGH", "note": "Multiple Tier 1 + Soufan Center Tier 3 sources corroborated" },
-    { "section": "5 — Risk Signal", "source_count": 4, "confidence": "HIGH", "note": "Analysis derived from confirmed Tier 1 facts" },
+    { "section": "4 — Regional Context", "source_count": 6, "confidence": "HIGH", "note": "MOU collapse signal corroborated across CBS, NPR, CNN; oil data from CNBC/TradingEconomics" },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "HIGH", "note": "Analysis derived from confirmed Tier 1 facts; oil price data from CNBC/TradingEconomics" },
     { "section": "5A — Insurance Risks", "source_count": 3, "confidence": "MEDIUM", "note": "JWC carry-forward; no new LMA advisory this window" },
-    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "MEDIUM", "note": "Pattern-based; no confirmed new incident this window" },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "MEDIUM", "note": "Pattern-based; no confirmed new incident this window; active retaliation window now open" },
     { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "MEDIUM", "note": "Commercial threat intel; no classified corroboration" }
   ],
   "footer": "Report #90 compiled 2026-06-08 at 07:30 UTC+3."
