@@ -1,0 +1,312 @@
+{
+  "date": "2026-06-09",
+  "headline": "09 June 2026",
+  "subtitle": "IRGC Energy Threat; Karun/Haifa Exchange; Houthi Red Sea Ban; Ceasefire Functionally Collapsed",
+  "report_number": "91",
+  "coverage": "08 June 2026 07:00 UTC+3 – 09 June 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-06-09",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "13", "delta": "N/A", "trend_7d": "↑" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "94.59", "previous": "96.05", "delta": "-1.46", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "91.68", "previous": "93.67", "delta": "-1.99", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "10", "previous": "10", "delta": "0", "trend_7d": "→" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "8", "previous": "8", "delta": "0", "trend_7d": "→" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "NR", "today_label": null, "previous": "NR", "previous_label": null, "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "No alerts reported in Kuwait in the past 24 hours.",
+          "text": "No air raid sirens, civil defense alerts, shelter-in-place orders, or emergency broadcasts issued in Kuwait during the coverage window (08 June 07:00 UTC+3 – 09 June 07:00 UTC+3). The Israel-Iran kinetic exchanges within this window were directed between Israel and Iran directly; no inbound threats to Kuwait or GCC airspace were confirmed in this period. Staff should continue monitoring @MOIKuwait and KUNA before any travel to airport or government areas.",
+          "sources": ["KUNA, 08–09 June 2026", "US Embassy Kuwait (kw.usembassy.gov), 08–09 June 2026", "Kuwait MOI, 08–09 June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "No confirmed strikes on Kuwait or GCC territory in coverage window.",
+          "text": "No confirmed missile or drone strikes on Kuwait or GCC territory during the coverage window (08 June 07:00 UTC+3 – 09 June 07:00 UTC+3). Third consecutive clean window for Kuwait since June 6 IRGC salvo; however, IRGC energy threat issued June 8 opens a new vector.",
+          "sources": ["KUNA, 08–09 June 2026", "Kuwait MOI, 08–09 June 2026", "Al Jazeera, 08–09 June 2026"]
+        },
+        {
+          "bold_heading": "⚠ NEW THREAT [SINGLE SOURCE on specifics] — IRGC declared Gulf energy assets of US/Israeli shareholders 'legitimate military targets' on 08 June.",
+          "text": "Unnamed source via IRGC-affiliated Fars News stated 'any further strikes on Iran's energy facilities would trigger attacks on energy assets of the US, Israel and their regional partners,' naming oil companies and energy firms with US or Israeli shareholders. Threat corroborated in substance by Euronews and Times of Oman. Explicitly targets GCC petrochemical infrastructure in Kuwait (Shuaiba), Bahrain (Sitrah), and UAE (Ruwais/Habshan). This is an explicit, publicly issued threat — not a vague warning.",
+          "sources": ["Euronews, 08 June 2026", "Times of Oman, 08 June 2026", "Fars News via IRGC, 08 June 2026"]
+        },
+        {
+          "bold_heading": "Israel struck Karun petrochemical plant (Mahshahr, Iran) on 08 June; IRGC retaliated within the hour with strike on Haifa refinery.",
+          "text": "IDF claimed it targeted truck-based SAM launchers and military-industrial facilities. Iranian media confirmed damage to Karun — one of Iran's largest ethylene exporters. IRGC Aerospace Force struck the Bazan Group refinery in Haifa (Israel's largest oil refinery) in direct retaliation. Both exchanges are outside GCC territory.",
+          "sources": ["Reuters, 08 June 2026", "Times of Israel, 08 June 2026", "NPR, 08 June 2026", "IranWire, 08 June 2026"]
+        },
+        {
+          "bold_heading": "⚠ Houthis declared 'complete and total ban' on Israeli maritime navigation in Red Sea on 08 June.",
+          "text": "Houthi spokesperson Yahya Saree stated the ban takes effect immediately and 'all enemy movements are legitimate military targets.' Houthis also fired a ballistic missile at central Israel (reportedly intercepted). This closes the primary Hormuz bypass for Israeli-linked shipping; any GCC vessel with Israeli cargo or on Israeli charter in Red Sea is now exposed.",
+          "sources": ["Bloomberg, 08 June 2026", "Insurance Journal, 08 June 2026", "Jerusalem Post, 08 June 2026", "Middle East Monitor, 08 June 2026"]
+        },
+        {
+          "bold_heading": "Iran announced 'suspension' of campaign against Israel — invalidated within one hour by Israel's Tyre strike.",
+          "text": "Iran suspended its campaign conditionally on Israel ceasing attacks including on Lebanon. Israel struck southern Lebanon (Tyre) within one hour; Lebanese Health Ministry confirmed 5 killed, 8 wounded. Iran has not issued formal re-activation order as of compilation but conditions for resumption have been met. Ceasefire described by analysts as existing 'only on paper.'",
+          "sources": ["CNN, 08 June 2026", "CBS News, 08 June 2026", "NPR, 08 June 2026", "Al Jazeera, 08 June 2026"]
+        },
+        {
+          "bold_heading": "US forces disabled unlicensed oil tanker in Gulf of Oman on 08 June.",
+          "text": "CENTCOM confirmed interdiction of tanker attempting to approach Iranian port in violation of US blockade. No Gulf state territory involved; Hormuz traffic unchanged at ~10 transits/day.",
+          "sources": ["Reuters, 08 June 2026", "CENTCOM, 08 June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "No new civil defense alerts or MOI emergency advisories; Kuwait in cautious-normal posture.",
+          "text": "Staff should verify all flight status and check MOI channels before any airport or government-area travel.",
+          "sources": ["KUNA, 08–09 June 2026", "Kuwait MOI, 08–09 June 2026"]
+        },
+        {
+          "bold_heading": "KWI T4 (Kuwait Airways) and T5 (Jazeera Airways) operational; T1 closed pending repair from June 3 strike.",
+          "text": "Most foreign carriers (Emirates, Etihad, Saudia, flydubai, Qatar Airways, Gulf Air) remain suspended. No DGCA timeline for T1 restoration or foreign carrier return. Verify individual flight status before travel.",
+          "sources": ["Wego Travel Blog, 09 June 2026", "ibtimes.com.au, 08 June 2026", "FlightGlobal, 03–09 June 2026"]
+        },
+        {
+          "bold_heading": "IRGC energy threat of June 8 directly relevant to Kuwait's Shuaiba industrial complex.",
+          "text": "IRGC threat names Kuwait petrochemical assets explicitly. Staff at or near Shuaiba should be made aware; BCP plans covering industrial-zone disruption should be confirmed active. No strike has been executed in this window.",
+          "sources": ["Euronews, 08 June 2026", "Times of Oman, 08 June 2026"]
+        },
+        {
+          "bold_heading": "Land borders and seaports operational at ISPS Level 2; no new disruptions.",
+          "text": "Safwan crossing (Iraq) status unchanged. Air freight via T1 remains unavailable; supply chain tightness for perishables and pharmaceuticals continues.",
+          "sources": ["Kuwait Times, carry-forward"]
+        },
+        {
+          "bold_heading": "Civil service on 6-hour summer schedule; schools approaching end of academic year.",
+          "text": "Kuwait English School last day June 11; no emergency school closures reported in window.",
+          "sources": ["Kuwait Times, Arab Times, carry-forward"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "Ceasefire is functionally dead: Iran's conditional suspension was invalidated within one hour by Israel's Tyre strike; CSIS (Yacoubian, June 8) places most likely end states as hollow deal or extended stalemate — not successful peace. Karun/Haifa energy exchange and Houthi Red Sea escalation are new structural barriers to MOU resumption. Brent at $94.59 remains within single-event distance of $100 threshold.",
+          "sources": ["CSIS, 08 June 2026", "CNN, 08 June 2026", "Al Jazeera, 08 June 2026", "NPR, 08 June 2026"]
+        },
+        {
+          "text": "Houthis' Red Sea ban on Israeli shipping (June 8) closes the Hormuz bypass for Israeli-connected vessels — the dual closure of Hormuz (IRGC-controlled) and Red Sea (Houthi-blockaded) leaves no viable seaborne route for Israeli-linked cargo; raises war risk premium and insurance liability for any GCC vessel on Red Sea routes with ambiguous cargo documentation.",
+          "sources": ["Bloomberg, 08 June 2026", "Insurance Journal, 08 June 2026"]
+        },
+        {
+          "text": "IRGC's explicit June 8 energy asset threat represents qualitative escalation from kinetic-military to economic-infrastructure targeting, using US/Israeli shareholder ownership as the criteria for legitimate targeting — a legally ambiguous construct that could ensnare GCC energy firms with minority US or Israeli investment stakes.",
+          "sources": ["Euronews, 08 June 2026", "Fars News via IRGC, 08 June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "IRGC energy threat against GCC assets is a new, named operational risk vector.",
+          "text": "Review credit exposure, collateral, and counterparty links to Kuwait (Shuaiba), Bahrain (Sitrah), and UAE (Ruwais/Habshan) energy and petrochemical sector entities today. Any facility with US or Israeli shareholders is explicitly named as a potential IRGC target — verify insurance war-exclusion applicability for those exposures.",
+          "sources": ["Euronews, 08 June 2026", "IRGC/Fars, 08 June 2026"]
+        },
+        {
+          "bold_heading": "Oil elevated but easing slightly: Brent $94.59, WTI $91.68.",
+          "text": "Do not stand down energy exposure stress tests; Houthi Red Sea escalation and IRGC energy threat have added new supply disruption vectors. If either materialises, the $100 threshold is within reach of a single event.",
+          "sources": ["TradingEconomics, 09 June 2026", "CNBC, 08 June 2026", "Reuters, 08 June 2026"]
+        },
+        {
+          "bold_heading": "BCP posture: maintain open-ended elevated status.",
+          "text": "IRGC energy threats combined with collapsed ceasefire conditions and active Houthi escalation mean the Gulf risk envelope has widened in the past 24h, not narrowed. Do not communicate any de-escalation signal to staff.",
+          "sources": ["CSIS, 08 June 2026", "KUNA, 08 June 2026", "CENTCOM, 08 June 2026"]
+        },
+        {
+          "bold_heading": "Houthi Red Sea blockade creates new payment and trade finance risk.",
+          "text": "Verify all Letters of Credit, cargo insurance, and trade finance facilities for Israeli-connected cargo on Red Sea routes. Any facility with Israeli charterers or cargo heading to/from Israel via Red Sea is now exposed to interdiction with war exclusion clauses likely applicable. Notify trade finance teams to review open positions today.",
+          "sources": ["Bloomberg, 08 June 2026", "Insurance Journal, 08 June 2026", "Middle East Monitor, 08 June 2026"]
+        },
+        {
+          "bold_heading": "Cyber retaliation window extended through at least June 11.",
+          "text": "Karun/Haifa energy exchange and Houthi escalation add new provocation triggers. Do not stand down WAF or DDoS mitigation before June 11 EOB; Israeli-linked correspondent banks and US-headquartered financial institutions with Gulf branches are specifically at elevated risk.",
+          "sources": ["SocRadar Iran-Israel Cyber Dashboard, June 2026", "Unit 42, June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "JWC JWLA-033 unchanged — Listed Areas in force; WRP 1.5–3% per voyage.",
+          "text": "Entire Persian Gulf, Strait of Hormuz, Gulf of Oman, and northern Arabian Sea remain Listed Areas; APCs $150,000–$400,000 per vessel per call. IRGC energy threat of June 8 reinforces the risk basis for listing; no reduction credible before a confirmed, signed MOU.",
+          "sources": ["JWC JWLA-033", "Lloyd's List, 2026", "gCaptain, 08 June 2026"]
+        },
+        {
+          "bold_heading": "Houthi 'complete ban' on Israeli maritime navigation in Red Sea (June 8) creates new exposure for GCC-flag or GCC-chartered vessels.",
+          "text": "Underwriters will treat any vessel with Israeli-connected cargo, charterers, or financing as potentially exposed to Houthi targeting in Red Sea lanes. Insurance Journal flagged this as potential new LMA listed-area trigger — monitor for LMA advisory update within 48h. Confirm vessel and cargo documentation does not carry Israeli linkages.",
+          "sources": ["Insurance Journal, 08 June 2026", "Bloomberg, 08 June 2026"]
+        },
+        {
+          "bold_heading": "IRGC energy asset threat raises underinsurance risk on open cargo policies for Gulf petrochemical routes.",
+          "text": "Explicit naming of Shuaiba (Kuwait), Sitrah (Bahrain), and Ruwais (UAE) as potential targets requires confirming cargo declared values are current and war exclusion clause applicability has been reviewed in writing with brokers for in-transit Gulf energy cargoes.",
+          "sources": ["Euronews, 08 June 2026", "Bahrain Intelligence maritime analysis, 08 June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Can Iran Negotiations Survive Israel-Iran Escalation?",
+          "author": "Mona Yacoubian",
+          "publication": "CSIS (Center for Strategic and International Studies)",
+          "pub_date": "2026-06-08",
+          "access": "Open",
+          "summary": "Yacoubian maps the nested structure of US-Iran negotiations (MOU first, then nuclear talks) and argues Iran's de facto Hormuz control now fulfils deterrence, power projection, and leverage objectives simultaneously — making reversion to pre-conflict norms unlikely even after a deal; most probable end states are a hollow deal or extended stalemate with episodic kinetic outbursts. Iran is reportedly demanding $24bn in unfrozen assets as a condition of MOU signing, while the US faces mounting political, economic, and military pressures to accept a hollow deal.",
+          "relevance": "Directly informs the de-escalation timeline for institutional BCP, war-risk premium, and energy exposure planning — the conclusion that Iran will retain permanent Hormuz leverage means these postures cannot revert to pre-conflict baselines under any near-term deal.",
+          "link": "https://www.csis.org/analysis/can-iran-negotiations-survive-israel-iran-escalation"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "⚠ ACTIVE WINDOW — Iran-linked hacktivist clusters in extended 24–72h retaliation window.",
+          "text": "313 Team, ALTOUFAN TEAM, DieNet, Hydro Kitten — compounded by Karun/Haifa energy exchange (June 8) and Houthi Red Sea ban. These clusters respond faster to Israeli strikes on Iranian energy infrastructure. GCC financial services portals, e-payment platforms, and Israeli-correspondent banking interfaces are primary targets. Maintain WAF elevated sensitivity and ISP DDoS escalation path — do not stand down before June 11 EOB.",
+          "cve_ids": [],
+          "threat_actor": "Iran-linked hacktivist clusters (IRGC-coordinated): 313 Team, ALTOUFAN TEAM, DieNet, Hydro Kitten",
+          "recommended_action": "Maintain WAF elevated sensitivity and ISP DDoS escalation path; do not stand down before June 11 EOB; specifically flag Israeli-linked correspondent banking interfaces for enhanced monitoring.",
+          "sources": ["SocRadar Iran-Israel Cyber Dashboard, June 2026", "Unit 42 Iran Threat Brief, June 2026"],
+          "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/"
+        },
+        {
+          "bold_heading": "MuddyWater/Seedworm (Operation Olalampo) — phishing lure refresh expected within 24h.",
+          "text": "Karun/Haifa energy exchange, Houthi Red Sea ban, and 'Day 102' milestone are high-credibility social-engineering hooks. CHAR, GhostBackDoor, GhostFetch, and HTTP_VIP malware families active since Jan 26, 2026. DLL side-loading and MS Teams external federation remain primary vectors.",
+          "cve_ids": [],
+          "threat_actor": "MuddyWater/Seedworm (IRGC-linked)",
+          "recommended_action": "Issue staff awareness alert by COB today using Houthi Red Sea escalation and energy-site exchange as lure themes; block unknown external Teams federation tenants at gateway.",
+          "sources": ["CISA AA26-097a, April 2026", "Rapid7 Iran Cyber Playbook, 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "CISA AA26-097a OT/ICS advisory — Gulf energy/petrochemical and utility operators at acute elevated risk.",
+          "text": "IRGC's June 8 statement explicitly naming Gulf petrochemical sites as potential targets raises probability of OT-adjacent targeting by Iranian APTs as pre-positioning or escalation tool. Multiple ICS/SCADA vectors (see advisory). Treat any anomalous OT network alert as high-priority until June 11.",
+          "cve_ids": [],
+          "threat_actor": "Iranian-affiliated APT (IRGC-linked)",
+          "recommended_action": "Verify OT/ICS network segmentation is current; confirm PLC firmware patch status; escalate any anomalous OT alerts immediately.",
+          "sources": ["CISA AA26-097a, April 2026", "IC3 CSA 260407, April 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Gulf cyber attacks at 8× pre-conflict tempo — HIGH likelihood of sustained elevated tempo through any diplomatic resolution.",
+          "text": "UAE Cybersecurity chief reported 600,000+ attacks (ransomware, data breaches, wipers, defacements) since late February. June 8 energy exchange and Houthi escalation extend the high-activity window with no visible ceiling. Shift from disruptive DDoS to complex breaches, financial crime, and infrastructure pre-positioning is now the structural pattern.",
+          "threat_actor": "IRGC-coordinated APTs and hacktivist clusters: Seedworm, APT42, 313 Team, ALTOUFAN",
+          "assessed_likelihood": "HIGH",
+          "sources": ["The National UAE, April 2026", "Gulf Business, 2026"],
+          "url": "https://www.thenationalnews.com/future/technology/2026/04/10/iranian-cyber-attacks-move-from-disruptive-to-complex-threats-in-gulf/"
+        },
+        {
+          "bold_heading": "APT42 sustained cloud-persistence campaign via TAMECAT backdoor — MODERATE-HIGH likelihood of lateral movement.",
+          "text": "APT42 focuses on long-term personal engagement before cloud account compromise (Microsoft 365, Google Workspace). June 8 energy exchange provides fresh pretext for credential-phishing campaigns against Gulf energy-sector decision-makers. Persistent footholds rather than one-time exfiltration is now the primary objective.",
+          "threat_actor": "APT42/Charming Kitten (IRGC)",
+          "assessed_likelihood": "MODERATE-HIGH",
+          "sources": ["Trellix Iranian Cyber Capability 2026", "ExtraHop Digital Front analysis, 2026"],
+          "url": "https://www.trellix.com/blogs/research/the-iranian-cyber-capability-2026/"
+        },
+        {
+          "bold_heading": "Chaos ransomware-as-cover destructive campaigns — MODERATE risk; war-exclusion determination risk rising.",
+          "text": "IRGC-affiliated actors deploy destructive intrusions disguised as ransomware. The June 8 IRGC statement naming GCC energy infrastructure increases probability of coercive IT/OT intrusions designed to create attribution ambiguity. Obtain written broker clarification on war-exclusion applicability for IRGC-attributed incidents before a loss event occurs.",
+          "threat_actor": "IRGC-affiliated (MuddyWater-linked)",
+          "assessed_likelihood": "MODERATE",
+          "sources": ["Halcyon ransomware alerts 2026", "SecurityWeek/Rapid7, 2026"],
+          "url": "https://www.halcyon.ai/ransomware-alerts/iranian-use-of-cybercriminal-tactics-in-destructive-cyber-attacks-2026-updates"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "IRGC kinetic strike on GCC energy infrastructure (Shuaiba Kuwait / Sitrah Bahrain / Ruwais UAE).",
+          "why_it_matters": "IRGC June 8 energy threat is explicit and publicly issued; prior pattern of threat-to-strike within 24–72h means the next 24h is within the risk window for the first confirmed GCC energy sector attack of this specific IRGC threat cycle.",
+          "related_section": "Sections 1, 2, 3, 5, 5A"
+        },
+        {
+          "text": "Iran formally re-activating campaign against Israel following Israel's Tyre strike.",
+          "why_it_matters": "Iran's conditional suspension was violated within one hour; a formal re-activation would restart the ballistic missile exchange cycle and likely trigger a new IRGC GCC retaliation pattern within 24–72h, as per established conflict pattern.",
+          "related_section": "Sections 2, 4, 5"
+        },
+        {
+          "text": "LMA/JWC advisory update on Red Sea coverage and Houthi listed-area designation.",
+          "why_it_matters": "The Houthi 'complete ban' on Israeli shipping (June 8) is new enough that Lloyd's Market Association has not yet issued a listed-area advisory update; if issued within 24h, it will affect war-risk premiums for any vessel on Gulf-Red Sea routes and may require immediate review of open marine positions.",
+          "related_section": "Section 5A"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "HIGH", "note": "Confirmed absence across KUNA + US Embassy + MOI" },
+    { "section": "2 — Targets & Incidents", "source_count": 7, "confidence": "HIGH", "note": "Karun/Haifa/Houthi/Iran suspension confirmed across multiple Tier 1; IRGC energy threat corroborated by Euronews + Times of Oman (originally IRGC/Fars)" },
+    { "section": "3 — Kuwait Local", "source_count": 4, "confidence": "HIGH", "note": "Consistent across Tier 1 Gulf media; Shuaiba threat carry-over flagged" },
+    { "section": "4 — Regional Context", "source_count": 5, "confidence": "HIGH", "note": "Yacoubian/CSIS (June 8) + multiple Tier 1 on Houthi/Iran ceasefire collapse" },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "HIGH", "note": "Analysis derived from confirmed Tier 1 facts; oil price from TradingEconomics/CNBC" },
+    { "section": "5A — Insurance Risks", "source_count": 3, "confidence": "MEDIUM", "note": "JWC carry-forward; Houthi Red Sea advisory per Insurance Journal pending LMA update" },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "MEDIUM", "note": "Pattern-based; no confirmed new cyber incident in window; CISA AA26-097a corroborated" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "MEDIUM", "note": "Commercial threat intel; no classified corroboration available" }
+  ],
+  "footer": "Report #91 compiled 2026-06-09 at 07:30 UTC+3."
+}
