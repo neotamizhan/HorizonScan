@@ -1,0 +1,408 @@
+{
+  "date": "2026-06-10",
+  "headline": "10 June 2026",
+  "subtitle": "IRGC Strikes Ali Al Salem; Kuwait Sirens Active; Direct US–Iran Kinetic Exchange",
+  "report_number": "92",
+  "coverage": "09 June 2026 07:00 UTC+3 – 10 June 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-06-10",
+    "metrics": [
+      {
+        "metric": "Missile/drone interceptions (24h)",
+        "today": "~12+",
+        "previous": "NR",
+        "delta": "N/A",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "Debris reports (cumulative)",
+        "today": "2 new (Ali Al Salem + Bahrain residential)",
+        "previous": "NR",
+        "delta": "N/A",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "Brent crude ($/bbl)",
+        "today": "~92",
+        "previous": "~94.59",
+        "delta": "-2.59",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "WTI crude ($/bbl)",
+        "today": "~89",
+        "previous": "~91.68",
+        "delta": "-2.68",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "Strait of Hormuz transits/day",
+        "today": "~10",
+        "previous": "~10",
+        "delta": "0",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Infrastructure items damaged (cumulative)",
+        "today": "8",
+        "previous": "8",
+        "delta": "0",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "KWI airport status",
+        "today": "Partial/Restricted",
+        "previous": "Partial (T4+T5 open; T1 closed)",
+        "delta": "Restricted during attack",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Kuwait AQI (PM2.5)",
+        "today": "NR",
+        "today_label": null,
+        "previous": "NR",
+        "previous_label": null,
+        "delta": "N/A",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "Days since last confirmed cyber incident (Gulf FS)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "N/A",
+        "trend_7d": "Insufficient data"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "⚠ CONFIRMED ACTIVE ALERT",
+          "text": "Kuwait Civil Defense sirens sounded across Kuwait overnight 09–10 June 2026 as the IRGC launched a retaliatory missile and drone salvo targeting Ali Al Salem Air Base. Kuwait's Ministry of Interior issued an emergency broadcast directing all citizens and residents to proceed immediately to the nearest safe location and remain sheltered until further notice. Kuwait Armed Forces announced they were actively intercepting 'hostile aerial targets in Kuwaiti airspace in accordance with approved operational procedures.' This is the first mass civil warning issued in Kuwait since the June 3 airport attack. Monitor @MOIKuwait and KUNA for the all-clear signal before any movement.",
+          "sources": ["Gulf Business, 09–10 June 2026", "Saudi Gazette, 09–10 June 2026", "CNN Live Updates, 09–10 June 2026", "Kuwait MOI, 09–10 June 2026"]
+        },
+        {
+          "bold_heading": "Bahrain",
+          "text": "Bahrain activated air raid sirens and shelter-in-place orders during the same window as IRGC targeted the US Navy Fifth Fleet headquarters at NSA Bahrain. Bahrain's Interior Ministry urged citizens and residents to remain calm and take shelter.",
+          "sources": ["TASS, 09–10 June 2026", "CNN, 09–10 June 2026", "Al Jazeera, 09–10 June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "⚠ CONFIRMED STRIKE ON KUWAITI MILITARY TERRITORY",
+          "text": "IRGC targeted Ali Al Salem Air Base (Kuwait) with ballistic missiles and drones overnight 09–10 June; Kuwait air defenses intercepted aerial targets, but missile debris fell on the base, injuring three Kuwaiti servicemen. US officials reported at least 5 Americans injured (minor) and confirmed destruction of at least one MQ-9 Reaper drone and damage to a second (~$60M combined value). IRGC simultaneously targeted NSA Bahrain (US Fifth Fleet HQ), Al-Azraq Air Base in Jordan, and claimed 21 US targets struck — figure not corroborated by US. [SINGLE SOURCE on 21-target claim — IRGC/Tasnim]",
+          "sources": ["Saudi Gazette, 09–10 June 2026", "i24NEWS, 09–10 June 2026", "Stars and Stripes, 09–10 June 2026", "CENTCOM, 09–10 June 2026"]
+        },
+        {
+          "bold_heading": "Trigger: Apache helicopter downed",
+          "text": "A US Army AH-64 Apache helicopter was downed near the Strait of Hormuz on 08–09 June; both crew members were rescued safely by a US sea drone. Trump confirmed Iran shot down the helicopter, assessed by US military as struck by an Iranian Shahed one-way attack drone while patrolling over the strait. Iran denied responsibility. CENTCOM launched self-defense strikes at 5 p.m. ET on 09 June, targeting Iranian air defense radars, ground control stations, and surveillance sites near the Strait of Hormuz.",
+          "sources": ["CBS News, 09 June 2026", "NBC News, 09 June 2026", "CNBC, 09 June 2026", "CENTCOM, 09 June 2026"]
+        },
+        {
+          "bold_heading": "Jordan: 5 Iranian ballistic missiles intercepted",
+          "text": "Jordan intercepted 5 Iranian ballistic missiles fired at Al-Azraq Air Base; no casualties, minor shrapnel debris with no human injury or material damage confirmed.",
+          "sources": ["Iran International liveblog, 09–10 June 2026", "Al Jazeera, 09–10 June 2026"]
+        },
+        {
+          "bold_heading": "Bahrain: residential debris damage",
+          "text": "Bahrain's Patriot and Arrow systems activated to intercept IRGC strikes on NSA Bahrain (Fifth Fleet HQ); residential debris damage confirmed. No civilian casualties confirmed at compilation time.",
+          "sources": ["TASS, 09–10 June 2026", "Saudi Gazette, 09–10 June 2026", "CNN, 09–10 June 2026"]
+        },
+        {
+          "bold_heading": "Ceasefire status: severely strained",
+          "text": "US–Iran ceasefire (in place since ~08 April) is now under extreme strain but not formally repudiated by either side. The Apache incident and CENTCOM/IRGC exchange mark a direct US–Iran kinetic cycle not seen since the early weeks of the war. Trump stated before the incident that a deal was 'two or three days away'; that timeline is now implausible.",
+          "sources": ["NPR, 09–10 June 2026", "CBS News, 09–10 June 2026", "CNN, 09–10 June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Civil Defense alert: ACTIVE",
+          "text": "All staff in Kuwait should treat overnight siren activation as an elevated security event and confirm all-clear via @MOIKuwait before resuming normal movement. Staff at or near Ali Al Salem corridor (northwest of Kuwait City) should exercise additional caution.",
+          "sources": ["Kuwait MOI, 09–10 June 2026", "Gulf Business, 09–10 June 2026"]
+        },
+        {
+          "bold_heading": "Ali Al Salem debris: 3 Kuwaiti servicemen injured",
+          "text": "Missile debris from intercepted IRGC projectiles fell on Ali Al Salem Air Base. Three Kuwaiti servicemen injured; US personnel and MQ-9 drones also affected. No civilian casualties in immediately adjacent areas reported.",
+          "sources": ["Saudi Gazette, 09–10 June 2026"]
+        },
+        {
+          "bold_heading": "KWI airport: Partial/Restricted",
+          "text": "T4 (Kuwait Airways) and T5 (Jazeera) were operational pre-attack; airspace was likely temporarily restricted during overnight IRGC salvo. Status at 07:00 compilation time unconfirmed — verify directly with DGCA or airline before travel. T1 remains closed. Most foreign carriers remain suspended. [TIMESTAMP UNCONFIRMED for compilation-time status]",
+          "sources": ["Wego Travel Blog, June 2026", "EASA, June 2026", "Sunday Guardian Live, June 2026"]
+        },
+        {
+          "bold_heading": "Borders and services: no new disruptions",
+          "text": "No new civil service, school, or border disruptions beyond the ongoing baseline. Kuwait summer civil service hours (6-hour schedule) remain in effect. Land borders at Saudi Arabia and Iraq remain open at ISPS Level 2. Supply chain tightness for perishables and pharmaceuticals continues.",
+          "sources": ["Kuwait Times — carry-forward", "KUNA"]
+        },
+        {
+          "bold_heading": "Shuaiba energy threat: unexecuted but live",
+          "text": "The IRGC energy asset threat (issued June 8) targeting Kuwait's Shuaiba industrial complex remains unexecuted. Last night's attack was directed exclusively at military targets; no civilian or energy infrastructure in Kuwait was struck.",
+          "sources": ["Euronews carry-forward, 08 June 2026", "IRGC/Fars, 08 June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "The US–Iran kinetic cycle has re-escalated to a direct bilateral exchange for the first time since the ceasefire took effect (April 8): Apache helicopter downed (June 8–9) → CENTCOM self-defense strikes (June 9) → IRGC retaliation against US bases in Kuwait, Bahrain, and Jordan (June 9–10). Ceasefire institutional value is now effectively exhausted; Trump's 'deal in 2–3 days' signal is stale.",
+          "sources": ["CENTCOM, 09 June 2026", "CNN, 09–10 June 2026", "CBS News, 09–10 June 2026", "NPR, 09–10 June 2026"]
+        },
+        {
+          "text": "Oil prices declined despite the escalation (Brent ~$92, WTI ~$89) — markets are partially pricing in Trump's pre-incident deal optimism — but the $100/bbl threshold remains within reach of a single adverse energy infrastructure event. IRGC energy asset threat against Shuaiba/Ruwais remains unexecuted.",
+          "sources": ["CNBC, 09–10 June 2026", "TradingEconomics, 09–10 June 2026"]
+        },
+        {
+          "text": "Dual closure of Hormuz (IRGC) and Red Sea (Houthi ban on Israeli shipping, June 8) remains structurally unchanged; the Gulf risk envelope has widened across both waterways simultaneously.",
+          "sources": ["Bloomberg carry-forward, 08 June 2026", "Insurance Journal carry-forward, 08 June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "BCP: escalate to HIGH",
+          "text": "Overnight IRGC attack on Kuwait military territory, active civil defense sirens, and 3 Kuwaiti servicemen injured constitute a direct attack on Kuwaiti territory. Verify BCP activation thresholds with your crisis team today; do not communicate de-escalation to staff. The next 24–72 hours are the highest-risk window since June 3.",
+          "sources": ["Saudi Gazette, 09–10 June 2026", "Kuwait MOI, 09–10 June 2026", "Gulf Business, 09–10 June 2026"]
+        },
+        {
+          "bold_heading": "Staff safety",
+          "text": "All Kuwait staff should treat today as an elevated security day. Avoid unnecessary travel to Ali Al Salem corridor and airport until formal all-clear. Embassy-registered staff should confirm warden message receipt.",
+          "sources": ["KUNA, 09–10 June 2026", "US Embassy Kuwait — advisory expected"]
+        },
+        {
+          "bold_heading": "Oil price risk: do not stand down stress tests",
+          "text": "Brent ~$92 / WTI ~$89 — down from prior day but IRGC energy asset threat remains unexecuted. Any strike on Shuaiba, Sitrah, or Ruwais would likely spike Brent above $100 within hours. Energy credit exposures and collateral valuations require daily monitoring.",
+          "sources": ["CNBC, 09–10 June 2026", "TradingEconomics, 09–10 June 2026"]
+        },
+        {
+          "bold_heading": "Trade finance and payments",
+          "text": "Verify all open Letters of Credit for Gulf origin/destination against war exclusion clauses. Overnight attacks on Bahrain and Kuwait are new insurance trigger events — confirm with brokers whether these incidents activate notification obligations or affect coverage terms.",
+          "sources": ["Insurance Journal, 08–09 June 2026", "Lloyd's List, 08–09 June 2026"]
+        },
+        {
+          "bold_heading": "Cyber: retaliation window extended materially",
+          "text": "CENTCOM strikes on Iranian air defense sites are a direct, named US military action on Iranian soil — the highest-priority trigger for IRGC-directed cyber retaliation against US-connected Gulf financial infrastructure. Do not stand down WAF elevated sensitivity or DDoS mitigation before June 13 EOB.",
+          "sources": ["SocRadar, June 2026", "Unit 42, June 2026", "CISA AA26-097a, April 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": "5A",
+      "title": "Insurance Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "JWC JWLA-033 unchanged; basis reinforced",
+          "text": "Entire Persian Gulf, Strait of Hormuz, Gulf of Oman, and northern Arabian Sea remain JWC Listed Areas; WRP 1.5–3% hull value per voyage; APCs $150,000–$400,000 per vessel per call. IRGC attack on Kuwaiti military territory overnight provides new actuarial evidence reinforcing the listing. Any insurer considering de-listing following ceasefire progress is now further from that position.",
+          "sources": ["JWC JWLA-033", "Lloyd's List, June 2026", "gCaptain, June 2026"]
+        },
+        {
+          "bold_heading": "Ali Al Salem + Bahrain debris: new listed-area trigger events",
+          "text": "Two confirmed debris incidents within 48 hours (Kuwait + Bahrain residential) will firm WRP rates at next renewal — not soften. Notify marine underwriters and P&I Club of any vessels with open positions in Kuwait/Bahrain ports.",
+          "sources": ["Saudi Gazette, 09–10 June 2026", "Insurance Journal, 08–09 June 2026"]
+        },
+        {
+          "bold_heading": "Open cargo policies: war-exclusion review required",
+          "text": "Confirm with brokers in writing that cargo declared values for in-transit Gulf energy cargoes are current, war-exclusion clause applicability has been reviewed, and that June 3 + June 9–10 incidents have not triggered notice-of-claim obligations under open marine policies.",
+          "sources": ["Euronews carry-forward, 08 June 2026", "Bahrain Intelligence, 08 June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "The Fragile U.S.–Iran Ceasefire: Issues to Watch [Outside 48h window — cited for structural context only]",
+          "author": "Mona Yacoubian",
+          "publication": "CSIS",
+          "pub_date": "2026-04-08",
+          "access": "Open",
+          "summary": "Maps five structural fractures that could unravel the ceasefire — Hormuz freedom of navigation, Israeli operations in Lebanon, nuclear enrichment caps, sanctions relief sequencing, and Iranian proxy networks — and assesses the ceasefire as a pause, not a resolution, because neither side has moved on any of these variables.",
+          "relevance": "The overnight CENTCOM/IRGC direct exchange confirms this April 8 analysis was correct; ceasefire institutional value is now exhausted — extend de-escalation timeline assumptions for institutional planning.",
+          "link": "https://www.csis.org/analysis/fragile-us-iran-ceasefire-issues-watch"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "⚠ EXTENDED RETALIATION WINDOW — CENTCOM strikes on Iranian soil",
+          "text": "Iran-linked hacktivist clusters (313 Team, ALTOUFAN TEAM, DieNet, Hydro Kitten) and IRGC-coordinated APTs treat direct US military strikes on Iranian territory as first-priority retaliation triggers. The CENTCOM June 9 strikes on Iranian air defense sites combined with the Ali Al Salem attack create a compound retaliation incentive. GCC financial services portals, e-payment platforms, and US-correspondent banking interfaces are primary targets.",
+          "cve_ids": [],
+          "threat_actor": "IRGC-directed hacktivist clusters + Seedworm",
+          "recommended_action": "Escalate DDoS mitigation to maximum sensitivity; activate ISP scrubbing escalation paths now; flag all US-headquartered correspondent bank interfaces for enhanced anomaly detection before June 13 EOB.",
+          "sources": ["SocRadar Iran-Israel Cyber Dashboard, June 2026", "Unit 42 Iran Threat Brief, June 2026"],
+          "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/"
+        },
+        {
+          "bold_heading": "MuddyWater/Seedworm (Operation Olalampo): new lure refresh within 24h",
+          "text": "Operation Olalampo will update phishing lures within 24h using 'Kuwait siren,' 'Ali Al Salem attack,' 'Apache helicopter,' and 'Day 103' social-engineering hooks. GhostBackDoor, GhostFetch, and HTTP_VIP malware via weaponised documents and MS Teams external federation remain primary vectors.",
+          "cve_ids": [],
+          "threat_actor": "MuddyWater/Seedworm (IRGC-linked)",
+          "recommended_action": "Issue staff phishing awareness alert by COB today referencing overnight Kuwait attacks and Apache helicopter lure themes; block or flag external Teams federation requests from unrecognised tenants.",
+          "sources": ["CISA AA26-097a, April 2026", "Rapid7 Iran Cyber Playbook, 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "CISA AA26-097a OT/ICS: elevated risk following CENTCOM strikes",
+          "text": "CENTCOM strikes on Iranian air defense sites may trigger OT-adjacent pre-positioning attempts against Gulf energy infrastructure. Treat any anomalous OT network alert at Kuwait petrochemical or port facilities as high-priority before June 13; confirm PLC firmware patch status and network segmentation.",
+          "cve_ids": ["Multiple ICS/SCADA vectors — see CISA AA26-097a"],
+          "threat_actor": "IRGC-affiliated APT (IRGC Aerospace + Cyber Command)",
+          "recommended_action": "Verify OT/ICS network segmentation is current; confirm PLC firmware patch status; treat any anomalous OT alert as high-priority until June 13.",
+          "sources": ["CISA AA26-097a, April 2026", "IC3 CSA 260407, April 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Iran-linked cyberattacks: 8× tempo; direct US–IRGC exchange extends elevated window",
+          "text": "UAE Cybersecurity chief's reported 600,000+ attacks since late February include a documented shift from DDoS to complex breaches, financial crime, and wiper campaigns. CENTCOM strikes on Iranian soil are historically correlated with IRGC's most severe cyber responses. No visible ceiling on attack tempo.",
+          "threat_actor": "IRGC-coordinated APTs and hacktivist clusters (Seedworm, APT42, 313 Team, ALTOUFAN)",
+          "assessed_likelihood": "HIGH",
+          "sources": ["The National UAE, April 2026", "CSIS Shah, April 2026"],
+          "url": "https://www.thenationalnews.com/future/technology/2026/04/10/iranian-cyber-attacks-move-from-disruptive-to-complex-threats-in-gulf/"
+        },
+        {
+          "bold_heading": "APT42 TAMECAT cloud-persistence: accelerated credential-phishing likely",
+          "text": "APT42 prioritises long-term cloud account compromise (Microsoft 365, Google Workspace) via personal engagement before technical exploitation. The overnight Kuwait/Bahrain attack provides fresh social-engineering pretext for credential-phishing targeting Gulf financial sector decision-makers.",
+          "threat_actor": "APT42/Charming Kitten (IRGC)",
+          "assessed_likelihood": "MODERATE-HIGH",
+          "sources": ["Trellix Iranian Cyber Capability 2026", "ExtraHop Digital Front, 2026"],
+          "url": "https://www.trellix.com/blogs/research/the-iranian-cyber-capability-2026/"
+        },
+        {
+          "bold_heading": "Chaos ransomware-as-cover: likelihood upgraded to MODERATE-HIGH",
+          "text": "IRGC's history shows destructive IT/OT intrusions disguised as ransomware follow major kinetic escalation within 1–2 weeks. CENTCOM strikes on Iranian soil are of sufficient severity to trigger this response pattern. Obtain written broker clarification on war-exclusion applicability for IRGC-attributed cyber incidents before an event occurs. [Upgraded from MODERATE: June 9–10 escalation is highest-order trigger observed since Feb 28.]",
+          "threat_actor": "IRGC-affiliated (MuddyWater-linked)",
+          "assessed_likelihood": "MODERATE-HIGH",
+          "sources": ["Halcyon Ransomware Alerts, 2026", "SecurityWeek/Rapid7, 2026"],
+          "url": "https://www.halcyon.ai/ransomware-alerts/iranian-use-of-cybercriminal-tactics-in-destructive-cyber-attacks-2026-updates"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Further IRGC kinetic strikes on Kuwait, Bahrain, or Jordan following CENTCOM June 9 strikes.",
+          "why_it_matters": "Iran's escalation pattern is to continue retaliatory cycles over 24–72h after a direct US military strike on Iranian soil; last night's salvo may be round one, not the only round.",
+          "related_section": "Sections 1, 2, 3, 5, 5A"
+        },
+        {
+          "text": "IRGC execution of June 8 energy asset threat against Shuaiba (Kuwait), Sitrah (Bahrain), or Ruwais (UAE).",
+          "why_it_matters": "Last night's strikes were directed at US military targets; the IRGC energy threat against GCC energy infrastructure remains unexecuted — execution would spike Brent above $100 and require full BCP protocol activation.",
+          "related_section": "Sections 2, 3, 5, 5A"
+        },
+        {
+          "text": "US BDA (Battle Damage Assessment) of CENTCOM June 9 strikes on Iranian air defense sites and Iran's official response.",
+          "why_it_matters": "If Iran's IRGC overstates damage from its own retaliation and CENTCOM denial triggers a face-saving escalatory response, a second IRGC salvo within 24h becomes more likely.",
+          "related_section": "Sections 2, 4"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    {
+      "section": "1 — Alerts & Sirens",
+      "source_count": 4,
+      "confidence": "HIGH",
+      "note": "Confirmed across Gulf Business, Saudi Gazette, CNN, Kuwait MOI"
+    },
+    {
+      "section": "2 — Targets & Incidents",
+      "source_count": 7,
+      "confidence": "HIGH",
+      "note": "Apache/CENTCOM/IRGC cycle confirmed via CENTCOM, CBS, NBC, CNN, Al Jazeera; IRGC 21-target claim [SINGLE SOURCE — IRGC/Tasnim]"
+    },
+    {
+      "section": "3 — Kuwait Local",
+      "source_count": 4,
+      "confidence": "HIGH",
+      "note": "Debris casualties confirmed via Saudi Gazette; airport status at compilation [TIMESTAMP UNCONFIRMED]"
+    },
+    {
+      "section": "4 — Regional Context",
+      "source_count": 4,
+      "confidence": "HIGH",
+      "note": "Analysis derived from confirmed Tier 1 facts; oil price approximate from intraday range data"
+    },
+    {
+      "section": "5 — Risk Signal",
+      "source_count": 5,
+      "confidence": "HIGH",
+      "note": "Analysis derived from confirmed Tier 1 facts; BCP recommendation is analytical"
+    },
+    {
+      "section": "5A — Insurance Risks",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "JWC carry-forward; new debris events strengthen basis; no formal JWC update in window"
+    },
+    {
+      "section": "7A — Cyber Tactical",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "Pattern-based; no confirmed new incident in window; CISA AA26-097a corroborated"
+    },
+    {
+      "section": "7B — Cyber Strategic",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "Commercial threat intel; ransomware likelihood upgraded MODERATE→MODERATE-HIGH based on June 9–10 escalation"
+    }
+  ],
+  "footer": "Report #92 compiled 2026-06-10 at 07:30 UTC+3."
+}
