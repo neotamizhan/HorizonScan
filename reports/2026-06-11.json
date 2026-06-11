@@ -13,295 +13,99 @@
       { "metric": "WTI crude ($/bbl)", "today": "91.56", "previous": "89", "delta": "+2.56", "trend_7d": "↑" },
       { "metric": "Strait of Hormuz transits/day", "today": "~2 (formal closure declared; 2 vessels struck — SINGLE SOURCE)", "previous": "~10", "delta": "↓", "trend_7d": "↓" },
       { "metric": "Infrastructure items damaged (cumulative)", "today": "8", "previous": "8", "delta": "0", "trend_7d": "→" },
-      { "metric": "KWI airport status", "today": "Partial (closed 04:50–06:15; then re-open)", "previous": "Partial/Restricted", "delta": "Temporary closure in window", "trend_7d": "→" },
+      { "metric": "KWI airport status", "today": "Partial (T1 closed — June 3 attack damage; T4/T5 open; airspace closed 04:50–06:15 June 11)", "previous": "Partial/Restricted", "delta": "No change (T1 remains closed)", "trend_7d": "→" },
       { "metric": "Kuwait AQI (PM2.5)", "today": "NR", "today_label": null, "previous": "NR", "previous_label": null, "delta": "N/A", "trend_7d": "Insufficient data" },
       { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" }
     ]
   },
   "sections": [
     {
-      "id": "alerts",
-      "number": 1,
-      "title": "Alerts & Sirens",
-      "icon": "sirens",
-      "color": "#f85149",
+      "id": "alerts", "number": 1, "title": "Alerts & Sirens", "icon": "sirens", "color": "#f85149",
       "items": [
-        {
-          "bold_heading": "⚠ CONFIRMED ACTIVE: Kuwait Army air defenses activated — airspace closed 04:50–06:15 local, 11 June 2026",
-          "text": "DGCA closed Kuwait airspace at 04:50 local time; 11 inbound flights were diverted. Air navigation resumed at approximately 06:15 local time (within coverage window). Kuwait Army urged the public to rely solely on official sources.",
-          "sources": ["Gulf News, 11 June 2026", "Khaleej Times, 11 June 2026", "Kuwait Times, 11 June 2026"]
-        },
-        {
-          "bold_heading": "IRGC formally declared Strait of Hormuz closed to all vessels — shoot-to-kill authority issued",
-          "text": "Iran's joint military command declared the Strait of Hormuz closed to all vessels including oil tankers and commercial ships following the second consecutive night of US strikes on Iranian territory. The IRGC Navy reported two vessels struck attempting to transit.",
-          "sources": ["Arab News, 10–11 June 2026", "PressTV, 10–11 June 2026", "Tribune India, 10–11 June 2026"]
-        }
+        { "bold_heading": "⚠ CONFIRMED ACTIVE: Kuwait Army air defenses activated — airspace closed 04:50–06:15 local, 11 June 2026", "text": "DGCA closed Kuwait airspace at 04:50 local time; 11 inbound flights were diverted. Air navigation resumed at approximately 06:15 local time (within coverage window). Kuwait Army urged the public to rely solely on official sources.", "sources": ["Gulf News, 11 June 2026", "Khaleej Times, 11 June 2026", "Kuwait Times, 11 June 2026"] },
+        { "bold_heading": "IRGC formally declared Strait of Hormuz closed to all vessels — shoot-to-kill authority issued", "text": "Iran's joint military command declared the Strait of Hormuz closed to all vessels including oil tankers and commercial ships following the second consecutive night of US strikes on Iranian territory. The IRGC Navy reported two vessels struck attempting to transit.", "sources": ["Arab News, 10–11 June 2026", "PressTV, 10–11 June 2026", "Tribune India, 10–11 June 2026"] }
       ]
     },
     {
-      "id": "targets",
-      "number": 2,
-      "title": "Targets & Incidents",
-      "icon": "targets",
-      "color": "#ff7b72",
+      "id": "targets", "number": 2, "title": "Targets & Incidents", "icon": "targets", "color": "#ff7b72",
       "items": [
-        {
-          "bold_heading": "⚠ CONFIRMED — New IRGC strikes on Kuwait (Ali Al Salem), Bahrain (NSA/5th Fleet), Jordan (Al-Azraq), early hours 11 June 2026",
-          "text": "Second sequential IRGC retaliatory salvo within 48 hours, directly following the US second night of strikes on Iran (June 10, 5:15pm ET / ~00:15 Kuwait time). Kuwait Army confirmed air defense interceptions; Kuwait airspace closed at 04:50 and 11 flights diverted. No confirmed US or Kuwaiti personnel casualties from this round at compilation time.",
-          "sources": ["Gulf News, 10–11 June 2026", "Al Jazeera, 10–11 June 2026", "Khaleej Times, 11 June 2026"]
-        },
-        {
-          "bold_heading": "CENTCOM completed second consecutive night of self-defense strikes on Iran, June 10",
-          "text": "49 Tomahawk cruise missiles struck targets inside Iran including sites within 40 miles of Tehran; fighter jets struck radar and air defense systems in southwestern Iran. Secretary Hegseth stated the US would 'negotiate with bombs' if required. Confirmed target categories: ammunition depots, C2 nodes, warehouses, Iranian military surveillance and communication infrastructure.",
-          "sources": ["CBS News, 10 June 2026", "Al Jazeera, 10 June 2026", "CENTCOM, 10 June 2026", "US News, 10 June 2026"]
-        },
-        {
-          "bold_heading": "IRGC declared formal Strait of Hormuz closure with shoot-on-sight authority; 2 vessels reportedly struck [SINGLE SOURCE]",
-          "text": "The formal declaration converts the de facto near-closure (since February 28, ~2 ships/day vs normal ~94/day) into an explicit threat-of-force posture. IRGC Navy reported two vessels struck attempting to transit. [Vessel strikes: SINGLE SOURCE — IRGC/PressTV; not independently confirmed at compilation time]",
-          "sources": ["PressTV, 10–11 June 2026", "Tribune India, 10–11 June 2026", "Arab News, 10–11 June 2026"]
-        },
-        {
-          "bold_heading": "UN Secretary-General Guterres warned of risk of 'full war' at UN Security Council",
-          "text": "'We should not minimize the risks of a lesser fire becoming full fire, or in another word — full war,' Guterres told the UN Security Council, addressing the direct US-Iran kinetic exchanges of June 9–10.",
-          "sources": ["Arab News, 10–11 June 2026"]
-        }
+        { "bold_heading": "⚠ CONFIRMED — New IRGC strikes on Kuwait (Ali Al Salem), Bahrain (NSA/5th Fleet), Jordan (Al-Azraq), early hours 11 June 2026", "text": "Second sequential IRGC retaliatory salvo within 48 hours, directly following the US second night of strikes on Iran (June 10, 5:15pm ET / ~00:15 Kuwait time). Kuwait Army confirmed air defense interceptions; Kuwait airspace closed at 04:50 and 11 flights diverted. No confirmed US or Kuwaiti personnel casualties from this round at compilation time.", "sources": ["Gulf News, 10–11 June 2026", "Al Jazeera, 10–11 June 2026", "Khaleej Times, 11 June 2026"] },
+        { "bold_heading": "CENTCOM completed second consecutive night of self-defense strikes on Iran, June 10", "text": "49 Tomahawk cruise missiles struck targets inside Iran including sites within 40 miles of Tehran; fighter jets struck radar and air defense systems in southwestern Iran. Secretary Hegseth stated the US would 'negotiate with bombs' if required. Confirmed target categories: ammunition depots, C2 nodes, warehouses, Iranian military surveillance and communication infrastructure.", "sources": ["CBS News, 10 June 2026", "Al Jazeera, 10 June 2026", "CENTCOM, 10 June 2026", "US News, 10 June 2026"] },
+        { "bold_heading": "IRGC declared formal Strait of Hormuz closure with shoot-on-sight authority; 2 vessels reportedly struck [SINGLE SOURCE]", "text": "Formal declaration converts the de facto near-closure (since February 28, ~2 ships/day vs normal ~94/day) into an explicit threat-of-force posture. IRGC Navy reported two vessels struck attempting to transit. [Vessel strikes: SINGLE SOURCE — IRGC/PressTV; not independently confirmed at compilation time]", "sources": ["PressTV, 10–11 June 2026", "Tribune India, 10–11 June 2026", "Arab News, 10–11 June 2026"] },
+        { "bold_heading": "UN Secretary-General Guterres warned of risk of 'full war' at UN Security Council", "text": "'We should not minimize the risks of a lesser fire becoming full fire, or in another word — full war,' Guterres told the UN Security Council, addressing the direct US-Iran kinetic exchanges of June 9–10.", "sources": ["Arab News, 10–11 June 2026"] }
       ]
     },
     {
-      "id": "local",
-      "number": 3,
-      "title": "Kuwait Local Situation",
-      "icon": "local",
-      "color": "#3fb950",
+      "id": "local", "number": 3, "title": "Kuwait Local Situation", "icon": "local", "color": "#3fb950",
       "items": [
-        {
-          "bold_heading": "KWI airspace closed 04:50–06:15 local June 11; 11 flights diverted; all terminals subsequently operational",
-          "text": "T1 (reopened June 1), T4 (Kuwait Airways), and T5 (Jazeera) all operational at compilation time. DGCA confirmed normal flight operations resumed. Verify with airline before travel.",
-          "sources": ["Gulf News, 11 June 2026", "Khaleej Times, 11 June 2026", "Times Kuwait, 11 June 2026"]
-        },
-        {
-          "bold_heading": "US State Department authorized voluntary departure of nonessential personnel and family members from Kuwait and Bahrain",
-          "text": "Defense Secretary Hegseth separately authorized voluntary departure of US military dependents from locations across the region. US Embassy Kuwait confirmed it has not changed staffing posture and remains fully operational. Staff and dependents of US-connected firms in Kuwait should be aware of departure authorization.",
-          "sources": ["Khaleej Times, 10–11 June 2026", "NBC News, 10–11 June 2026", "US Embassy Kuwait, 10–11 June 2026"]
-        },
-        {
-          "bold_heading": "No new confirmed civilian or energy infrastructure damage in Kuwait in coverage window",
-          "text": "IRGC June 10–11 strikes were directed at military targets (Ali Al Salem). The June 8 IRGC energy asset threat against Shuaiba remains unexecuted. Monitor @MOIKuwait for debris safety guidance as this round's impact is assessed.",
-          "sources": ["Kuwait Times, carry-forward", "KUNA"]
-        },
-        {
-          "bold_heading": "No mass civil warning issued for this round; land borders open at elevated security posture",
-          "text": "Kuwait MOI did not issue shelter-in-place or mass civil warning (unlike June 9–10), indicating an effective and brief interception operation. Land borders (Saudi Arabia, Iraq) remain open. Supply chain pressures on perishables and pharmaceuticals continue.",
-          "sources": ["Gulf News, 11 June 2026", "DGCA, 11 June 2026"]
-        }
+        { "bold_heading": "KWI airspace closed 04:50–06:15 local June 11; 11 flights diverted; T4/T5 operational; T1 remains closed (June 3 attack damage)", "text": "T1 remains closed — damaged in the June 3 IRGC attack (1 killed, 63 injured) and not yet repaired. T4 (Kuwait Airways) and T5 (Jazeera) operational. DGCA confirmed normal flight operations resumed on open terminals. Verify with airline before travel.", "sources": ["Gulf News, 11 June 2026", "Khaleej Times, 11 June 2026", "Times Kuwait, 11 June 2026"] },
+        { "bold_heading": "US State Department authorized voluntary departure of nonessential personnel and family members from Kuwait and Bahrain", "text": "Defense Secretary Hegseth separately authorized voluntary departure of US military dependents from locations across the region. US Embassy Kuwait confirmed it has not changed staffing posture and remains fully operational.", "sources": ["Khaleej Times, 10–11 June 2026", "NBC News, 10–11 June 2026", "US Embassy Kuwait, 10–11 June 2026"] },
+        { "bold_heading": "No new confirmed civilian or energy infrastructure damage in Kuwait in coverage window", "text": "IRGC June 10–11 strikes directed at military targets (Ali Al Salem). June 8 IRGC energy asset threat against Shuaiba remains unexecuted. Monitor @MOIKuwait for debris safety guidance.", "sources": ["Kuwait Times, carry-forward", "KUNA"] },
+        { "bold_heading": "No mass civil warning issued for this round; land borders open at elevated security posture", "text": "Kuwait MOI did not issue shelter-in-place or mass civil warning (unlike June 9–10), indicating an effective and brief interception operation. Land borders (Saudi Arabia, Iraq) remain open. Supply chain pressures on perishables and pharmaceuticals continue.", "sources": ["Gulf News, 11 June 2026", "DGCA, 11 June 2026"] }
       ]
     },
     {
-      "id": "regional",
-      "number": 4,
-      "title": "Regional Context",
-      "icon": "regional",
-      "color": "#58a6ff",
+      "id": "regional", "number": 4, "title": "Regional Context", "icon": "regional", "color": "#58a6ff",
       "items": [
-        {
-          "text": "The US and Iran have now exchanged direct kinetic strikes for two consecutive nights (June 9 and 10), marking the most intense bilateral US-Iran exchange since February 28; the ceasefire framework has not been formally repudiated but is functionally suspended. The 60-day MOU agreed by negotiators (Hormuz reopening + nuclear talks) still awaits Trump's signature and remains unratified — the IRGC shoot-to-kill Hormuz closure is structurally incompatible with that agreement while unsigned.",
-          "sources": ["CBS News, 10–11 June 2026", "Al Jazeera, 10–11 June 2026", "ABC News, 10–11 June 2026"]
-        },
-        {
-          "text": "IRGC's formal Hormuz closure with shoot-to-kill authority is the single most significant maritime escalation since February 28, transforming a de facto IRGC harassment environment into an explicit declared interdiction zone and removing residual legal ambiguity for insurers and vessel operators.",
-          "sources": ["PressTV, 10–11 June 2026", "Arab News, 10–11 June 2026", "Tribune India, 10–11 June 2026"]
-        },
-        {
-          "text": "Qatari mediators were meeting Iranian officials in Tehran as the June 10 US strikes were completed, providing a thin diplomatic channel; however, any deal remains contingent on Trump's signature of the 60-day MOU, which has not come.",
-          "sources": ["Al Jazeera, 10 June 2026", "CBS News, 10 June 2026"]
-        }
+        { "text": "The US and Iran have now exchanged direct kinetic strikes for two consecutive nights (June 9 and 10), the most intense bilateral US-Iran exchange since February 28; the ceasefire framework has not been formally repudiated but is functionally suspended. The 60-day MOU agreed by negotiators (Hormuz reopening + nuclear talks) still awaits Trump's signature — the IRGC shoot-to-kill Hormuz closure is structurally incompatible with that agreement while unsigned.", "sources": ["CBS News, 10–11 June 2026", "Al Jazeera, 10–11 June 2026", "ABC News, 10–11 June 2026"] },
+        { "text": "IRGC's formal Hormuz closure with shoot-to-kill authority is the single most significant maritime escalation since February 28, transforming a de facto harassment environment into an explicit declared interdiction zone and removing residual legal ambiguity for insurers and vessel operators.", "sources": ["PressTV, 10–11 June 2026", "Arab News, 10–11 June 2026", "Tribune India, 10–11 June 2026"] },
+        { "text": "Qatari mediators were meeting Iranian officials in Tehran as the June 10 US strikes were completed, providing a thin diplomatic channel; any deal remains contingent on Trump's signature of the 60-day MOU, which has not come.", "sources": ["Al Jazeera, 10 June 2026", "CBS News, 10 June 2026"] }
       ]
     },
     {
-      "id": "risk",
-      "number": 5,
-      "title": "Risk Signal for Financial Institutions",
-      "icon": "risk",
-      "color": "#d29922",
+      "id": "risk", "number": 5, "title": "Risk Signal for Financial Institutions", "icon": "risk", "color": "#d29922",
       "items": [
-        {
-          "bold_heading": "BCP posture: maintain HIGH",
-          "text": "Two consecutive nights of US-Iran direct kinetic exchanges, a new IRGC strike round on Kuwait territory, and the IRGC's formal shoot-to-kill Hormuz closure collectively represent the most severe 48-hour risk window since the conflict's February 28 start. Do not communicate de-escalation or stand down crisis protocols until the 60-day MOU is signed and Hormuz closure is formally reversed.",
-          "sources": []
-        },
-        {
-          "bold_heading": "Staff safety: voluntary departure authorization active for Kuwait and Bahrain",
-          "text": "Ensure all staff registered with relevant embassies, monitor @MOIKuwait for further civil defense guidance, and confirm travel contingency plans for essential personnel. KWI is operational but demonstrated a further airspace closure in this window — keep a 4-hour buffer in all travel plans.",
-          "sources": ["Khaleej Times, 10–11 June 2026", "US Embassy Kuwait, 10–11 June 2026"]
-        },
-        {
-          "bold_heading": "Oil price risk: Brent ~$92 / WTI ~$91.56 — stress test at $105 and $115",
-          "text": "The IRGC's formal Hormuz closure with shoot-to-kill authority changes the structural risk calculus — any confirmed vessel interdiction event could push Brent above $100 within hours. Run stress scenarios at $105 and $115 for energy credit exposures and collateral valuations.",
-          "sources": ["TradingEconomics, 11 June 2026", "oilpriceapi.com, 11 June 2026"]
-        },
-        {
-          "bold_heading": "Trade finance and payments: urgent broker confirmation required on war-exclusion clause impact following formal IRGC Hormuz closure",
-          "text": "The IRGC's declaration that vessels attempting Hormuz transit 'will be shot at,' combined with the reported striking of 2 vessels (unconfirmed), constitutes a new insurance trigger event. Notify P&I Club and obtain written guidance before any new Gulf voyage instructions are issued.",
-          "sources": ["Insurance Journal, 10–11 June 2026", "Lloyd's List, 10–11 June 2026"]
-        },
-        {
-          "bold_heading": "Cyber retaliation window: highest-risk period since war start",
-          "text": "Two consecutive nights of US Tomahawk strikes on targets near Tehran represent the most significant provocation magnitude since February 28. Maintain DDoS mitigation at maximum sensitivity and escalate anomaly detection thresholds on all US-correspondent banking interfaces before June 14 EOB.",
-          "sources": ["SocRadar, June 2026", "Unit 42, June 2026", "CISA AA26-097a, April 2026"]
-        }
+        { "bold_heading": "BCP posture: maintain HIGH", "text": "Two consecutive nights of US-Iran kinetic exchanges, new IRGC strike round on Kuwait territory, and formal shoot-to-kill Hormuz closure collectively represent the most severe 48-hour risk window since February 28. Do not stand down crisis protocols until the 60-day MOU is signed and Hormuz closure formally reversed.", "sources": [] },
+        { "bold_heading": "Staff safety: voluntary departure authorization active for Kuwait and Bahrain", "text": "Ensure all staff registered with relevant embassies, monitor @MOIKuwait for civil defense guidance, and confirm travel contingency plans. KWI T4/T5 operational (T1 remains closed since June 3 attack) but airspace closed again this window — keep a 4-hour buffer and confirm flight status before travel.", "sources": ["Khaleej Times, 10–11 June 2026", "US Embassy Kuwait, 10–11 June 2026"] },
+        { "bold_heading": "Oil price risk: Brent ~$92 / WTI ~$91.56 — stress test at $105 and $115", "text": "IRGC formal Hormuz closure with shoot-to-kill authority changes the structural risk calculus — any confirmed vessel interdiction could push Brent above $100 within hours. Run stress scenarios at $105 and $115 for energy credit exposures and collateral valuations.", "sources": ["TradingEconomics, 11 June 2026", "oilpriceapi.com, 11 June 2026"] },
+        { "bold_heading": "Trade finance and payments: urgent broker confirmation required on war-exclusion clause impact", "text": "IRGC declaration that vessels attempting Hormuz transit 'will be shot at,' combined with reported striking of 2 vessels (unconfirmed), constitutes a new insurance trigger event. Notify P&I Club and obtain written guidance before any new Gulf voyage instructions are issued.", "sources": ["Insurance Journal, 10–11 June 2026", "Lloyd's List, 10–11 June 2026"] },
+        { "bold_heading": "Cyber retaliation window: highest-risk period since war start", "text": "Two consecutive nights of US Tomahawk strikes near Tehran are the most significant provocation magnitude since February 28. Maintain DDoS mitigation at maximum sensitivity and escalate anomaly detection thresholds on all US-correspondent banking interfaces before June 14 EOB.", "sources": ["SocRadar, June 2026", "Unit 42, June 2026", "CISA AA26-097a, April 2026"] }
       ]
     },
     {
-      "id": "risk",
-      "number": "5A",
-      "title": "Insurance & Maritime Risk Exposure",
-      "icon": "risk",
-      "color": "#d29922",
+      "id": "risk", "number": "5A", "title": "Insurance & Maritime Risk Exposure", "icon": "risk", "color": "#d29922",
       "items": [
-        {
-          "bold_heading": "IRGC formal Hormuz closure with shoot-to-kill authority is a material step-change for marine underwriters",
-          "text": "De facto near-closure (since Feb 28) has been converted into an explicit armed interdiction declaration. JWC JWLA-033 Listed Area remains the baseline; shoot-to-kill posture and reported vessel strikes create new H&M exposure. WRP (1.5–3% hull/voyage for Hormuz transit; 0.5–1% Gulf-only) likely to firm at next renewal.",
-          "sources": ["Lloyd's List, June 2026", "JWC JWLA-033", "Lloyd's Market Association, June 2026"]
-        },
-        {
-          "bold_heading": "Two vessels reportedly struck in Strait of Hormuz under new IRGC closure order [SINGLE SOURCE — IRGC/PressTV; not independently confirmed]",
-          "text": "If confirmed by Lloyd's List or IMO, this would mark the first kinetic enforcement of the formal closure and require immediate reprice of armed-interdiction risk. Cargo declared values for any in-transit Gulf energy shipments must be reviewed immediately.",
-          "sources": ["PressTV/IRGC, 10–11 June 2026"]
-        },
-        {
-          "bold_heading": "US/UK/Israeli-nexus vessels paying ~3× war risk premium of neutral-flagged vessels; shoot-to-kill declaration likely widens differential further",
-          "text": "P&I clubs have not cancelled war risk cover, but availability is tightening. Confirm with brokers that existing open policies cover vessels under the IRGC's new formal closure posture — the legal basis for 'war' vs 'piracy' classification affects coverage triggers.",
-          "sources": ["Lloyd's List, June 2026", "LMA statement, June 2026"]
-        }
+        { "bold_heading": "IRGC formal Hormuz closure with shoot-to-kill authority is a material step-change for marine underwriters", "text": "De facto near-closure (since Feb 28) has been converted into an explicit armed interdiction declaration. JWC JWLA-033 Listed Area remains the baseline; shoot-to-kill posture and reported vessel strikes create new H&M exposure. WRP (1.5–3% hull/voyage for Hormuz transit; 0.5–1% Gulf-only) likely to firm at next renewal.", "sources": ["Lloyd's List, June 2026", "JWC JWLA-033", "Lloyd's Market Association, June 2026"] },
+        { "bold_heading": "Two vessels reportedly struck in Strait of Hormuz [SINGLE SOURCE — IRGC/PressTV; not independently confirmed]", "text": "If confirmed by Lloyd's List or IMO, this marks the first kinetic enforcement of the formal closure and triggers immediate war-exclusion review obligations. Cargo declared values for any in-transit Gulf energy shipments must be reviewed immediately.", "sources": ["PressTV/IRGC, 10–11 June 2026"] },
+        { "bold_heading": "US/UK/Israeli-nexus vessels paying ~3× war risk premium; shoot-to-kill declaration likely widens differential further", "text": "P&I clubs have not cancelled war risk cover but availability is tightening. Confirm with brokers that existing open policies cover vessels under the IRGC's new formal closure posture — 'war' vs 'piracy' classification affects coverage triggers.", "sources": ["Lloyd's List, June 2026", "LMA statement, June 2026"] }
       ]
     },
     {
-      "id": "bigpicture",
-      "number": 6,
-      "title": "Big Picture Reading",
-      "icon": "bigpicture",
-      "color": "#a371f7",
+      "id": "bigpicture", "number": 6, "title": "Big Picture Reading", "icon": "bigpicture", "color": "#a371f7",
       "articles": [
-        {
-          "title": "American Power Is Dangerously Overstretched by Trump's Iran War",
-          "author": "Hal Brands",
-          "publication": "Foreign Policy",
-          "pub_date": "2026-06-09",
-          "access": "Paywall (soft)",
-          "summary": "Brands argues that the Iran war — layered on three carrier strike groups in the Middle East, the Venezuela blockade, Houthi campaign, and Ukraine weapons provision — has stretched US military assets beyond sustainable capacity, creating Pacific vulnerability windows China is positioned to exploit. He assesses the current operational tempo as structurally unsustainable beyond 4–6 months.",
-          "relevance": "The institutional argument for a negotiated exit is strong, but Brands' timeline suggests the war continues at current tempo through at least late Q3 2026 — plan operational continuity assumptions accordingly.",
-          "link": "https://foreignpolicy.com/2026/06/09/iran-war-trump-china-united-states-military-defense-weapons-geopolitics-strategy-taiwan/"
-        },
-        {
-          "title": "As War With Iran Rages, the Axis of Resistance is in Survival Mode",
-          "author": "Not identified in search",
-          "publication": "War on the Rocks",
-          "pub_date": "2026-06-10 (TIMESTAMP UNCONFIRMED — within 48h window based on search context)",
-          "access": "Open",
-          "summary": "Analyzes divisions within Hezbollah and Iran's regional proxy network following Khamenei's assassination; the axis of resistance has fragmented into a survival-mode faction (Naem Qassem's camp prioritising domestic continuity) versus a hardline current that views continued escalation as existential. Internal cohesion appears lower than at any prior point in the conflict.",
-          "relevance": "Fragmentation within Iran's proxy network reduces risk of coordinated multi-vector escalation but increases risk of undisciplined, unauthorized Gulf attacks by actors not under direct IRGC command.",
-          "link": "https://warontherocks.com/as-war-with-iran-rages-the-axis-of-resistance-is-in-survival-mode/"
-        }
+        { "title": "American Power Is Dangerously Overstretched by Trump's Iran War", "author": "Hal Brands", "publication": "Foreign Policy", "pub_date": "2026-06-09", "access": "Paywall (soft)", "summary": "Brands argues that the Iran war layered on three carrier strike groups, the Venezuela blockade, Houthi campaign, and Ukraine weapons provision has stretched US military assets beyond sustainable capacity, creating Pacific vulnerability windows China is positioned to exploit. He assesses the current operational tempo as structurally unsustainable beyond 4–6 months.", "relevance": "Brands' timeline suggests the war continues at current tempo through at least late Q3 2026 — plan operational continuity assumptions accordingly.", "link": "https://foreignpolicy.com/2026/06/09/iran-war-trump-china-united-states-military-defense-weapons-geopolitics-strategy-taiwan/" },
+        { "title": "As War With Iran Rages, the Axis of Resistance is in Survival Mode", "author": "Not identified in search", "publication": "War on the Rocks", "pub_date": "2026-06-10 [TIMESTAMP UNCONFIRMED]", "access": "Open", "summary": "Analyzes divisions within Hezbollah and Iran's regional proxy network following Khamenei's assassination; the axis of resistance has fragmented into a survival-mode faction (Naem Qassem's camp) versus a hardline current that views continued escalation as existential.", "relevance": "Fragmentation reduces risk of coordinated multi-vector escalation but increases risk of undisciplined, unauthorized Gulf attacks by actors not under direct IRGC command.", "link": "https://warontherocks.com/as-war-with-iran-rages-the-axis-of-resistance-is-in-survival-mode/" }
       ]
     },
     {
-      "id": "cyber_tactical",
-      "number": "7A",
-      "title": "Cyber Threat Intelligence — Tactical",
-      "icon": "cyber",
-      "color": "#f0883e",
+      "id": "cyber_tactical", "number": "7A", "title": "Cyber Threat Intelligence — Tactical", "icon": "cyber", "color": "#f0883e",
       "items": [
-        {
-          "bold_heading": "⚠ CRITICAL: Two consecutive nights of US Tomahawk strikes near Tehran — highest-magnitude 24–72h cyber retaliation trigger since war start",
-          "text": "IRGC-coordinated hacktivist clusters (313 Team, ALTOUFAN TEAM, DieNet) and APTs (MuddyWater/Seedworm, APT42) treat direct named US military strikes on Iranian territory as first-priority retaliation triggers. GCC financial portals, e-payment platforms, and US-correspondent banking interfaces remain primary DDoS targets; escalation to intrusion/wiper deployment assessed MODERATE-HIGH for the next 72 hours.",
-          "cve_ids": [],
-          "threat_actor": "IRGC-directed hacktivist clusters + Seedworm/MuddyWater",
-          "recommended_action": "Maintain DDoS mitigation at maximum sensitivity; activate ISP scrubbing escalation paths now; flag all US-headquartered correspondent bank interfaces for enhanced anomaly detection before June 14 EOB.",
-          "sources": ["SocRadar Iran-Israel Cyber Dashboard, June 2026", "Unit 42 Iran Threat Brief, June 2026"],
-          "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/"
-        },
-        {
-          "bold_heading": "MuddyWater/Seedworm (Operation Olalampo) — phishing lure refresh within 24–48h using Kuwait airspace/Hormuz closure/voluntary departure themes",
-          "text": "Operation Olalampo (active since January 26, 2026) has consistently refreshed lure templates within 12–48 hours of high-profile news events. GhostBackDoor, GhostFetch, and HTTP_VIP malware delivery via weaponised documents and MS Teams external federation remain primary vectors.",
-          "cve_ids": [],
-          "threat_actor": "MuddyWater/Seedworm (IRGC-linked, MOIS)",
-          "recommended_action": "Issue a staff phishing awareness alert by COB today referencing Kuwait airspace closure, Hormuz shoot-to-kill, and voluntary departure lure themes; block or flag external Teams federation requests from unrecognised tenants.",
-          "sources": ["CISA AA26-097a, April 2026", "Rapid7 Iran Cyber Playbook, 2026"],
-          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
-        },
-        {
-          "bold_heading": "CISA AA26-097a OT/ICS advisory — elevated OT pre-positioning risk given formal Hormuz closure and unexecuted Shuaiba energy threat",
-          "text": "IRGC's formal Hormuz closure and the unexecuted June 8 Shuaiba energy threat indicate parallel OT reconnaissance or pre-positioning risk at Kuwait petrochemical, refinery, and port OT environments — historically IRGC conducts OT intrusions alongside or ahead of kinetic escalation.",
-          "cve_ids": [],
-          "threat_actor": "IRGC-affiliated APT (IRGC Aerospace + Cyber Command)",
-          "recommended_action": "Treat any anomalous OT network alert at Kuwait petrochemical or port facilities as high-priority before June 14; confirm PLC firmware patch status and network segmentation.",
-          "sources": ["CISA AA26-097a, April 2026", "IC3 CSA 260407, April 2026"],
-          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
-        }
+        { "bold_heading": "⚠ CRITICAL: Two consecutive nights of US Tomahawk strikes near Tehran — highest-magnitude 24–72h cyber retaliation trigger since war start", "text": "IRGC-coordinated hacktivist clusters (313 Team, ALTOUFAN TEAM, DieNet) and APTs (MuddyWater/Seedworm, APT42) treat direct named US military strikes on Iranian territory as first-priority retaliation triggers. GCC financial portals, e-payment platforms, and US-correspondent banking interfaces remain primary DDoS targets; escalation to intrusion/wiper deployment assessed MODERATE-HIGH for the next 72 hours.", "cve_ids": [], "threat_actor": "IRGC-directed hacktivist clusters + Seedworm/MuddyWater", "recommended_action": "Maintain DDoS mitigation at maximum sensitivity; activate ISP scrubbing escalation paths now; flag all US-headquartered correspondent bank interfaces for enhanced anomaly detection before June 14 EOB.", "sources": ["SocRadar Iran-Israel Cyber Dashboard, June 2026", "Unit 42 Iran Threat Brief, June 2026"], "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/" },
+        { "bold_heading": "MuddyWater/Seedworm (Operation Olalampo) — phishing lure refresh within 24–48h using Kuwait airspace/Hormuz closure/voluntary departure themes", "text": "Operation Olalampo (active since January 26, 2026) consistently refreshes lure templates within 12–48 hours of high-profile news events. GhostBackDoor, GhostFetch, and HTTP_VIP malware delivery via weaponised documents and MS Teams external federation remain primary vectors.", "cve_ids": [], "threat_actor": "MuddyWater/Seedworm (IRGC-linked, MOIS)", "recommended_action": "Issue a staff phishing awareness alert by COB today referencing Kuwait airspace closure, Hormuz shoot-to-kill, and voluntary departure lure themes; block or flag external Teams federation requests from unrecognised tenants.", "sources": ["CISA AA26-097a, April 2026", "Rapid7 Iran Cyber Playbook, 2026"], "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a" },
+        { "bold_heading": "CISA AA26-097a OT/ICS advisory — elevated OT pre-positioning risk given formal Hormuz closure and unexecuted Shuaiba energy threat", "text": "IRGC formal Hormuz closure and unexecuted June 8 Shuaiba energy threat indicate parallel OT reconnaissance risk at Kuwait petrochemical, refinery, and port OT environments — IRGC historically conducts OT intrusions alongside or ahead of kinetic escalation.", "cve_ids": [], "threat_actor": "IRGC-affiliated APT (IRGC Aerospace + Cyber Command)", "recommended_action": "Treat any anomalous OT network alert at Kuwait petrochemical or port facilities as high-priority before June 14; confirm PLC firmware patch status and network segmentation.", "sources": ["CISA AA26-097a, April 2026", "IC3 CSA 260407, April 2026"], "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a" }
       ]
     },
     {
-      "id": "cyber_strategic",
-      "number": "7B",
-      "title": "Cyber Threat Intelligence — Strategic",
-      "icon": "cyber",
-      "color": "#39d353",
+      "id": "cyber_strategic", "number": "7B", "title": "Cyber Threat Intelligence — Strategic", "icon": "cyber", "color": "#39d353",
       "items": [
-        {
-          "bold_heading": "Iranian cyber attack tempo 8× pre-conflict levels; June 9–10 strikes sustain — not reduce — high pace through any near-term ceasefire",
-          "text": "UAE Cybersecurity Council has documented 600,000+ attacks since late February, with evolution from DDoS to complex breach, financial crime, and wiper campaigns; the June 9–10 kinetic exchange is the most significant escalation trigger since February 28 and will drive sustained high-tempo cyber operations for weeks regardless of any interim ceasefire agreement.",
-          "threat_actor": "IRGC-coordinated APTs and hacktivist clusters",
-          "assessed_likelihood": "HIGH",
-          "sources": ["The National UAE, April 2026", "CSIS, April 2026"],
-          "url": "https://www.thenationalnews.com/future/technology/2026/04/10/iranian-cyber-attacks-move-from-disruptive-to-complex-threats-in-gulf/"
-        },
-        {
-          "bold_heading": "APT42 (IRGC) TAMECAT cloud-persistence campaign — MODERATE-HIGH likelihood of accelerated credential phishing using Kuwait/Hormuz/voluntary departure pretext",
-          "text": "APT42 now prioritises long-term cloud account compromise (Microsoft 365, Google Workspace) via personal engagement before technical exploitation; the overnight Kuwait airspace closure and voluntary departure authorization provide high-credibility social engineering pretext for targeting Gulf financial sector decision-makers.",
-          "threat_actor": "APT42/Charming Kitten (IRGC)",
-          "assessed_likelihood": "MODERATE-HIGH",
-          "sources": ["Trellix Iranian Cyber Capability 2026", "ExtraHop Digital Front 2026"],
-          "url": "https://www.trellix.com/blogs/research/the-iranian-cyber-capability-2026/"
-        },
-        {
-          "bold_heading": "Chaos ransomware-as-cover destructive campaign risk upgraded to HIGH following two consecutive nights of US strikes on Iranian soil within 40 miles of Tehran",
-          "text": "IRGC historical pattern: destructive IT/OT intrusions disguised as ransomware follow major kinetic escalation within 1–2 weeks. The June 9–10 strikes are of sufficient national prestige impact to trigger this pattern. Obtain written broker clarification on war-exclusion clause applicability for IRGC-attributed cyber incidents before an event occurs.",
-          "threat_actor": "IRGC-affiliated (MuddyWater-linked)",
-          "assessed_likelihood": "HIGH (upgraded from MODERATE-HIGH given June 10 escalation)",
-          "sources": ["Halcyon Ransomware Alerts 2026", "SecurityWeek/Rapid7 2026"],
-          "url": "https://www.halcyon.ai/ransomware-alerts/iranian-use-of-cybercriminal-tactics-in-destructive-cyber-attacks-2026-updates"
-        }
+        { "bold_heading": "Iranian cyber attack tempo 8× pre-conflict levels; June 9–10 strikes sustain — not reduce — high pace through any near-term ceasefire", "text": "UAE Cybersecurity Council has documented 600,000+ attacks since late February, evolving from DDoS to complex breach, financial crime, and wiper campaigns; the June 9–10 kinetic exchange will drive sustained high-tempo cyber operations for weeks regardless of any interim ceasefire agreement.", "threat_actor": "IRGC-coordinated APTs and hacktivist clusters", "assessed_likelihood": "HIGH", "sources": ["The National UAE, April 2026", "CSIS, April 2026"], "url": "https://www.thenationalnews.com/future/technology/2026/04/10/iranian-cyber-attacks-move-from-disruptive-to-complex-threats-in-gulf/" },
+        { "bold_heading": "APT42 (IRGC) TAMECAT cloud-persistence campaign — MODERATE-HIGH likelihood of accelerated credential phishing using Kuwait/Hormuz/voluntary departure pretext", "text": "APT42 prioritises long-term cloud account compromise (Microsoft 365, Google Workspace) via personal engagement before technical exploitation; the overnight Kuwait airspace closure and voluntary departure authorization provide high-credibility social engineering pretext for targeting Gulf financial sector decision-makers.", "threat_actor": "APT42/Charming Kitten (IRGC)", "assessed_likelihood": "MODERATE-HIGH", "sources": ["Trellix Iranian Cyber Capability 2026", "ExtraHop Digital Front 2026"], "url": "https://www.trellix.com/blogs/research/the-iranian-cyber-capability-2026/" },
+        { "bold_heading": "Chaos ransomware-as-cover destructive campaign risk upgraded to HIGH following two consecutive nights of US strikes within 40 miles of Tehran", "text": "IRGC historical pattern: destructive IT/OT intrusions disguised as ransomware follow major kinetic escalation within 1–2 weeks. The June 9–10 strikes are of sufficient national prestige impact to trigger this pattern. Obtain written broker clarification on war-exclusion clause applicability for IRGC-attributed cyber incidents before an event occurs.", "threat_actor": "IRGC-affiliated (MuddyWater-linked)", "assessed_likelihood": "HIGH (upgraded from MODERATE-HIGH given June 10 escalation)", "sources": ["Halcyon Ransomware Alerts 2026", "SecurityWeek/Rapid7 2026"], "url": "https://www.halcyon.ai/ransomware-alerts/iranian-use-of-cybercriminal-tactics-in-destructive-cyber-attacks-2026-updates" }
       ]
     },
     {
-      "id": "watchlist",
-      "number": 8,
-      "title": "Watchlist — Next 24 Hours",
-      "icon": "watchlist",
-      "color": "#b392f0",
+      "id": "watchlist", "number": 8, "title": "Watchlist — Next 24 Hours", "icon": "watchlist", "color": "#b392f0",
       "items": [
-        {
-          "text": "IRGC confirmation or denial of the two Hormuz vessel strikes, and any third-party (IMO/Lloyd's) corroboration.",
-          "why_it_matters": "If confirmed by neutral sources, this marks the first kinetic enforcement of the formal Hormuz closure and triggers immediate war-exclusion review obligations for all Gulf marine insurance policies.",
-          "related_section": "Sections 2, 5, 5A"
-        },
-        {
-          "text": "Trump decision on signing the 60-day MOU / ceasefire extension.",
-          "why_it_matters": "A signature would immediately alter the Hormuz shoot-to-kill posture and oil price trajectory; continued delay or rejection would likely trigger another IRGC retaliatory round.",
-          "related_section": "Sections 4, 5, 5A"
-        },
-        {
-          "text": "Whether IRGC executes June 8 energy asset threat against Shuaiba (Kuwait), Sitrah (Bahrain), or Ruwais (UAE).",
-          "why_it_matters": "Two nights of US strikes on Iranian soil have materially increased probability of IRGC shifting to civilian/energy targeting; this would be a step-change escalation requiring full BCP protocol activation and immediate energy credit collateral review.",
-          "related_section": "Sections 2, 3, 5, 5A"
-        }
+        { "text": "IRGC confirmation or denial of the two Hormuz vessel strikes, and any third-party (IMO/Lloyd's) corroboration.", "why_it_matters": "If confirmed by neutral sources, this marks the first kinetic enforcement of the formal Hormuz closure and triggers immediate war-exclusion review obligations for all Gulf marine insurance policies.", "related_section": "Sections 2, 5, 5A" },
+        { "text": "Trump decision on signing the 60-day MOU / ceasefire extension.", "why_it_matters": "A signature would immediately alter the Hormuz shoot-to-kill posture and oil price trajectory; continued delay or rejection would likely trigger another IRGC retaliatory round.", "related_section": "Sections 4, 5, 5A" },
+        { "text": "Whether IRGC executes June 8 energy asset threat against Shuaiba (Kuwait), Sitrah (Bahrain), or Ruwais (UAE).", "why_it_matters": "Two nights of US strikes materially increase probability of IRGC shifting to civilian/energy targeting — a step-change escalation requiring full BCP protocol activation and immediate energy credit collateral review.", "related_section": "Sections 2, 3, 5, 5A" }
       ]
     }
   ],
   "source_confidence": [
     { "section": "1 — Alerts & Sirens", "source_count": 4, "confidence": "HIGH", "note": "Kuwait airspace closure confirmed via Gulf News, Khaleej Times, Times Kuwait, DGCA; Hormuz closure confirmed via multiple outlets" },
     { "section": "2 — Targets & Incidents", "source_count": 6, "confidence": "HIGH", "note": "CENTCOM strikes confirmed via CBS, CENTCOM, Al Jazeera; IRGC retaliation confirmed via Al Jazeera, Gulf News, Kuwait Army; vessel strikes [SINGLE SOURCE — IRGC/PressTV]" },
-    { "section": "3 — Kuwait Local", "source_count": 5, "confidence": "HIGH", "note": "Airspace closure confirmed; voluntary departure confirmed via Khaleej Times, NBC News; energy threat is carry-forward" },
+    { "section": "3 — Kuwait Local", "source_count": 5, "confidence": "HIGH", "note": "Airspace closure confirmed; T1 closed status confirmed (June 3 attack); voluntary departure confirmed via Khaleej Times, NBC News; energy threat is carry-forward" },
     { "section": "4 — Regional Context", "source_count": 4, "confidence": "HIGH", "note": "Analysis derived from confirmed Tier 1 facts; ceasefire MOU status from Al Jazeera, CBS News" },
     { "section": "5 — Risk Signal", "source_count": 5, "confidence": "HIGH", "note": "Analysis derived from confirmed Tier 1 facts; cyber recommendations are pattern-based" },
     { "section": "5A — Insurance Risks", "source_count": 3, "confidence": "MEDIUM", "note": "JWC carry-forward; vessel strike claim single-sourced; formal closure declaration confirmed via multiple outlets" },
