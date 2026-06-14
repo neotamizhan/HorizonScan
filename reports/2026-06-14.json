@@ -1,0 +1,310 @@
+{
+  "date": "2026-06-14",
+  "headline": "14 June 2026",
+  "subtitle": "Islamabad MOU unsigned; CENTCOM downs 4 Iranian drones in Hormuz",
+  "report_number": "96",
+  "coverage": "13 June 2026 07:00 UTC+3 – 14 June 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-06-14",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "4", "previous": "0", "delta": "+4", "trend_7d": "↑" },
+      { "metric": "Debris reports (cumulative)", "today": "8", "previous": "8", "delta": "0", "trend_7d": "↑" },
+      { "metric": "Brent crude ($/bbl)", "today": "87.33", "previous": "89.38", "delta": "-2.05", "trend_7d": "↓" },
+      { "metric": "WTI crude ($/bbl)", "today": "~84.00", "previous": "84.29", "delta": "-0.29", "trend_7d": "↓" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~2 (Day 104; closed)", "previous": "~2 (Day 103; closed)", "delta": "0", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "8", "previous": "8", "delta": "0", "trend_7d": "↑" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "NR", "today_label": null, "previous": "NR", "previous_label": null, "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "No air raid sirens, civil defense alerts, shelter-in-place orders, or emergency broadcasts issued in Kuwait in the past 24 hours. The kinetic pause in IRGC activity over Kuwait territory that began June 11 has continued through Day 107; no new DGCA notices or Kuwait MOI emergency broadcasts were issued. The standing US Embassy Kuwait Level 3 Travel Advisory and voluntary departure authorisation remain in effect but are not new alerts.",
+          "sources": ["KUNA", "Kuwait MOI", "US Embassy Kuwait — no new advisories in window"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "No GCC Land Incidents",
+          "text": "No confirmed new strikes, attacks, or military incidents targeting Kuwait or GCC territory in the coverage window. The pause in IRGC kinetic activity against Kuwait and GCC land targets that began June 11 continues into Day 107.",
+          "sources": ["Reuters", "Al Jazeera", "AP, June 13–14 2026"]
+        },
+        {
+          "bold_heading": "CENTCOM Downs 4 Iranian Drones — Hormuz (June 13)",
+          "text": "CENTCOM confirmed downing of 4 Iranian attack drones targeting commercial vessels in the Strait of Hormuz (June 13, ~06:40–07:10 UTC / within coverage window). US forces from the 5th Fleet intercepted the drones before they reached their intended targets; no shipping was struck, no casualties reported. Occurred even as US-Iran diplomatic channels remained nominally open — described as a 'borderline state of war' condition persisting until a binding agreement is signed and IRGC-compliant. [CORROBORATED — multiple Tier 1 sources]",
+          "sources": ["NBC News", "The Hill", "RFERL", "Kyiv Post", "Al Arabiya", "Straits.live, June 13 2026"]
+        },
+        {
+          "bold_heading": "Iran Issues New Hormuz Warning (June 13, 08:10 UTC)",
+          "text": "Iran issued a formal warning: 'No commercial ships allowed in Strait of Hormuz without permission.' This escalates the existing shoot-to-kill closure order; it explicitly extends interdiction to any vessel not pre-cleared by IRGC, raising new legal and insurance complications for any vessel attempting transit even under US Navy escort.",
+          "sources": ["AzerNews via Straits.live", "IRGC statement, June 13 2026"]
+        },
+        {
+          "bold_heading": "IRGC Closure Order Remains in Force",
+          "text": "IRGC formal Hormuz closure order (issued June 11) remains in force; no revocation as of compilation. Day 104 of effective Strait closure. Iran FM Baghaei confirmed MOU will NOT be signed June 14, making any near-term IRGC stand-down order unlikely within the coverage window.",
+          "sources": ["Athens Times", "Iranian FM spokesperson Baghaei", "Straits.live, June 13 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "KWI Status Unchanged",
+          "text": "T4 (Kuwait Airways) and T5 (Jazeera Airways) operational; airspace open; T1 remains closed since June 3 IRGC attack. Emirates, Qatar Airways, Etihad, Saudia, flydubai, IndiGo remain suspended pending T1 reopening; no DGCA-announced reopening date.",
+          "sources": ["Wego Travel Blog", "Sunday Guardian Live", "DGCA/Kuwait GACA, June 2026"]
+        },
+        {
+          "bold_heading": "US Voluntary Departure Active",
+          "text": "US State Department voluntary departure authorisation for non-essential USG personnel and family members from Kuwait and Bahrain remains in effect. Level 3 ('Reconsider Travel') advisory continues. Western-linked institutions should maintain staff contingency plans.",
+          "sources": ["US Embassy Kuwait", "travel.state.gov, June 2026"]
+        },
+        {
+          "bold_heading": "No New MOI Advisories",
+          "text": "No new Kuwait government advisories, civil defense warnings, or school/event closures issued in coverage window.",
+          "sources": ["KUNA", "Kuwait MOI, June 2026"]
+        },
+        {
+          "bold_heading": "Saudi Land Bridge: Primary Supply Lifeline Operational",
+          "text": "Al-Khafji and Al-Ruqai crossings remain open. Average truck wait times up to 4 hours during high-volume periods. Cumulative since late February: 19,511 trucks via Al-Khafji; 9,417 via Al-Ruqai. No improvement pending deal; maritime import constraints continue.",
+          "sources": ["Kuwait Times", "Kuwait Mart", "Arab Times", "bordercrossinghub.com, June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "MOU NOT Signed June 14 — Iran FM Confirms",
+          "text": "Iran FM Baghaei confirmed June 13: Islamabad MOU will NOT be signed June 14; possible 'in coming days' but no new target date given; delays partly attributed to the US side. Polymarket prices 'permanent peace deal by June 15' at just 16%.",
+          "sources": ["Athens Times", "Iranian FM Baghaei", "Rappler", "Straits.live/Polymarket, June 13 2026"]
+        },
+        {
+          "bold_heading": "CENTCOM Intercept Confirms Dual-Track IRGC Posture",
+          "text": "IRGC is running simultaneous kinetic pressure (4 drones targeting Hormuz shipping) and diplomatic engagement — consistent with prior ceasefire-negotiation pattern of using military leverage alongside talks. This is the primary near-term de-escalation risk.",
+          "sources": ["NBC News", "The Hill", "AzerNews/Straits.live, June 13 2026"]
+        },
+        {
+          "bold_heading": "Oil Markets Closed; Monday Open Is Key Signal",
+          "text": "Brent at $87.33 on continuous futures; June 12 intraday fell below $86.50 on deal optimism before recovering. Monday open will be the first market signal on whether deal delay is being re-priced. If MOU collapses: rapid reversal to $95–105+ within hours.",
+          "sources": ["Straits.live", "Trading Economics", "CNBC, June 12–13 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "BCP: Maintain HIGH",
+          "text": "Deal not signed June 14; three de-escalation conditions remain unmet: (a) signed, bilaterally-acknowledged MOU; (b) IRGC formal revocation of Hormuz closure and 'no ships without permission' warning; (c) confirmed first commercial transit under normalised conditions. Do not reduce posture on diplomatic statements alone.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Oil Dual-Scenario Planning: Active",
+          "text": "Signed-and-IRGC-compliant: Brent path to $70–80 within 60 days. Deal-collapse/Khamenei-rejection: Brent reversal to $95–105+ within hours; spike to $115+ if IRGC strikes Shuaiba, Sitrah, or Ruwais. Monday open is next key signal; brief counterparties before Monday if possible.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Staff Safety: No Change",
+          "text": "Voluntary departure active; KWI T4/T5 operational; maintain 4-hour confirmation buffer before any travel. CENTCOM drone intercept June 13 confirms IRGC activity continues regardless of deal track.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Trade Finance & Marine Insurance: No Adjustment",
+          "text": "JWC JWLA-033 unchanged; 6 P&I clubs withdrawn; WRP at 8.0× normal (VLCC $2.5M/voyage). No JWC action possible until confirmed, sustained, IRGC-compliant Hormuz reopening. Confirm all open Gulf marine credit facilities before any new voyage instruction.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Cyber Risk Window Extended by Deal Delay",
+          "text": "Deal delay extends the social-engineering lure window for MuddyWater and APT42. See Section 7A. Deal collapse also extends the IRGC destructive cyber retaliation window. Maintain maximum DDoS scrubbing and anomaly detection on correspondent banking interfaces through the week.",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "JWC JWLA-033 Unchanged; 6 P&I Clubs Withdrawn",
+          "text": "War-risk insurance running at 8.0× pre-crisis normal; VLCC transit premium at $2.5M per voyage (Straits.live); broader H&M voyage coverage at $10–14M per Hormuz transit (Lloyd's List). Six P&I clubs that have withdrawn cover: Gard, Skuld, North Standard, London P&I Club, American Club, Steamship Mutual. JWC cannot re-price until confirmed, sustained IRGC-compliant reopening.",
+          "sources": ["Straits.live", "Lloyd's List", "LMA", "JWC JWLA-033, June 2026"]
+        },
+        {
+          "bold_heading": "'No Ships Without Permission' Warning Creates New Transit Liability",
+          "text": "Iran's June 13 warning upgrades interdiction authority beyond the original shoot-to-kill order. Any vessel transiting without IRGC clearance faces explicit Iranian interdiction authority — triggering war exclusion clauses regardless of US Navy escort. Obtain written P&I Club guidance on whether IRGC-granted 'permission' provides usable legal cover before advising any counterparty on transit.",
+          "sources": ["AzerNews", "Straits.live", "LMA advisory, June 2026"]
+        },
+        {
+          "bold_heading": "Three Post-MOU Scenarios Remain Planning Framework",
+          "text": "(1) MOU signed + IRGC-compliant: graduated WRP reduction 30–60 days; surge demand for transit slots. (2) MOU signed + IRGC-noncompliant: war clauses triggered; first-mover losses probable. (3) MOU collapse: further WRP increase; potential uninsurability of Hormuz transits. Brief brokers on all three before any Monday voyage instruction.",
+          "sources": ["Straits.live", "Lloyd's List", "InsuranceJournal", "JWC, June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "The Limitations of Hard Power in Iran",
+          "author": "Michael Froman",
+          "publication": "Council on Foreign Relations",
+          "pub_date": "2026-06-12",
+          "access": "Open",
+          "summary": "CFR President argues US hard power achieved tactical success but failed to resolve the Hormuz closure; identifies three structural complications: freedom-of-navigation norms (toll/fee precedent now viable), US asymmetric warfare exposure (Iranian drones still threatening $2B+ platforms), and Gulf alliance durability (Kuwait, Qatar, Bahrain are 'less than thrilled' at being collateral damage, raising risk of diminished post-conflict basing rights). Directly cites Shuaiba port drone strike (6 US servicemembers killed) as the Kuwait case study.",
+          "relevance": "The alliance-hedging risk means Kuwait's post-conflict security architecture — and GCC financial sector oversight — may shift regardless of deal outcome.",
+          "link": "https://www.cfr.org/articles/the-limitations-of-hard-power-in-iran"
+        },
+        {
+          "title": "Is a U.S.-Iran Deal Within Reach? Six Key Issues That Could Shape a Ceasefire",
+          "author": "Phil McCausland & Mariel Ferragamo",
+          "publication": "Council on Foreign Relations",
+          "pub_date": "2026-06-12",
+          "access": "Open",
+          "summary": "Detailed breakdown of six unresolved MOU sticking points: Hormuz reopening terms (IRNA says Iran will not 'cede management' of the strait), nuclear verification, proxy network freeze, missile program limits (Iran's 'non-negotiable' red line), sanctions/frozen asset sequencing ($24bn dispute), and Lebanon ceasefire inclusion. CFR senior fellow Steven Cook warns: 'We have been here before only to discover the parties cannot bridge the remaining gaps.'",
+          "relevance": "The nuclear verification and IRGC stand-down gaps identified are precisely our three conditions for operational de-escalation; even a signed MOU leaves them open for the 60-day follow-on phase.",
+          "link": "https://www.cfr.org/articles/is-a-u-s-iran-deal-within-reach-six-key-issues-that-could-shape-a-ceasefire"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "⚠ Deal-Delay Lure Window Extended — MuddyWater/Seedworm (Olalampo)",
+          "text": "New lure themes expected within 12–48h: 'Islamabad MOU signing delayed — latest update,' 'Iran FM denies deal text approved,' 'Baghaei statement on MOU timeline,' 'CENTCOM drone intercept — classified briefing,' and weaponised Office documents mimicking government or bank security circulars about the deal.",
+          "cve_ids": [],
+          "threat_actor": "MuddyWater/Seedworm (IRGC-linked, Operation Olalampo)",
+          "recommended_action": "Issue updated staff phishing alert referencing deal-delay lure themes; update previous signing-ceremony alert messaging; block or flag MS Teams external federation from unrecognised tenants through June 16 minimum.",
+          "sources": ["Rapid7 Iran Cyber Playbook 2026", "MuddyWater Operation Olalampo — SecPro", "CISA AA26-097a"],
+          "url": "https://www.rapid7.com/blog/post/tr-iran-cyber-playbook-escalating-regional-conflict/"
+        },
+        {
+          "bold_heading": "⚠ APT42 TAMECAT — Extended Credential-Harvesting Window",
+          "text": "Deal delay extends the TAMECAT spear-phishing window targeting Gulf financial sector decision-makers. New lure variants expected: 'Hormuz intercept — security assessment,' 'MOU text (leaked copy),' 'deal delay briefing — restricted.' Objective: Microsoft 365 / Google Workspace persistence via GhostBackDoor/GhostFetch.",
+          "cve_ids": [],
+          "threat_actor": "APT42/Charming Kitten (IRGC)",
+          "recommended_action": "Apply conditional access policies for unexpected geographies; review and revoke OAuth app consents approved in last 72h; alert senior management that deal-adjacent PDFs and Office documents are high-risk through next week.",
+          "sources": ["Trellix Iranian Cyber Capability 2026", "SISA Threat Advisory", "Seqrite Iran Cyber War 2026"],
+          "url": "https://www.trellix.com/blogs/research/the-iranian-cyber-capability-2026/"
+        },
+        {
+          "bold_heading": "CISA AA26-097a OT/ICS: No Stand-Down Signal",
+          "text": "IRGC OT/SCADA pre-positioning at Gulf energy infrastructure remains active and deal-independent. CENTCOM drone intercept June 13 confirms IRGC kinetic posture active; treat anomalous OT network alerts at Kuwait petrochemical, refinery, or port facilities as high-priority through at least June 16.",
+          "cve_ids": ["Multiple ICS/SCADA vectors — see AA26-097a"],
+          "threat_actor": "IRGC-affiliated APT",
+          "recommended_action": "Confirm PLC firmware patch status; verify network segmentation per AA26-097a; maintain 24h OT monitoring rotation this weekend.",
+          "sources": ["CISA AA26-097a, April 7 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Iranian Cyber Tempo 8× Pre-Conflict: Structural",
+          "text": "UAE cybersecurity chief reports 600,000 attacks since conflict onset; campaigns have shifted from disruptive to complex (breach, financial crime, wiper). Even a signed MOU expected to produce only a temporary tactical dip; IRGC structural cyber posture is a long-term deterrence asset and will not be dismantled in 60-day ceasefire talks.",
+          "threat_actor": "IRGC-coordinated APTs and hacktivist proxies (313 Team, ALTOUFAN TEAM, MuddyWater, APT42)",
+          "assessed_likelihood": "High",
+          "sources": ["The National UAE", "UAE Cybersecurity Council", "CSIS", "Seqrite Iran Cyber War 2026"],
+          "url": "https://www.thenationalnews.com/future/technology/2026/04/10/iranian-cyber-attacks-move-from-disruptive-to-complex-threats-in-gulf/"
+        },
+        {
+          "bold_heading": "Destructive Cyber Risk (Wiper/Ransomware-as-Cover): Elevated",
+          "text": "Deal delay extends the retaliatory cyber window. If Khamenei publicly rejects the MOU text after Trump claims agreement, IRGC historical pattern shows destructive cyber responses within 1–2 weeks. Obtain written broker clarification on war-exclusion clause applicability for IRGC-attributed destructive cyber incidents now — before a triggering event.",
+          "threat_actor": "IRGC-affiliated (MuddyWater-linked / Chaos ransomware operators)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["Halcyon Ransomware Alerts 2026", "Rapid7 'Muddying the Tracks'", "SecurityWeek 2026"],
+          "url": "https://www.halcyon.ai/ransomware-alerts/iranian-use-of-cybercriminal-tactics-in-destructive-cyber-attacks-2026-updates"
+        },
+        {
+          "bold_heading": "Gulf Energy/Financial Sector OT/IT Pre-Positioning: Sustained",
+          "text": "IRGC-affiliated groups continue scanning Kuwait Shuaiba refinery and port, Qatari LNG at Ras Laffan, and UAE data centers alongside financial sector targeting. The June 13 CENTCOM drone intercept is consistent with IRGC 'dual-track deterrence' — simultaneous kinetic and cyber pressure maintained through any deal-signing period as a strategic reserve.",
+          "threat_actor": "IRGC-affiliated APT (OilRig/APT34, MuddyWater)",
+          "assessed_likelihood": "High",
+          "sources": ["Seqrite Iran Cyber War 2026", "SocRadar", "CloudSEK, May–June 2026"],
+          "url": "https://socradar.io/blog/cyber-reflections-us-israel-iran-war/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Iran FM or Khamenei announcement of new MOU signing date — or explicit deal rejection.",
+          "why_it_matters": "A Khamenei-issued rejection would collapse deal pricing (Brent $95–105+ at Monday open), trigger the IRGC retaliatory cyber window, and reopen the energy asset strike risk against Shuaiba, Sitrah, and Ruwais.",
+          "related_section": "Sections 2, 4, 5, 5A, 7A"
+        },
+        {
+          "text": "Additional IRGC drone or missile activity targeting Hormuz commercial shipping.",
+          "why_it_matters": "A second intercept event within 24h of the June 13 intercept would signal IRGC has shifted from deterrence signalling to sustained interdiction pressure, materially changing scenario probabilities for insurance and BCP posture.",
+          "related_section": "Sections 2, 4, 5A"
+        },
+        {
+          "text": "NYMEX/ICE commodity markets Monday open — Brent direction on deal-delay repricing.",
+          "why_it_matters": "Brent above $90 at Monday open signals deal-collapse pricing returning; below $85 signals markets still expect near-term resolution. This is the fastest leading indicator for BCP posture reassessment.",
+          "related_section": "Sections 4, 5"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "HIGH", "note": "No new alerts; confirmed via KUNA, Kuwait MOI, US Embassy Kuwait" },
+    { "section": "2 — Targets & Incidents", "source_count": 5, "confidence": "HIGH", "note": "CENTCOM drone intercept corroborated by NBC, The Hill, RFERL, Kyiv Post, Al Arabiya; Baghaei denial via Athens Times" },
+    { "section": "3 — Kuwait Local", "source_count": 4, "confidence": "HIGH", "note": "Airport via Wego/Sunday Guardian Live; voluntary departure via US Embassy Kuwait; land route via Kuwait Times/Arab Times" },
+    { "section": "4 — Regional Context", "source_count": 4, "confidence": "HIGH", "note": "Baghaei statement corroborated via Athens Times and Rappler; drone intercept multi-sourced; Polymarket data via Straits.live" },
+    { "section": "5 — Risk Signal", "source_count": 0, "confidence": "HIGH", "note": "Analysis derived from confirmed Tier 1 facts and prior advisories" },
+    { "section": "5A — Insurance Risks", "source_count": 3, "confidence": "MEDIUM-HIGH", "note": "P&I club withdrawals and 8.0× premium via Straits.live (reviewed weekly); $10–14M H&M from Lloyd's List; 'no ships' warning via AzerNews/Straits.live" },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "MEDIUM", "note": "Pattern-based (Olalampo lure-refresh cycle via Rapid7); CISA AA26-097a corroborated; APT42 TAMECAT via Trellix; assessed via TTP pattern vs live alert" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "MEDIUM", "note": "Commercial threat intel; likelihood ratings based on IRGC historical pattern; no new June 14 advisory" }
+  ],
+  "footer": "Report #96 compiled 2026-06-14 at 07:30 UTC+3."
+}
