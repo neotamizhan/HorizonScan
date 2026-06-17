@@ -1,0 +1,421 @@
+{
+  "date": "2026-06-17",
+  "headline": "17 June 2026",
+  "subtitle": "Khamenei ambiguity clouds June 19 signing; IRGC issues Lebanon retaliation threat",
+  "report_number": "99",
+  "coverage": "16 June 2026 07:00 UTC+3 – 17 June 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-06-17",
+    "metrics": [
+      {
+        "metric": "Missile/drone interceptions (24h)",
+        "today": "0",
+        "previous": "0",
+        "delta": "0",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Debris reports (cumulative)",
+        "today": "8",
+        "previous": "8",
+        "delta": "0",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Brent crude ($/bbl)",
+        "today": "82.94",
+        "previous": "83.08",
+        "delta": "-0.14",
+        "trend_7d": "↓"
+      },
+      {
+        "metric": "WTI crude ($/bbl)",
+        "today": "81.20",
+        "previous": "80.86",
+        "delta": "+0.34",
+        "trend_7d": "↓"
+      },
+      {
+        "metric": "Strait of Hormuz transits/day",
+        "today": "~2 (Day 110; closed)",
+        "previous": "~2 (Day 109; closed)",
+        "delta": "0",
+        "trend_7d": "↓"
+      },
+      {
+        "metric": "Infrastructure items damaged (cumulative)",
+        "today": "8",
+        "previous": "8",
+        "delta": "0",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "KWI airport status",
+        "today": "Partial",
+        "previous": "Partial",
+        "delta": "No change",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Kuwait AQI (PM2.5)",
+        "today": "NR",
+        "today_label": null,
+        "previous": "NR",
+        "previous_label": null,
+        "delta": "N/A",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "Days since last confirmed cyber incident (Gulf FS)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "N/A",
+        "trend_7d": "Insufficient data"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "No alerts in coverage window",
+          "text": "No air raid sirens, civil defense alerts, shelter-in-place orders, or emergency broadcasts issued in Kuwait in the coverage window. The kinetic pause on Kuwait territory has now extended to six days since the last confirmed Gulf-area intercept (June 13). No new DGCA NOTAM or Kuwait MOI emergency broadcasts were issued.",
+          "sources": ["KUNA", "Kuwait MOI", "US Embassy Kuwait — no new advisories in window"]
+        },
+        {
+          "bold_heading": "Islamic New Year public holiday concluded",
+          "text": "Islamic New Year (Muharram 1, 1448 AH) public holiday on June 16 has concluded. Government offices, Central Bank of Kuwait, commercial banks, and schools are reopening on June 17. Confirm escalation contacts and on-call arrangements are fully restored for all Kuwait-based operational staff today.",
+          "sources": ["Kuwait Times", "KUNA, June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "No confirmed new Gulf strikes",
+          "text": "No confirmed new strikes, attacks, or military incidents targeting Kuwait or GCC territory in the coverage window. The kinetic pause on Gulf states has extended to a sixth consecutive day since the last confirmed intercept (June 13).",
+          "sources": ["Reuters", "Al Jazeera", "AP, 16 June 2026"]
+        },
+        {
+          "bold_heading": "⚡ DEAL RISK — IRGC retaliation threat over Lebanon (June 16)",
+          "text": "IRGC military command issued a formal retaliation threat against Israel on June 16 if the IDF continues its southern Lebanon offensive. Iran's foreign minister stated that any Israeli forces remaining in or striking Lebanon constitutes a violation of the US-Iran deal. This is the first explicit IRGC-level threat issued since the MOU announcement (June 14) and substantially raises the risk of a conditioned or delayed June 19 signing.",
+          "sources": ["Times of Israel liveblog, 16 June 2026", "CBS News, 16 June 2026"]
+        },
+        {
+          "bold_heading": "Israel strikes southern Lebanon (June 16) — 4 killed",
+          "text": "Israel struck Nabatieh area (southern Lebanon) on June 16, killing at least 4 and wounding others. IDF targeted vehicles in Mayfadoun and Shukeen. Israeli officials reiterated that 'Trump's agreement does not bind us' regarding Lebanon operations. US Ambassador Huckabee confirmed Hezbollah is not included in the deal's terms.",
+          "sources": ["Times of Israel liveblog, 16 June 2026 — CORROBORATED multiple Tier 1 sources"]
+        },
+        {
+          "bold_heading": "⚠ KHAMENEI AMBIGUITY — 'Neither accepts nor rejects' MOU [SINGLE SOURCE]",
+          "text": "Mojtaba Khamenei stated he 'neither accepts nor rejects' the MOU; 'everything is in the details.' JD Vance publicly stated Khamenei's continued absence from deal negotiations makes diplomacy 'much more complicated.' Without an explicit supreme leader endorsement, IRGC compliance with the June 19 MOU cannot be assumed.",
+          "sources": ["Yahoo News citing Reuters, 16 June 2026 [SINGLE SOURCE on Khamenei 'neither/nor' framing]", "AOL/Reuters citing Vance, 16 June 2026"]
+        },
+        {
+          "bold_heading": "Trump warns Iran of 'ultimate consequences' on nuclear commitments",
+          "text": "Trump warned Iran would face 'ultimate consequences' if it reneges on nuclear commitments. This statement is directed at coercive compliance but does not resolve the Khamenei endorsement gap.",
+          "sources": ["Fox News Live Updates, 16 June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Normal operations resuming June 17 after Islamic New Year holiday",
+          "text": "Government offices, Central Bank of Kuwait, commercial banks, and schools are reopening. Confirm that all escalation contacts and on-call coverage are restored before COB today.",
+          "sources": ["Kuwait Times", "KUNA, June 2026"]
+        },
+        {
+          "bold_heading": "KWI: T4/T5 operational; T1 closed; airspace open",
+          "text": "Terminal 4 (Kuwait Airways) and Terminal 5 (Jazeera Airways) operational. T1 has been closed since the June 3 IRGC drone/missile attack (1 killed, 63 injured). No foreign carrier restart date has been announced. Verify status before any staff travel.",
+          "sources": ["One Mile at a Time", "Sunday Guardian Live", "Wego Travel Blog", "Kuwait GACA, June 2026"]
+        },
+        {
+          "bold_heading": "US Embassy Kuwait Level 3 advisory unchanged",
+          "text": "State Department Level 3 ('Reconsider Travel') advisory for Kuwait remains in effect. Voluntary departure authorisation for non-essential USG personnel is also unchanged. Do not advise staff to resume suspended travel protocols until the advisory is formally downgraded.",
+          "sources": ["US Embassy Kuwait", "travel.state.gov, June 2026"]
+        },
+        {
+          "bold_heading": "Kuwait Cabinet: follow official guidance, avoid rumours",
+          "text": "Kuwait Cabinet reiterated call for public to follow official guidance and avoid circulating unverified rumours. No new MOI or government emergency advisories were issued in the coverage window.",
+          "sources": ["Kuwait Times, June 2026"]
+        },
+        {
+          "bold_heading": "Supply chain: Hormuz still closed; land-bridge dependence continues",
+          "text": "Saudi land-bridge dependence continues at peak. No commercial Hormuz transit will occur until: MOU signed, IRGC issues formal stand-down, JWC amends JWLA-033, and P&I clubs restore coverage — at minimum a 3–6 week sequential process even under optimistic post-signing conditions.",
+          "sources": ["Kuwait Times", "Straits.live, June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "June 19 faces highest uncertainty since June 14 MOU announcement",
+          "text": "Khamenei's 'neither accepts nor rejects' public statement, the IRGC's retaliation threat over Lebanon, and JD Vance's acknowledgement that Khamenei's absence makes diplomacy 'much more complicated' together constitute a materially negative shift from Day 109. No senior Iranian military official has publicly endorsed the MOU.",
+          "sources": ["Yahoo News/Reuters", "AOL citing Vance", "Times of Israel, 16 June 2026"]
+        },
+        {
+          "bold_heading": "Israel-Lebanon: most proximate trip-wire for the deal",
+          "text": "Iran has formally asserted continued IDF strikes constitute a deal violation; Israel's cabinet has rejected this framing. G7 leaders at Évian (June 15–17) are pressing Trump to apply pressure on Netanyahu, but outcome was not confirmed before coverage window close.",
+          "sources": ["CBS News", "Times of Israel", "CSIS Yacoubian/Todman, 15 June 2026"]
+        },
+        {
+          "bold_heading": "Oil markets pricing deal completion, not deal risk",
+          "text": "Brent at $82.94 reflects continued demand-optimism from the June 14 announcement. The gap between deal-optimistic pricing and the still-closed Hormuz (2 vessels/day) plus the Khamenei ambiguity collectively justify a dual-scenario planning posture through at least June 20.",
+          "sources": ["Investing.com", "Straits.live, June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "BCP posture: maintain HIGH; Khamenei ambiguity is new negative signal",
+          "text": "Step-down criteria remain unmet: MOU not signed; IRGC stand-down not issued; Khamenei explicit endorsement absent. Do not reduce BCP posture pending June 19 outcome.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Finalise dual-scenario guidance before Friday June 19 COB",
+          "text": "Scenario A (signed, IRGC-compliant): Brent path to $70–80 in 30–60 days; JWC review initiated. Scenario B (delayed/non-compliant/rejection): oil reversal to $90–100+; war-risk premia spike; potential IRGC destructive cyber response within 1–2 weeks. Khamenei ambiguity and Lebanon escalation increase probability weight on Scenario B.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Staff safety: no change",
+          "text": "US Embassy Kuwait Level 3 advisory active; voluntary departure not rescinded. KWI T4/T5 operational. Confirm all Kuwait-based staff escalation contacts restored after Islamic New Year holiday. Maintain 4-hour confirmation buffer before any staff travel.",
+          "sources": ["US Embassy Kuwait, June 2026"]
+        },
+        {
+          "bold_heading": "Trade finance/marine: do not execute new Gulf voyage instructions",
+          "text": "JWLA-033 unchanged; war-risk premia unchanged. Khamenei ambiguity is negative indicator for JWC reclassification timeline. Confirm all open Gulf marine credit facilities before June 19 market open.",
+          "sources": ["Straits.live", "Lloyd's List, June 2026"]
+        },
+        {
+          "bold_heading": "Cyber: June 19 lure window Day 3 — ELEVATED",
+          "text": "'Signing ceremony,' 'frozen asset release,' and 'OFAC Iran sanctions unwinding' phishing lures remain the highest-risk attack surface. See Section 7A.",
+          "sources": ["Rapid7", "CISA AA26-097a, 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "JWC JWLA-033 and war risk premia UNCHANGED; Khamenei ambiguity negative for reclassification timeline",
+          "text": "War-risk premia remain substantially elevated; 6 P&I clubs cover withdrawn. Khamenei's public ambiguity means the pre-condition of a verifiable IRGC stand-down — required before JWC review can commence — now has less certainty of occurring within the previously estimated 3–6 week post-signing window. Confirm all Gulf marine facilities before Friday open.",
+          "sources": ["Straits.live", "Lloyd's List", "JWLA-033, June 2026"]
+        },
+        {
+          "bold_heading": "Mine clearance window: P&I coverage void remains",
+          "text": "US estimate of 'six months to clear mines' continues unchanged. P&I coverage for vessels transiting during active mine clearance is highly uncertain. Obtain written P&I Club guidance on coverage applicability before June 19. RFE/RL's reported 'toll vs. service charge' dispute on passage mechanism remains publicly unresolved.",
+          "sources": ["RFE/RL", "US Embassy Kuwait statements, June 2026"]
+        },
+        {
+          "bold_heading": "Scenario probability update — June 17",
+          "text": "(1) Signed + IRGC-compliant: MODERATE (downgraded — Khamenei ambiguity and Lebanon escalation). (2) Signed + IRGC non-compliant: MODERATE-HIGH (elevated — new negative signals). (3) Unsigned/delayed/conditioned: LOW-MODERATE (elevated — Lebanon operations now an active conditioning threat from Iran).",
+          "sources": ["Straits.live", "Lloyd's List", "RFE/RL", "Times of Israel, June 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Everyone Lost the War With Iran",
+          "author": "Will Todman",
+          "publication": "Foreign Policy",
+          "pub_date": "2026-06-16",
+          "access": "Paywall",
+          "summary": "Todman argues that despite the framework deal, all major parties suffered strategic defeats: the US became re-embroiled in a costly Middle East conflict that damaged Indo-Pacific readiness; Iran survived and discovered the 'Hormuz weapon' as a new strategic deterrent it will not willingly relinquish; and Israel failed to end the Iranian nuclear threat, with 60-day talks likely to be protracted. Key issues — Iran's nuclear programme, ballistic missiles, and proxy support — remain entirely outside the MOU.",
+          "relevance": "Todman's 'everyone-lost' framing conditions the 60-day negotiation window as a HIGH-risk period, not a de-escalation window; institutions should extend elevated WRP and BCP posture well beyond June 19.",
+          "link": "https://foreignpolicy.com/2026/06/16/iran-war-trump-gulf-china-russia-israel-ceasefire-deal/"
+        },
+        {
+          "title": "The Truce Between the U.S. and Iran Was the Easy Part",
+          "author": "Daniel Byman",
+          "publication": "Foreign Policy",
+          "pub_date": "2026-06-15",
+          "access": "Paywall",
+          "summary": "Byman argues that halting kinetic operations was the straightforward phase; the 60-day nuclear and Hormuz permanence negotiations are qualitatively harder because Iran enters talks believing it won and faces no coercive pressure to compromise on enrichment, while US midterm election constraints limit military credibility. Iran's strategic calculus centres on maximising sanctions relief while preserving nuclear capability.",
+          "relevance": "Byman's assessment of Iran's 'winning mindset' entering negotiations is the key strategic input for IRGC compliance risk-modelling; compliance probability is lower than current market pricing implies.",
+          "link": "https://foreignpolicy.com/2026/06/15/iran-united-states-trump-truce-war-israel-nuclear/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "⚠ DAY 3 — 'June 19 Signing Ceremony' lure window fully active",
+          "text": "MuddyWater/Seedworm (IRGC-MOIS, Operation Olalampo) lure variants in active circulation: 'US-Iran MOU signing — restricted briefing,' 'Geneva ceremony — compliance checklist,' 'Strait of Hormuz reopening — OFAC implementation advisory,' and weaponised documents mimicking SWIFT/CBK frozen-asset release notices. The $12–25bn Iranian frozen-asset provision is the highest-value financial-sector lure.",
+          "cve_ids": [],
+          "threat_actor": "MuddyWater/Seedworm (IRGC-MOIS)",
+          "recommended_action": "Confirm phishing alert issued June 15 was received by all staff returning from Islamic New Year holiday; re-issue today. Extend email gateway keyword block ['Geneva,' 'June 19,' 'signing,' 'frozen assets,' 'Hormuz,' 'OFAC Iran'] through June 22. Maintain help-desk high-alert through June 22.",
+          "sources": ["Rapid7 Iran Cyber Playbook 2026", "CISA AA26-097a", "FINRA Cybersecurity Alert 2026", "Abnormal Security, 2026"],
+          "url": "https://www.rapid7.com/blog/post/tr-iran-cyber-playbook-escalating-regional-conflict/"
+        },
+        {
+          "bold_heading": "⚠ APT42 TAMECAT — 'OFAC unwinding / deal-day compliance' credential harvest Day 3",
+          "text": "APT42 (IRGC-IO) TAMECAT continues targeting Gulf financial sector legal, compliance, and executive teams via Microsoft 365 and Google Workspace OAuth abuse. Lure variants: 'OFAC Iran Phase 1 implementation advisory,' 'CBK circular — correspondent bank reinstatement,' 'compliance checklist — Hormuz reopening.'",
+          "cve_ids": [],
+          "threat_actor": "APT42/Charming Kitten (IRGC-IO)",
+          "recommended_action": "Brief compliance and legal teams returning from Islamic New Year holiday today. Review and revoke suspicious OAuth app consents granted in the past 14 days. Enforce conditional access restricting sign-ins from unexpected geographies through June 22.",
+          "sources": ["Trellix Iranian Cyber Capability 2026", "SISA Threat Advisory", "Abnormal Security, 2026"],
+          "url": "https://www.trellix.com/blogs/research/the-iranian-cyber-capability-2026/"
+        },
+        {
+          "bold_heading": "CISA AA26-097a OT/ICS: no IRGC stand-down; full posture maintained",
+          "text": "No IRGC communication reversing its cyber posture; Khamenei's 'neither/nor' statement means deal is not yet in force from IRGC perspective. OilRig/APT34 and PLC-targeting threat actors remain at full operational readiness.",
+          "cve_ids": ["Multiple ICS/SCADA vectors — see AA26-097a full text"],
+          "threat_actor": "IRGC-affiliated APT (OilRig/APT34)",
+          "recommended_action": "Maintain full AA26-097a remediation posture. Do not reduce OT SOC coverage during the June 19 signing period. Ensure OT monitoring rotation is fully staffed after Islamic New Year holiday return.",
+          "sources": ["CISA AA26-097a, April 7 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Iranian cyber tempo: structural, deal-independent, not decelerating",
+          "text": "UAE Cybersecurity Council data shows 600,000+ attacks since conflict onset; campaign profile has shifted from disruptive (DDoS, defacement) to complex breach, espionage, and financial crime. IRGC cyber apparatus is not addressed in the MOU or 60-day nuclear talks.",
+          "threat_actor": "IRGC-coordinated APTs and hacktivist proxies (313 Team, ALTOUFAN TEAM, MuddyWater, APT42)",
+          "assessed_likelihood": "High",
+          "sources": ["UAE Cybersecurity Council", "Trellix Iranian Cyber Capability 2026", "SocRadar, 2026"],
+          "url": "https://socradar.io/blog/cyber-reflections-us-israel-iran-war/"
+        },
+        {
+          "bold_heading": "Destructive cyber retaliation risk: ELEVATED and rising",
+          "text": "If Khamenei formally conditions or rejects the June 19 MOU, or if Israel's Lebanon operations cause Iran to withdraw, IRGC historical pattern predicts a destructive cyber response (wiper/ransomware-as-cover) on Gulf financial and energy infrastructure within 1–2 weeks. Khamenei's 'neither/nor' and the IRGC Lebanon retaliation threat on June 16 both increase this probability. Confirm war-exclusion clause applicability for IRGC-attributed destructive cyber incidents with your broker before June 18 COB.",
+          "threat_actor": "IRGC-affiliated (MuddyWater-linked / Chaos ransomware operators)",
+          "assessed_likelihood": "Moderate-High",
+          "sources": ["Halcyon Ransomware Alerts 2026", "Rapid7", "SecurityWeek, 2026"],
+          "url": "https://www.halcyon.ai/ransomware-alerts/iranian-use-of-cybercriminal-tactics-in-destructive-cyber-attacks-2026-updates"
+        },
+        {
+          "bold_heading": "Gulf OT/IT pre-positioning: unchanged, intensifying in 60-day window",
+          "text": "IRGC-affiliated groups continue active scanning of Kuwait's Shuaiba refinery and port infrastructure, Qatari LNG at Ras Laffan, and UAE data centres. Per Byman (Foreign Policy, June 15), Iran views the 60-day negotiation period as leverage-building, consistent with intensified OT reconnaissance.",
+          "threat_actor": "OilRig/APT34, MuddyWater",
+          "assessed_likelihood": "High",
+          "sources": ["Seqrite Iran Cyber War 2026", "SocRadar", "CloudSEK, May–June 2026"],
+          "url": "https://socradar.io/blog/cyber-reflections-us-israel-iran-war/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Khamenei public statement explicitly endorsing or rejecting the June 19 MOU",
+          "why_it_matters": "His continued ambiguity is the single most important observable for June 19 viability. Absence of explicit endorsement by June 18 COB is itself a negative signal for IRGC compliance. Watch IRNA, Mehr News, and Khamenei.ir.",
+          "related_section": "Sections 2, 4, 5, 5A, 7B"
+        },
+        {
+          "text": "Israeli Lebanon operations and any formal Iranian response conditioning the June 19 signing",
+          "why_it_matters": "Any IRGC statement formally linking Lebanon de-escalation to signing compliance — or any IDF escalation Iran characterises as a deal violation — would trigger Scenario B/C protocol for BCP, trade finance hold, and cyber destructive response watch.",
+          "related_section": "Sections 2, 4, 5, 5A, 7B"
+        },
+        {
+          "text": "First formal IRGC Hormuz stand-down broadcast on IRNA/Mehr News",
+          "why_it_matters": "This is the precondition for JWC JWLA-033 review, P&I club coverage reinstatement, and commercial transit resumption. No such broadcast has been issued as of Day 110 window close. Absence by COB June 18 further extends insurance and supply chain normalisation timeline.",
+          "related_section": "Sections 2, 5, 5A"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    {
+      "section": "1 — Alerts & Sirens",
+      "source_count": 3,
+      "confidence": "High",
+      "note": "No new alerts confirmed via KUNA, Kuwait MOI, US Embassy Kuwait"
+    },
+    {
+      "section": "2 — Targets & Incidents",
+      "source_count": 5,
+      "confidence": "High",
+      "note": "No Gulf strikes: Reuters/AP/Al Jazeera; IRGC threat: Times of Israel liveblog June 16 (Tier 1); Lebanon strikes: Times of Israel corroborated; Khamenei 'neither/nor': Reuters/Yahoo [SINGLE SOURCE]; Trump: Fox News June 16"
+    },
+    {
+      "section": "3 — Kuwait Local",
+      "source_count": 4,
+      "confidence": "High",
+      "note": "Airport: GACA/Wego/One Mile at a Time; travel advisory: US Embassy Kuwait; holiday end: KUNA/Kuwait Times; supply chain: Kuwait Times"
+    },
+    {
+      "section": "4 — Regional Context",
+      "source_count": 4,
+      "confidence": "High",
+      "note": "Khamenei/Vance: Reuters/AOL multi-sourced; Lebanon: Times of Israel/CBS News Tier 1 corroborated; oil: Investing.com/Straits.live"
+    },
+    {
+      "section": "5 — Risk Signal",
+      "source_count": 0,
+      "confidence": "High",
+      "note": "Analysis derived from confirmed Tier 1 facts; BCP conditions framework established in prior reports"
+    },
+    {
+      "section": "5A — Insurance Risks",
+      "source_count": 4,
+      "confidence": "Medium-High",
+      "note": "JWC: Straits.live/Lloyd's List; mine clearance: RFE/RL; Khamenei effect on timeline is analytical inference from confirmed facts"
+    },
+    {
+      "section": "7A — Cyber Tactical",
+      "source_count": 3,
+      "confidence": "Medium",
+      "note": "Pattern-based lure-window (Rapid7 Olalampo cycle confirmed); APT42 TAMECAT (Trellix); CISA AA26-097a (US government — authoritative)"
+    },
+    {
+      "section": "7B — Cyber Strategic",
+      "source_count": 3,
+      "confidence": "Medium",
+      "note": "Commercial threat intel; likelihood ratings based on IRGC doctrine and Khamenei signal as of June 16; UAE attack count from UAE Cybersecurity Council"
+    }
+  ],
+  "footer": "Report #99 compiled 2026-06-17 at 07:30 UTC+3."
+}
