@@ -1,0 +1,302 @@
+{
+  "date": "2026-06-28",
+  "headline": "28 June 2026",
+  "subtitle": "Kuwait & Bahrain Under Fire; IRGC–US Strike Exchange Threatens MoU; Hormuz Contested at Day 121",
+  "report_number": "101",
+  "coverage": "27 June 2026 07:00 UTC+3 – 28 June 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-06-28",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "Multiple (count NR)", "previous": "N/A — no prior report", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "N/A — no prior report", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "72.60", "previous": "N/A — no prior report", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "WTI crude ($/bbl)", "today": "69.23", "previous": "N/A — no prior report", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~5 (Day 121; contested/partial)", "previous": "N/A — no prior report", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "N/A — no prior report", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "N/A — no prior report", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "NR", "today_label": null, "previous": "N/A — no prior report", "previous_label": null, "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "N/A — no prior report", "delta": "N/A", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "ACTIVE ALERT — Pre-dawn 28 June 2026 (approx. 01:00–04:00 UTC+3): Kuwait nationwide emergency sirens",
+          "text": "Kuwait Army issued emergency broadcast: 'Kuwaiti air defenses are currently engaging hostile missile and drone attacks.' Nationwide air-raid sirens activated; public urged to follow civil defense safety instructions. Described as an alert on a scale never before witnessed in modern Kuwaiti history.",
+          "sources": ["alexa.ng/Kuwait Air Defense, 28 Jun 2026", "Times of Israel liveblog, 28 Jun 2026", "Kuwait Times, 28 Jun 2026"]
+        },
+        {
+          "bold_heading": "ACTIVE ALERT — Bahrain: Air-raid sirens and shelter-in-place",
+          "text": "Bahrain Interior Ministry activated air-raid sirens and called on residents to remain calm and move to the nearest safe place. Bahrain hosts US NAVCENT/Fifth Fleet.",
+          "sources": ["Gulf News, 28 Jun 2026", "Times of Israel liveblog, 28 Jun 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "28 June 2026 (pre-dawn, approx. 01:00–04:00 UTC+3) — Kuwait airspace: Multiple missile and drone intercepts",
+          "text": "Kuwait Armed Forces confirmed hostile missile and drone attacks were engaged by Kuwaiti air defenses, with CENTCOM also participating in intercepts. Attacks attributed to IRGC retaliatory action following US self-defense strikes on Iranian sites June 26–27. No confirmed ground-level damage or casualties from today's intercepts at time of compilation.",
+          "sources": ["Kuwait Times, 28 Jun 2026", "Times of Israel, 28 Jun 2026", "Army Recognition (CENTCOM), 28 Jun 2026 [SINGLE SOURCE for specific intercept figures]", "Gulf News, 28 Jun 2026"]
+        },
+        {
+          "bold_heading": "26–27 June 2026 — Strait of Hormuz: IRGC drone strikes cargo ship; US retaliates",
+          "text": "IRGC launched a one-way attack drone that struck the upper deck of a large cargo ship in the Strait of Hormuz on June 26. President Trump confirmed this as a ceasefire violation. US CENTCOM struck Iranian missile and drone storage locations June 26–27 in self-defense; IRGC claimed counter-strikes on US military sites.",
+          "sources": ["Fox News Live, 26 Jun 2026", "CBSnews live updates, 27 Jun 2026", "Al Jazeera Day 120, 27 Jun 2026"]
+        },
+        {
+          "bold_heading": "25 June 2026 — Oman coast: Cargo ship struck on IMO-endorsed route",
+          "text": "A cargo ship transiting the Omani-approved maritime corridor was struck off Oman shortly after IRGC warned this route was unauthorized. IMO subsequently paused its seafarer evacuation program.",
+          "sources": ["Al Jazeera, 25–26 Jun 2026", "HSToday, Jun 2026"]
+        },
+        {
+          "bold_heading": "25 June 2026 — Strait of Hormuz: IRGC forces three tankers to turn back",
+          "text": "IRGC Navy forced three foreign oil tankers to reverse course in the Strait of Hormuz, warning that transit without Tehran's permission is 'illegal, unacceptable and highly dangerous.'",
+          "sources": ["RFERL, 28 Jun 2026", "Al Jazeera, 25 Jun 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Airport — KWI partial operations",
+          "text": "Terminal 1 remains closed for repairs since June 3 IRGC drone strike. Terminals 4 (Kuwait Airways) and 5 (Jazeera Airways) fully operational. KWI airspace open; Oman Air resumed Kuwait service June 25 via T4. Flight schedules remain variable.",
+          "sources": ["Wego Travel Blog, Jun 2026", "connectingtravel.com, Jun 2026"]
+        },
+        {
+          "bold_heading": "Schools — online learning switch reported [SINGLE SOURCE] [TIMESTAMP UNCONFIRMED]",
+          "text": "Ministry of Education confirmed high school campus return from May 3, 2026. Kuwait Times reported some schools switching back to online learning following renewed hostilities. No Ministry-level closure order confirmed in coverage window.",
+          "sources": ["Kuwait Times Facebook, 2026", "Pilipinosakuwait Facebook, May 3 2026"]
+        },
+        {
+          "bold_heading": "Government advisory — no new US Embassy alert as of compilation",
+          "text": "Most recent US Embassy Kuwait public security alert is dated June 4, 2026. Routine Message (June 23) confirmed monthly siren test date. June 28 sirens are confirmed emergency activations, not a monthly test.",
+          "sources": ["US Embassy Kuwait (kw.usembassy.gov), Jun 23 2026"]
+        },
+        {
+          "bold_heading": "Borders — operational",
+          "text": "Kuwait–Saudi Arabia (Nuwaiseeb) open 24/7. Kuwait–Iraq (Abdali/Safwan) operational on standard schedule. Overland Saudi route remains recommended alternative to KWI for evacuation if air transport is unavailable.",
+          "sources": ["Zawya, 2026", "House of Saud guide, 2026"]
+        },
+        {
+          "bold_heading": "Supply chain — monitor fuel continuity [SINGLE SOURCE; staleness flagged]",
+          "text": "No panic buying or essential goods shortages reported in coverage window. Mina Al-Ahmadi refinery sustained drone attacks in the June 3 period; supply continuity for fuel products should be revalidated given renewed June 28 kinetic activity.",
+          "sources": ["Newland Chase mobility update, 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "US-Iran MoU under active military strain",
+          "text": "The June 17 Islamabad Memorandum (60-day ceasefire framework) has been violated by both sides: IRGC drone struck cargo ship June 26; US hit Iranian sites June 26–27; Iran launched missiles at Kuwait and Bahrain pre-dawn June 28. Technical talks in Switzerland are at serious risk.",
+          "sources": ["Al Jazeera Day 120, 27 Jun 2026", "CBSnews live updates, 2026", "RFERL, 2026"]
+        },
+        {
+          "bold_heading": "Nuclear inspections dispute — primary deal-breaker risk",
+          "text": "Iran categorically denies agreeing to IAEA access to bombed nuclear sites despite US claims; IAEA chief Grossi said inspectors 'will visit but timing not essential.' Iran insists inspection access is contingent on a final deal — a US red line for the 60-day negotiating framework.",
+          "sources": ["NPR, 23 Jun 2026", "PBS News, Jun 2026", "CBSnews, Jun 2026"]
+        },
+        {
+          "bold_heading": "GCC maintains defensive posture; condemns attacks",
+          "text": "Gulf states condemned Iranian attacks on Kuwait and Bahrain as 'blatant aggression' but continue to resist US pressure for active co-belligerence; GCC priority remains deterrence and ending the war swiftly.",
+          "sources": ["Gulf News, 28 Jun 2026", "IISS analysis, Jun 4 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Business continuity — immediate activation",
+          "text": "Kuwait emergency alerts and air defense activations confirmed pre-dawn June 28. BCP remote-work protocols and staff check-in procedures should be activated now for Kuwait-based operations. Validate emergency contact trees against current employee location data.",
+          "sources": ["Kuwait Army statement, 28 Jun 2026", "Kuwait Times, 28 Jun 2026"]
+        },
+        {
+          "bold_heading": "Payment systems and correspondent banking",
+          "text": "No confirmed disruption to SWIFT or interbank settlement in the coverage window; however, renewed kinetic activity after 15-day relative pause warrants reconfirmation with Kuwait, Bahrain, and Saudi Arabia correspondents. Paper-instrument couriers (LCs, BLs) face KWI T1 closure — ensure alternative routing via T4/T5.",
+          "sources": ["SISA threat advisory, 2026", "Kuwait Times, Jun 2026"]
+        },
+        {
+          "bold_heading": "Cyber threat elevation — DDoS lag risk",
+          "text": "Each kinetic escalation cycle historically correlates with a 12–48h lag before Iranian-affiliated DDoS and defacement waves targeting Gulf BFSI portals. Heightened DDoS mitigation, WAF rule verification, and ISP scrubbing readiness recommended before June 30.",
+          "sources": ["FINRA cybersecurity alert, 2026", "The National, Apr 10 2026", "CISA AA26-097A, Apr 7 2026"]
+        },
+        {
+          "bold_heading": "Staff safety — shelter-in-place",
+          "text": "Shelter-in-place guidance applies to all Kuwait-based staff following June 28 sirens. Distribute Kuwait Civil Defense guidance (lower floors, away from windows, avoid rooftops). Confirm building warden system active for all Kuwait offices.",
+          "sources": ["Kuwait Times 'what each signal means', 2026", "US Embassy Kuwait Routine Message, Jun 23 2026"]
+        },
+        {
+          "bold_heading": "Insurance — trade finance review",
+          "text": "June 25–26 escalation will likely drive upward WRP adjustment at next weekly renewal; see Section 5A for detail. Trade finance instruments (LCs, BLs) referencing Persian Gulf delivery should be reviewed for war risk exclusion clauses before maturity.",
+          "sources": ["The National, Jun 3 2026", "WEF, Apr 2026", "Caixin Global, Mar 7 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "War Risk Premia — at 1.0–3.0%; upward pressure from June 25–26 escalation",
+          "text": "Hormuz/Persian Gulf transit WRP is 1.0–3.0% of hull value per 7-day renewable period vs ~0.025% pre-war. US/UK/Israeli-affiliated vessels face a 3× surcharge over neutral-flag rates. June 25–26 cargo ship strike and tanker turnarounds are likely to trigger further upward adjustment at next weekly renewal, potentially to 3–4%.",
+          "sources": ["Lloyd's List, 2026", "Caixin Global, Mar 7 2026", "The National, Jun 3 2026"]
+        },
+        {
+          "bold_heading": "JWC Listed Areas — Oman corridor effectively invalidated",
+          "text": "JWC retains the entire Persian Gulf on the Listed Areas designation. Oman's IMO-endorsed alternative corridor, publicized June 24–25, was immediately contested by IRGC; the June 25 cargo ship strike on that route has effectively invalidated it for commercial insurers. IMO has paused seafarer evacuation.",
+          "sources": ["Al Jazeera, 25–26 Jun 2026", "HSToday, Jun 2026", "straits.live, 27 Jun 2026"]
+        },
+        {
+          "bold_heading": "P&I / stranded vessels — ~412 ships waiting [TIMESTAMP UNCONFIRMED]",
+          "text": "Approximately 412 vessels are reported trapped or waiting in the Arabian Gulf. Financial institutions with trade finance or LC exposure should liaise with P&I clubs to confirm war exclusion clause applicability and force majeure standing. IRGC seizure history may generate sanctions-related P&I voids for vessels calling Iranian-controlled waypoints.",
+          "sources": ["WEF, Apr 2026", "hormuzstraitmonitor.com, Jun 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "The Fragile U.S.-Iran Ceasefire: Issues to Watch",
+          "author": "CSIS Staff",
+          "publication": "Center for Strategic and International Studies (CSIS)",
+          "pub_date": "June 2026 [TIMESTAMP UNCONFIRMED — within 48h search]",
+          "access": "Open",
+          "summary": "Assesses the June 17 Islamabad MoU as inherently fragile given unresolved issues across nuclear inspections, Strait of Hormuz governance, Lebanon ceasefire, and Iranian proxy networks. Identifies nuclear inspections as the highest-probability breakdown vector given hardened Iranian domestic politics post-war.",
+          "relevance": "Provides the analytical framework for why June 28 escalation is a predictable structural outcome — directly informs BCP planning horizon and scenario planning for the 60-day negotiating window.",
+          "link": "https://www.csis.org/analysis/fragile-us-iran-ceasefire-issues-watch"
+        },
+        {
+          "title": "Can Iran Negotiations Survive Israel-Iran Escalation?",
+          "author": "CSIS analysts",
+          "publication": "Center for Strategic and International Studies (CSIS)",
+          "pub_date": "June 2026 [TIMESTAMP UNCONFIRMED — within 48h search]",
+          "access": "Open",
+          "summary": "Examines whether simultaneous US-Iran MoU diplomacy and ongoing Israel-Hezbollah fighting in Lebanon are structurally compatible; argues Israel has effectively retained a veto over US-Iran normalization through continued Lebanon operations, creating compounding escalation risk. Notes Gulf states' relief at ceasefire but anxiety about its durability.",
+          "relevance": "Explains why Israel-Lebanon activity is a leading indicator for Gulf kinetic escalation — directly informs Section 8 watchlist calibration and next-report risk weighting.",
+          "link": "https://www.csis.org/analysis/can-iran-negotiations-survive-israel-iran-escalation"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "No confirmed June 27–28 tactical advisories identified — elevated-threat context applies",
+          "text": "No tactical cyber advisories with confirmed June 27–28 publication dates and explicit action-within-72h requirements were identified from Tier 4 sources (CISA, Kuwait CIRT, UAE Cybersecurity Council, NCSC UK, Recorded Future, Mandiant, CrowdStrike, Unit 42) at time of compilation. Each kinetic escalation cycle documented in Sections 1–2 has historically preceded Iranian-affiliated DDoS and defacement waves against Gulf BFSI targets within 12–48 hours. Heightened mitigation posture on public-facing payment and banking portals, WAF ruleset verification, and ISP scrubbing readiness are recommended before June 30.",
+          "cve_ids": [],
+          "threat_actor": "IRGC-affiliated cyber units; Iran-linked hacktivist groups",
+          "recommended_action": "Activate heightened DDoS mitigation posture on BFSI-facing portals; verify WAF rulesets; confirm ISP scrubbing capacity before 30 June 2026.",
+          "sources": ["FINRA cybersecurity alert, 2026", "The National, Apr 10 2026", "SISA threat advisory, 2026", "CISA AA26-097A, Apr 7 2026 (contextual)"],
+          "url": "https://www.finra.org/rules-guidance/guidance/cybersecurity-alert-heightened-threats-iranian-cyber-actors"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Iranian APT evolution: DDoS to complex intrusion in Gulf BFSI",
+          "text": "Iran-linked actors (Seedworm/MOIS-affiliated, IRGC Cyber Division) have shifted from short-burst DDoS to sustained complex intrusions targeting banking, aviation, and law enforcement platforms across the GCC. UAE breach attempt rates peaked at 600,000–800,000/day; credential harvesting and lateral movement consistent with pre-ransomware staging observed.",
+          "threat_actor": "Seedworm / MOIS-affiliated APT; IRGC Cyber Division",
+          "assessed_likelihood": "High",
+          "sources": ["The National, Apr 10 2026", "AGBI, Mar 2026", "CrowdStrike 2026 Global Threat Report", "Dark Reading, 2026"],
+          "url": "https://www.thenationalnews.com/future/technology/2026/04/10/iranian-cyber-attacks-move-from-disruptive-to-complex-threats-in-gulf/"
+        },
+        {
+          "bold_heading": "BFSI payment gateways as priority Iranian cyber targets",
+          "text": "Commercial threat intelligence consistently identifies Gulf BFSI payment portals — particularly those with US-linked assets or high public visibility — as priority targets. Pattern includes DDoS paired with geopolitical events, defacement for psychological effect, and (less commonly) supply-chain compromise of third-party payment service providers.",
+          "threat_actor": "Iran-affiliated hacktivist groups; IRGC-linked APTs",
+          "assessed_likelihood": "High (DDoS/defacement); Moderate (deep intrusion)",
+          "sources": ["SISA threat advisory, 2026", "FINRA, 2026", "Unit 42 threat brief (Palo Alto Networks), updated Jun 2026", "EclecticIQ, 2026"],
+          "url": "https://www.sisainfosec.com/blogs/threat-advisory-elevated-cyber-risk-to-the-payments-ecosystem-amid-israel-us-iran-conflict-escalation/"
+        },
+        {
+          "bold_heading": "AI-accelerated adversary tradecraft",
+          "text": "CrowdStrike 2026 Global Threat Report documents Iran-linked groups leveraging AI-enabled reconnaissance, spear-phishing generation, and vulnerability scanning to compress dwell time. GCC financial institutions should assume automated, AI-assisted attack tooling is in play for any future campaign.",
+          "threat_actor": "Iran-linked state-sponsored groups (multiple)",
+          "assessed_likelihood": "Moderate (structural trend; not incident-specific)",
+          "sources": ["CrowdStrike 2026 Global Threat Report", "Palo Alto Networks Unit 42 2026 report"],
+          "url": "https://www.crowdstrike.com/en-us/global-threat-report/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "US-Iran Switzerland technical talks — continuity or collapse?",
+          "why_it_matters": "Following June 26–28 exchange of strikes, any announcement of a breakdown in Switzerland talks would materially elevate Gulf risk for all financial institutions and trigger a new BCP escalation level.",
+          "related_section": "Section 4 — Regional Context"
+        },
+        {
+          "text": "Kuwait/Bahrain damage assessment from June 28 intercepts",
+          "why_it_matters": "Watch for KUNA, Kuwait MOI, or CENTCOM official statements on confirmed intercept count and any debris/fragmentation impact on civilian or commercial infrastructure; damage at Mina Al-Ahmadi or KWI would escalate to a Section 2 incident.",
+          "related_section": "Sections 1 & 2 — Alerts & Incidents"
+        },
+        {
+          "text": "IRGC Hormuz posture following US retaliatory strikes (June 26–27)",
+          "why_it_matters": "Any IRGC statement resuming tanker interdictions or re-declaring Hormuz closure would immediately spike WRP and further restrict cargo insurance validity for Gulf-linked trade.",
+          "related_section": "Section 5A — Insurance & Maritime Risk"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 4, "confidence": "HIGH", "note": "Multiple corroborated Tier 1 sources: Kuwait Times, Times of Israel, Gulf News, alexa.ng" },
+    { "section": "2 — Targets & Incidents", "source_count": 5, "confidence": "HIGH", "note": "Core incidents corroborated across multiple Tier 1 wires; CENTCOM intercept figure is single-source [SINGLE SOURCE tagged]" },
+    { "section": "3 — Kuwait Local", "source_count": 5, "confidence": "MEDIUM", "note": "School online-learning switch is single-source with unconfirmed timestamp; refinery item flagged for staleness" },
+    { "section": "4 — Regional Context", "source_count": 4, "confidence": "HIGH", "note": "Well-corroborated across Al Jazeera, NPR, PBS News, Gulf News, IISS" },
+    { "section": "5 — Risk Signal", "source_count": 4, "confidence": "MEDIUM", "note": "Cyber DDoS-lag inference is pattern-based, not incident-specific; insurance figures partially stale (Mar 2026)" },
+    { "section": "5A — Insurance Risks", "source_count": 3, "confidence": "MEDIUM", "note": "WRP figures from March–June 2026; JWC listed areas confirmed; 412-vessel count has unconfirmed timestamp" },
+    { "section": "7A — Cyber Tactical", "source_count": 0, "confidence": "LOW", "note": "No confirmed June 27–28 specific tactical advisory identified; contextual/pattern-based advisory only" },
+    { "section": "7B — Cyber Strategic", "source_count": 4, "confidence": "MEDIUM", "note": "Well-documented but sourced from April–June 2026; no incident-specific June 28 data" }
+  ],
+  "footer": "Report #101 compiled 2026-06-28 at 07:30 UTC+3."
+}
