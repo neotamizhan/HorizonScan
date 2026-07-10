@@ -1,0 +1,413 @@
+{
+  "date": "2026-07-10",
+  "headline": "10 July 2026",
+  "subtitle": "IRGC Phase 2 strikes Jordan; Hormuz shipping at effective zero; Brent eases to $76.37",
+  "report_number": "104",
+  "coverage": "9 July 2026 07:00 UTC+3 – 10 July 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-07-10",
+    "metrics": [
+      {
+        "metric": "Missile/drone interceptions (24h)",
+        "today": "8 (Jordan; 0 Kuwait confirmed in window)",
+        "previous": "14 (Kuwait — revised: 3 ballistic + 1 cruise + 10 drones)",
+        "delta": "−6",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "Debris reports (cumulative)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "N/A",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "Brent crude ($/bbl)",
+        "today": "76.37",
+        "previous": "78.02",
+        "delta": "−1.65",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "WTI crude ($/bbl)",
+        "today": "~73.13 (intraday; settlement NR)",
+        "previous": "73.52",
+        "delta": "~−0.39",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "Strait of Hormuz transits/day",
+        "today": "~5 (effective halt)",
+        "previous": "NR (disrupted)",
+        "delta": "N/A",
+        "trend_7d": "↓"
+      },
+      {
+        "metric": "Infrastructure items damaged (cumulative)",
+        "today": "7 (all restored)",
+        "previous": "7 (power lines, Kuwait)",
+        "delta": "0",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "KWI airport status",
+        "today": "Partial",
+        "previous": "Partial",
+        "delta": "No change",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Kuwait AQI (PM2.5)",
+        "today": "NR",
+        "today_label": null,
+        "previous": "163",
+        "previous_label": "Unhealthy",
+        "delta": "N/A",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "Days since last confirmed cyber incident (Gulf FS)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "N/A",
+        "trend_7d": "Insufficient data"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "No new Kuwait alerts in this window",
+          "text": "No new Kuwait-specific air raid alerts confirmed after 07:00 UTC+3 on 9 July. The overnight siren activation (03:40 UTC+3 on 9 July — 3 ballistic + 1 cruise + 10 drones intercepted; 1 person injured) was covered in Report #103 and falls within the prior digest window. Civil Defence's standing precautionary advisory remains in force; public directed to follow MOD/MOI instructions, avoid sharing site imagery, and remain alert.",
+          "sources": ["KUNA/Arab Times — 9 July 2026", "Anadolu Agency — 9 July 2026"]
+        },
+        {
+          "bold_heading": "Power fully restored; no new infrastructure damage",
+          "text": "Kuwait General Staff confirmed all overnight threats intercepted. Ministry of Electricity confirmed supply restored to all residential areas affected by shrapnel damage to 7 overhead transmission lines. No new infrastructure damage confirmed in this window.",
+          "sources": ["Kuwait Times — 9 July 2026", "Arab News — 9 July 2026", "Times Kuwait — 9 July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Jordan — Al-Azraq Air Base (9 July, afternoon UTC+3)",
+          "text": "IRGC Phase 2 retaliation — 10 Iranian ballistic missiles fired at US forces at Al-Azraq Air Base, Jordan. Jordan Armed Forces confirmed 8 missiles intercepted; interception debris fell in uninhabited areas; no casualties. IRGC claimed destruction of 'command and control centre in West Asia.' Jordan stated it will not allow its airspace to be used by either side.",
+          "sources": ["RFERL — 9 July 2026", "ANI News — 9 July 2026", "Jordan News — 9 July 2026", "Times of Israel — 9 July 2026"]
+        },
+        {
+          "bold_heading": "CENTCOM — third consecutive day of strikes on Iran (9 July)",
+          "text": "US forces struck additional Iranian military targets including Bushehr IRGC facility, Chabahar port, and Iranshahr airport. Gulf News additionally reports fresh strikes near Asaluyeh (South Pars/North Dome LNG complex) overnight 9–10 July; US did not publicly confirm at compilation time. Cumulative CENTCOM strikes over 3 days: approximately 170 targets.",
+          "sources": ["Gulf News — 9–10 July 2026", "NBC News — 9 July 2026"]
+        },
+        {
+          "bold_heading": "Strait of Hormuz — effective cargo shipping halt (7–10 July, ongoing)",
+          "text": "Lloyd's List Intelligence: no large vessel (>10,000 dwt) transited via the Southern Highway with AIS on since 7 July. Only approximately 5 vessels tracked crossing the strait on 8 July versus ~130/day pre-war. UK MTOO characterised posture as 'cautious' amid 'elevated threat environment.' Qatar paused South Pars LNG production ramp-up.",
+          "sources": ["Al Jazeera/Lloyd's List Intelligence — 10 July 2026", "Bloomberg — 9–10 July 2026", "UK MTOO — 10 July 2026"]
+        },
+        {
+          "bold_heading": "KWI Airport — continued disruption (ongoing)",
+          "text": "No new physical attack on airport infrastructure. Terminal 1 under repair from 3 June strike; Terminals 4/5 operational. EASA CZIB (8 July): Kuwait FIR — no overflights; OKKK only with prior approval until 31 August 2026. International schedule disruptions consistent with prior 24h.",
+          "sources": ["EASA CZIB — 8 July 2026", "Travel and Tour World — 9 July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Power grid fully restored",
+          "text": "Ministry of Electricity confirmed supply restored to all affected areas. Ministry Undersecretary Adel Al-Zamel confirmed completion of repairs on all 7 damaged overhead transmission lines. Critical facilities on backup should resume normal grid connection verification protocols.",
+          "sources": ["Kuwait Times — 9 July 2026", "Times Kuwait — 9 July 2026", "Arab News — 9 July 2026"]
+        },
+        {
+          "bold_heading": "Airport (KWI): Partial; EASA restrictions in force",
+          "text": "Terminal 1 under repair; Kuwait Airways and Jazeera Airways operating; international carriers on reduced schedules. EASA CZIB (Kuwait FIR: no overflights, OKKK only with prior approval) in force until 31 August 2026. Short-notice closure risk elevated.",
+          "sources": ["EASA — 8 July 2026", "Travel and Tour World — 9 July 2026"]
+        },
+        {
+          "bold_heading": "UAE President solidarity visit to Kuwait Amir",
+          "text": "UAE President Sheikh Mohamed bin Zayed Al-Nahyan made official visit to Kuwait, meeting Amir Sheikh Meshal Al-Ahmad Al-Jaber Al-Sabah. Both leaders reaffirmed strategic partnership — visible GCC solidarity signal amid active conflict.",
+          "sources": ["Arab Times/KUNA — 9 July 2026"]
+        },
+        {
+          "bold_heading": "Ports: ISPS Level 2; Borders: Saudi open, Iraq closed",
+          "text": "Shuaiba and Shuwaikh ports at ISPS Level 2; commercial operations continuing, no new incidents. Saudi crossing (Salmy/Nuwaisib) open with delays. Iraq border (Safwan/Abdali) restricted/closed — land evacuation only via Saudi Arabia.",
+          "sources": ["Lloyd's List Middle East Port Update — ongoing", "Travel advisories — ongoing"]
+        },
+        {
+          "bold_heading": "Essential services normal; civil defence guidance in effect",
+          "text": "MEW confirms water and power supply normal across all districts following repair completion. Schools in summer recess. Standing civil defence guidance remains in effect for the public.",
+          "sources": ["MEW (Ministry of Electricity and Water) — 9 July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "CENTCOM third-day strikes (~170 cumulative targets over Jul 7–9); Iran Phase 2 retaliation expanded to Jordan (10 ballistic missiles, Al-Azraq). Conflict geographic footprint now spans from Strait of Hormuz to Levant, with Kuwait, Bahrain, Qatar, Jordan, and Iraq all drawn into the exchange.",
+          "sources": ["Gulf News — 9–10 July 2026", "RFERL — 9 July 2026", "NBC News — 9 July 2026"]
+        },
+        {
+          "text": "Diplomacy alive but fragile: US official confirmed technical nuclear talks continue; Pakistan and Qatar working to restore ceasefire channel. Mojtaba Khamenei still has not made a public appearance as of 10 July — leadership uncertainty keeps IRGC in maximum-autonomy mode; his first public statement is the most consequential Iranian signal of the crisis.",
+          "sources": ["CNN — 9 July 2026", "Gulf News — 10 July 2026", "Al Jazeera — 6–10 July 2026", "i24NEWS — 9 July 2026"]
+        },
+        {
+          "text": "Strait of Hormuz shipping at effective zero since 7 July. Goldman Sachs warned disruptions will set back regional crude recovery; TD Securities projects Brent +$10–15 over summer as inventories dwindle. Qatar's South Pars LNG ramp-up pause adds a supply-side shock.",
+          "sources": ["Al Jazeera/Lloyd's List — 10 July 2026", "Bloomberg — 9–10 July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Staff safety and BCP — maintain elevated readiness",
+          "text": "No new Kuwait attack in window; power restored. IRGC Phase 2 Jordan targeting demonstrates geographic escalation. Reconfirm next-of-kin lists and 24h contact protocols for Kuwait-based staff; maintain WFH/remote capacity; note Iraq border closed — land evacuation only via Saudi Arabia.",
+          "sources": ["RFERL — 9 July 2026", "Kuwait Times — 9 July 2026"]
+        },
+        {
+          "bold_heading": "Power grid — post-repair verification required",
+          "text": "All 7 lines restored, but the Jul 7–9 sequence proved interception shrapnel can take down multiple grid segments simultaneously. Run post-restoration audit: confirm UPS/generator integrity at all critical sites; re-verify cooling continuity for data centres that may have switched to generator during the outage window.",
+          "sources": ["Arab News — 9 July 2026", "Times Kuwait — 9 July 2026"]
+        },
+        {
+          "bold_heading": "Payment/SWIFT continuity — widened to Eastern Med",
+          "text": "Jordan's inclusion in IRGC Phase 2 strikes adds Eastern Mediterranean payment corridors to the risk map. Monitor SWIFT BIC connectivity for all GCC and Levant correspondents; validate alternate clearing pathways for time-sensitive settlements.",
+          "sources": ["RFERL — 9 July 2026", "Al Jazeera — 9–10 July 2026"]
+        },
+        {
+          "bold_heading": "Oil price — temporary pullback, summer upside risk",
+          "text": "Brent eased to $76.37 from $78.02 (Jul 8 close) as markets priced in partial diplomatic signals. TD Securities and Goldman Sachs both forecast upside pressure as summer inventories tighten. Review energy loan book mark-to-market; reassess oil-linked margin call positions on revised price curve.",
+          "sources": ["Al Jazeera — 10 July 2026", "Bloomberg — 9–10 July 2026"]
+        },
+        {
+          "bold_heading": "Sanctions exposure — Iran oil rush via dark fleet",
+          "text": "Bloomberg reports Iran rushed ~11M barrels of crude exports in 24–48h before potential US blockade reimposition. Increased dark-fleet transactions through Gulf SWIFT nodes elevate sanctions-evasion risk. Validate commodity trade finance counterparty screening against updated OFAC SDN lists.",
+          "sources": ["Bloomberg — 9 July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "War Risk Premia — 8–10× baseline; July 10 repricing expected",
+          "text": "Lloyd's market WRP for Hormuz transit now 8–10× pre-war baseline; per-voyage additional cost for a large vessel exceeds $400K–$600K. Following Jul 7–8 tanker attacks and subsequent shipping halt, underwriters will reprice on 10–11 July. Institutions with trade finance or commodity finance backed by Gulf-transit cargoes must confirm updated cover from brokers before next business day.",
+          "sources": ["Hormuz Strait Monitor — July 2026", "Bahrain Intelligence — July 2026", "Lloyd's List — July 2026"]
+        },
+        {
+          "bold_heading": "JWC Listed Areas — entire Arabian Gulf; no downgrade path",
+          "text": "Kuwait, Bahrain, Qatar, Oman remain JWC Listed Areas since 3 March. Shipping halt and renewed kinetic activity make Q4 2026 downgrade scenario implausible. Some H&M underwriters are issuing mid-term endorsements restricting Hormuz transit cover. Confirm war risk riders on all Gulf-transit trade finance collateral are in force and cover current Listed Area scope.",
+          "sources": ["Lloyd's/LMA JWC — 2026", "Bahrain Intelligence — July 2026"]
+        },
+        {
+          "bold_heading": "Qatar LNG ramp-up pause — cargo and receivables risk",
+          "text": "Qatargas paused South Pars LNG production expansion amid security risk. Institutions with LNG-indexed structured products, commodity finance, or receivables backed by Qatari supply chains should trigger contract review for force majeure provisions. IMO reports ~6,000 seafarers stranded in the Persian Gulf.",
+          "sources": ["Bloomberg — 9–10 July 2026", "Al Jazeera — 10 July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Renewed U.S.-Iran Strikes in Hormuz Threaten Energy Market Recovery",
+          "author": "Staff analysis",
+          "publication": "Foreign Policy",
+          "pub_date": "2026-07-08",
+          "access": "Paywall",
+          "summary": "Covers the structural collapse of the interim ceasefire — both parties accusing each other of violations while continuing strikes — with attention to energy market asymmetric risk: diplomatic re-engagement caps upside, but full Hormuz closure is the much larger downside. Notes the deal had no enforcement mechanism.",
+          "relevance": "Directly maps to oil price and Hormuz disruption dynamics affecting energy loan book, trade finance collateral, and commodity hedging; the 'no enforcement mechanism' point reinforces August 21 MoU expiry as a hard-deadline planning trigger.",
+          "link": "https://foreignpolicy.com/2026/07/08/energy-markets-oil-hormuz-us-iran-strikes/"
+        },
+        {
+          "title": "Iran Embraces a Forever War",
+          "author": "Mohammad Ayatollahi Tabaar",
+          "publication": "Foreign Affairs",
+          "pub_date": "2026-06-02",
+          "access": "Open",
+          "summary": "Tabaar argues Iran has concluded the war advances its multi-polar power status, and that diplomacy is only acceptable on Iran's terms ($24B upfront, 5-year enrichment cap). Iran will sustain low-grade conflict indefinitely rather than accept a structurally disadvantageous peace.",
+          "relevance": "The forever-war framework is the strategic backdrop against which the August 21 MoU expiry must be calibrated — not as a finish line but as a potential reset point for an indefinite conflict posture. Note: published 2 June 2026; extended per fallback protocol.",
+          "link": "https://www.foreignaffairs.com/iran/iran-embraces-forever-war"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "DDoS/defacement retaliation wave — 24–72h window elevated",
+          "text": "IRGC Phase 2 strikes (Jordan, 9 July) confirm kinetic escalation threshold met for a pro-Iran cyber proxy package. Established 2026 pattern: Handala, FAD Team, Cyber Islamic Resistance umbrella launch coordinated DDoS/defacement campaigns within 24–72h of multi-state kinetic events. Financial services is consistently the #2 target sector.",
+          "cve_ids": [],
+          "threat_actor": "Handala, FAD Team, Cyber Islamic Resistance",
+          "recommended_action": "Maintain enhanced SOC watch mode; pre-provision CDN/DDoS mitigation surge capacity; validate WAF rule updates; keep IR team on standby for activation before next business-day open.",
+          "sources": ["SOCRadar — 2026", "Halcyon AI — 2026", "Seqrite — 2026", "Unit 42 — 2026"],
+          "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/"
+        },
+        {
+          "bold_heading": "OT/SCADA post-repair monitoring gap — elevated",
+          "text": "Kuwait's 7 transmission lines restored, but emergency repair windows create periods of reduced OT monitoring coverage. CISA AA26-097a remains in force (Iranian APT targeting Rockwell/Allen-Bradley PLCs in energy and government sectors).",
+          "cve_ids": ["Multiple — see CISA AA26-097a"],
+          "threat_actor": "Iranian state-affiliated APT",
+          "recommended_action": "Post-repair, verify IT/OT segmentation integrity; confirm OT monitoring tools resumed telemetry; review any anomalous PLC access events during the emergency window (9 July 00:00–07:00 UTC+3).",
+          "sources": ["CISA AA26-097a — April 2026 standing", "Kuwait Times — 9 July 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "Seedworm/MuddyWater — new tasking cycle expected",
+          "text": "Iran's multi-state Phase 2 retaliation typically precedes a new Seedworm tasking wave within 48–72h; group remains active on financial sector and airport networks since February 2026. Gulf FIs with US correspondent banking relationships face lateral movement risk.",
+          "cve_ids": [],
+          "threat_actor": "Seedworm / MuddyWater (Iranian state-sponsored)",
+          "recommended_action": "Run EDR query for LOLBin indicators on endpoints connecting to US correspondents; review recent Seedworm IOCs (updated post-July 7); alert threat intel team.",
+          "sources": ["security.com — July 2026"],
+          "url": "https://www.security.com/threat-intelligence/iran-cyber-threat-activity-us"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Mojtaba Khamenei absent = expanded IRGC cyber autonomy",
+          "text": "New Supreme Leader has not made any public appearance since assuming office in March; IRGC commanders retain maximum delegated authority for offensive operations including cyber. Until Mojtaba asserts civilian oversight, the structural constraint on IRGC cyber escalation is absent.",
+          "threat_actor": "IRGC-affiliated APT groups (multiple)",
+          "assessed_likelihood": "High",
+          "sources": ["Al Jazeera — 6–10 July 2026", "i24NEWS — 9 July 2026", "CSIS — 2026"],
+          "url": "https://www.aljazeera.com/news/2026/7/6/khamenei-family-mourns-but-mojtabas-absence-fuels-public-insecurity"
+        },
+        {
+          "bold_heading": "Wiper capability — deployment threshold at lowest since conflict start",
+          "text": "Three-day kinetic exchange with five-state targeting removes residual diplomatic restraint on Iranian destructive cyber payloads. Qatar's mediation role damaged; Pakistan back-channel not yet established; no active diplomatic brake on IRGC cyber escalation. Handala, Druidfly, FAD Team retain confirmed wiper capability (BibiWiper, Hatef).",
+          "threat_actor": "Handala, Druidfly, FAD Team (Iran-affiliated)",
+          "assessed_likelihood": "Moderate–High",
+          "sources": ["Dark Reading — 2026", "SecurityWeek — 2026", "PBS News — 2026"],
+          "url": "https://www.darkreading.com/cyberattacks-data-breaches/iran-signed-ceasefire-hackers"
+        },
+        {
+          "bold_heading": "Iran oil-export rush — elevated SWIFT sanctions-evasion exposure",
+          "text": "Bloomberg reports Iran rushed ~11M barrels of crude exports in 24–48h before potential US blockade reimposition. Increased dark-fleet transactions through Gulf SWIFT nodes amplify both regulatory sanctions-violation risk and APT lateral movement risk for correspondent banks.",
+          "threat_actor": "Iranian state APT (Charming Kitten / APT35 and affiliated)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["Bloomberg — 9 July 2026", "SISA advisory — 2026", "Halcyon AI — 2026"],
+          "url": "https://www.bloomberg.com/news/articles/2026-07-09/iran-rushes-out-oil-exports-as-tensions-with-us-flare-again"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Mojtaba Khamenei's first public appearance",
+          "why_it_matters": "His emergence (or continued absence) is the most consequential Iranian signal in the conflict — appearance with IRGC commanders signals delegated war authority; civilian-format address signals negotiating pivot. Tasnim News Agency flagged a possible condolence ceremony this weekend.",
+          "related_section": "4 — Regional Context; 7B — Cyber Strategic"
+        },
+        {
+          "text": "Pakistan/Qatar diplomatic back-channel (48h window)",
+          "why_it_matters": "CNN confirmed both countries working to restore ceasefire. If a new format is established within 24–48h a brief de-escalation window opens; if Qatar's role is further damaged by IRGC activity, the channel collapses and August 21 becomes a hard-cliff transition.",
+          "related_section": "4 — Regional Context; 5 — Risk Signal; 5A — Insurance"
+        },
+        {
+          "text": "KWI airport — follow-up strike risk and NOTAM changes",
+          "why_it_matters": "EASA CZIB in force; Terminal 1 still damaged from June 3; IRGC has demonstrated intent to target Kuwaiti aviation infrastructure. A follow-up strike on KWI or extension of no-fly zones triggers immediate airport suspension and emergency staff travel protocols.",
+          "related_section": "1A — KWI status; 3 — Kuwait Local"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    {
+      "section": "1 — Alerts & Sirens",
+      "source_count": 2,
+      "confidence": "MEDIUM",
+      "note": "No new Kuwait alert confirmed after 07:00 UTC+3 on 9 July; prior window's overnight event well-sourced via KUNA and Anadolu Agency"
+    },
+    {
+      "section": "2 — Targets & Incidents",
+      "source_count": 5,
+      "confidence": "HIGH",
+      "note": "Jordan intercepts confirmed across RFERL, ANI, Jordan News, Times of Israel; CENTCOM strikes confirmed Gulf News/NBC; shipping halt confirmed Lloyd's List/Bloomberg/UK MTOO"
+    },
+    {
+      "section": "3 — Kuwait Local",
+      "source_count": 4,
+      "confidence": "HIGH",
+      "note": "Power restoration confirmed Kuwait Times, Arab News, Times Kuwait; UAE visit confirmed KUNA; border status consistent with prior reports"
+    },
+    {
+      "section": "4 — Regional Context",
+      "source_count": 4,
+      "confidence": "HIGH",
+      "note": "All major kinetic events confirmed; Mojtaba absence confirmed Al Jazeera; oil/LNG dynamics confirmed Bloomberg"
+    },
+    {
+      "section": "5 — Risk Signal",
+      "source_count": 4,
+      "confidence": "MEDIUM",
+      "note": "Financial risk extrapolated from confirmed kinetic/market data; sanctions item per Bloomberg single source [SINGLE SOURCE]"
+    },
+    {
+      "section": "5A — Insurance Risks",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "WRP 8-10× estimate from Hormuz Strait Monitor and Bahrain Intelligence; July 10 underwriter repricing not yet published at compilation time"
+    },
+    {
+      "section": "7A — Cyber Tactical",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "Pattern-based 24–72h projection; no confirmed new Gulf FS cyber incident in window; OT advisory is standing CISA guidance"
+    },
+    {
+      "section": "7B — Cyber Strategic",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "Mojtaba/IRGC autonomy assessment is analytical; wiper threat confirmed capability but deployment unconfirmed; oil rush item per Bloomberg single source [SINGLE SOURCE]"
+    }
+  ],
+  "footer": "Report #104 compiled 2026-07-10 at 07:30 UTC+3."
+}
