@@ -1,0 +1,416 @@
+{
+  "date": "2026-07-11",
+  "headline": "11 July 2026",
+  "subtitle": "Ceasefire Formally Declared Over; Mojtaba Khamenei Ceremony Watch; Hormuz Near-Halt Continues",
+  "report_number": "105",
+  "coverage": "10 July 2026 07:00 UTC+3 – 11 July 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-07-11",
+    "metrics": [
+      {
+        "metric": "Missile/drone interceptions (24h)",
+        "today": "0 (Kuwait; NR region)",
+        "previous": "8 (Jordan; 0 Kuwait confirmed)",
+        "delta": "-8",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "Debris reports (cumulative)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "N/A",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "Brent crude ($/bbl)",
+        "today": "76.30",
+        "previous": "76.37",
+        "delta": "-0.07",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "WTI crude ($/bbl)",
+        "today": "71.84",
+        "previous": "~73.13",
+        "delta": "~-1.29",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "Strait of Hormuz transits/day",
+        "today": "~5-10 (large vessels: near-halt)",
+        "previous": "~5 (effective halt)",
+        "delta": "N/A",
+        "trend_7d": "↓"
+      },
+      {
+        "metric": "Infrastructure items damaged (cumulative)",
+        "today": "7 (all restored)",
+        "previous": "7 (all restored)",
+        "delta": "0",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "KWI airport status",
+        "today": "Partial",
+        "previous": "Partial",
+        "delta": "No change",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Kuwait AQI (PM2.5)",
+        "today": "~51",
+        "today_label": "Moderate",
+        "previous": "NR",
+        "previous_label": null,
+        "delta": "N/A",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "Days since last confirmed cyber incident (Gulf FS)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "N/A",
+        "trend_7d": "Insufficient data"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "No alerts in this 24-hour window",
+          "text": "No air raid alerts or civil defense sirens reported in Kuwait between July 10 07:00 UTC+3 and July 11 07:00 UTC+3. The overnight event covered in Report #103 (July 9, 03:40 UTC+3 — 3 ballistic missiles, 1 cruise missile, 10 drones intercepted) falls outside the current window. MOD/MOI standing precautionary advisory remains in effect.",
+          "sources": ["KUNA", "Kuwait Ministry of Defence — July 10-11, 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "No confirmed new attacks on Kuwait or Gulf states in this window",
+          "text": "No new physical attack on Gulf state territory confirmed between July 10 07:00 UTC+3 and July 11 07:00 UTC+3. The July 8-9 IRGC Phase 2 strikes were covered in Reports #103-104.",
+          "sources": ["KUNA", "RFERL", "Al Jazeera — monitoring ongoing"]
+        },
+        {
+          "bold_heading": "CENTCOM — additional round of strikes on Iran (July 9-10)",
+          "text": "US Central Command confirmed an additional strike wave beyond the July 9 ~90-target cycle, targeting Iranian coastal air defense, surveillance assets, missile and drone storage, and naval logistics infrastructure. Cumulative US strike count approximately 260 targets across four days (Jul 7-10). No confirmed IRGC retaliatory kinetic response in this window. [SINGLE SOURCE]",
+          "sources": ["CENTCOM public release — July 10, 2026"]
+        },
+        {
+          "bold_heading": "Strait of Hormuz — large vessel near-halt continues",
+          "text": "No large vessel (>10,000 dwt) AIS-broadcast transit confirmed since July 7. Approximately 5-10 small vessels per day crossing via the Oman coastal corridor, compared to ~130/day pre-conflict baseline. Iran and the US continue to contest routing authority.",
+          "sources": ["Lloyd's List Intelligence", "Al Jazeera", "Hormuz Strait Monitor — July 10, 2026"]
+        },
+        {
+          "bold_heading": "KWI Airport — no new strike; disruption continues",
+          "text": "Terminal 1 remains under repair (struck June 3). Terminals 4/5 operational for Kuwait Airways and Jazeera Airways only. EASA CZIB (July 8): Kuwait FIR no overflights; OKKK with prior approval only through August 31, 2026.",
+          "sources": ["EASA CZIB", "Arab Times — July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Security advisory",
+          "text": "MOD/MOI standing precautionary advisory in effect. No new emergency broadcast in this window. Public guidance: seek shelter if sirens sound; avoid sharing imagery of impact sites.",
+          "sources": ["KUNA", "Kuwait MOD — ongoing"]
+        },
+        {
+          "bold_heading": "Power grid",
+          "text": "MEW confirms all districts receiving normal supply following completion of July 9 repairs to 7 damaged overhead transmission lines. Institutions should verify UPS/generator systems have switched back to grid and complete post-restoration cooling checks for data centres.",
+          "sources": ["Kuwait Times", "Times Kuwait — July 9-10, 2026"]
+        },
+        {
+          "bold_heading": "Airport (KWI)",
+          "text": "Partial. Terminals 4/5 operational; Terminal 1 under repair from June 3 strike. Kuwait Airways and Jazeera Airways operating; international carriers on reduced schedules. EASA CZIB in force through August 31.",
+          "sources": ["EASA", "Arab Times — July 2026"]
+        },
+        {
+          "bold_heading": "Ports",
+          "text": "Shuaiba and Shuwaikh at ISPS Level 2; commercial port operations continuing. Freight delays expected given regional shipping disruptions. No new port incidents in this window.",
+          "sources": ["Lloyd's List Middle East Port Update — July 10, 2026"]
+        },
+        {
+          "bold_heading": "Borders",
+          "text": "Saudi Arabia crossing (Salmy/Nuwaisib) open; expect delays. Iraq crossing (Safwan/Abdali) restricted/closed — no change. Only Saudi land route viable for ground evacuation planning.",
+          "sources": ["US Embassy Kuwait travel advisories — ongoing"]
+        },
+        {
+          "bold_heading": "Schools/essential services",
+          "text": "Summer recess; no school closures. MEW confirms water and power supply normal across all districts. No public event restrictions reported in this window.",
+          "sources": ["Kuwait government advisories — July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "Ceasefire formally over; back-channel preserved",
+          "text": "Trump stated the ceasefire is 'over' but confirmed Iran requested continued talks and the US agreed. Pakistan and Qatar are working to schedule the next mediation round; next meeting set for 'earliest possible time' — no date confirmed. August 21 MoU expiry remains the next hard planning horizon.",
+          "sources": ["Bloomberg", "NBC News", "CBS News — July 10, 2026"]
+        },
+        {
+          "bold_heading": "Mojtaba Khamenei — condolence ceremony at Qom announced for July 11 [TIMESTAMP UNCONFIRMED]",
+          "text": "Iranian state media announced a condolence ceremony at the Hazrat Masumeh shrine in Qom on Saturday (July 11, after Maghrib prayers), with reports that Mojtaba would lead — his first potential public appearance since March 2026. His continued absence has left IRGC commanders with maximum delegated authority. An appearance or non-appearance both carry strategic significance.",
+          "sources": ["Bloomberg", "Tribune India", "ANI News — July 10, 2026"]
+        },
+        {
+          "bold_heading": "US-Iran strategic stalemate deepening",
+          "text": "Iran has formally adopted Hormuz control as a primary deterrent. US strikes degrade IRGC coastal capability but have not altered Iranian resolve. Conflict's geographic expansion to Kuwait, Bahrain, Qatar, and Jordan reflects deliberate IRGC signalling to raise costs on US regional partners.",
+          "sources": ["Foreign Affairs", "Al Jazeera", "RFERL — July 9-10, 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Oil price — stabilising; summer upside risk persists",
+          "text": "Brent at $76.30 (Jul 10 close), flat from Jul 9 ($76.37); WTI at $71.84, down ~$1.29 from prior intraday. Weekly gain ~3.5% driven by Hormuz disruption. 'Ceasefire over' removes near-term diplomatic relief. TD Securities and Goldman Sachs project +$10-15 upside through summer. Reassess oil loan book mark-to-market; review energy-linked margin call triggers.",
+          "sources": ["Forbes", "TradingEconomics", "Bloomberg — July 10, 2026"]
+        },
+        {
+          "bold_heading": "Staff safety — no new attack; elevated posture maintained",
+          "text": "No new Kuwait kinetic event in this window. IRGC multi-GCC targeting capability demonstrated and Trump's continued strike posture keep threat environment elevated. Confirm staff emergency contact lists and next-of-kin protocols are current. Iraq land border closed; Saudi route is the only viable ground option.",
+          "sources": ["KUNA", "US Embassy Kuwait — July 10-11, 2026"]
+        },
+        {
+          "bold_heading": "Payment continuity — ceasefire collapse restores conflict-baseline risk",
+          "text": "No active ceasefire means payment corridor predictability has been reset. Validate SWIFT BIC connectivity for all GCC and Levant correspondents; identify and pre-test alternate clearing pathways for time-sensitive settlements.",
+          "sources": ["Bloomberg", "Al Jazeera — July 9-10, 2026"]
+        },
+        {
+          "bold_heading": "Cyber — DDoS/defacement wave risk in 24-72h window",
+          "text": "Established 2026 pattern: Handala, FAD Team, and Cyber Islamic Resistance launch coordinated DDoS/defacement within 72h of major IRGC kinetic events. The July 9 Phase 2 strikes opened this window, closing approximately July 12. Financial services is consistently the #2 targeted sector. Maintain enhanced SOC posture.",
+          "sources": ["SOCRadar", "Halcyon AI — ongoing 2026"]
+        },
+        {
+          "bold_heading": "Sanctions — Iran oil export rush elevates correspondent bank exposure",
+          "text": "Bloomberg confirmed Iran rushed ~11M barrels of crude exports in 24-48h ahead of potential US naval blockade. Dark-fleet and front-company transactions through Gulf SWIFT nodes amplify OFAC sanctions-evasion risk. Validate commodity trade finance counterparty screening against the most recent OFAC SDN list.",
+          "sources": ["Bloomberg — July 9, 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "WRP at 8-10× baseline; active repricing underway",
+          "text": "War risk premia for Hormuz transit remain 8-10× pre-conflict baseline ($400K-$600K+ per voyage for large vessels). Lloyd's Chubb-led consortium ($200M H&M + $200M cargo capacity) being drawn upon as underwriters reprice following July 7-9 tanker attacks. Trade finance teams must confirm updated WRP levels with brokers before end of business Monday July 14.",
+          "sources": ["Insurance Journal", "Hormuz Strait Monitor", "Fairway ETA — July 2026"]
+        },
+        {
+          "bold_heading": "JWC Listed Areas — all GCC waters; no credible downgrade before Q1 2027",
+          "text": "Kuwait, Bahrain, Qatar, and Oman remain on JWC Listed Areas (in force since March 3). The July 7-9 attack cycle makes any Q4 2026 downgrade scenario materially less likely. H&M underwriters issuing mid-term endorsements restricting Gulf transit cover. Confirm all trade finance collateral has current war risk riders in force.",
+          "sources": ["LMA/Lloyd's", "Fairway ETA — July 2026"]
+        },
+        {
+          "bold_heading": "~6,000 seafarers stranded; lay-up and force majeure obligations",
+          "text": "IMO reports approximately 6,000 seafarers stranded in the Persian Gulf as large vessel transit halts. Institutions with shipping finance exposure face escalating lay-up costs and crew welfare liability. Trigger force majeure contract reviews for LNG and crude delivery contracts backed by Gulf-transit counterparties.",
+          "sources": ["Bloomberg", "Al Jazeera — July 9-10, 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Iran's New Grand Strategy: How a Remade Islamic Republic Will Reshape the Middle East",
+          "author": "Staff analysis",
+          "publication": "Foreign Affairs",
+          "pub_date": "2026-07-10",
+          "access": "Paywall",
+          "summary": "Argues Iran has formally adopted Hormuz control as its primary strategic deterrent — using the strait as an economic lever to establish strategic parity with the US. Iran will engage diplomatically only when both sides agree to lift their respective chokeholds; Trump's naval blockade reinforced, rather than undermined, this posture.",
+          "relevance": "The 'dual chokehold' framing resets August 21 MoU expiry as a mutual negotiating moment rather than a US-favorable deadline; Hormuz disruption is a structural feature of this conflict, not a transient pressure tactic.",
+          "link": "https://www.foreignaffairs.com/iran/irans-new-grand-strategy"
+        },
+        {
+          "title": "The Insurance Weapon: How Commercial Risk Logic Became an Irregular Warfare Tool at Hormuz",
+          "author": "Not attributed",
+          "publication": "Irregular Warfare Center",
+          "pub_date": "2026-07",
+          "access": "Open",
+          "summary": "Examines how JWC Listed Areas, war risk premia, and P&I club advisories function as an 'invisible blockade' — Iran has weaponized commercial insurance market dynamics to achieve maritime access denial without kinetic action on every vessel. JWC delisting, not military de-escalation, is the operative unlock condition for Gulf shipping recovery.",
+          "relevance": "Frames the Section 5A risk with precision: de-escalation alone does not restore trade finance collateral value or reduce WRP — insurance market timelines are independent of the diplomatic calendar.",
+          "link": "https://irregularwarfare.org/articles/insurance-weapon-irregular-warfare-hormuz/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "DDoS/defacement wave risk — elevated through July 12",
+          "text": "Handala, FAD Team, and Cyber Islamic Resistance umbrella maintain 24-72h post-kinetic DDoS/defacement pattern. The July 9 IRGC Phase 2 multi-state strikes opened this window; closes approximately July 12. No confirmed new Gulf FS incident in this window but risk remains active. Financial services is consistently the #2 target sector.",
+          "cve_ids": [],
+          "threat_actor": "Handala, FAD Team, Cyber Islamic Resistance",
+          "recommended_action": "Maintain enhanced SOC watch mode through July 12; pre-provision CDN/DDoS mitigation surge capacity; validate WAF rule currency; IR team on standby before next business-day open.",
+          "sources": ["SOCRadar", "Halcyon AI — ongoing 2026"],
+          "url": "https://socradar.io/blog/handala-hack-us-doxxing-troop-bahrain/"
+        },
+        {
+          "bold_heading": "MuddyWater/Seedworm — active multi-continent campaign; Gulf FS in scope",
+          "text": "WatchGuard confirmed MuddyWater espionage campaign targeting organisations across four continents including Gulf financial entities. TTPs: DLL side-loading via signed binaries (Fortemedia, SentinelOne), Node.js malicious script orchestration, ChromElevator credential harvester (Chrome App-Bound Encryption bypass), exfiltration via sendit.sh.",
+          "cve_ids": [],
+          "threat_actor": "MuddyWater/Seedworm (Iranian state-sponsored, MOIS)",
+          "recommended_action": "Hunt for unsigned DLL loads from signed-binary directories in EDR; block sendit.sh at web proxy; review Chrome credential store access events for anomalies; update MuddyWater IOC set from WatchGuard/security.com.",
+          "sources": ["IT Security Guru", "The Hacker News — July 1-10, 2026"],
+          "url": "https://www.itsecurityguru.org/2026/07/01/iran-linked-muddywater-espionage-campaign-targets-organisations-across-four-continents/"
+        },
+        {
+          "bold_heading": "CISA AA26-097a — OT/SCADA standing advisory; post-repair monitoring gap",
+          "text": "Iranian APT targeting of Rockwell/Allen-Bradley PLCs remains in force per CISA AA26-097a. The July 9 Kuwait transmission line emergency repair window (00:00-07:00 UTC+3) created a period of reduced OT monitoring coverage and increased physical substation access.",
+          "cve_ids": ["Multiple — see CISA AA26-097a"],
+          "threat_actor": "Iranian state-affiliated APT",
+          "recommended_action": "Verify IT/OT segmentation integrity post-repair; confirm OT monitoring tools have resumed full telemetry; review anomalous PLC access events during the July 9 repair window; escalate anomalies to CIRT before next business day.",
+          "sources": ["CISA AA26-097a — April 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "IRGC cyber autonomy — structural leadership gap persists",
+          "text": "Mojtaba Khamenei has made no confirmed public appearance since assuming office in March 2026. The Qom condolence ceremony (July 11) is the first formal test of whether civilian leadership authority will be reasserted. Until it is, IRGC commanders retain maximum delegated authority for offensive cyber operations with no political-level constraint on escalatory action.",
+          "threat_actor": "IRGC-affiliated APT groups (Charming Kitten/APT35, Druidfly, FAD Team)",
+          "assessed_likelihood": "High",
+          "sources": ["Bloomberg", "Al Jazeera", "CSIS — July 10, 2026"],
+          "url": "https://www.bloomberg.com/news/articles/2026-07-10/iran-supreme-leader-to-hold-memorial-ceremony-for-slain-father-mrf1pwnj"
+        },
+        {
+          "bold_heading": "Wiper deployment threshold at near-lowest since conflict start",
+          "text": "Ceasefire formally declared 'over'; Qatar's mediation role strained; no active diplomatic brake on IRGC escalatory cyber operations currently in place. Handala, Druidfly, and FAD Team retain confirmed wiper capability (BibiWiper, Hatef variants) deployed since April 2026. Assessment unchanged from Report #104: Moderate-High.",
+          "threat_actor": "Handala, Druidfly, FAD Team (Iran-affiliated)",
+          "assessed_likelihood": "Moderate-High",
+          "sources": ["Dark Reading", "Hivepro — 2026"],
+          "url": "https://www.hivepro.com/threat-advisory/handala-claims-destructive-wiper-attack-on-gcc-nations-critical-infrastructure"
+        },
+        {
+          "bold_heading": "Iran oil export rush — SWIFT-level and APT lateral movement exposure",
+          "text": "Bloomberg confirmed Iran rushed ~11M barrels of crude exports in 24-48h. Elevated dark-fleet transaction volumes through Gulf SWIFT nodes amplify both sanctions-evasion regulatory risk and Iranian APT lateral movement exposure. Iran-linked actors known to embed within financial transaction data flows for intelligence collection.",
+          "threat_actor": "Charming Kitten/APT35 and affiliated (Iranian state)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["Bloomberg — July 9, 2026", "SISA advisory — July 2026"],
+          "url": "https://www.sisainfosec.com/blogs/threat-advisory-elevated-cyber-risk-to-the-payments-ecosystem-amid-israel-us-iran-conflict-escalation/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Mojtaba Khamenei at Qom condolence ceremony (July 11, after Maghrib prayers)",
+          "why_it_matters": "His appearance or confirmed non-appearance is the single most consequential Iranian political signal of the conflict — determines whether civilian leadership authority is reasserted over IRGC and affects escalation trajectory.",
+          "related_section": "4 (Regional Context), 7B (Cyber Strategic)"
+        },
+        {
+          "text": "Pakistan/Qatar back-channel — next meeting date announcement",
+          "why_it_matters": "Both mediators confirmed intent to schedule talks at earliest possible time; any announcement within 24h would reduce near-term escalation risk and affect JWC insurance outlook; absence of announcement by July 12 signals MoU framework collapse risk.",
+          "related_section": "4 (Regional Context), 5 (Risk Signal), 5A (Insurance)"
+        },
+        {
+          "text": "Hormuz large vessel transit count (Lloyd's List, July 12 morning)",
+          "why_it_matters": "Whether the ~5-10/day figure holds or drops further will determine whether Brent breaks above $80 next week; any resumption of large-vessel AIS-confirmed transits would be the first indicator of meaningful de-escalation.",
+          "related_section": "1A (Trend Tracker), 2 (Targets & Incidents), 5A (Insurance)"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    {
+      "section": "1 — Alerts & Sirens",
+      "source_count": 2,
+      "confidence": "HIGH",
+      "note": "No new Kuwait alert confirmed in window; prior events covered in Reports #103-104"
+    },
+    {
+      "section": "2 — Targets & Incidents",
+      "source_count": 4,
+      "confidence": "HIGH",
+      "note": "No new Gulf attacks confirmed in window; CENTCOM additional strikes noted as SINGLE SOURCE"
+    },
+    {
+      "section": "3 — Kuwait Local",
+      "source_count": 3,
+      "confidence": "HIGH",
+      "note": "Consistent with prior reports; no new developments in this window"
+    },
+    {
+      "section": "4 — Regional Context",
+      "source_count": 4,
+      "confidence": "MEDIUM",
+      "note": "Mojtaba ceremony marked TIMESTAMP UNCONFIRMED; outcome not yet verifiable at compilation time"
+    },
+    {
+      "section": "5 — Risk Signal",
+      "source_count": 4,
+      "confidence": "MEDIUM",
+      "note": "Financial risk extrapolated from confirmed kinetic/market data; oil prices from Jul 10 close"
+    },
+    {
+      "section": "5A — Insurance Risks",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "WRP 8-10x estimate; Jul 14 repricing not yet published; Q4 downgrade scenario now materially less likely"
+    },
+    {
+      "section": "7A — Cyber Tactical",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "DDoS risk pattern-based; no confirmed new Gulf FS cyber incident in window; OT advisory is standing"
+    },
+    {
+      "section": "7B — Cyber Strategic",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "IRGC autonomy assessment analytical; wiper capability confirmed, deployment unconfirmed; Mojtaba ceremony outcome pending"
+    }
+  ],
+  "footer": "Report #105 compiled 2026-07-11 at 07:30 UTC+3."
+}
