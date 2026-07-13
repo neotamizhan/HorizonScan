@@ -1,0 +1,331 @@
+{
+  "date": "2026-07-13",
+  "headline": "13 July 2026",
+  "subtitle": "Iran's Widest Gulf Strike — Four States Hit; Kuwait Infrastructure Struck",
+  "report_number": "107",
+  "coverage": "12 July 2026 07:00 UTC+3 – 13 July 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-07-13",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "79.12", "previous": "76.01", "delta": "+3.11", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "73.06", "previous": "71.41", "delta": "+1.65", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~34 (IRGC decl. closed)", "previous": "~34 (IRGC decl. closed)", "delta": "0", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "11", "previous": "7", "delta": "+4", "trend_7d": "↑" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "82", "today_label": "Moderate", "previous": "163", "previous_label": "Unhealthy", "delta": "-81", "trend_7d": "↓" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "Civil defense emergency alert — 12 July 2026, approx. 02:00–03:30 UTC+3",
+          "text": "Iran launched its geographically broadest single-night Gulf strike, targeting Kuwait, Bahrain, Qatar, and UAE simultaneously. Kuwait's Civil Defense broadcast emergency alerts to mobile phones warning of \"imminent danger,\" instructing the public to remain in safe locations and away from windows. Air raid sirens activated nationwide.",
+          "sources": ["Arab Times Online, 12 July 2026", "Kuwait Times, 12 July 2026", "Anadolu Agency, 12 July 2026"]
+        },
+        {
+          "bold_heading": "Kuwait Armed Forces General Staff statement (via KUNA)",
+          "text": "Confirmed air defense systems actively intercepting hostile aerial targets; stated explosions heard were results of interception operations. Public urged to follow safety instructions from competent authorities.",
+          "sources": ["KUNA via iran.liveuamap.com, 12 July 2026"]
+        },
+        {
+          "text": "No additional civil defense alerts reported between 03:30 UTC+3 (12 July) and 07:00 UTC+3 (13 July). Monitoring @MOIKuwait and KUNA for follow-on advisories.",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Kuwait — Ali Al Salem Air Base, approx. 02:00–03:30 UTC+3, 12 July 2026",
+          "text": "IRGC claimed complete destruction of fuel storage tanks and Patriot air defense systems. CENTCOM stated all missiles/drones defeated. Satellite imagery (Soar Atlas) shows destroyed shelter and charred areas with impact craters — ground effects likely despite interception claims. Ahmad Al Jaber Air Base also targeted; IRGC claimed FPS radar damage. No US casualties reported. [SINGLE SOURCE — satellite imagery disputed by CENTCOM]",
+          "sources": ["Times of Israel liveblog, 13 July 2026", "CNN live updates, 12 July 2026", "Middle East Eye, 12 July 2026"]
+        },
+        {
+          "bold_heading": "Kuwait — 3 northern land border posts, 12 July 2026",
+          "text": "Kuwait Ministry of Defense confirmed three northern border centres struck in a 'hostile, criminal attack,' causing material damage. Kuwait did not publicly attribute the attack to Iran.",
+          "sources": ["Arab Times Online, 12 July 2026", "Arab News, 12 July 2026", "Khaleej Times, 12 July 2026"]
+        },
+        {
+          "bold_heading": "Kuwait — KOC offshore drilling rig, 12 July 2026 [SINGLE SOURCE]",
+          "text": "Hostile drone struck a Kuwait Oil Company offshore drilling platform in Kuwaiti territorial waters, causing material damage and injuring one worker (receiving medical treatment).",
+          "sources": ["Kuwait MOD via Arab Times Online, 12 July 2026", "Times Kuwait, 12 July 2026", "Maritime Executive, 12 July 2026"]
+        },
+        {
+          "bold_heading": "Bahrain — Fifth Fleet HQ (Port Salman), 12 July 2026",
+          "text": "IRGC targeted US Navy Fifth Fleet headquarters; air raid sirens sounded three times. Damage unconfirmed by official US or Bahraini statements.",
+          "sources": ["Euronews, 12 July 2026", "PBS NewsHour, 12 July 2026"]
+        },
+        {
+          "bold_heading": "Qatar — Al-Udeid Air Base, 12 July 2026",
+          "text": "IRGC fired ballistic missiles at CENTCOM forward HQ; claimed destruction of fighter-aircraft maintenance hub and command facilities. Qatar and US have not confirmed damage.",
+          "sources": ["Arab News, 12 July 2026", "Al Jazeera, 12 July 2026"]
+        },
+        {
+          "bold_heading": "BeiDou-3 guidance system — regional threat evolution [SINGLE SOURCE]",
+          "text": "Iran's July 12 strikes reportedly used Zolfaghar ballistic missiles guided by China's BeiDou-3 military-grade B3A satellite signal, maintaining ~98% accuracy under US GPS jamming — effectively defeating GPS-denial countermeasures. Unconfirmed by US DOD.",
+          "sources": ["TechTimes, 12 July 2026"]
+        },
+        {
+          "bold_heading": "Strait of Hormuz — ongoing",
+          "text": "IRGC formal closure declaration (11 July) remains in effect. Commercial traffic at ~34 vessels/day vs. ~88/day pre-crisis baseline (39%). Cyprus-flagged container ship attacked July 6–7 triggered latest US strike cycle.",
+          "sources": ["straits.live Day-134 tracker", "IMF PortWatch", "Bloomberg, 11–12 July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Civil Defense / MOI",
+          "text": "Emergency mobile alerts issued during overnight attack (02:00–03:30 UTC+3, 12 July). MOI states national security remains stable under 24-hour monitoring. No further shelter-in-place orders as of 07:00 UTC+3, 13 July.",
+          "sources": ["Anadolu Agency, 12 July 2026", "Kuwait Times, 12 July 2026", "MOI Kuwait, 12 July 2026"]
+        },
+        {
+          "bold_heading": "KWI Airport",
+          "text": "Operating at ~20% of pre-crisis capacity; Terminal 1 remains closed (June 3 damage). Kuwait Airways and Jazeera Airways operating from Terminals 4 and 5. July 13 specific flight data not published at compilation time; expect continuation of cancellation/delay pattern.",
+          "sources": ["Travel and Tour World, July 2026", "Sunday Guardian Live, July 2026", "ConnectingTravel, July 2026"]
+        },
+        {
+          "bold_heading": "Ports and supply chain",
+          "text": "Shuaiba and Shuwaikh ports operational at ISPS Security Level 2. Saudi land bridge (Al-Khafji, Al-Ruqai crossings) operating normally; thousands of trucks per week. No confirmed panic buying or essential-goods shortage.",
+          "sources": ["GAC operational update, July 2026", "Inchcape Shipping Services, July 2026", "Kuwait Times, July 2026"]
+        },
+        {
+          "bold_heading": "Northern border crossings",
+          "text": "Three northern border posts confirmed struck (material damage). Operational status of those specific Iraqi-border crossings unclear. Saudi border crossings unaffected.",
+          "sources": ["Arab Times Online, 12 July 2026", "Kuwait Mart supply chain report, July 2026"]
+        },
+        {
+          "bold_heading": "Air quality",
+          "text": "Kuwait City AQI improved to 82 (Moderate) per IQAir, down sharply from 163 (Unhealthy) on 12 July. No new dust/smoke event reported.",
+          "sources": ["IQAir / WAQI Kuwait City, 13 July 2026"]
+        },
+        {
+          "text": "Schools: No new closure orders. Physical schooling restored per May 3 cabinet decision; standard security advisory in effect.",
+          "sources": ["Gulf Business education update, 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "Iran executed the geographically broadest single-night Gulf strike of the war on July 12, simultaneously targeting US military installations in Kuwait, Bahrain, Qatar, and UAE/Jordan. The June 17 MoU ceasefire is functionally void; Trump declared it 'OVER' on July 10 while agreeing to continue technical talks.",
+          "sources": ["Al Jazeera, July 10–12, 2026", "CBS News, July 10–12, 2026", "PBS NewsHour, July 12, 2026"]
+        },
+        {
+          "text": "Iran's use of BeiDou-3-guided Zolfaghar ballistic missiles represents a significant capability escalation, degrading US GPS-jamming countermeasures. Qatar, Pakistan, and Oman actively mediating; US publicly demands Iran declare Hormuz open, forswear tolls, and end vessel attacks as preconditions for resumed talks.",
+          "sources": ["CBS News, July 10–12, 2026", "Al Jazeera, July 11–12, 2026", "TechTimes, 12 July 2026"]
+        },
+        {
+          "text": "Strait of Hormuz transits remain at ~39% of pre-crisis baseline. Oman has drafted a tentative corridor management proposal; no agreement reached. Any confirmed IRGC physical vessel seizure would be the next major escalation trigger.",
+          "sources": ["Bloomberg, July 11–12, 2026", "straits.live", "Al Jazeera, July 11–12, 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Business continuity",
+          "text": "KWI at ~20% capacity; land routes via Saudi remain most reliable exit alternative. Staff near northern Kuwait, coastal infrastructure, or Ali Al Salem/Ahmad Al Jaber corridors should maintain active shelter-in-place readiness. Pre-dawn hours (02:00–03:30 UTC+3) remain highest-risk window based on overnight attack pattern.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Staff safety",
+          "text": "Iran's July 12 strike hit Kuwait, Bahrain, Qatar, and UAE simultaneously — the most geographically extensive single attack of the conflict. Emergency warden protocols and staff accountability procedures should be revalidated immediately.",
+          "sources": ["Al Jazeera, 12 July 2026", "Euronews, 12 July 2026"]
+        },
+        {
+          "bold_heading": "Payment systems / FX exposure",
+          "text": "Brent surged 4.1% to $79.12; energy-linked correspondent banking relationships face intensified pressure. Monitor USD/KWD and USD/SAR corridors for stress signals. Trade finance with Hormuz-linked commodity flows requires enhanced due diligence given P&I cover effectively unavailable at normal rates.",
+          "sources": ["Investing.com, 13 July 2026", "Lloyd's List, July 2026"]
+        },
+        {
+          "bold_heading": "Cyber — sustained elevated threat posture",
+          "text": "No new tactical advisory in past 24h; CISA aa26-097a and UAE Cybersecurity Council July 3 alert remain active. Iran's BeiDou-3 capability signals willingness to leverage advanced technical partners; expect corresponding cyber escalation. Validate MFA and endpoint controls ahead of Monday 13 July business hours.",
+          "sources": ["CISA aa26-097a, 7 April 2026", "UAE Cybersecurity Council, 3 July 2026"]
+        },
+        {
+          "bold_heading": "Sanctions / compliance watch",
+          "text": "US-reimposed Iran oil sanctions in effect; IRGC formal Hormuz closure declaration triggers policy exclusion clauses in cargo and trade finance insurance. Refresh OFAC screening; verify all Hormuz-linked shipping and commodity trade counterparties remain sanctions-clear.",
+          "sources": ["OFAC, 2026", "Insurance Business Mag, July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "War Risk Premia (WRP)",
+          "text": "Gulf war risk premiums are 'topping double-digit millions per trip' (Lloyd's List, July 2026), at 8–10× pre-war baseline. Iran's July 12 four-state strike and the IRGC formal Hormuz closure declaration will drive further upward pressure when underwriters re-rate Monday markets.",
+          "sources": ["Lloyd's List, July 2026", "Dubai Cargos Hormuz brief, 2026", "Hormuz Strait Monitor, 2026"]
+        },
+        {
+          "bold_heading": "JWC Listed Areas / P&I",
+          "text": "JWC Listed Area designation covers the entire Persian Gulf (in effect since early 2026). The July 12 multi-state strike constitutes a material change-in-risk event requiring vessel owners to notify lead underwriters within 48–72h. Standard cargo insurance for Hormuz-transiting vessels remains effectively unobtainable at normal rates.",
+          "sources": ["LMA Lloyd's, 2026", "gCaptain, 2026", "Insurance Business Mag, 2026"]
+        },
+        {
+          "bold_heading": "Offshore energy infrastructure risk",
+          "text": "Kuwait Oil Company's offshore drilling rig struck by hostile drone July 12 — the first confirmed Iranian drone strike on Kuwait's offshore energy sector in this conflict cycle. Institutions with KPC/KOC-linked trade finance or energy project insurance exposure should flag for immediate review.",
+          "sources": ["Arab Times Online, 12 July 2026", "Maritime Executive, 12 July 2026", "Arab News, 12 July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Iran, the Ceasefire and the Gulf: What Comes Next",
+          "author": "Chatham House panel",
+          "publication": "Chatham House",
+          "pub_date": "2026-07-13",
+          "access": "Open (event summary)",
+          "summary": "Chatham House convened a panel on July 13 to assess how the war has affected Iran's diplomacy, security outlook, and internal politics post-ceasefire collapse. Analysis holds that Iran will seek to rebuild deterrence around the Hormuz threat regardless of deal terms, and that the Gulf's security architecture has permanently shifted from the pre-February 2026 baseline.",
+          "relevance": "Provides institutional-grade framing for the new Gulf equilibrium; directly relevant for 30–90 day scenario planning.",
+          "link": "https://www.chathamhouse.org/events/all/standard-event/iran-ceasefire-and-gulf-what-comes-next"
+        },
+        {
+          "title": "As War With Iran Rages, the Axis of Resistance Is in Survival Mode",
+          "author": "War on the Rocks (author unconfirmed)",
+          "publication": "War on the Rocks",
+          "pub_date": "2026-07",
+          "access": "Paywall (members)",
+          "summary": "Analysis argues Iran's proxy network (Axis of Resistance) has been strategically degraded and is now in survival rather than expansion posture; Iran's direct Gulf strikes partly compensate for this proxy attrition. Situates BeiDou-3 shift and multi-state strike doctrine within Iran's strategy of raising the cost of US Gulf presence.",
+          "relevance": "Explains why Iran is targeting GCC states directly rather than through proxies — critical for modeling escalation triggers.",
+          "link": "https://warontherocks.com/as-war-with-iran-rages-the-axis-of-resistance-is-in-survival-mode/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "Iranian-linked AI-enhanced phishing and malware campaign — Gulf financial sector",
+          "text": "UAE Cybersecurity Council confirmed July 3 it thwarted a coordinated AI-enhanced attack on UAE financial institutions. With Iran's July 12 escalation, follow-on cyber actions within 24–72h are assessed as plausible.",
+          "cve_ids": [],
+          "threat_actor": "Iranian-affiliated (unnamed by UAE authorities)",
+          "recommended_action": "Validate phishing-resistant MFA on all internet-facing financial systems; refresh SIEM alert rules for IOCs from UAE CIRT and CISA aa26-097a.",
+          "sources": ["UAE Cybersecurity Council, 3 July 2026", "The National, 3 July 2026"],
+          "url": "https://www.thenationalnews.com/news/uae/2026/07/03/uae-thwarts-wave-of-sophisticated-cyber-attacks-on-financial-sector/"
+        },
+        {
+          "bold_heading": "PLC/ICS exploitation — Gulf critical infrastructure (CISA aa26-097a, active)",
+          "text": "CISA/FBI/NSA joint advisory documents Iranian-affiliated APT active exploitation of PLCs across energy and government critical infrastructure. Given Iran's drone strike on KOC offshore rig (July 12), combined physical-cyber attack vectors against energy OT/ICS must be elevated to active consideration.",
+          "cve_ids": ["per CISA aa26-097a"],
+          "threat_actor": "Iranian-affiliated APT / CyberAv3ngers (IRGC-linked)",
+          "recommended_action": "Audit OT/ICS network segmentation; verify PLC firmware integrity; restrict remote access to ICS environments; cross-reference with July 12 KOC offshore attack context.",
+          "sources": ["CISA/FBI/NSA advisory aa26-097a, 7 April 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Combined-arms cyber-physical attacks on Gulf energy infrastructure",
+          "text": "Iran's July 12 drone strike on Kuwait's offshore oil rig, alongside persistent IRGC-linked OT/ICS intrusion campaigns, signals potential future combined-arms scenarios where cyber disruption of OT systems precedes or accompanies physical strikes.",
+          "threat_actor": "IRGC cyber command / affiliated APTs",
+          "assessed_likelihood": "Moderate (rising, given July 12 precedent)",
+          "sources": ["SISA InfoSec advisory, 2026", "Flare.io July 7–8 brief", "CISA aa26-097a"],
+          "url": "https://www.sisainfosec.com/blogs/threat-advisory-elevated-cyber-risk-to-the-payments-ecosystem-amid-israel-us-iran-conflict-escalation/"
+        },
+        {
+          "bold_heading": "Ransomware and SWIFT/payment rail targeting risk",
+          "text": "Flare.io identifies Iran-linked threat actors maintaining persistent access to Gulf government portals, airports, and energy operators; ransomware assessed as next-phase escalation vector. Team 313 attributed to April 1 Chime Financial breach.",
+          "threat_actor": "Team 313 / Iran-linked affiliates",
+          "assessed_likelihood": "Moderate",
+          "sources": ["Flare.io July 7–8 brief", "ABA Banking Journal, April 2026", "Banking Dive regulators warning, April 2026"],
+          "url": "https://flare.io/learn/resources/blog/cyberattacks-us-israel-iran-military-conflict"
+        },
+        {
+          "bold_heading": "Wiper and fake-ransomware campaign against GCC government and financial operators",
+          "text": "Iranian state-sponsored group reactivated late February/March 2026, deploying wipers and fake-ransomware against GCC government and financial entities via web server exploitation and ASPX web shells. Geographic expansion to Kuwait entities assessed as plausible next step.",
+          "threat_actor": "Iranian state-sponsored (assessed Seedworm/MuddyWater-affiliated)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["EclecticIQ blog, 2026", "The Cyber Express, 2026", "The National, April–July 2026"],
+          "url": "https://blog.eclecticiq.com/the-escalating-cyber-risk-landscape-in-regional-conflicts-strategic-actions-for-2026"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Watch: IRGC physical vessel seizure in the Strait",
+          "why_it_matters": "Any confirmed physical seizure (vs. warning shots) would push WRP above the 10% ceiling, trigger P&I force majeure clauses across trade finance portfolios, and likely accelerate US military response.",
+          "related_section": "Sections 2, 5A"
+        },
+        {
+          "text": "Watch: Iran follow-on cyber action synchronized with July 12 kinetic escalation",
+          "why_it_matters": "Historical pattern shows Iranian cyber operations surge within 24–72h of major kinetic escalation cycles. Monday morning banking hours (13–14 July) represent the highest-risk window for DDoS, phishing, or OT-targeting operations.",
+          "related_section": "Sections 7A, 7B"
+        },
+        {
+          "text": "Watch: Kuwait MOD/KUNA official damage assessment for Ali Al Salem Air Base",
+          "why_it_matters": "CENTCOM and IRGC claims on Ali Al Salem damage are contradictory; an official confirmation of structural damage would shift the infrastructure-damage metric and escalate diplomatic consequences.",
+          "related_section": "Sections 1, 2, 1A"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "MEDIUM", "note": "KUNA and MOI confirmed alerts; specific July 13 morning all-clear not independently confirmed" },
+    { "section": "2 — Targets & Incidents", "source_count": 6, "confidence": "MEDIUM", "note": "Ali Al Salem damage disputed (CENTCOM vs. IRGC vs. satellite imagery); KOC rig attack single-source MOD" },
+    { "section": "3 — Kuwait Local", "source_count": 5, "confidence": "MEDIUM", "note": "Port and supply chain data current; July 13 flight data not yet published at compilation time" },
+    { "section": "4 — Regional Context", "source_count": 4, "confidence": "HIGH", "note": "Convergent multi-source reporting across AP, Reuters, Al Jazeera, CNN, PBS" },
+    { "section": "5 — Risk Signal", "source_count": 3, "confidence": "MEDIUM", "note": "Assessments based on reported events; no intraday financial market data confirmed" },
+    { "section": "5A — Insurance Risks", "source_count": 3, "confidence": "MEDIUM-HIGH", "note": "Lloyd's List and JWC data current to July 2026; Monday re-rating not yet available" },
+    { "section": "7A — Cyber Tactical", "source_count": 2, "confidence": "MEDIUM", "note": "No new 24–48h advisories found; most recent actionable items re-flagged given July 12 escalation" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "MEDIUM", "note": "Campaign-level assessments from established sources; no new July 13 confirmed incidents" }
+  ],
+  "footer": "Report #107 compiled 2026-07-13 at 07:30 UTC+3."
+}
