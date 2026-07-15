@@ -1,0 +1,331 @@
+{
+  "date": "2026-07-15",
+  "headline": "15 July 2026",
+  "subtitle": "39-Projectile IRGC Salvo Targets Mina Abdullah; Brent Surges $7 on Blockade Enforcement; Trump Reverses Hormuz Toll",
+  "report_number": "109",
+  "coverage": "14 July 2026 07:00 UTC+3 – 15 July 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-07-15",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "39 (1 ballistic, 5 cruise, 33 drones)", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "85.84", "previous": "78.73", "delta": "+7.11", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "~80.00", "previous": "74.00", "delta": "+6.00", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "1 (tankers); 10 (total)", "previous": "~6 (dark)", "delta": "-5", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "14", "previous": "12", "delta": "+2", "trend_7d": "↑" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "163", "today_label": "Unhealthy", "previous": "137", "previous_label": "USG", "delta": "+26", "trend_7d": "↑" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "Kuwait Armed Forces General Staff — 15 July 2026 (~02:00–04:00 UTC+3)",
+          "text": "Air defense sirens activated across Kuwait as air defense systems engaged an incoming salvo of 1 ballistic missile, 5 cruise missiles, and 33 drones. General Staff confirmed interceptions ongoing; urged public to remain calm, follow official guidance, and clarified that any explosions heard are from air defense operations, not ground impacts.",
+          "sources": ["Voice of Emirates", "Kuwait Times", "Arab Times Online", "15 July 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "No formal shelter-in-place or civil emergency broadcast confirmed from Kuwait MOI or US Embassy for this coverage window. General Staff guidance remained advisory in nature. Monitoring @MOIKuwait and KUNA for further orders.",
+          "sources": ["KUNA", "MOI Kuwait", "15 July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Kuwait — US Army Logistics & Support Center, Mina Abdullah",
+          "text": "IRGC 4th wave of Operation Nasr 2 targeted 'KJL' — described as the US Army's principal logistics and support center in West Asia at Mina Abdullah. IRGC claimed facility 'was set ablaze and destroyed.' CNN geolocated footage consistent with Shahed drone strike on burning industrial warehouse near Mina Abdullah. Kuwait civil defense confirmed six fire teams (Army/National Guard-backed) responded; no injuries, material damage only. US CENTCOM has not confirmed target identity or damage assessment. [Partially corroborated — IRGC claim via PressTV; CNN geolocation consistent; Kuwait civil defense fire response confirmed.]",
+          "sources": ["PressTV", "CNN live blog", "Arab Times Online", "J-Post", "15 July 2026"]
+        },
+        {
+          "bold_heading": "Kuwait — Ali Al Salem Air Base, MQ-9 Drone Ramp",
+          "text": "IRGC claimed a separate strike on the MQ-9 drone deployment ramp at Ali Al Salem Air Base, stating a number of drones were destroyed or damaged. US not confirmed. [SINGLE SOURCE — IRGC claim only.]",
+          "sources": ["PressTV", "15 July 2026"]
+        },
+        {
+          "bold_heading": "Jordan — Al-Azraq Air Base",
+          "text": "IRGC 6th wave of Operation Nasr 2 claimed strikes on shelters housing US F-15, F-16, and F-35 warplanes at Al-Azraq in Jordan and stated it 'eliminated a number of US MQ-9 strategic drones.' Jordan's military has not confirmed. [SINGLE SOURCE — IRGC claim only.]",
+          "sources": ["PressTV", "J-Post", "15 July 2026"]
+        },
+        {
+          "bold_heading": "US CENTCOM — Fourth Consecutive Night of Strikes on Iran",
+          "text": "CENTCOM completed a new round of strikes against Iranian coastal defense systems, missile/drone sites, and naval capabilities targeting Bushehr, Chah Bahar, Jask, Konarak, Abu Musa, and Bandar Abbas. Stated objective: degrade Iran's ability to attack commercial shipping in Strait of Hormuz.",
+          "sources": ["CNBC", "FXStreet", "Fox News", "CENTCOM public releases", "14–15 July 2026"]
+        },
+        {
+          "bold_heading": "Strait of Hormuz — Naval Blockade Full Enforcement",
+          "text": "US naval blockade of all Iranian ports and coastal areas came into full enforcement at 4:00 pm EDT (23:00 UTC+3) July 14. CENTCOM stated non-compliant vessels subject to interception, diversion, capture, and compulsion with force.",
+          "sources": ["Axios", "NPR", "CNN", "CNBC", "14 July 2026"]
+        },
+        {
+          "bold_heading": "Strait of Hormuz — Traffic Collapse Continues",
+          "text": "Tanker traffic at 1 vessel/day (2% of 55-tanker pre-war baseline); 7-day average 6.3 tankers (11%). Total commercial shipping at ~10 vessels/day (10% of pre-war). Hormuz Day 138 confirms strait functionally closed.",
+          "sources": ["Bloomberg", "Iran Sitrep Day 138", "15 July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Civil Defense / MOI",
+          "text": "No shelter-in-place or evacuation order issued. General Staff advisory urging calm. Six fire teams (Army/National Guard) responded to Mina Abdullah fire; extinguished with no injuries, material damage only.",
+          "sources": ["Arab Times Online", "Kuwait Times", "15 July 2026"]
+        },
+        {
+          "bold_heading": "KWI Airport",
+          "text": "Partial operations. T4 operational (Kuwait Airways, Emirates, flydubai, Air Arabia); T5 operational (Jazeera Airways). T1 closed (June 3 strike damage, no reopening date). Airlines advising passengers to confirm before travel.",
+          "sources": ["Sunday Guardian Live", "Wego travel blog", "Kuwait airport official", "July 2026"]
+        },
+        {
+          "bold_heading": "Ports",
+          "text": "Shuaiba and Shuwaikh at ISPS Security Level 2. No new closures. Saudi land bridge (Al-Khafji, Al-Ruqai) remains primary import alternative.",
+          "sources": ["GAC operational update", "Inchcape Shipping Services", "July 2026"]
+        },
+        {
+          "bold_heading": "Saudi Land Bridge — Elevated Monitoring",
+          "text": "Houthis fired ballistic missiles toward Saudi Arabia July 13 in response to Saudi strike on Sanaa airport (all intercepted by KSA air defenses). KSA crossings currently open; escalation could disrupt Kuwait's primary land-import corridor.",
+          "sources": ["NYT", "AP News", "13 July 2026"]
+        },
+        {
+          "bold_heading": "Border Crossings",
+          "text": "Northern border posts (3 struck July 12) — operational status unconfirmed. Saudi crossings operating normally.",
+          "sources": ["Arab Times Online", "July 2026"]
+        },
+        {
+          "bold_heading": "Air Quality",
+          "text": "Kuwait City AQI 163 (Unhealthy) — elevated 26 points from yesterday's 137 (USG). May reflect burns at Mina Abdullah target and/or regional particulate conditions. [SINGLE SOURCE — aqicn.org/IQAir; inter-station variance possible.]",
+          "sources": ["aqicn.org", "IQAir Kuwait City", "15 July 2026"]
+        },
+        {
+          "bold_heading": "Schools/Events",
+          "text": "No new closure orders. General Staff security advisory in effect.",
+          "sources": ["Kuwait Times", "July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "Trump reversed the 20% Hormuz toll within 24 hours (July 14) following Gulf state diplomatic pressure, replacing it with investment commitments; US naval blockade remains in full enforcement. The 24-hour reversal cycle exposed internal US policy contradictions (Rubio had stated tolls on international waterways are illegal) and signals unpredictable US Hormuz policy — a material input for medium-term risk scenario planning.",
+          "sources": ["Foreign Policy", "The Hill", "CNBC", "14 July 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Iran's Operation Nasr 2 continued into 4th, 5th, and 6th waves overnight (July 15), targeting Kuwait, Jordan, and Bahrain. Pakistan-Qatar-Oman diplomatic channel remains the only active framework; Iran says talks continue but insists Washington halt ceasefire violations. No agreement framework appears imminent.",
+          "sources": ["PressTV", "Pakistan Today", "CBS News", "14–15 July 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Saudi-Yemen dimension re-emerged: Saudi Arabia struck Sanaa airport July 13 to prevent Houthi delegation return from Khamenei funeral (Khamenei assassinated Feb 28, Day 1; funeral July 4); Houthis fired ballistic missiles at Saudi Arabia (intercepted). Escalation could disrupt Kuwait's Saudi land bridge.",
+          "sources": ["NYT", "AP News", "NPR", "July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Business continuity / physical risk",
+          "text": "IRGC named Mina Abdullah — Kuwait's primary industrial/commercial port zone — as a target. Institutions with staff, client operations, or collateral interests in Mina Abdullah should immediately assess physical exposure. The 39-projectile July 15 salvo is the largest single-session interception count since hostilities began. Pre-dawn (02:00–04:00 UTC+3) remains the primary attack window.",
+          "sources": ["PressTV", "CNN", "Arab Times Online", "15 July 2026"]
+        },
+        {
+          "bold_heading": "Staff safety",
+          "text": "Salvo size increase (39 projectiles including 1 ballistic) demonstrates system saturation risk. Emergency warden networks should confirm pre-dawn alert protocols and ensure staff in northern/industrial Kuwait zones have shelter plans. KWI land alternative (Saudi) viable but monitor KSA-Houthi re-escalation.",
+          "sources": ["Voice of Emirates", "Kuwait Times", "15 July 2026"]
+        },
+        {
+          "bold_heading": "Payment systems / FX",
+          "text": "Brent +$7.11 to $85.84, WTI +$6.00 to ~$80.00 in a single 24-hour window — sharpest single-day energy price move since April 2026. Energy-linked trade finance provisions, correspondent banking with commodity exporters, and Gulf-currency FX hedging books require immediate review. Hormuz at 1 tanker/day means Gulf oil exports are effectively halted; price pressures compound if blockade extends beyond 5 days.",
+          "sources": ["Trading Economics", "Brent Watch", "Bloomberg", "15 July 2026"]
+        },
+        {
+          "bold_heading": "Sanctions / compliance",
+          "text": "The 24-hour Hormuz toll reversal creates a compliance documentation challenge: contracts referencing 'applicable regulations' for Hormuz transit must account for possible rapid US policy re-imposition delivered without international notice. Legal review of 'applicable law' clauses in trade finance and shipping contracts is recommended.",
+          "sources": ["Foreign Policy", "The Hill", "CNBC", "14 July 2026"]
+        },
+        {
+          "bold_heading": "Insurance — immediate action",
+          "text": "P&I clubs expected to issue advisory circulars July 15. Institutions should: (1) confirm current war risk policy posture with underwriters before market open; (2) verify compliance with 48–72h notification requirements for vessels in July 14–15 Hormuz window; (3) document the toll reversal for future underwriter dispute purposes.",
+          "sources": ["LMA Lloyd's", "Insurance Journal", "July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "War Risk Premia (WRP)",
+          "text": "With blockade in full enforcement and 4th consecutive night of CENTCOM strikes, Lloyd's/JWC expected to push WRP above 5%-of-vessel-value benchmark at July 15 market open. The Mina Abdullah strike on commercial/industrial territory may trigger additional H&M and cargo policy escalation clauses if civilian infrastructure damage is confirmed.",
+          "sources": ["The National", "Fair Way ETA", "Insurance Journal", "July 2026"]
+        },
+        {
+          "bold_heading": "JWC Listed Areas / Notification Requirement",
+          "text": "No change to JWC Listed Area (full Persian Gulf). July 14–15 events each constitute independent material change-in-risk triggers. Vessel owners in the Hormuz transit window must verify 48–72h underwriter notification compliance. P&I club advisories expected July 15.",
+          "sources": ["LMA Lloyd's", "Insurance Journal", "July 2026"]
+        },
+        {
+          "bold_heading": "Toll Reversal — Partial Coverage Risk Resolution",
+          "text": "Trump's toll reversal removes the dual-sovereign liability exposure flagged July 14. However, reversal was via social media post, not executive order — no formal legal barrier to re-imposition without international notice. Contract language should be future-proofed against re-imposition.",
+          "sources": ["Foreign Policy", "The Hill", "CNBC", "14 July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Trump Scraps 20 Percent Strait of Hormuz Toll for Gulf Investment Deals",
+          "author": "Foreign Policy Staff",
+          "publication": "Foreign Policy",
+          "pub_date": "2026-07-14",
+          "access": "Open",
+          "summary": "Within 24 hours of announcing a 20% toll on Hormuz transit cargo, Trump reversed course under Gulf state diplomatic pressure, framing it as an exchange for investment commitments; the episode exposed internal contradictions in US Hormuz policy and the absence of a durable enforcement framework for the strait.",
+          "relevance": "Directly resolves one compliance risk (immediate toll exposure) while revealing structural unpredictability in US Hormuz policy — critical for re-rating medium-term insurance and sanctions scenarios.",
+          "link": "https://foreignpolicy.com/2026/07/14/trump-strait-hormuz-tolls-investment-trade-gulf-iran-war/"
+        },
+        {
+          "title": "Why Escalation Favors Iran",
+          "author": "Robert A. Pape",
+          "publication": "Foreign Affairs",
+          "pub_date": "2026-07",
+          "access": "Paywall",
+          "summary": "Pape argues that Iran's horizontal escalation strategy — widening conflict to shipping, energy markets, and Gulf partners — politically favors Iran by shifting economic and diplomatic pressure onto the US and its allies without requiring symmetric military capability; continued US kinetic pressure may consolidate rather than erode Iran's leverage.",
+          "relevance": "Challenges assumptions underpinning a US military resolution scenario; grounds the case for weighting a prolonged stalemate or Iranian-terms outcome more heavily in Q3 2026 risk planning.",
+          "link": "https://www.foreignaffairs.com/iran/why-escalation-favors-iran"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "Iranian-linked AI-enhanced phishing and malware — Gulf financial sector (active, re-flagged)",
+          "text": "UAE Cybersecurity Council confirmed July 3 it thwarted a coordinated AI-enhanced campaign targeting UAE financial institutions (phishing, malware, vulnerability exploitation). FINRA standing cybersecurity alert (March 2026, active) warns of heightened Iranian actor threats including ransomware, destructive attacks, and DoS campaigns. July 15–16 banking hours constitute elevated threat window per 24–72h post-kinetic Iranian cyber surge pattern.",
+          "cve_ids": [],
+          "threat_actor": "Iranian-affiliated (unnamed)",
+          "recommended_action": "Revalidate phishing-resistant MFA on all internet-facing financial systems and refresh SIEM alert rules against UAE CIRT IOCs and CISA aa26-097a indicators before market open July 15.",
+          "sources": ["UAE Cybersecurity Council", "The National 3 July 2026", "FINRA.org March 2026"],
+          "url": "https://www.finra.org/rules-guidance/guidance/cybersecurity-alert-heightened-threats-iranian-cyber-actors"
+        },
+        {
+          "bold_heading": "PLC/ICS exploitation of Gulf critical infrastructure (CISA aa26-097a — active, re-flagged)",
+          "text": "CISA/FBI/NSA joint advisory on Iranian-affiliated APT exploitation of PLCs across energy, government, and water sectors remains in effect. IRGC's July 15 strike on Mina Abdullah — Kuwait's primary industrial/refinery zone — mirrors the physical targeting template in aa26-097a.",
+          "cve_ids": ["Per CISA aa26-097a"],
+          "threat_actor": "Iranian-affiliated APT / CyberAv3ngers (IRGC-linked)",
+          "recommended_action": "Audit OT/ICS network segmentation, verify PLC firmware integrity, and restrict remote access to energy sector ICS given Mina Abdullah targeting precedent.",
+          "sources": ["CISA/FBI/NSA advisory aa26-097a", "7 April 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "IRGC Mina Abdullah strike extends commercial infrastructure targeting template",
+          "text": "The July 15 IRGC strike on Mina Abdullah — Kuwait's primary industrial and logistics hub — combined with CISA aa26-097a ICS/OT exploitation, signals Iran is executing a combined-arms strategy treating commercial-industrial targets as co-equal with military ones. Gulf financial infrastructure in proximity to industrial zones (Shuaiba, Mina Abdullah) should be within the active physical and cyber targeting envelope.",
+          "threat_actor": "IRGC Aerospace Force / CyberAv3ngers / affiliated APTs",
+          "assessed_likelihood": "Moderate (rising)",
+          "sources": ["PressTV", "CNN", "CISA aa26-097a", "15 July 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "Wiper and fake-ransomware against GCC government/financial entities (ongoing)",
+          "text": "An Iranian state-sponsored group (assessed Seedworm/MuddyWater-affiliated) continues deploying wiper malware and fake-ransomware via web shell exploitation against GCC government and financial entities, active since late February 2026. Kuwait's elevation as a primary IRGC kinetic target since July 12 makes Kuwaiti financial entities the most likely next campaign expansion.",
+          "threat_actor": "Iranian state-sponsored (assessed Seedworm/MuddyWater-affiliated)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["EclecticIQ blog", "The Cyber Express", "April–July 2026"],
+          "url": "https://blog.eclecticiq.com/the-escalating-cyber-risk-landscape-in-regional-conflicts-strategic-actions-for-2026"
+        },
+        {
+          "bold_heading": "Horizontal escalation creating cyber-extortion attack surface for Hormuz operators",
+          "text": "Iran's strategic concept of horizontal escalation encompasses economic coercion tools; the Hormuz blockade creates extortion leverage for Iranian-linked ransomware actors targeting shipping companies, freight finance operators, or Gulf commodity traders caught between US and Iranian enforcement claims. No confirmed incidents yet; structural vulnerability enhanced by 24-hour toll reversal uncertainty.",
+          "threat_actor": "Iranian-affiliated threat actors; opportunistic criminal ransomware groups",
+          "assessed_likelihood": "Low-Moderate",
+          "sources": ["Foreign Affairs/Pape", "Flare.io", "SISA InfoSec", "July 2026"],
+          "url": "https://www.sisainfosec.com/blogs/threat-advisory-elevated-cyber-risk-to-the-payments-ecosystem-amid-israel-us-iran-conflict-escalation/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Next IRGC retaliatory salvo (7th wave, Nasr 2)",
+          "why_it_matters": "IRGC has escalated to 6-wave operations in a single 24h window; pattern suggests a 7th wave within 12–24h, with Kuwait remaining an active target.",
+          "related_section": "Sections 1, 2, 3"
+        },
+        {
+          "text": "P&I club advisory circulars — July 15",
+          "why_it_matters": "Circulars expected today will define practical insurance posture for Gulf transit and may trigger automatic policy reviews for institutions with cargo and freight finance exposure.",
+          "related_section": "Section 5A"
+        },
+        {
+          "text": "US-Gulf investment deal framework operationalization",
+          "why_it_matters": "If GCC states formalize investment commitments to replace the Hormuz toll within 24–48h, re-imposition risk stabilizes; if no commitment materializes, re-imposition risk re-emerges with no prior international notice.",
+          "related_section": "Sections 4, 5"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "HIGH", "note": "Kuwait Army interception count confirmed via Voice of Emirates and Kuwait Times; sirens confirmed via Arab Times Online and KUNA" },
+    { "section": "2 — Targets & Incidents", "source_count": 5, "confidence": "MEDIUM", "note": "Mina Abdullah: IRGC claim + CNN geolocation + fire response = partially corroborated; Ali Al Salem and Al-Azraq: IRGC claims only [SINGLE SOURCE]" },
+    { "section": "3 — Kuwait Local", "source_count": 4, "confidence": "MEDIUM-HIGH", "note": "Civil defense fire response confirmed; AQI single-station estimate; airport/port data current to July 14–15" },
+    { "section": "4 — Regional Context", "source_count": 5, "confidence": "HIGH", "note": "Toll reversal confirmed Foreign Policy/The Hill/CNBC; Saudi-Houthi from NYT/AP; diplomacy from Pakistan Today/CBS" },
+    { "section": "5 — Risk Signal", "source_count": 3, "confidence": "MEDIUM", "note": "Analyst assessments based on confirmed Tier 1 events; forward-looking risk is judgment-based" },
+    { "section": "5A — Insurance Risks", "source_count": 4, "confidence": "MEDIUM-HIGH", "note": "WRP/JWC data current to early July; July 15 re-rating expected but not yet confirmed at compilation" },
+    { "section": "7A — Cyber Tactical", "source_count": 2, "confidence": "MEDIUM", "note": "No new 24–48h advisories confirmed; prior active items re-flagged per escalation trigger pattern" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "MEDIUM", "note": "Campaign-level assessments from established Tier 4 sources; Mina Abdullah cyber-physical nexus is new analyst assessment" }
+  ],
+  "footer": "Report #109 compiled 2026-07-15 at 07:30 UTC+3."
+}
