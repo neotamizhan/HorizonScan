@@ -1,0 +1,423 @@
+{
+  "date": "2026-07-16",
+  "headline": "16 July 2026",
+  "subtitle": "25-Projectile IRGC Salvo Strikes Kuwait; M/T Belma Disabled by US Navy Near Kharg Island; Brent Consolidates ~$85.63",
+  "report_number": "110",
+  "coverage": "15 July 2026 07:00 UTC+3 – 16 July 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-07-16",
+    "metrics": [
+      {
+        "metric": "Missile/drone interceptions (24h)",
+        "today": "25 (4 cruise, 21 drones)",
+        "previous": "39 (1 ballistic, 5 cruise, 33 drones)",
+        "delta": "-14",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "Debris reports (cumulative)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "N/A",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "Brent crude ($/bbl)",
+        "today": "85.63",
+        "previous": "85.84",
+        "delta": "-0.21",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "WTI crude ($/bbl)",
+        "today": "80.27",
+        "previous": "~80.00",
+        "delta": "+0.27",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "Strait of Hormuz transits/day",
+        "today": "7",
+        "previous": "10",
+        "delta": "-3",
+        "trend_7d": "↓"
+      },
+      {
+        "metric": "Infrastructure items damaged (cumulative)",
+        "today": "15",
+        "previous": "14",
+        "delta": "+1",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "KWI airport status",
+        "today": "Partial",
+        "previous": "Partial",
+        "delta": "No change",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Kuwait AQI (PM2.5)",
+        "today": "NR",
+        "today_label": null,
+        "previous": "163",
+        "previous_label": "Unhealthy",
+        "delta": "NR",
+        "trend_7d": "↑",
+        "note": "Last confirmed reading Jul 14: 100 (Moderate), aqicn.org US Embassy station. Live Jul 16 unconfirmed. SINGLE SOURCE — aqicn.org/eMISK."
+      },
+      {
+        "metric": "Days since last confirmed cyber incident (Gulf FS)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "N/A",
+        "trend_7d": "Insufficient data"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "Kuwait Armed Forces General Staff — 16 July 2026 (~02:00–05:00 UTC+3)",
+          "text": "Air defense systems activated across Kuwait as the Armed Forces intercepted 4 cruise missiles and 21 hostile drones. MOD spokesman Maj. Gen. Saud Abdulaziz Al-Otaibi confirmed threats detected from dawn; public urged to remain calm and follow official guidance; any explosions heard are from interception operations, not impacts. Iranian aggression targeted 'several vital and civilian facilities' — material damage confirmed; no casualties reported.",
+          "sources": ["Arab Times", "Times of Israel", "J-Post", "July 16 2026"]
+        },
+        {
+          "bold_heading": "Bahrain / Qatar / UAE — simultaneous alerts, 16 July 2026",
+          "text": "Air raid sirens sounded in Bahrain; Kuwait's air defense response mirrored by Bahrain civil defense activation. Qatar's Interior Ministry issued an emergency security alert, subsequently declared 'completely eliminated.' UAE issued a stay-indoors advisory.",
+          "sources": ["Gulf News", "Arabian Business", "Sunday Guardian Live", "July 16 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Kuwait — 25-projectile IRGC salvo (4 cruise missiles, 21 drones), ~02:00–05:00 UTC+3",
+          "text": "Kuwait Armed Forces intercepted the full salvo; 'several vital and civilian facilities' struck with material damage; 0 casualties confirmed. IRGC wave count for this salvo not yet published at compilation. Salvo count lower than yesterday's 39-projectile wave; assessed as tactical reorientation or reload cycle, not de-escalation.",
+          "sources": ["Arab Times", "Times of Israel", "J-Post", "July 16 2026"]
+        },
+        {
+          "bold_heading": "US CENTCOM — 5th consecutive wave of strikes on Iran, 15–16 July",
+          "text": "CENTCOM completed its second wave of strikes during the coverage window (fifth total day of sustained operations). Targets: Iranian command centers, air defense sites, missile and drone capabilities, coastal surveillance facilities. Stated objective: degrade Iran's ability to threaten commercial shipping in Strait of Hormuz. Trump pledged to intensify operations until Iran halts attacks on vessels and agrees to reopen Hormuz.",
+          "sources": ["CNN", "The Hill", "CENTCOM public releases", "July 16 2026"]
+        },
+        {
+          "bold_heading": "Arabian Gulf — M/T Belma disabled near Kharg Island",
+          "text": "US forces fired AGM-114 Hellfire missiles into the smokestack of the Curacao-flagged, unladen tanker M/T Belma after it disregarded multiple warnings while transiting toward Kharg Island (Iran's principal oil export terminal). Vessel disabled, not sunk — first interdiction since blockade resumed July 14.",
+          "sources": ["Gulf News", "Stars and Stripes", "Washington Examiner", "ANI News", "July 16 2026"]
+        },
+        {
+          "bold_heading": "Bahrain — air raid sirens, 16 July [SINGLE SOURCE]",
+          "text": "Sirens sounded following Iranian attack coinciding with Kuwait salvo timeline. No confirmed strikes on Bahrain territory at time of compilation.",
+          "sources": ["Gulf News", "July 16 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Civil Defense / MOD",
+          "text": "No shelter-in-place or evacuation order issued. MOD confirmed 4 cruise + 21 drone interceptions; public urged to remain calm; explosions are interception activity, not impacts. No casualties across today's attack.",
+          "sources": ["Arab Times", "Times of Israel", "July 16 2026"]
+        },
+        {
+          "bold_heading": "Infrastructure Damage",
+          "text": "'Several vital and civilian facilities' damaged (material damage only; locations unspecified by MOD). No repeat of Mina Abdullah industrial-scale fire confirmed. Cumulative infrastructure count revised to 15.",
+          "sources": ["Arab Times", "July 16 2026"]
+        },
+        {
+          "bold_heading": "KWI Airport",
+          "text": "Partial operations. T4 (Kuwait Airways, Emirates, flydubai, Air Arabia) and T5 (Jazeera Airways) operational; T1 closed pending repair from June 3 strike with no reopening date confirmed. Airlines advising confirmation before travel.",
+          "sources": ["Sunday Guardian Live", "Wego travel blog", "July 2026"]
+        },
+        {
+          "bold_heading": "Ports",
+          "text": "Shuaiba and Shuwaikh at ISPS Security Level 2. No new closures or disruption reported.",
+          "sources": ["GAC operational update", "Inchcape Shipping Services", "July 2026"]
+        },
+        {
+          "bold_heading": "Saudi Land Bridge",
+          "text": "Operating normally. No new KSA-Houthi escalation since July 13 (all Houthi ballistic missiles toward KSA intercepted); land corridor viable.",
+          "sources": ["NYT", "AP News", "July 2026"]
+        },
+        {
+          "bold_heading": "Border Crossings",
+          "text": "Northern border posts (struck July 12) — operational status unconfirmed. Saudi crossings open.",
+          "sources": ["Arab Times Online", "July 2026"]
+        },
+        {
+          "bold_heading": "Air Quality",
+          "text": "AQI ~100 (Moderate) per last confirmed aqicn.org US Embassy station reading (Jul 14). Live Jul 16 reading unconfirmed. Yesterday's 163 (Unhealthy) reflected Mina Abdullah burns; partial recovery plausible given no confirmed new fires. [SINGLE SOURCE — aqicn.org/eMISK]",
+          "sources": ["aqicn.org", "eMISK Kuwait", "July 14 2026 — STALE"]
+        },
+        {
+          "bold_heading": "Schools / Events",
+          "text": "No new closure orders. MOD security advisory in effect.",
+          "sources": ["Kuwait Times", "July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "CENTCOM is in its fifth consecutive day of sustained strikes targeting Iran's Hormuz maritime attack capabilities; Trump publicly committed to escalation, conditioning any pause on Iran reopening the Strait — no US-Iran direct communication confirmed.",
+          "sources": ["CNN", "The Hill", "CENTCOM", "July 16 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Pakistan-Qatar-Oman mediation channel remains the only active diplomatic framework; Oman has drafted a tentative Hormuz management proposal but no framework is near formalization — Iran insists hostilities must cease before any arrangement; US has not publicly acknowledged the Oman proposal.",
+          "sources": ["Pakistan Today", "CBS News", "July 14–15 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Strait of Hormuz Day 139: 7 vessels transited July 15 (down from 13 prior day); M/T Belma disabling now sets enforcement precedent — operators transiting toward Iranian ports face US military interdiction. IEA has characterised the disruption as the largest supply shock in global oil market history.",
+          "sources": ["Bloomberg", "Reuters", "NPR", "July 15–16 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Business continuity / physical risk",
+          "text": "Salvo reduction (25 vs. 39 yesterday) should not be read as de-escalation — may reflect reload cycle or tactical targeting shift. MOD confirmation of material damage to 'several vital and civilian facilities' without specifying locations creates uncertainty about which civilian infrastructure zones were struck. Institutions should update risk mapping of Kuwait City, Ahmadi Governorate (Mina Abdullah, Shuaiba), and northern Kuwait.",
+          "sources": ["Arab Times", "Kuwait MOD", "July 16 2026"]
+        },
+        {
+          "bold_heading": "Staff safety",
+          "text": "Pre-dawn attack window (02:00–05:00 UTC+3) confirmed across four consecutive nights (Jul 13–16). Emergency warden networks must explicitly cover dawn hours. KWI T4/T5 viable for evacuation planning; advance bookings recommended. Saudi land corridor viable but monitor KSA-Houthi indicators.",
+          "sources": ["Arab Times", "Kuwait Times", "July 16 2026"]
+        },
+        {
+          "bold_heading": "Payment systems / FX",
+          "text": "Brent consolidating ~$85.63 (Jul 15 close); EIA data released this week showed US crude inventories fell 1.7M bbl, compounding supply pressure from Hormuz closure. Energy-sector loan books, commodity trade finance, and Gulf FX hedging positions exposed to further $5–10/bbl upside scenarios if blockade extends beyond 72h without diplomatic progress.",
+          "sources": ["Trading Economics", "Bloomberg", "EIA", "July 15–16 2026"]
+        },
+        {
+          "bold_heading": "Blockade compliance",
+          "text": "M/T Belma disabling (AGM-114 Hellfire, US Navy aircraft) sets operational precedent: vessels transiting toward Iranian ports risk US military interdiction. Institutions with shipping finance exposure for vessels in the Arabian Gulf should immediately confirm counterparty voyage destination and blockade compliance status.",
+          "sources": ["Gulf News", "Stars and Stripes", "Washington Examiner", "July 16 2026"]
+        },
+        {
+          "bold_heading": "Cybersecurity",
+          "text": "Fifth consecutive day of kinetic escalation plus overnight IRGC retaliatory salvo elevates the probability of Iranian-affiliated cyber activity during banking hours July 16. Iranian-linked cyber surge pattern (12–72h post-kinetic) confirmed in March, April, and June 2026. Financial institution CISOs should increase SOC alerting thresholds before market open.",
+          "sources": ["UAE Cybersecurity Council", "FINRA", "CISA aa26-097a", "July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "WRP / M/T Belma novel coverage question",
+          "text": "WRP holds at ~5% of hull value for Persian Gulf transits per JWC norms. M/T Belma disabling by US military aircraft (AGM-114 Hellfire) introduces an unresolved H&M war risk coverage question: do policies indemnify hull damage caused by US blockade enforcement as distinct from Iranian hostile action? No modern precedent since Gulf War convoy operations; P&I clubs expected to seek legal opinion and issue circulars by July 17.",
+          "sources": ["LMA Lloyd's", "Gulf News", "July 2026"]
+        },
+        {
+          "bold_heading": "JWC Listed Areas",
+          "text": "No change to current designation (full Persian Gulf listed since March 2026). Mombasa B/Al Bahyah strikes in Omani waters (July 14) may prompt review of Omani-waters exclusion clauses in existing policies. Each CENTCOM strike wave and IRGC salvo constitutes an independent material change-in-risk trigger under most war risk addenda.",
+          "sources": ["LMA Lloyd's", "Lloyd's List", "July 2026"]
+        },
+        {
+          "bold_heading": "P&I Club notification compliance",
+          "text": "Vessel operators with Arabian Gulf or Hormuz transit exposure in the July 14–16 window must verify 48–72h underwriter notification compliance. Institutions should document the M/T Belma incident and any exposure to vessels in the Arabian Gulf for future underwriter or legal dispute purposes.",
+          "sources": ["LMA Lloyd's", "Insurance Journal", "July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Iran, the Ceasefire and the Gulf: What Comes Next",
+          "author": "Chatham House Panel",
+          "publication": "Chatham House (RUSI)",
+          "pub_date": "2026-07-13",
+          "access": "Open",
+          "summary": "Chatham House convened regional experts to assess how the war has transformed Iran's diplomacy and internal politics, and what conditions a durable Hormuz arrangement would require. The panel concluded that whatever deal ultimately emerges, the pre-28 February 2026 Persian Gulf security architecture will not be restored — GCC states now recognize they are permanently in the crosshairs of a volatile Iran.",
+          "relevance": "Challenges the assumption that a ceasefire returns risk to pre-war baselines; grounds the case for treating elevated physical, insurance, and cyber risk as a structural feature of Gulf operations, not a temporary disruption.",
+          "link": "https://www.chathamhouse.org/events/all/standard-event/iran-ceasefire-and-gulf-what-comes-next"
+        },
+        {
+          "title": "No second Tier 3 article confirmed within 24–48h from approved outlets.",
+          "author": "",
+          "publication": "",
+          "pub_date": "",
+          "access": "",
+          "summary": "Search extended to 48h; CSIS commentary from July 14–15 was available but not confirmed by qualifying author under CSIS's commentary series. Flagged for inclusion if confirmed tomorrow.",
+          "relevance": "",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "Iranian-affiliated AI-enhanced phishing and malware — Gulf financial sector (elevated; active; re-flagged)",
+          "text": "UAE Cybersecurity Council confirmed July 3 it thwarted a coordinated AI-enhanced campaign (phishing, malware, vulnerability exploitation) targeting UAE financial institutions. Fifth consecutive day of kinetic operations elevates probability of Iranian-linked cyber surge within 12–72h (pattern observed Mar, Apr, Jun 2026). FINRA standing alert (March 2026, active) warns of ransomware, destructive attacks, and DoS campaigns from Iranian-affiliated actors.",
+          "cve_ids": [],
+          "threat_actor": "Iranian-affiliated (unnamed)",
+          "recommended_action": "Verify phishing-resistant MFA on all internet-facing banking systems; refresh SIEM alert rules against UAE CIRT IOCs and CISA aa26-097a indicators before market open July 16.",
+          "sources": ["UAE Cybersecurity Council / The National, July 3 2026", "FINRA, March 2026"],
+          "url": "https://www.finra.org/rules-guidance/guidance/cybersecurity-alert-heightened-threats-iranian-cyber-actors"
+        },
+        {
+          "bold_heading": "PLC/ICS exploitation of Gulf critical infrastructure (CISA aa26-097a, active; re-flagged)",
+          "text": "CISA/FBI/NSA joint advisory on Iranian-affiliated APT (CyberAv3ngers/IRGC-linked) exploitation of PLCs across energy, government, and water sectors remains in effect. IRGC July 16 strikes continuing to target Kuwait industrial zones create convergent physical-cyber risk at energy and refinery facilities.",
+          "cve_ids": ["Per CISA aa26-097a"],
+          "threat_actor": "Iranian-affiliated APT / CyberAv3ngers (IRGC-linked)",
+          "recommended_action": "Audit OT/ICS network segmentation; verify PLC firmware integrity; restrict remote access to energy sector ICS.",
+          "sources": ["CISA/FBI/NSA advisory aa26-097a", "April 7 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Wiper and fake-ransomware targeting GCC financial entities (ongoing; Seedworm/MuddyWater-affiliated)",
+          "text": "Iranian state-sponsored actors continue deploying wiper malware and fake-ransomware via web shell exploitation against GCC government and financial entities, active since February 28 2026. Kuwait's sustained IRGC targeting priority since July 12 makes Kuwaiti financial institutions the most probable next geographic expansion of this campaign.",
+          "threat_actor": "Iranian state-sponsored (assessed Seedworm/MuddyWater-affiliated)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["EclecticIQ blog", "April–July 2026"],
+          "url": "https://blog.eclecticiq.com/the-escalating-cyber-risk-landscape-in-regional-conflicts-strategic-actions-for-2026"
+        },
+        {
+          "bold_heading": "M/T Belma disabling creates new extortion attack surface for shipping finance operators",
+          "text": "The US military disabling of M/T Belma introduces insurance and legal ambiguity that Iranian-affiliated ransomware actors may exploit by targeting shipping finance operators (banks, commodity traders, P&I clubs) caught between US blockade enforcement and Iranian supply flow claims. No confirmed incidents; structural vulnerability elevated by absence of legal precedent.",
+          "threat_actor": "Iranian-affiliated threat actors; opportunistic criminal ransomware groups",
+          "assessed_likelihood": "Low-Moderate",
+          "sources": ["Washington Examiner, July 16 2026", "SISA InfoSec, July 2026"],
+          "url": "https://www.sisainfosec.com/blogs/threat-advisory-elevated-cyber-risk-to-the-payments-ecosystem-amid-israel-us-iran-conflict-escalation/"
+        },
+        {
+          "bold_heading": "Active scanning of Gulf energy-financial infrastructure (Iranian-aligned groups)",
+          "text": "SISA InfoSec and EclecticIQ confirm Iranian-aligned groups scanning Qatari LNG facilities (Ras Laffan, Mesaieed) and GCC financial services infrastructure since late June 2026. CENTCOM's fifth-day sustained strike pattern may accelerate cyber reconnaissance tasking ahead of the next physical wave.",
+          "threat_actor": "Iranian-aligned APT groups",
+          "assessed_likelihood": "Moderate",
+          "sources": ["SISA InfoSec, July 2026", "EclecticIQ, July 2026"],
+          "url": "https://www.sisainfosec.com/blogs/threat-advisory-elevated-cyber-risk-to-the-payments-ecosystem-amid-israel-us-iran-conflict-escalation/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Next IRGC Nasr 2 salvo / tactical reorientation",
+          "why_it_matters": "Today's salvo was 25 projectiles vs. yesterday's 39; may signal a reload cycle or target set shift rather than de-escalation — new wave likely within 12–24h. Watch @KUNA_EN, @MOIKuwait.",
+          "related_section": "Sections 1, 2, 3"
+        },
+        {
+          "text": "M/T Belma — P&I club and underwriter circulars (expected July 17)",
+          "why_it_matters": "Circulars on war risk coverage applicability to US military interdiction will define the practical insurance posture for Arabian Gulf shipping finance and may trigger automatic policy reviews.",
+          "related_section": "Section 5A"
+        },
+        {
+          "text": "Oman's Hormuz management proposal — US/Iran response",
+          "why_it_matters": "Acceptance opens a new ceasefire window relieving insurance and compliance risk; rejection or silence escalates scenario for further blockade enforcement and physical targeting.",
+          "related_section": "Sections 4, 5"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    {
+      "section": "1 — Alerts & Sirens",
+      "source_count": 4,
+      "confidence": "HIGH",
+      "note": "Kuwait MOD confirmation; Arab Times; Times of Israel; Gulf News"
+    },
+    {
+      "section": "2 — Targets & Incidents",
+      "source_count": 5,
+      "confidence": "MEDIUM-HIGH",
+      "note": "Kuwait attack: MOD confirmed; CENTCOM strike: official release; Belma: Gulf News + Stars & Stripes + Washington Examiner; Bahrain [SINGLE SOURCE — Gulf News]"
+    },
+    {
+      "section": "3 — Kuwait Local",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "Civil defense confirmed; AQI stale reading [SINGLE SOURCE — aqicn.org/eMISK]; KWI/port data current Jul 15–16"
+    },
+    {
+      "section": "4 — Regional Context",
+      "source_count": 4,
+      "confidence": "HIGH",
+      "note": "CENTCOM confirmed; Bloomberg/Reuters Hormuz data; Pakistan Today for diplomatic track"
+    },
+    {
+      "section": "5 — Risk Signal",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "Analyst assessments based on confirmed Tier 1 events; forward-looking risk is judgment-based"
+    },
+    {
+      "section": "5A — Insurance Risks",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "LMA/Lloyd's background; M/T Belma coverage question is new analyst assessment; no insurer circular confirmed yet at compilation"
+    },
+    {
+      "section": "7A — Cyber Tactical",
+      "source_count": 2,
+      "confidence": "MEDIUM",
+      "note": "No new 24–48h advisories confirmed; prior active items re-flagged per kinetic escalation pattern"
+    },
+    {
+      "section": "7B — Cyber Strategic",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "Campaign-level assessments from established Tier 4 sources; M/T Belma extortion vector is new analyst assessment"
+    }
+  ],
+  "footer": "Report #110 compiled 2026-07-16 at 07:30 UTC+3."
+}
