@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "headline": "17 July 2026",
-  "subtitle": "IRGC Targets US Bases; CENTCOM 6th Night; Trump Power-Plant Escalation Warning",
+  "subtitle": "IRGC Targets US Bases Across Kuwait, Bahrain & Qatar; CENTCOM 6th Night; Trump Power-Plant Escalation Warning",
   "report_number": "111",
   "coverage": "16 July 2026 07:00 UTC+3 – 17 July 2026 07:00 UTC+3",
   "trend_tracker": {
@@ -35,6 +35,11 @@
           "bold_heading": "Bahrain — simultaneous alert, 17 July 2026 (predawn)",
           "text": "Bahrain's Interior Ministry activated warning sirens and urged citizens and residents to remain calm and move to the nearest safe place. Iran separately attacked the US Fifth Fleet base at Juffair, Bahrain.",
           "sources": ["J-Post article-902811", "CNN live updates July 17 2026"]
+        },
+        {
+          "bold_heading": "Qatar — public safety warning (stay indoors), 17 July 2026 (predawn)",
+          "text": "Qatar's Interior Ministry issued a public safety warning advising all residents to stay indoors and sent an emergency security alert to mobile phones across the country. Qatar's Defense Ministry confirmed its armed forces thwarted an incoming missile attack; multiple explosions heard in Doha consistent with interception activity. Interior Ministry subsequently stated the security threat was 'over'.",
+          "sources": ["Qatar Interior Ministry statement July 17 2026", "Qatar Defense Ministry July 17 2026", "Newswire witnesses July 17 2026"]
         }
       ]
     },
@@ -59,6 +64,11 @@
           "bold_heading": "Bahrain — Iranian attack on Juffair US 5th Fleet base, predawn 17 July",
           "text": "Iran launched a separate drone/missile attack on US Fifth Fleet facilities at Juffair. Bahrain civil defense activated; Interior Ministry sirens sounded. No confirmed strikes on Bahraini territory at compilation time.",
           "sources": ["CNN live updates", "J-Post article-902811 July 17 2026"]
+        },
+        {
+          "bold_heading": "Qatar — missile attack thwarted, predawn 17 July",
+          "text": "Qatar's Defense Ministry confirmed its armed forces intercepted an incoming missile attack; explosions heard in Doha were consistent with interception activity. Qatar's Interior Ministry issued a public stay-indoors advisory and sent mass emergency SMS alert; security threat declared 'over' within the coverage window.",
+          "sources": ["Qatar Interior Ministry statement July 17 2026", "Qatar Defense Ministry July 17 2026", "Newswire witnesses July 17 2026"]
         }
       ]
     },
@@ -101,7 +111,7 @@
         },
         {
           "bold_heading": "Schools / Iran oil sanctions deadline",
-          "text": "Schools on summer break; no closures. Iran oil sanctions wind-down deadline is today (July 17) — mandatory wind-down of all Iranian oil production, delivery, and sales under reimposed US sanctions; compliance-related banking freezes may emerge during business hours.",
+          "text": "Schools on summer break; no closures. Iran oil sanctions wind-down deadline today (July 17) — mandatory wind-down of all Iranian oil production, delivery, and sales; compliance-related banking freezes may emerge during business hours.",
           "sources": ["US EIA sanctions framework", "Economic impact of 2026 Iran war Wikipedia"]
         }
       ]
@@ -141,8 +151,8 @@
         },
         {
           "bold_heading": "Staff safety",
-          "text": "Predawn attack window (01:00–05:00 UTC+3) confirmed for the sixth consecutive night. Emergency warden protocols must explicitly cover pre-dawn hours; July 17 attack targeted US military installations — expat staff near US base perimeters (Arifjan, Camp Buehring) at elevated risk.",
-          "sources": ["Kuwait Armed Forces statement", "ANI News July 17 2026"]
+          "text": "Predawn attack window (01:00–05:00 UTC+3) confirmed for the sixth consecutive night across Kuwait, Bahrain, and Qatar. Emergency warden protocols must explicitly cover pre-dawn hours; July 17 attack targeted US military installations — expat staff near US base perimeters (Arifjan, Camp Buehring, Juffair) at elevated risk.",
+          "sources": ["Kuwait Armed Forces statement", "Qatar MOI", "ANI News July 17 2026"]
         },
         {
           "bold_heading": "Payment systems / trade finance",
@@ -156,7 +166,7 @@
         },
         {
           "bold_heading": "Cybersecurity",
-          "text": "Sixth consecutive kinetic day; Trump escalation statements create strong incentive for Iranian preemptive cyber operations against Gulf financial infrastructure before July 20 power plant strikes begin. Historical 12–72h post-kinetic surge pattern (confirmed March, April, June 2026) suggests heightened risk through July 19–20.",
+          "text": "Sixth consecutive kinetic day with three-state alert footprint (Kuwait, Bahrain, Qatar); Trump escalation statements create strong incentive for Iranian preemptive cyber operations against Gulf financial infrastructure before July 20 power plant strikes begin. Historical 12–72h post-kinetic surge pattern (confirmed March, April, June 2026) suggests heightened risk through July 19–20.",
           "sources": ["UAE Cybersecurity Council July 3 2026", "FINRA cybersecurity alert March 2026", "EclecticIQ blog July 2026"]
         }
       ]
@@ -175,8 +185,8 @@
         },
         {
           "bold_heading": "Iran 'red line' and JWC Listed Areas review risk",
-          "text": "Iran's formal declaration of Hormuz as a 'red line' and threat to strike all GCC infrastructure if Trump proceeds with power plant strikes creates a plausible scenario for JWC re-rating ALL GCC coastal waters — not just the Persian Gulf. No JWC review confirmed; institutions should request conditional underwriting guidance from Lloyd's brokers before July 20.",
-          "sources": ["CNBC Iran warning July 16 2026", "LMA/Lloyd's List background"]
+          "text": "Iran's formal declaration of Hormuz as a 'red line' and threat to strike all GCC infrastructure if Trump proceeds with power plant strikes creates a plausible scenario for JWC re-rating ALL GCC coastal waters — not just the Persian Gulf. Qatar's stay-indoors advisory reinforces the geographic scope of the exposure. No JWC review confirmed; institutions should request conditional underwriting guidance from Lloyd's brokers before July 20.",
+          "sources": ["CNBC Iran warning July 16 2026", "Qatar MOI July 17 2026", "LMA/Lloyd's List background"]
         },
         {
           "bold_heading": "Sanctions-related insurance voids (July 17 deadline)",
@@ -290,8 +300,8 @@
     }
   ],
   "source_confidence": [
-    { "section": "1 — Alerts & Sirens", "source_count": 4, "confidence": "MEDIUM-HIGH", "note": "Kuwait Armed Forces confirmed; J-Post; Times of Israel; CNN; IRGC target specifics [SINGLE SOURCE — Iranian state media]" },
-    { "section": "2 — Targets & Incidents", "source_count": 5, "confidence": "MEDIUM-HIGH", "note": "CENTCOM 6th night: official release + J-Post + CBS; Kuwait IRGC attack: ANI + J-Post [projectile count NR]; Bahrain: CNN + J-Post; Iran warning in Sec 4" },
+    { "section": "1 — Alerts & Sirens", "source_count": 5, "confidence": "MEDIUM-HIGH", "note": "Kuwait Armed Forces confirmed; J-Post; Times of Israel; CNN; Qatar MOI + Qatar MOD; IRGC target specifics [SINGLE SOURCE — Iranian state media]" },
+    { "section": "2 — Targets & Incidents", "source_count": 6, "confidence": "MEDIUM-HIGH", "note": "CENTCOM 6th night: official release + J-Post + CBS; Kuwait IRGC attack: ANI + J-Post [projectile count NR]; Bahrain: CNN + J-Post; Qatar: Qatar MOI + Qatar MOD; Iran warning in Sec 4" },
     { "section": "3 — Kuwait Local", "source_count": 3, "confidence": "MEDIUM", "note": "Civil defense confirmed; AQI [SINGLE SOURCE — IQAir]; KWI/port data carried from Jul 16" },
     { "section": "4 — Regional Context", "source_count": 4, "confidence": "HIGH", "note": "CENTCOM official; Iran Army statement per Al Jazeera; Trump Fox interview per CNBC/CNN; Oman framework per NPR/Soufan Center" },
     { "section": "5 — Risk Signal", "source_count": 3, "confidence": "MEDIUM", "note": "Analyst assessment from confirmed Tier 1 events; July 17 sanctions deadline forward-looking" },
