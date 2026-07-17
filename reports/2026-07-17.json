@@ -1,0 +1,303 @@
+{
+  "date": "2026-07-17",
+  "headline": "17 July 2026",
+  "subtitle": "IRGC Targets US Bases; CENTCOM 6th Night; Trump Power-Plant Escalation Warning",
+  "report_number": "111",
+  "coverage": "16 July 2026 07:00 UTC+3 – 17 July 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-07-17",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "25", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "84.63", "previous": "85.63", "delta": "-1.00", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "~79.90 (est.)", "previous": "80.27", "delta": "~-0.37", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~10", "previous": "7", "delta": "+3", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "15", "previous": "15", "delta": "0", "trend_7d": "↑" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "137", "today_label": "USG", "previous": "100", "previous_label": "Moderate", "delta": "+37", "trend_7d": "↑" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "Kuwait Armed Forces — 17 July 2026 predawn (~01:00–05:00 UTC+3)",
+          "text": "Air defense systems activated across Kuwait as Iranian forces launched drone and missile attacks against US military installations. Kuwait Army confirmed systems were intercepting hostile aerial targets; any explosions heard are from interception operations, not impacts. IRGC stated it targeted HIMARS launchers, missile warehouses, a Patriot system, ammunition depot, and radar sites associated with US forces.",
+          "sources": ["J-Post article-902811", "Times of Israel liveblog July 17", "ANI News July 17", "CBS News July 17 2026"]
+        },
+        {
+          "bold_heading": "Bahrain — simultaneous alert, 17 July 2026 (predawn)",
+          "text": "Bahrain's Interior Ministry activated warning sirens and urged citizens and residents to remain calm and move to the nearest safe place. Iran separately attacked the US Fifth Fleet base at Juffair, Bahrain.",
+          "sources": ["J-Post article-902811", "CNN live updates July 17 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Kuwait — IRGC 6th-wave salvo targeting US military positions, predawn 17 July (~01:00–05:00 UTC+3)",
+          "text": "Iran's IRGC deployed drones and missiles targeting HIMARS missile launcher sites, ammunition warehouses, a Patriot air defense battery, and a radar installation associated with US forces in Kuwait. Kuwait Armed Forces intercepted inbound threats; projectile count NR at compilation time. No confirmed Kuwaiti civilian casualties. [SINGLE SOURCE for IRGC target claims]",
+          "sources": ["ANI News July 17 2026", "J-Post article-902811", "IRGC statement via Iranian state media"]
+        },
+        {
+          "bold_heading": "CENTCOM — 6th consecutive night of strikes against Iran, 16–17 July 2026",
+          "text": "US forces completed their sixth straight night of strikes targeting coastal surveillance and air defense sites, military logistics infrastructure, and maritime capabilities. Five bridges in southern Iran hit; three explosions in Chabahar; strikes in Qeshm Island, Bandar Abbas, Iranshahr, and Bandar-e Khamir. Iranian media reported 7 fatalities.",
+          "sources": ["J-Post article-902818", "CBS News live updates", "ANI News", "CENTCOM public release July 17 2026"]
+        },
+        {
+          "bold_heading": "Bahrain — Iranian attack on Juffair US 5th Fleet base, predawn 17 July",
+          "text": "Iran launched a separate drone/missile attack on US Fifth Fleet facilities at Juffair. Bahrain civil defense activated; Interior Ministry sirens sounded. No confirmed strikes on Bahraini territory at compilation time.",
+          "sources": ["CNN live updates", "J-Post article-902811 July 17 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Civil defense / MOD",
+          "text": "No shelter-in-place or evacuation order issued. Kuwait Armed Forces confirmed air defense engagement of hostile aerial targets. IRGC targeted US military installations, not civilian areas directly. No civilian casualties reported.",
+          "sources": ["Kuwait Armed Forces statement", "ANI News July 17 2026"]
+        },
+        {
+          "bold_heading": "Infrastructure damage",
+          "text": "No new confirmed civilian infrastructure damage during this coverage window. Cumulative count unchanged at 15 (reflects July 16 IRGC attack on 'vital and civilian facilities').",
+          "sources": ["MOD Kuwait", "Arab Times July 16 2026"]
+        },
+        {
+          "bold_heading": "KWI Airport",
+          "text": "Partial operations continuing. T4 (Kuwait Airways, Emirates, flydubai, Air Arabia) and T5 (Jazeera Airways) operational; T1 remains closed pending repair from June 3 strike with no reopening date. Travelers advised to confirm flights before departure.",
+          "sources": ["Kuwait Airport Authority", "Wego Travel Blog July 2026"]
+        },
+        {
+          "bold_heading": "Ports",
+          "text": "Shuaiba Port — vessel movements suspended since July 12 for safety; cargo ops at berth continuing; ISPS Security Level 2. Shuwaikh Port — operational, ISPS Level 1.",
+          "sources": ["Inchcape Shipping Services Middle East advisory", "Safety4Sea July 2026"]
+        },
+        {
+          "bold_heading": "Borders",
+          "text": "Saudi land bridge (Al-Khafji / Al-Ruqai) open; Saudi corridor viable. Northern border crossings (struck July 12): operational status unconfirmed.",
+          "sources": ["Arab News", "Kuwait MOI"]
+        },
+        {
+          "bold_heading": "Air quality",
+          "text": "137 (USG) per IQAir, PM2.5 dominant at 50.2 µg/m³ [SINGLE SOURCE — IQAir]. Elevated above yesterday's stale 100 (Moderate) aqicn.org reading; US Embassy station not showing live Jul 17 data.",
+          "sources": ["IQAir July 17 2026"]
+        },
+        {
+          "bold_heading": "Schools / Iran oil sanctions deadline",
+          "text": "Schools on summer break; no closures. Iran oil sanctions wind-down deadline is today (July 17) — mandatory wind-down of all Iranian oil production, delivery, and sales under reimposed US sanctions; compliance-related banking freezes may emerge during business hours.",
+          "sources": ["US EIA sanctions framework", "Economic impact of 2026 Iran war Wikipedia"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "CENTCOM completed its sixth consecutive night of strikes against Iran (July 16/17), targeting bridges, Chabahar port area, coastal surveillance, and maritime capabilities; Trump stated power plants and bridges will be targeted from 'next week' (~July 20) unless Iran negotiates — explicitly signaling further escalation, not de-escalation.",
+          "sources": ["CENTCOM release", "CBS News", "Al Jazeera July 17 2026"]
+        },
+        {
+          "text": "Iran's armed forces warned that 'the war will spread to new areas' if US attacks continue; the IRGC formally declared the Strait of Hormuz an inviolable 'red line' and threatened to strike GCC civilian and energy infrastructure in retaliation for any power plant or bridge strikes — these are now formal public military threats.",
+          "sources": ["Al Jazeera", "CNBC", "Modern Diplomacy July 16–17 2026"]
+        },
+        {
+          "text": "Oman's Hormuz transit-fee proposal (with France/UK studying an IMO-backed navigational fee framework) remains unresolved; the US has rejected a 20% toll as 'unacceptable' while Iran is prepared to negotiate fee levels — no deal imminent but a commercial reopening framework is forming in parallel to the kinetic cycle.",
+          "sources": ["NPR", "MS NOW", "Soufan Center July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Business continuity / escalation horizon",
+          "text": "Trump's 'next week' (July 20+) threat to target Iranian power plants and bridges is the most significant escalation signal since the blockade resumed July 14. IRGC response is likely to include expanded GCC civilian infrastructure targeting; institutions should stress-test continuity plans for scenarios involving power grid, port, and communications disruptions across Kuwait, Bahrain, and Qatar simultaneously.",
+          "sources": ["CENTCOM release", "Fox News interview per CNBC/CNN July 16–17 2026"]
+        },
+        {
+          "bold_heading": "Staff safety",
+          "text": "Predawn attack window (01:00–05:00 UTC+3) confirmed for the sixth consecutive night. Emergency warden protocols must explicitly cover pre-dawn hours; July 17 attack targeted US military installations — expat staff near US base perimeters (Arifjan, Camp Buehring) at elevated risk.",
+          "sources": ["Kuwait Armed Forces statement", "ANI News July 17 2026"]
+        },
+        {
+          "bold_heading": "Payment systems / trade finance",
+          "text": "Iranian oil sanctions wind-down deadline today (July 17) creates immediate compliance exposure. Letters of credit and commodity finance instruments linked to Iranian-origin cargo or supply may be frozen by correspondent banks today. Treasury and trade finance teams should conduct same-day counterparty sweep.",
+          "sources": ["US EIA sanctions framework", "Economic impact of 2026 Iran war Wikipedia"]
+        },
+        {
+          "bold_heading": "Shipping finance",
+          "text": "Shuaiba Port vessel movements suspended since July 12 (approaching one week); shipping finance counterparties with stranded vessels should review constructive total loss thresholds. Hormuz transits (~10/day, all dark-AIS) create AIS-off compliance risk under vessel tracking covenants in most shipping loan agreements.",
+          "sources": ["Inchcape Shipping advisory", "Hormuz tracking data July 17 2026"]
+        },
+        {
+          "bold_heading": "Cybersecurity",
+          "text": "Sixth consecutive kinetic day; Trump escalation statements create strong incentive for Iranian preemptive cyber operations against Gulf financial infrastructure before July 20 power plant strikes begin. Historical 12–72h post-kinetic surge pattern (confirmed March, April, June 2026) suggests heightened risk through July 19–20.",
+          "sources": ["UAE Cybersecurity Council July 3 2026", "FINRA cybersecurity alert March 2026", "EclecticIQ blog July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "War Risk Premia (WRP) and DFC facility",
+          "text": "WRP stable at ~5% of hull value for Persian Gulf transits. The US DFC $40B revolving reinsurance facility (hull, cargo, liability) is now operative but access requires filing through approved US insurer partners; Gulf-based institutions should verify whether their H&M and cargo underwriters are enrolled as DFC counterparties before the next transit authorization cycle.",
+          "sources": ["Xinhua/GlobalSecurity July 11 2026", "LMA Lloyd's July 2026", "US DFC official announcement"]
+        },
+        {
+          "bold_heading": "Iran 'red line' and JWC Listed Areas review risk",
+          "text": "Iran's formal declaration of Hormuz as a 'red line' and threat to strike all GCC infrastructure if Trump proceeds with power plant strikes creates a plausible scenario for JWC re-rating ALL GCC coastal waters — not just the Persian Gulf. No JWC review confirmed; institutions should request conditional underwriting guidance from Lloyd's brokers before July 20.",
+          "sources": ["CNBC Iran warning July 16 2026", "LMA/Lloyd's List background"]
+        },
+        {
+          "bold_heading": "Sanctions-related insurance voids (July 17 deadline)",
+          "text": "Today's mandatory Iran sanctions wind-down affects cargo and trade credit policies: any P&I club or cargo underwriter whose policy terms embed sanctions compliance requirements may automatically void coverage on Iranian-linked cargo or Iranian-destination voyages effective today. Legal review of policy endorsements required immediately.",
+          "sources": ["US EIA sanctions framework", "P&I club advisory background July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "A War Neither America Nor Iran Can Win",
+          "author": "Staff report",
+          "publication": "TIME Magazine",
+          "pub_date": "2026-07-16",
+          "access": "Open",
+          "summary": "TIME's analysis asserts that neither Washington nor Tehran can achieve their declared strategic objectives — the US cannot force Iran to permanently abandon nuclear ambition through military strikes alone, while Iran cannot compel the US to abandon its Gulf posture. The conflict is locked in a militarily inconclusive escalation spiral whose endpoint is determined by economic exhaustion and Gulf state pressure, not battlefield outcome.",
+          "relevance": "Grounds the case for treating the current kinetic cycle as structurally prolonged, requiring sustained operational risk posture for financial institutions.",
+          "link": "https://time.com/article/2026/07/16/war-america-iran-trump-hormuz/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "Iranian-affiliated AI-enhanced phishing and malware — Gulf financial sector (elevated; re-flagged for Day 140)",
+          "text": "UAE Cybersecurity Council confirmed July 3 a coordinated AI-enhanced campaign (phishing, malware, vulnerability exploitation) targeting UAE financial institutions. Sixth consecutive kinetic day plus Trump's July 20 escalation signal elevates Iranian cyber surge probability within 24–72h (pattern confirmed March, April, June 2026). FINRA standing alert (March 2026) warns of ransomware, destructive attacks, and DoS from Iranian-affiliated actors.",
+          "cve_ids": [],
+          "threat_actor": "Iranian-affiliated (IRGC-linked)",
+          "recommended_action": "Verify phishing-resistant MFA on all internet-facing banking systems; refresh SIEM alert rules against UAE CIRT IOCs and CISA aa26-097a indicators before business hours July 17.",
+          "sources": ["UAE Cybersecurity Council / The National July 3 2026", "FINRA cybersecurity alert March 2026"],
+          "url": "https://www.finra.org/rules-guidance/guidance/cybersecurity-alert-heightened-threats-iranian-cyber-actors"
+        },
+        {
+          "bold_heading": "PLC/ICS exploitation of Gulf critical infrastructure (CISA aa26-097a, active; re-flagged)",
+          "text": "CISA/FBI/NSA joint advisory on CyberAv3ngers (IRGC-linked) exploitation of PLCs across energy, government, and water sectors remains in effect. Trump threat to hit Iranian power plants next week creates a mirror risk: Iranian-affiliated actors may preemptively target GCC power grid OT systems before the July 20 US strike window.",
+          "cve_ids": [],
+          "threat_actor": "CyberAv3ngers / IRGC Cyber Electronic (Shahid Kaveh Group)",
+          "recommended_action": "Audit OT/ICS network segmentation; verify PLC firmware integrity at energy facilities; restrict remote access to ICS systems through July 22.",
+          "sources": ["CISA/FBI/NSA advisory aa26-097a, April 7 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Wiper and fake-ransomware targeting GCC financial entities (ongoing; Seedworm/MuddyWater-affiliated)",
+          "text": "Iranian state-sponsored actors continue deploying wiper malware and fake-ransomware via web shell exploitation against GCC government and financial entities, active since February 28 2026. Trump's announced July 20 power plant strike creates a strong pre-kinetic cyber incentive; Kuwaiti financial institutions remain the most probable geographic next-target given sustained IRGC Kuwait focus.",
+          "threat_actor": "Seedworm / MuddyWater (Iranian state-sponsored)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["EclecticIQ blog April–July 2026"],
+          "url": "https://blog.eclecticiq.com/the-escalating-cyber-risk-landscape-in-regional-conflicts-strategic-actions-for-2026"
+        },
+        {
+          "bold_heading": "Preemptive Gulf power grid targeting by Iranian-affiliated cyber actors (emerging scenario)",
+          "text": "Trump's 'next week' power plant strike threat introduces a preemptive cyber vector: Iranian-aligned groups may attempt to disrupt GCC electrical grid OT systems before the US strike window opens (July 20), to demonstrate retaliatory capability without triggering a conventional military response. No confirmed pre-attack reconnaissance reported; structural vulnerability elevated.",
+          "threat_actor": "Iranian-aligned (unattributed)",
+          "assessed_likelihood": "Low-Moderate",
+          "sources": ["SISA InfoSec July 2026", "Analyst assessment"],
+          "url": "https://www.sisainfosec.com/blogs/threat-advisory-elevated-cyber-risk-to-the-payments-ecosystem-amid-israel-us-iran-conflict-escalation/"
+        },
+        {
+          "bold_heading": "Active scanning of Gulf energy-financial infrastructure (Iranian-aligned groups)",
+          "text": "SISA InfoSec and EclecticIQ confirm Iranian-aligned groups scanning Qatari LNG facilities (Ras Laffan, Mesaieed) and GCC financial services infrastructure since late June 2026. CENTCOM's sixth-day sustained strike pattern and Trump's escalation rhetoric are likely to accelerate cyber reconnaissance tasking ahead of the July 20 window.",
+          "threat_actor": "Iranian-aligned (SISA/EclecticIQ-tracked)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["SISA InfoSec July 2026", "EclecticIQ July 2026"],
+          "url": "https://www.sisainfosec.com/blogs/threat-advisory-elevated-cyber-risk-to-the-payments-ecosystem-amid-israel-us-iran-conflict-escalation/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Trump escalation to Iranian power plants and bridges (from ~July 20).",
+          "why_it_matters": "If Trump proceeds, IRGC response explicitly includes expanded GCC civilian infrastructure targeting — the single highest-impact trigger in the 48–72h horizon; watch CENTCOM releases, @KUNA_EN, Al Jazeera, CNN.",
+          "related_section": "Sections 1, 2, 3, 5, 5A"
+        },
+        {
+          "text": "P&I Club and JWC insurance circulars (expected July 17–18).",
+          "why_it_matters": "Circulars on Shuaiba-stranded vessel coverage, DFC facility enrolment, and Iran 'red line' JWC review status will determine whether the DFC backstop is operationally accessible for GCC shipping finance counterparties before July 20.",
+          "related_section": "Section 5A"
+        },
+        {
+          "text": "Iranian oil sanctions wind-down effects (today, July 17).",
+          "why_it_matters": "Compliance effects on correspondent banking, letter-of-credit processing, and cargo insurance for Iranian-linked counterparties will manifest during business hours today; monitor for banking system freezes or suspension notices.",
+          "related_section": "Sections 5, 5A"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 4, "confidence": "MEDIUM-HIGH", "note": "Kuwait Armed Forces confirmed; J-Post; Times of Israel; CNN; IRGC target specifics [SINGLE SOURCE — Iranian state media]" },
+    { "section": "2 — Targets & Incidents", "source_count": 5, "confidence": "MEDIUM-HIGH", "note": "CENTCOM 6th night: official release + J-Post + CBS; Kuwait IRGC attack: ANI + J-Post [projectile count NR]; Bahrain: CNN + J-Post; Iran warning in Sec 4" },
+    { "section": "3 — Kuwait Local", "source_count": 3, "confidence": "MEDIUM", "note": "Civil defense confirmed; AQI [SINGLE SOURCE — IQAir]; KWI/port data carried from Jul 16" },
+    { "section": "4 — Regional Context", "source_count": 4, "confidence": "HIGH", "note": "CENTCOM official; Iran Army statement per Al Jazeera; Trump Fox interview per CNBC/CNN; Oman framework per NPR/Soufan Center" },
+    { "section": "5 — Risk Signal", "source_count": 3, "confidence": "MEDIUM", "note": "Analyst assessment from confirmed Tier 1 events; July 17 sanctions deadline forward-looking" },
+    { "section": "5A — Insurance Risks", "source_count": 3, "confidence": "MEDIUM", "note": "DFC facility: official US DFC; WRP: Xinhua/Lloyd's; sanctions void analysis: analyst assessment" },
+    { "section": "7A — Cyber Tactical", "source_count": 2, "confidence": "MEDIUM", "note": "No new 24–48h advisories; prior active items re-flagged per Day 140 kinetic escalation pattern" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "MEDIUM", "note": "Campaign-level from established Tier 4 sources; power grid cyber scenario is new analyst assessment" }
+  ],
+  "footer": "Report #111 compiled 2026-07-17 at 07:30 UTC+3."
+}
