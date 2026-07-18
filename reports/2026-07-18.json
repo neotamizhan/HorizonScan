@@ -1,0 +1,363 @@
+{
+  "date": "2026-07-18",
+  "headline": "18 July 2026",
+  "subtitle": "Kuwait desalination plant struck; 7th consecutive night of US strikes on Iran; Oman two-corridor Hormuz proposal drafted",
+  "report_number": "112",
+  "coverage": "17 July 2026 07:00 UTC+3 – 18 July 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-07-18",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "85.95", "previous": "84.63", "delta": "+1.32", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "82.47", "previous": "79.90", "delta": "+2.57", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~10", "previous": "~10", "delta": "0", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "16", "previous": "15", "delta": "+1", "trend_7d": "↑" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "82", "today_label": "Moderate", "previous": "137", "previous_label": "USG", "delta": "-55", "trend_7d": "↓" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "Kuwait Armed Forces — 18 July 2026 (predawn ~01:00–05:00 UTC+3)",
+          "text": "Air defense systems activated across Kuwait as Iran's IRGC launched the seventh wave of Operation Nasr 2 missiles and drones targeting US military installations and, for the first time, Kuwaiti civilian infrastructure. Kuwait Army confirmed systems were intercepting hostile aerial targets.",
+          "sources": ["Al Jazeera, July 17 2026", "CNBC, July 17 2026", "Gulf News, July 18 2026"]
+        },
+        {
+          "bold_heading": "Kuwait Ministry of Electricity, Water and Renewable Energy — 18 July 2026",
+          "text": "Ministry confirmed an Iranian strike damaged one of Kuwait's power generation and water desalination plants, causing a fire affecting several electricity generation units. Emergency measures activated; Kuwait Fire Force contained blaze; residents urged to reduce electricity consumption. Technical teams assessing damage and working to restore affected units.",
+          "sources": ["Gulf News, July 18 2026", "Bloomberg, July 17 2026", "Asharq Al-Awsat, July 18 2026", "san.com, July 18 2026"]
+        },
+        {
+          "bold_heading": "Bahrain and Qatar — simultaneous alerts, predawn 18 July",
+          "text": "Bahrain and Qatar activated air defense systems and/or public alerts. Qatar armed forces confirmed interception of incoming projectiles; multiple explosions heard.",
+          "sources": ["Al Jazeera, July 17 2026", "CNBC, July 17 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Kuwait — power and water desalination plant struck (CONFIRMED), predawn 18 July",
+          "text": "Kuwait MOE confirmed missile/drone strike damaged a power generation and water desalination facility. Fire broke out, affecting multiple generation units. Approximately 90% of Kuwait's drinking water comes from desalination — any sustained damage poses a critical public utility risk. This is the first confirmed Iranian strike on Kuwaiti civilian utility infrastructure.",
+          "sources": ["Gulf News, July 18 2026", "Bloomberg, July 17 2026", "san.com, July 18 2026", "Asharq Al-Awsat, July 18 2026"]
+        },
+        {
+          "bold_heading": "Kuwait — IRGC 7th-wave salvo targeting US military positions, predawn 18 July",
+          "text": "IRGC launched seventh consecutive wave of Operation Nasr 2 drones and missiles targeting US military positions in Kuwait. Kuwait Armed Forces confirmed interception operations. No confirmed US military base damage from Kuwaiti or US sources at compilation time; IRGC damage claims UNVERIFIED. [IRGC claims SINGLE SOURCE — Iranian state media]",
+          "sources": ["Al Jazeera, July 17 2026", "CNBC, July 17 2026", "IRNA / Iranian state media (unverified)"]
+        },
+        {
+          "bold_heading": "CENTCOM — 7th consecutive night of strikes against Iran, 17–18 July 2026",
+          "text": "US forces completed seventh straight night of strikes targeting surveillance sites, military logistics, underground weapons storage, and maritime capabilities. At least six bridges near Bandar Abbas hit, cutting off Iran's main southern port from its interior. Eight reported killed, 20 injured in Iran per Iranian media.",
+          "sources": ["CNN, July 17 2026", "NBC News, July 17 2026", "ABC News, July 17 2026", "Al Jazeera, July 17 2026", "CENTCOM public release"]
+        },
+        {
+          "bold_heading": "Bahrain and Qatar — Iranian attacks, predawn 18 July",
+          "text": "Iran separately targeted Bahrain and Qatar. Both countries activated air defense systems and confirmed projectile interceptions. Specific facilities targeted unconfirmed at compilation time.",
+          "sources": ["Al Jazeera, July 17 2026", "CNBC, July 17 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Power and water supply emergency",
+          "text": "Ministry of Electricity activated emergency grid stabilisation. Kuwait Fire Force contained fire at struck desalination plant. Public urged to reduce electricity consumption. Technical teams assessing and restoring units; timeline not publicly stated. Water supply disruption risk elevated given 90% desalination dependency.",
+          "sources": ["Gulf News, July 18 2026", "Bloomberg, July 17 2026"]
+        },
+        {
+          "bold_heading": "Civil defense",
+          "text": "No shelter-in-place or evacuation order issued. No civilian casualty reports from July 18 incidents at compilation time.",
+          "sources": ["Kuwait Armed Forces statement, July 18 2026"]
+        },
+        {
+          "bold_heading": "KWI Airport",
+          "text": "Partial operations: T4 (Kuwait Airways, Emirates, flydubai, Air Arabia) and T5 (Jazeera Airways) operational; T1 remains closed pending repair from June 3 strike with no reopening date. Confirm flights before departure.",
+          "sources": ["Wego travel blog, July 2026", "Kuwait Airport official, July 2026"]
+        },
+        {
+          "bold_heading": "Ports",
+          "text": "Shuaiba Port — vessel movements suspended since July 12 (Day 7 of suspension); cargo operations at berth continue; ISPS Level 2. Shuwaikh Port — operational, ISPS Level 1.",
+          "sources": ["Prior confirmed sources, July 12–17 2026"]
+        },
+        {
+          "bold_heading": "Saudi land bridge and northern borders",
+          "text": "Al-Khafji/Al-Ruqai border crossing open; Saudi land corridor viable for emergency logistics. Northern border crossing operational status (struck July 12) remains unconfirmed.",
+          "sources": ["Prior confirmed sources, July 17 2026"]
+        },
+        {
+          "bold_heading": "Air quality",
+          "text": "82 (Moderate) per IQAir — notable improvement from 137 (USG) yesterday. aqicn.org US Embassy station displaying stale data from May 12; not live for July 18. [SINGLE SOURCE — IQAir]",
+          "sources": ["IQAir, July 18 2026"]
+        },
+        {
+          "bold_heading": "Iranian sanctions wind-down",
+          "text": "July 17 mandatory deadline now passed; day-one compliance effects on correspondent banking, LC processing, and cargo insurance for Iranian-linked counterparties beginning to manifest.",
+          "sources": ["Prior confirmed sources, July 17 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "CENTCOM completed seventh consecutive night of strikes against Iran (July 17/18), specifically targeting the Bandar Abbas logistics corridor with at least six bridge strikes — a qualitative shift from military-asset targeting to transport infrastructure, consistent with Trump's stated escalation to bridges and power plants from approximately July 20.",
+          "sources": ["CNN, NBC News, Al Jazeera, July 17 2026", "CENTCOM release"]
+        },
+        {
+          "text": "Oman has drafted a two-corridor Hormuz navigation proposal: Southern Corridor (Omani territorial waters) would allow free navigation; Northern Corridor (Iranian territorial waters) would require prior Iranian approval but no tolls. No formal US or Iranian response yet; this is the first viable framework for partial commercial Hormuz reopening since the July 8 ceasefire collapse.",
+          "sources": ["CFR, July 2026", "Fortune, July 11 2026", "Jerusalem Post, July 2026"]
+        },
+        {
+          "text": "Iran's IRGC expanded retaliatory strikes to Jordan, Kuwait (civilian infrastructure), and Syria in the July 17-18 wave — widest geographic footprint of the war to date, signalling Tehran's willingness to strike GCC civilian targets in response to continued CENTCOM escalation.",
+          "sources": ["Al Jazeera, July 17 2026", "CNBC, July 17 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Business continuity — power and water supply",
+          "text": "First kinetic attack on Kuwaiti civilian utility infrastructure. Institutions must immediately test UPS and generator capacity at Kuwait offices and data centres; confirm diesel fuel reserve levels; assess on-site water storage. Prolonged generation unit damage could force business hour adjustments or temporary site closures if grid stability deteriorates.",
+          "sources": ["Gulf News, Bloomberg, July 18 2026"]
+        },
+        {
+          "bold_heading": "Staff safety",
+          "text": "Predawn attack window (01:00–05:00 UTC+3) confirmed for seventh consecutive night. Staff near desalination or power generation facilities in industrial zones face elevated proximity risk. Emergency warden protocols must cover pre-dawn hours; standby evacuation plans via KWI T4/T5 and Saudi land corridor should be reviewed.",
+          "sources": ["Kuwait Armed Forces statement; Kuwait MOE, July 18 2026"]
+        },
+        {
+          "bold_heading": "Payment systems / trade finance",
+          "text": "Iranian oil sanctions wind-down (effective July 17) now producing day-one compliance effects. Treasury teams should sweep correspondent bank communications for freeze/hold notices on LC instruments with Iranian-origin cargo or Iranian-counterparty linkage.",
+          "sources": ["Prior confirmed regulatory sources, July 17 2026"]
+        },
+        {
+          "bold_heading": "Shipping finance",
+          "text": "Shuaiba Port vessel movements suspended (Day 7); constructive total loss thresholds for stranded vessels require monitoring. Hormuz transits at ~10/day vs. 88 pre-crisis baseline, all dark-AIS — AIS-off compliance risk active under vessel tracking loan covenants.",
+          "sources": ["Prior confirmed sources, PortWatch/Kpler, July 2026"]
+        },
+        {
+          "bold_heading": "Cybersecurity",
+          "text": "Seventh consecutive kinetic day; civilian infrastructure targeting in Kuwait is consistent with the pre-cyber-surge pattern (March, April, June 2026 confirmed). CISOs should elevate SOC alerting levels before Kuwait business hours July 18–20.",
+          "sources": ["UAE Cybersecurity Council, July 3 2026", "FINRA, March 2026", "EclecticIQ, July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Kuwait civilian infrastructure — new property and BI coverage exposure",
+          "text": "Confirmed strike on Kuwait power/water desalination plant introduces an untested coverage question for commercial property and business interruption policies held by Kuwaiti institutions: are war-damage exclusions or war risk endorsements activated by Iranian missile/drone strikes on civilian utility infrastructure? Institutions should immediately request policy interpretation from commercial property underwriters and Lloyd's brokers.",
+          "sources": ["Gulf News, Bloomberg, July 18 2026", "LMA Lloyd's background"]
+        },
+        {
+          "bold_heading": "WRP / JWC Listed Areas",
+          "text": "WRP stable at ~5% of hull value for Persian Gulf transits. First confirmed Iranian strike on Kuwaiti civilian infrastructure may prompt JWC to extend Listed Areas designation to GCC coastal waters more broadly. No JWC review confirmed; institutions should request conditional coverage guidance before July 20 (Trump power-plant strike window).",
+          "sources": ["LMA Lloyd's background", "Analyst assessment"]
+        },
+        {
+          "bold_heading": "Oman two-corridor proposal — insurance implication",
+          "text": "If accepted, the Southern Corridor (Omani waters) could become insurable under near-normal terms, enabling legitimate cargo transits. P&I clubs and hull underwriters will likely condition coverage on verified Southern Corridor routing. Institutions with shipping finance exposure should pre-emptively engage brokers on Southern Corridor activation criteria.",
+          "sources": ["CFR, July 2026", "Fortune, July 11 2026", "Jerusalem Post, July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "An 'Open for Open' Hormuz Deal Could Break the Iran Stalemate",
+          "author": "Staff",
+          "publication": "Council on Foreign Relations",
+          "pub_date": "2026-07",
+          "access": "Open",
+          "summary": "CFR analysis examines the diplomatic logic of Oman's two-corridor Hormuz proposal, arguing that a free-navigation-for-free-navigation exchange is the only framework both sides could accept without claiming defeat. Notes that the US 20% toll concept was a diplomatic error that Iran exploited to refuse the table.",
+          "relevance": "Grounds the Oman proposal as the most viable near-term risk-reduction mechanism for shipping finance and insurance; helps calibrate whether the current diplomatic track will reduce or extend elevated operational risk.",
+          "link": "https://www.cfr.org/articles/an-open-for-open-hormuz-deal-could-break-the-iran-stalemate"
+        },
+        {
+          "title": "The U.S.-Iran Ceasefire May Be Over, But It Is Clear What the Regime Wants",
+          "author": "Staff",
+          "publication": "Council on Foreign Relations",
+          "pub_date": "2026-07",
+          "access": "Open",
+          "summary": "CFR assessment argues that Iran's consistent objectives — formal Hormuz sovereignty recognition and sanctions relief without nuclear compromise — have not changed despite seven nights of US strikes, and that any durable deal must address these core demands or it will be as short-lived as the June ceasefire.",
+          "relevance": "Informs the operational assumption that elevated Gulf risk is structural for at least 4–8 weeks, regardless of tactical ceasefire developments, supporting sustained risk posture rather than cyclical stand-down. [DATE UNCONFIRMED — within 48h extension window]",
+          "link": "https://www.cfr.org/articles/trumps-iran-deal-may-be-over-but-it-is-clear-what-the-regime-wants"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "OT/ICS convergence risk — Kuwait power and desalination infrastructure (NEW, ELEVATED)",
+          "text": "July 18 kinetic strike on Kuwait power/water desalination plant creates direct convergence risk: CISA-documented CyberAv3ngers/IRGC-linked actors exploit internet-facing PLCs at water and energy facilities. Emergency recovery operations may reduce cybersecurity monitoring posture, creating elevated window for OT intrusion.",
+          "cve_ids": ["Per CISA aa26-097a"],
+          "threat_actor": "CyberAv3ngers / IRGC-linked (per CISA aa26-097a)",
+          "recommended_action": "Confirm OT/ICS network segmentation is enforced; verify all remote access to energy and water facility PLCs is suspended or tightly controlled through July 21.",
+          "sources": ["CISA/FBI/NSA advisory aa26-097a, April 7 2026", "Gulf News, July 18 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "Iranian-affiliated AI-enhanced phishing and malware — Gulf financial sector (re-flagged Day 141, elevated)",
+          "text": "UAE Cybersecurity Council confirmed July 3 coordinated AI-enhanced campaign (phishing, malware, vulnerability exploitation) targeting UAE financial institutions. Seventh consecutive kinetic day and first confirmed civilian infrastructure strike on Kuwait significantly elevates probability of Iranian cyber surge within 12–72h. Historical pattern confirmed March, April, June 2026. FINRA standing alert (March 2026) active.",
+          "cve_ids": [],
+          "threat_actor": "Iranian-affiliated (unnamed)",
+          "recommended_action": "Verify phishing-resistant MFA on all internet-facing banking systems; refresh SIEM alert rules against UAE CIRT IOCs and CISA aa26-097a indicators before business hours July 18.",
+          "sources": ["UAE Cybersecurity Council / The National, July 3 2026", "FINRA cybersecurity alert, March 2026"],
+          "url": "https://www.finra.org/rules-guidance/guidance/cybersecurity-alert-heightened-threats-iranian-cyber-actors"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Cyber-physical escalation ladder — Kuwait utility sector now exposed (EMERGING)",
+          "text": "Iran's decision to strike civilian utility infrastructure in Kuwait mirrors the cyber-physical escalation pattern in the 2012 Saudi Aramco attack and 2022 IRGC water-sector disruptions: kinetic strikes on utility assets are typically followed within 1–4 weeks by cyber operations against the same target class as adversaries probe recovery vulnerabilities. Kuwaiti power and water utilities are now on Iran's confirmed target set.",
+          "threat_actor": "Iranian-affiliated APT / CyberAv3ngers (assessed)",
+          "assessed_likelihood": "Moderate-High",
+          "sources": ["CISA aa26-097a", "EclecticIQ blog, July 2026", "Analyst assessment"],
+          "url": "https://blog.eclecticiq.com/the-escalating-cyber-risk-landscape-in-regional-conflicts-strategic-actions-for-2026"
+        },
+        {
+          "bold_heading": "Wiper and fake-ransomware targeting GCC financial entities (ongoing; Seedworm/MuddyWater-affiliated)",
+          "text": "Iranian state-sponsored actors continue deploying wiper malware and fake-ransomware via web shell exploitation against GCC government and financial entities, active since February 28 2026. Kuwait is now a confirmed civilian infrastructure target at the kinetic level; Kuwaiti financial institutions and utility-adjacent service companies remain the most probable geographic next-targets.",
+          "threat_actor": "Iranian state-sponsored (assessed Seedworm/MuddyWater-affiliated)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["EclecticIQ blog, April–July 2026", "FINRA, March 2026"],
+          "url": "https://blog.eclecticiq.com/the-escalating-cyber-risk-landscape-in-regional-conflicts-strategic-actions-for-2026"
+        },
+        {
+          "bold_heading": "Active scanning of Gulf energy-financial infrastructure (Iranian-aligned groups)",
+          "text": "SISA InfoSec and EclecticIQ confirm Iranian-aligned groups scanning Qatari LNG facilities and GCC financial services infrastructure since late June 2026. July 18 escalation to Kuwaiti civilian utility targeting will likely accelerate cyber reconnaissance tasking against Kuwait-specific energy-financial convergence targets.",
+          "threat_actor": "Iranian-aligned APT groups",
+          "assessed_likelihood": "Moderate",
+          "sources": ["SISA InfoSec, July 2026", "EclecticIQ, July 2026"],
+          "url": "https://www.sisainfosec.com/blogs/threat-advisory-elevated-cyber-risk-to-the-payments-ecosystem-amid-israel-us-iran-conflict-escalation/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Trump escalation to Iranian power plants and bridges (from ~July 20)",
+          "why_it_matters": "IRGC response to power-plant strikes explicitly forecast to include expanded GCC civilian infrastructure targeting; today's desalination plant strike may be a preview at larger scale.",
+          "related_section": "Sections 1, 2, 3, 5, 5A"
+        },
+        {
+          "text": "Kuwait desalination plant restoration timeline and water supply status",
+          "why_it_matters": "Ministry communications on restoration timeline will determine whether water security risk escalates to public advisory; institutions need to assess on-site water storage adequacy.",
+          "related_section": "Sections 3, 5"
+        },
+        {
+          "text": "Oman two-corridor Hormuz proposal — US and Iranian responses",
+          "why_it_matters": "Acceptance would be the single most significant de-escalation signal in weeks; rejection confirms continued escalatory trajectory with material shipping and insurance implications.",
+          "related_section": "Sections 4, 5, 5A"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    {
+      "section": "1 — Alerts & Sirens",
+      "source_count": 5,
+      "confidence": "HIGH",
+      "note": "Kuwait MOE confirmed; Kuwait Armed Forces confirmed; Al Jazeera/CNBC/Gulf News corroborated"
+    },
+    {
+      "section": "2 — Targets & Incidents",
+      "source_count": 6,
+      "confidence": "MEDIUM-HIGH",
+      "note": "Desalination plant: Kuwaiti govt confirmed; IRGC military base damage claims [SINGLE SOURCE — Iranian state media]; CENTCOM strikes: official + multiple Tier 1"
+    },
+    {
+      "section": "3 — Kuwait Local",
+      "source_count": 4,
+      "confidence": "MEDIUM",
+      "note": "MOE confirmed power/water; KWI/ports from prior confirmed sources; AQI [SINGLE SOURCE — IQAir; aqicn.org stale]"
+    },
+    {
+      "section": "4 — Regional Context",
+      "source_count": 5,
+      "confidence": "HIGH",
+      "note": "CENTCOM confirmed; Hormuz transits from Bloomberg/PortWatch; Oman proposal from CFR/Jerusalem Post/Fortune"
+    },
+    {
+      "section": "5 — Risk Signal",
+      "source_count": 4,
+      "confidence": "MEDIUM",
+      "note": "Analyst assessments grounded in confirmed Tier 1 events; forward-looking risk is judgment-based"
+    },
+    {
+      "section": "5A — Insurance Risks",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "Kuwait property exposure is new analyst assessment; JWC review not yet confirmed; Oman proposal not yet finalized"
+    },
+    {
+      "section": "7A — Cyber Tactical",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "OT/ICS convergence: new analyst synthesis based on CISA aa26-097a + July 18 kinetic event; phishing: re-flagged from prior active advisory"
+    },
+    {
+      "section": "7B — Cyber Strategic",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "Campaign-level assessments from Tier 4 sources; utility escalation scenario is new analyst assessment"
+    }
+  ],
+  "footer": "Report #112 compiled 2026-07-18 at 07:30 UTC+3."
+}
