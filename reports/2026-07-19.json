@@ -1,0 +1,316 @@
+{
+  "date": "2026-07-19",
+  "headline": "19 July 2026",
+  "subtitle": "Iran Suspends MOU; Second Kuwait Power Plant Struck; KWI Remains Closed",
+  "report_number": "113",
+  "coverage": "18 July 2026 07:00 UTC+3 – 19 July 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-07-19",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "25", "delta": "NR", "trend_7d": "↑" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "87.00", "previous": "85.63", "delta": "+1.37", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "NR", "previous": "80.27", "delta": "NR", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "8", "previous": "7", "delta": "+1", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "17", "previous": "15", "delta": "+2", "trend_7d": "↑" },
+      { "metric": "KWI airport status", "today": "Closed", "previous": "Partial", "delta": "Changed", "trend_7d": "Changed" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "NR", "today_label": null, "previous": "NR", "previous_label": null, "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "Nationwide civil defense sirens activated — 18 July, ~04:00 UTC+3",
+          "text": "Multiple siren waves sounded across Kuwait City and surrounding governorates as Iranian drone and missile barrages commenced before dawn Saturday. Kuwait Ministry of Interior emergency broadcasts advised residents to remain indoors and move to lower floors or shelters.",
+          "sources": ["Bloomberg, 18 July 2026", "The National, 18 July 2026", "Arab Times, 18 July 2026"]
+        },
+        {
+          "bold_heading": "Airport emergency alert — 18 July",
+          "text": "Kuwait DGCA issued a temporary flight suspension notice for KWI during the attack window; air traffic control ordered a halt to all arrivals and departures.",
+          "sources": ["Bloomberg, 18 July 2026", "Sunday Guardian Live, 18 July 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "No new confirmed sirens reported in Kuwait for the period approximately 22:00 UTC+3 July 18 through 07:00 UTC+3 July 19. Situation remains volatile; further attacks cannot be ruled out.",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Al-Subiya Power and Water Desalination Plant — struck",
+          "text": "July 18, ~04:00–06:00 UTC+3. Iranian drones/missiles hit the facility; fire erupted and several power generation units were deactivated. Second attack on Kuwaiti power/water infrastructure in consecutive days (Zour South complex hit July 17). No confirmed fatalities in this specific strike.",
+          "sources": ["Bloomberg, 18 July 2026", "The National, 18 July 2026", "Arab Times, 18 July 2026", "Channels TV, 18 July 2026"]
+        },
+        {
+          "bold_heading": "Kuwait oil facility (KPC/KNPC-linked) — struck",
+          "text": "July 18. Iranian drone or missile strike on an oil installation; Kuwait state oil firm reported injuries and 'significant material losses.' Location not officially disclosed. [SINGLE SOURCE for injury details]",
+          "sources": ["The Peninsula Qatar, 18 July 2026", "Bloomberg, 18 July 2026"]
+        },
+        {
+          "bold_heading": "Kuwait International Airport (KWI) — drone/rocket attack",
+          "text": "July 18, ~04:00–05:00 UTC+3. Drone and rocket fire caused air traffic suspension; no structural damage confirmed as of filing; fire-suppression teams deployed.",
+          "sources": ["Bloomberg, 18 July 2026", "Sunday Guardian Live, 18 July 2026"]
+        },
+        {
+          "bold_heading": "Two additional fires — undisclosed Kuwait locations",
+          "text": "Kuwait Civil Defense fire service reported blazes at two further sites as a result of the July 18 barrage; firemen and one worker reported injured. [SINGLE SOURCE]",
+          "sources": ["Bloomberg, 18 July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Power supply",
+          "text": "Ministry of Electricity, Water and Renewable Energy confirmed Al-Subiya plant damage; multiple generation units deactivated. Potential for localised power cuts; backup generator readiness is an immediate operational concern.",
+          "sources": ["Bloomberg, 18 July 2026", "The National, 18 July 2026"]
+        },
+        {
+          "bold_heading": "KWI Airport — Closed",
+          "text": "DGCA confirmed closure 'until further notice' as of July 18. Kuwait Airways rescheduled majority of flights; Jazeera Airways also affected. EASA advised all operators to avoid Gulf airspace until at least 29 July 2026.",
+          "sources": ["Sunday Guardian Live, 18 July 2026", "Bloomberg, 18 July 2026", "Smartraveller/EASA, July 2026"]
+        },
+        {
+          "bold_heading": "Oil and energy sector",
+          "text": "KPC/KNPC confirmed attack on an oil facility with injuries and material damage; production and export status not yet confirmed.",
+          "sources": ["The Peninsula Qatar, 18 July 2026"]
+        },
+        {
+          "bold_heading": "Iran suspended MOU commitments",
+          "text": "Iran's Foreign Ministry announced on July 18 it was suspending all commitments under the June MOU with the United States, removing the last formal diplomatic brake on escalation.",
+          "sources": ["The National, 18 July 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Schools, border crossings (Iraq/Saudi), and other public services: No specific closure or disruption announcements confirmed in coverage window — NR.",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "Iran formally declared the June MOU 'voided' on July 15 and its top negotiator stated Iran is 'in an existential war with the United States'; formal suspension of remaining MOU commitments announced July 18.",
+          "sources": ["Al Jazeera, 15 July 2026", "The National, 18 July 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "US CENTCOM completed at least its sixth consecutive night of strikes on Iranian military targets as of July 18; Qatar and Pakistan are mediating but talks remain stalled with no resumption timeline announced.",
+          "sources": ["CBS News, 18 July 2026", "The National, 18 July 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Strait of Hormuz transit traffic at 8 vessels/day as of July 17 (down from 120–140/day pre-war); IMO Secretary-General declared the strait 'too dangerous for ships to transit' on July 15.",
+          "sources": ["Bloomberg, 15 July 2026", "NPR/Lloyd's List Intelligence, 17 July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Power infrastructure resilience",
+          "text": "Two power and water plants struck in consecutive days. Verify UPS, generator fuel reserves, and diesel supply chains for all Kuwait-based data centres and offices immediately.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Staff safety and travel",
+          "text": "KWI remains closed; EASA has banned Gulf airspace until July 29. Update emergency evacuation plans; identify alternative egress via land (Saudi Arabia/Iraq — confirm border status) or sea.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Payment and operational continuity",
+          "text": "Repeated strikes on Kuwait energy and communications infrastructure increase SWIFT/payment processing disruption risk. Activate secondary payment routing; verify with correspondent banks in Kuwait.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Cyber threat elevation",
+          "text": "Iran's MOU suspension on July 18 is the historical trigger point for a 24–72 hour Iranian cyber retaliation surge (DDoS, wiper malware, hack-and-leak operations). Escalate cyber monitoring to heightened alert.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Counterparty risk",
+          "text": "KPC/KNPC reported injuries and material losses at struck oil facility; energy-sector counterparties and trade finance exposures linked to Kuwaiti oil exports should be reviewed for force majeure risk.",
+          "sources": ["The Peninsula Qatar, 18 July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "War Risk Premia (WRP)",
+          "text": "Hull war-risk premiums for Strait of Hormuz transits now 3–10% of vessel value (vs. 0.25% pre-conflict; 12–40x increase). July 18 escalation likely to push premiums to the upper end of this range when markets open Sunday.",
+          "sources": ["The National, 17 July 2026", "Bloomberg, 18 July 2026"]
+        },
+        {
+          "bold_heading": "JWC Listed Areas — no change",
+          "text": "Full Strait of Hormuz and adjacent Gulf waters remain JWC Listed Areas since conflict onset. No downgrade expected given IMO's 'too dangerous' declaration (July 15) and Iran's MOU suspension (July 18). H&M endorsement and P&I Club prior approval required for any Hormuz transit.",
+          "sources": ["LMA/Lloyd's, July 2026", "The National, July 2026"]
+        },
+        {
+          "bold_heading": "P&I and cargo exposure",
+          "text": "At least nine commercial vessels attacked in the Strait since July 6; P&I Clubs requiring voyage-by-voyage underwriting. Financial institutions with trade finance portfolios backed by Hormuz-transiting vessels should review collateral exposure.",
+          "sources": ["NPR, 17 July 2026", "CNBC, 17 July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "A War Neither America Nor Iran Can Win",
+          "author": "TIME editorial",
+          "publication": "TIME Magazine",
+          "pub_date": "2026-07-16",
+          "access": "Open",
+          "summary": "Analysis arguing that US strikes have degraded but not eliminated Iranian missile and drone capacity, while Iran's Hormuz control strategy is unsustainable without permanently damaging its own oil export revenue. Both sides are trapped in escalatory dynamics with no off-ramp currently visible.",
+          "relevance": "Structural persistence of conflict — not a near-term resolution — should anchor operational continuity planning; plan for 60+ additional days of elevated threat.",
+          "link": "https://time.com/article/2026/07/16/war-america-iran-trump-hormuz/"
+        },
+        {
+          "title": "U.S.-Iran battle over Strait of Hormuz raises risk for world's trade routes",
+          "author": "NPR National Security Team",
+          "publication": "NPR",
+          "pub_date": "2026-07-17",
+          "access": "Open",
+          "summary": "Documents how Iran's contested control of the Strait of Hormuz is setting a global precedent for waterway militarisation; with only 8 tankers/day transiting (vs. 140 pre-war), nine vessels attacked since July 6, and major carriers suspending Gulf services, this is a structural shipping crisis, not a temporary disruption.",
+          "relevance": "Direct implications for Gulf trade finance portfolios, shipping insurance lines, energy counterparty credit risk, and Kuwait's oil export capacity.",
+          "link": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "Russian FSB router exploitation — CISA Advisory aa26-194a",
+          "text": "Russian Federal Security Service Center 16 actors actively exploiting poorly configured routers across financial services, energy, and government sectors globally. Attack vector: default credentials and unpatched firmware on edge routers. Threat actor: FSB Center 16.",
+          "cve_ids": [],
+          "threat_actor": "FSB Center 16 (Russian)",
+          "recommended_action": "Audit all edge router configurations, rotate credentials, and apply current firmware patches within 72 hours.",
+          "sources": ["CISA, 13 July 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-194a"
+        },
+        {
+          "bold_heading": "Elevated Iranian cyber retaliation window — 24–72h [SINGLE SOURCE — assessed]",
+          "text": "Following Iran's formal MOU suspension on July 18, the documented 24–72 hour cyber-retaliation pattern (DDoS, data wipers, hack-and-leak) is now in its elevated-risk window. Cotton Sandstorm and Handala threat actors have been active throughout the conflict; no specific advisory published in last 24 hours but pattern is well-documented.",
+          "cve_ids": [],
+          "threat_actor": "Cotton Sandstorm, Handala (Iran-affiliated)",
+          "recommended_action": "Escalate SOC monitoring cadence, pre-position DDoS mitigation, review backup integrity.",
+          "sources": ["Flare.io, July 2026", "Rapid7, July 2026"],
+          "url": "https://flare.io/learn/resources/blog/cyberattacks-us-israel-iran-military-conflict"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Charming Kitten / APT35 / Mint Sandstorm — sustained campaign",
+          "text": "Iranian APT maintained active C2 infrastructure through the conflict period, incorporating new C++ BellaCPP implant and updated PowerLess backdoor with AMSI/ETW bypass. Likely to shift from espionage to disruptive operations against US-allied Gulf financial institutions following MOU collapse.",
+          "threat_actor": "APT35 / Charming Kitten (IRGC-affiliated)",
+          "assessed_likelihood": "High",
+          "sources": ["Trellix, 'The Iranian Cyber Capability 2026'"],
+          "url": "https://www.trellix.com/blogs/research/the-iranian-cyber-capability-2026/"
+        },
+        {
+          "bold_heading": "Iranian PLC/OT exploitation in Gulf critical infrastructure",
+          "text": "IC3 advisory documented Iranian-affiliated exploitation of Programmable Logic Controllers in OT environments — relevant to financial institution facilities (HVAC, UPS, physical security, building management systems). Elevated risk given MOU suspension.",
+          "threat_actor": "Iran-affiliated APTs",
+          "assessed_likelihood": "Moderate",
+          "sources": ["IC3/FBI CSA, 7 April 2026"],
+          "url": "https://www.ic3.gov/CSA/2026/260407.pdf"
+        },
+        {
+          "bold_heading": "IRGC information operations surge — hacktivist proxy campaigns",
+          "text": "Following MOU collapse, MOIS-directed information operations and hacktivist-for-hire campaigns (including Cyber Av3ngers, Homeland Justice) are assessed likely to intensify against Gulf banking brands, targeting customer trust and digital service availability. Campaigns are typically sustained over weeks.",
+          "threat_actor": "MOIS-directed proxies — Cyber Av3ngers, Homeland Justice",
+          "assessed_likelihood": "Moderate-High",
+          "sources": ["EclecticIQ, 'Escalating Cyber Risk Landscape in Regional Conflicts,' 2026"],
+          "url": "https://blog.eclecticiq.com/the-escalating-cyber-risk-landscape-in-regional-conflicts-strategic-actions-for-2026"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "US military response to Iran's MOU suspension",
+          "why_it_matters": "Iran formally voided MOU commitments on July 18; a US CENTCOM strike package within 24 hours would almost certainly trigger another Iranian barrage against Kuwait infrastructure.",
+          "related_section": "Sections 1 and 2"
+        },
+        {
+          "text": "KWI airport reopening timeline",
+          "why_it_matters": "DGCA closed KWI 'until further notice'; any KUNA or DGCA resumption announcement would materially affect staff evacuation options and operational supply chains.",
+          "related_section": "Section 3"
+        },
+        {
+          "text": "First Iranian cyber operation following MOU suspension",
+          "why_it_matters": "The 24–72 hour cyber-retaliation window opens now; watch for CISA, Kuwait CIRT, or commercial threat intel advisories flagging DDoS, wiper deployment, or SWIFT-adjacent financial sector targeting.",
+          "related_section": "Sections 7A and 7B"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 4, "confidence": "HIGH", "note": "Multi-source, aligned across wire services and regional media" },
+    { "section": "2 — Targets & Incidents", "source_count": 5, "confidence": "HIGH", "note": "Largely confirmed; oil facility injury detail single-sourced" },
+    { "section": "3 — Kuwait Local", "source_count": 5, "confidence": "MEDIUM-HIGH", "note": "Airport/power confirmed; border/school status NR" },
+    { "section": "4 — Regional Context", "source_count": 4, "confidence": "HIGH", "note": "Major wire services and Al Jazeera" },
+    { "section": "5 — Risk Signal", "source_count": 0, "confidence": "MEDIUM", "note": "Analytical inference from Sections 1–4; no single source" },
+    { "section": "5A — Insurance Risks", "source_count": 4, "confidence": "HIGH", "note": "Specialist maritime sources including Lloyd's and The National" },
+    { "section": "7A — Cyber Tactical", "source_count": 2, "confidence": "MEDIUM", "note": "CISA advisory confirmed; Iranian retaliation window assessed only" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "MEDIUM", "note": "Research/commercial intel; no new 24h advisory from CIRT or government" }
+  ],
+  "footer": "Report #113 compiled 2026-07-19 at 07:30 UTC+3."
+}
