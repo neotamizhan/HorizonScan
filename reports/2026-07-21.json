@@ -27,13 +27,18 @@
       "color": "#f85149",
       "items": [
         {
-          "bold_heading": "Kuwait air defense sirens activated, July 20, multiple episodes",
+          "bold_heading": "Kuwait air defense sirens activated, July 20, multiple episodes during the day",
           "text": "The Kuwait Army General Staff confirmed that air defense systems were actively engaging hostile Iranian drones on July 20. Explosion sounds across Kuwait City were attributed to interception operations. This is the second consecutive day of siren activations.",
           "sources": ["Asharq Al-Awsat (English)", "Kuwait Times", "SANA", "July 20"]
         },
         {
+          "bold_heading": "Air raid sirens activated again across Kuwait, July 21 at ~01:58 UTC+3 (this morning, within coverage window)",
+          "text": "Kuwait state media confirmed renewed siren activation in the early morning hours of July 21, with air defenses responding to hostile drone attacks. The Kuwait Army General Staff urged the public to follow civil defense safety instructions. This is the third siren episode within 48 hours, indicating a sustained IRGC targeting cycle.",
+          "sources": ["Al Jazeera", "Alwast News", "LiveUAMap", "July 21"]
+        },
+        {
           "bold_heading": null,
-          "text": "No shelter-in-place order formally lifted as of 07:00 UTC+3 July 21. Threat posture remains elevated given IRGC's ongoing Nasr 2 operational cycle and 10th consecutive night of US strikes against Iran completed ~04:00 UTC+3 July 21.",
+          "text": "No shelter-in-place order formally lifted as of 07:00 UTC+3 July 21. Three siren activations in under 48 hours indicate a sustained IRGC targeting cycle against Kuwait.",
           "sources": []
         }
       ]
@@ -100,6 +105,11 @@
           "sources": []
         },
         {
+          "bold_heading": "Work-from-home under consideration for private and government sector",
+          "text": "Kuwaiti authorities are studying a reduction in mandatory in-person workplace attendance to ease pressure on the national electricity grid, amid ongoing damage to power generation facilities. No formal decision has been issued as of 07:00 UTC+3 July 21; details on affected entities, percentage reduction, and implementation mechanism are pending. [SINGLE SOURCE — unconfirmed by Kuwait MOI or Ministry of Electricity]",
+          "sources": ["Alwast News", "July 20"]
+        },
+        {
           "bold_heading": "Schools and public events",
           "text": "No specific closure announcements confirmed — NR.",
           "sources": []
@@ -138,8 +148,8 @@
       "color": "#d29922",
       "items": [
         {
-          "bold_heading": "Business continuity — power and cooling",
-          "text": "Kuwait still operating with reduced desalination and power capacity from July 17–18 strikes; 45°C+ temperatures make this operationally critical. Verify UPS runtime, diesel reserves, and generator test schedules for all Kuwait facilities immediately.",
+          "bold_heading": "Business continuity — power, cooling, and potential WFH mandate",
+          "text": "Kuwait still operating with reduced desalination and power generation capacity from July 17–18 strikes; 45°C+ temperatures make this operationally critical. Kuwaiti authorities are studying a reduction in mandatory in-person workplace attendance to ease grid pressure — a formal WFH directive could be issued at short notice. Financial institutions should verify that Kuwait staff have functional WFH capability (VPN, devices, MFA) and review operational resilience plans for a partial or full WFH scenario. Simultaneously verify UPS runtime, diesel reserves, and generator test schedules for all Kuwait facilities.",
           "sources": []
         },
         {
