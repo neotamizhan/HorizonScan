@@ -1,0 +1,285 @@
+{
+  "date": "2026-07-23",
+  "headline": "23 July 2026",
+  "subtitle": "12th US Strike Night; Houthi Confirms First Tanker Attack; Dual Chokepoint Active",
+  "report_number": "117",
+  "coverage": "22 July 2026 07:00 UTC+3 – 23 July 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-07-23",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "95.40", "previous": "91.01", "delta": "+4.39", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "88.17", "previous": "85.23", "delta": "+2.94", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "NR", "previous": "10", "delta": "NR", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "22 [PRELIM]", "previous": "21", "delta": "+1", "trend_7d": "↑" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "NR", "today_label": null, "previous": "NR", "previous_label": null, "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "Kuwait air defense sirens activated, July 22 — fifth consecutive day.",
+          "text": "Kuwait's Armed Forces General Staff confirmed interceptions of hostile missiles and drones entering Kuwaiti airspace on July 22. Explosions audible across Kuwait City were attributed to successful interception operations, not ground impacts. Residents were again urged to follow civil defense safety procedures and rely exclusively on official channels.",
+          "sources": ["KUNA", "Al Jazeera", "Arab Times Online, July 22"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Kuwait — IRGC Operation Nasr 2, Waves 23–24: strikes on three Kuwait bases and Bubiyan Island radar, overnight July 21–22. [SINGLE SOURCE for damage claims]",
+          "text": "IRGC claimed strikes on: Camp Arifjan (administrative buildings, direction-finding antennas), al-Udairi Camp (helicopter parking area), Ahmad al-Jaber Airbase (troop accommodation building, early-warning radar, FPS-117 radar, Patriot air defense system, satellite comms), and a radar complex on Bubiyan Island near Ali al-Salem Air Base. Weapons: Kheibar Shekan, Fateh-110, Zolfaghar, and Emad missiles.",
+          "sources": ["PressTV", "IranWire", "Arab News PK, July 21–22"]
+        },
+        {
+          "bold_heading": "Kuwait — Fifth consecutive night of strikes on desalination/power infrastructure [PRELIMINARY].",
+          "text": "Reports of renewed overnight strikes on Kuwait's power and desalination system (overnight July 22–23) circulated at time of compilation. Fifth consecutive night since July 17. Full confirmation from Ministry of Electricity awaited. Citizens have begun self-rationing AC use at 45°C+ following earlier strikes.",
+          "sources": ["Al-Monitor", "Al Jazeera", "France 24", "Arab News, July 21–22"]
+        },
+        {
+          "bold_heading": "US CENTCOM: 12th consecutive night of strikes on Iran, completed ~05:30 UTC+3 July 23.",
+          "text": "CENTCOM confirmed strikes targeting Iranian maritime capabilities, missile and drone storage facilities, coastal surveillance sites, and air defense assets — the most maritime-and-coastal-focused target package since operations resumed July 8.",
+          "sources": ["CENTCOM official release", "CBS News", "Jerusalem Post, July 22–23"]
+        },
+        {
+          "bold_heading": "Red Sea — Houthi confirmed attack on Saudi tankers Encelia and Layla, overnight July 21–22.",
+          "text": "Saudi state news agency confirmed a fire on the bow of crude tanker Encelia; all crew safe. Houthis also claimed a strike on the Layla. First confirmed weapons employment against specific vessels since the Bab al-Mandeb blockade was declared July 20. Brent crude spiked in late trading on the news.",
+          "sources": ["Al Jazeera", "US News/AP", "The War Zone", "Bloomberg", "Japan Times, July 22"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Power and water supply — progressive degradation; citizens self-rationing.",
+          "text": "Preliminary fifth night of Iranian strikes on Kuwait's power and desalination infrastructure (overnight July 22–23). Residents voluntarily reducing AC use at 45°C+; authorities have publicly appealed for conservation. Ministry of Electricity continues round-the-clock restoration. ~90% of Kuwait's drinking water is desalination-dependent.",
+          "sources": ["Arab News", "France 24", "Al-Monitor", "Al Jazeera, July 21–22"]
+        },
+        {
+          "bold_heading": "KWI airport — Partial operations continuing.",
+          "text": "Terminals 4 (Kuwait Airways) and 5 (Jazeera Airways) remain operational; Terminal 1 closed for repair from prior strike damage. EASA CZIB-2026-07 covering Bahrain, Kuwait, Qatar, UAE in force until 29 July 2026. Confirm flight status before travelling to airport.",
+          "sources": ["Wego Travel Blog", "EASA CZIB", "Aviation Shop, July 2026"]
+        },
+        {
+          "bold_heading": "Border crossings — NR.",
+          "text": "No confirmed closures of Nuwayseeb (Saudi Arabia) or Abdali/Safwan (Iraq) crossings within the coverage window. Verify directly before use.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Schools and public events — NR.",
+          "text": "No new closure announcements confirmed within the coverage window.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Work-from-home — no formal directive issued. [SINGLE SOURCE]",
+          "text": "Authorities continue studying mandatory WFH measures to ease grid pressure; no official directive issued as of 07:00 UTC+3, July 23. Unconfirmed by Kuwait MOI or Ministry of Electricity.",
+          "sources": ["Alwast News, July 20–21"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "Trump threatened to strike 'Pickaxe Mountain,' a deep underground site suspected of nuclear activity, 'probably pretty soon' — the most significant escalation signal since operations resumed July 8. Rubio declared Tehran 'not serious' about negotiations while stating the US remains 'willing to negotiate.'",
+          "sources": ["CNBC", "CNN, July 22"]
+        },
+        {
+          "text": "Iran's Interior Minister visited Pakistan on July 22 for mediation talks — first senior Iranian official to engage mediators in person since the MOU collapsed — signalling Tehran's continued dual-track approach. The 10-day ceasefire proposal from Qatar, Egypt, Pakistan, and Oman remains live but unresolved.",
+          "sources": ["NPR", "Axios, July 22"]
+        },
+        {
+          "text": "Houthi weapons strikes on Encelia and Layla are the first kinetic enforcement of the Bab al-Mandeb blockade (declared July 20). Combined Hormuz (IRGC) and Red Sea (Houthis) disruption now threatens ~20% of daily global crude supply simultaneously, driving Brent above $95/bbl.",
+          "sources": ["Bloomberg", "NBC News", "Al Jazeera", "Insurance Journal, July 22"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Business continuity — fifth consecutive strike night escalates cooling and power risk.",
+          "text": "Preliminary fifth night of Iranian strikes on Kuwait's power and desalination infrastructure compounds cumulative damage since July 17. With temperatures at 45°C+, further generation loss drives data centre cooling failure, UPS overrun, and abrupt rationing risk. Verify UPS runtime, diesel reserves, and cooling redundancy at all Kuwait facilities immediately.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Staff safety — five consecutive siren days; EASA ban limits air evacuation.",
+          "text": "Confirm all Kuwait-based staff have identified shelter locations at workplace and residence. EASA ban on Gulf airspace runs to July 29; KWI is only partially operational. Pre-document land-route egress options for key personnel.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Cyber — peak IRGC retaliation window: 12th strike night and 'Pickaxe Mountain' threat.",
+          "text": "Trump's explicit public threat to strike suspected nuclear infrastructure is the highest-provocation signal of the conflict. Iranian APT retaliation risk (Cotton Sandstorm, Charming Kitten/Mint Sandstorm) is at maximum intensity. SOC: heightened monitoring, DDoS mitigation activated, offline backup integrity verified, phishing thresholds elevated.",
+          "sources": ["CISA aa26-097a, updated July 22"]
+        },
+        {
+          "bold_heading": "Trade finance — dual-chokepoint energy exposure requires urgent same-day review.",
+          "text": "Brent above $95/bbl; confirmed Houthi fire on Saudi tanker Encelia adds active Red Sea disruption on top of existing Hormuz exposure. Review all trade finance portfolios with Gulf or Red Sea energy collateral for force majeure triggers, WRP coverage gaps, and P&I Club war-risk positions. JWC bulletin expected within 24–72 hours.",
+          "sources": []
+        },
+        {
+          "bold_heading": "OT / Building systems — CISA advisory expanded July 22: Schneider Electric and Siemens PLCs now in scope.",
+          "text": "CISA updated advisory aa26-097a on July 22 to add Schneider Electric and Siemens to Iranian-affiliated APT PLC targeting scope. Financial institutions must re-audit OT-connected building management, HVAC, UPS, and access control systems against updated IOCs.",
+          "sources": ["CISA/FBI/NSA Advisory aa26-097a, updated July 22, 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk_insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Red Sea WRP surge expected after Encelia strike.",
+          "text": "War risk premiums for Red Sea/Bab al-Mandeb transits already surged ~150% to ~0.75% of vessel value following July 20 blockade declaration. Confirmed fire on Encelia (July 22) — first kinetic enforcement — expected to drive a further WRP increase and trigger JWC emergency bulletin within 24–72 hours. Monitor LMA.",
+          "sources": ["Insurance Journal", "Business Insurance, July 21–22"]
+        },
+        {
+          "bold_heading": "JWC Listed Areas — Bab al-Mandeb addition imminent.",
+          "text": "Entire Arabian Gulf already carries JWC's highest Listed Area designation. A bulletin adding southern Red Sea/Bab al-Mandeb expected imminently after confirmed Houthi vessel strike. P&I Clubs typically issue war-risk exclusion notices simultaneously; confirm coverage for Saudi/UAE energy cargoes routed via the Red Sea before any new commitments.",
+          "sources": ["LMA", "Argus Media", "Bloomberg Opinion, July 22"]
+        },
+        {
+          "bold_heading": "Dual-chokepoint P&I/H&M exposure.",
+          "text": "Simultaneous kinetic enforcement at Hormuz (IRGC ongoing) and Bab al-Mandeb (Houthis, first confirmed strike July 22) creates concurrent P&I Club war-risk exclusion risk at both chokepoints. Portfolio managers with commodity or trade finance backed by energy cargoes transiting either corridor should confirm current P&I Club war-risk positions and verify coverage is not voided by pending JWC designation updates.",
+          "sources": ["Bloomberg Opinion July 22", "LMA", "Argus Media"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Iran's Houthi Allies May Blockade a Vital Global Chokepoint",
+          "author": "Bloomberg Opinion Editorial",
+          "publication": "Bloomberg Opinion",
+          "pub_date": "2026-07-22",
+          "access": "Paywall",
+          "summary": "Analyses the Houthi declaration of a Saudi maritime blockade through the Bab al-Mandeb as a coordinated second front complementing Iranian Hormuz disruption, creating an unprecedented dual-chokepoint threat to global oil supply. Identifies the Encelia and Layla attacks as the first kinetic confirmation that the blockade is being actively enforced.",
+          "relevance": "Directly frames the dual-chokepoint P&I/H&M and trade finance exposure our team needs to assess urgently following the first confirmed Houthi tanker strike. Note: No second qualifying Tier 3 article found within 48h window.",
+          "link": "https://www.bloomberg.com/opinion/articles/2026-07-22/iran-s-houthi-allies-may-blockade-a-vital-global-chokepoint"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "CISA/FBI/NSA Updated Advisory aa26-097a — Iranian PLC/OT Targeting Scope Expanded to Schneider Electric and Siemens (22 July 2026).",
+          "text": "CISA updated advisory aa26-097a on July 22 to expand manufacturer scope to Schneider Electric and Siemens (previously limited to Rockwell Automation), add detection guidance for reusable code module manipulation, and add ports 102 and 502 to the targeted list. Relevant to financial institution building management systems, HVAC, UPS controllers, and physical access control.",
+          "cve_ids": [],
+          "threat_actor": "Iranian-affiliated APTs (unnamed)",
+          "recommended_action": "Re-audit all OT-connected building management, HVAC, UPS, and access control systems against updated IOCs; verify no PLC interfaces exposed on ports 44818, 2222, 102, or 502; rotate credentials for all Schneider Electric and Siemens PLC interfaces.",
+          "sources": ["CISA/FBI/NSA/EPA Advisory aa26-097a, updated 22 July 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "Elevated Iranian APT/hacktivist retaliation window — 12th US strike night and 'Pickaxe Mountain' threat.",
+          "text": "Trump's public threat to strike suspected nuclear infrastructure on July 22 is the highest-provocation signal of the conflict cycle. Conflict-cycle pattern: Iranian-directed DDoS, wiper malware, and hack-and-leak operations against Gulf financial services typically surge within 24–72 hours of peak-provocation kinetic events. No specific new threat advisory in the coverage window; assessed from conflict-cycle pattern analysis. Threat actors: Cotton Sandstorm (IRGC-affiliated), Handala, pro-IRGC DDoS coordinators.",
+          "cve_ids": [],
+          "threat_actor": "Cotton Sandstorm, Handala, pro-IRGC DDoS coordinators",
+          "recommended_action": "Maintain SOC at heightened monitoring cadence; activate pre-positioned DDoS mitigation; verify offline backup integrity; elevate phishing detection thresholds for all Kuwait and Gulf-based staff.",
+          "sources": ["Flare.io conflict cyber tracker", "Halcyon.ai Iranian Cyber Update 2026", "Therecord.media, July 22"],
+          "url": "https://flare.io/learn/resources/blog/cyberattacks-us-israel-iran-military-conflict"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Charming Kitten / APT35 / Mint Sandstorm — pivot to disruptive operations now assessed HIGH.",
+          "text": "IRGC-affiliated APT35 has maintained active C2 infrastructure throughout the conflict, deploying BellaCPP implants and updated PowerLess backdoor with AMSI/ETW bypass. Trump's 'Pickaxe Mountain' threat — signalling potential strikes on nuclear-adjacent infrastructure — is assessed as the trigger condition most likely to cause Charming Kitten to pivot from intelligence collection to disruptive operations (wiper malware, ransomware-as-disruption) against US-allied Gulf financial institutions.",
+          "threat_actor": "Charming Kitten / APT35 / Mint Sandstorm (IRGC-affiliated)",
+          "assessed_likelihood": "HIGH",
+          "sources": ["Trellix 'The Iranian Cyber Capability 2026'", "Seqrite Iran Cyber War 2026", "Unit 42 Threat Brief April 2026"],
+          "url": "https://www.trellix.com/blogs/research/the-iranian-cyber-capability-2026/"
+        },
+        {
+          "bold_heading": "MOIS-directed hacktivist surge — Houthi tanker strike adds mobilisation narrative.",
+          "text": "MOIS-directed hacktivist campaigns (Cyber Av3ngers, Homeland Justice, Cotton Sandstorm sub-clusters) assessed likely to intensify against Gulf banking brands' customer-facing digital services following the 12th US strike night and first confirmed Houthi tanker attack. Bab al-Mandeb blockade enforcement adds 'oil and resistance' propaganda angle historically driving hacktivist DDoS mobilisation against financial portals.",
+          "threat_actor": "Cyber Av3ngers, Homeland Justice, Cotton Sandstorm sub-clusters (MOIS-directed)",
+          "assessed_likelihood": "MODERATE-HIGH",
+          "sources": ["EclecticIQ 'Escalating Cyber Risk Landscape in Regional Conflicts,' 2026", "SecurityWeek Iran cyber analysis, 2026"],
+          "url": "https://blog.eclecticiq.com/the-escalating-cyber-risk-landscape-in-regional-conflicts-strategic-actions-for-2026"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "'Pickaxe Mountain' strike decision.",
+          "why_it_matters": "Trump's public statement sets a near-term clock for the most escalatory US action of the conflict; a strike on nuclear-adjacent infrastructure fundamentally alters Iran's retaliation calculus, including potential nuclear signalling, and is the highest-consequence business continuity trigger currently foreseeable.",
+          "related_section": "Sections 1, 2, 4, 7A"
+        },
+        {
+          "text": "JWC emergency bulletin — Bab al-Mandeb Listed Area addition.",
+          "why_it_matters": "Following the confirmed Encelia fire, the JWC is expected to issue an emergency bulletin within 24–72 hours; this resets WRP terms and P&I Club war-risk exclusion boundaries for Saudi and UAE energy cargoes — financial institutions must confirm coverage before any new cargo commitments.",
+          "related_section": "Sections 4, 5, 5A"
+        },
+        {
+          "text": "Confirmation of fifth consecutive desalination/power strike.",
+          "why_it_matters": "Preliminary reports are expected to be confirmed or refuted within hours; confirmation signals cumulative damage now exceeds rapid restoration capacity and increases probability of the Kuwaiti authorities issuing a mandatory WFH directive.",
+          "related_section": "Sections 1, 3, 5"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "MEDIUM-HIGH", "note": "KUNA/Al Jazeera/Arab Times corroboration; fifth consecutive day pattern confirmed" },
+    { "section": "2 — Targets & Incidents", "source_count": 5, "confidence": "MEDIUM-HIGH", "note": "CENTCOM and Houthi tanker attacks multi-sourced; IRGC Kuwait base damage [SINGLE SOURCE — Iranian state media]; fifth-night strike [PRELIMINARY]" },
+    { "section": "3 — Kuwait Local", "source_count": 4, "confidence": "MEDIUM", "note": "Power/rationing confirmed; fifth strike night preliminary; border/school status NR; WFH [SINGLE SOURCE — Alwast News]" },
+    { "section": "4 — Regional Context", "source_count": 4, "confidence": "HIGH", "note": "CNN/CNBC/NPR/Axios/Bloomberg multi-sourced; all three bullets corroborated" },
+    { "section": "5 — Risk Signal", "source_count": 1, "confidence": "MEDIUM", "note": "Analytical inference from confirmed events; CISA advisory update confirmed" },
+    { "section": "5A — Insurance Risks", "source_count": 3, "confidence": "HIGH", "note": "Insurance Journal, Business Insurance, Bloomberg Opinion, LMA multi-sourced" },
+    { "section": "7A — Cyber Tactical", "source_count": 2, "confidence": "MEDIUM-HIGH", "note": "CISA aa26-097a update confirmed; 24-72h retaliation window is conflict-cycle pattern-based" },
+    { "section": "7B — Cyber Strategic", "source_count": 2, "confidence": "MEDIUM", "note": "Commercial threat intel; no new CISA/Kuwait CIRT advisory specifically for Gulf FS in 24h" }
+  ],
+  "footer": "Report #117 compiled 2026-07-23 at 07:30 UTC+3."
+}
