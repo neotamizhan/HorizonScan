@@ -1,0 +1,294 @@
+{
+  "date": "2026-07-24",
+  "headline": "24 July 2026",
+  "subtitle": "Iran Rejects Ceasefire; Fourth Consecutive Day of Kuwait Infrastructure Attacks",
+  "report_number": "118",
+  "coverage": "23 July 2026 07:00 UTC+3 – 24 July 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-07-24",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "100.40", "previous": "95.40", "delta": "+5.00", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "90.65", "previous": "88.17", "delta": "+2.48", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "22 [PRELIM]", "delta": "NR", "trend_7d": "↑" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "76", "today_label": "Moderate", "previous": "NR", "previous_label": null, "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "Nationwide warning sirens activated (24 Jul 2026, approx. 01:00–03:00 UTC+3)",
+          "text": "KUNA confirmed warning sirens sounded across Kuwait as air defense systems engaged fresh waves of hostile missiles and drones overnight. The General Staff of the Kuwaiti Armed Forces stated on X that explosions heard by residents were the result of interception activity and urged the public to follow safety instructions. No specific projectile count was disclosed by authorities.",
+          "sources": ["KUNA", "Xinhua, 24 Jul 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Kuwait — Missile/drone barrage intercepted (23–24 Jul 2026, ~23:00–02:00 UTC+3) [SINGLE SOURCE]",
+          "text": "Kuwait's General Staff confirmed air defense systems actively engaged hostile missile and drone threats overnight. Audible explosions reported across multiple areas. Origin unconfirmed in official statement; Iran assessed as responsible per conflict pattern. No casualty or material damage update as of filing.",
+          "sources": ["Xinhua, 24 Jul 2026"]
+        },
+        {
+          "bold_heading": "Kuwait — Power and water desalination infrastructure (Ongoing, 4th consecutive day)",
+          "text": "Iran continued to strike Kuwait's electricity generation and desalination facilities for a fourth consecutive day. Additional damage to at least one major generation station reported; emergency grid management plans activated. Kuwait rationing electricity amid summer peak demand.",
+          "sources": ["Times Kuwait", "Arabian Business", "Al Jazeera"]
+        },
+        {
+          "bold_heading": "Kuwait — Abdali border crossing drone strike (~23 Jul 2026, ~20:00 UTC+3)",
+          "text": "A hostile drone struck Kuwait's Abdali crossing — the primary Kuwait–Iraq land route — causing material damage. Kuwait Fire Force responded. No casualties confirmed. Current crossing passability status not reported.",
+          "sources": ["SANA", "Xinhua"]
+        },
+        {
+          "bold_heading": "Strait of Hormuz — Tanker fire (~23 Jul 2026) [SINGLE SOURCE] [TIMESTAMP UNCONFIRMED]",
+          "text": "Iran's IRGC reported an oil tanker caught fire following an explosion after it attempted to transit the mined southern corridor. The vessel was subsequently re-identified moving under apparent armed escort toward Iranian waters. Active Iranian enforcement of approved routing lanes confirmed.",
+          "sources": ["Reuters/Fox News search summary, Jul 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Electricity and water rationing (ongoing)",
+          "text": "Kuwait activated emergency grid plans and is calling on residents and businesses to cut consumption following sustained attacks on generation and desalination infrastructure. Freshwater supply risk is a secondary concern given the energy-desalination interdependency (~90% of Kuwait's drinking water from desalination).",
+          "sources": ["Arabian Business", "Arab News"]
+        },
+        {
+          "bold_heading": "KWI Airport — Partial operations",
+          "text": "Terminal 1 remains closed for ongoing repairs. Kuwait Airways operating from Terminal 4; Jazeera Airways from Terminal 5. International carriers reporting individual cancellations. Schedules subject to short-notice change during alert periods.",
+          "sources": ["Wego Travel Blog", "Sunday Guardian Live", "FlightAware"]
+        },
+        {
+          "bold_heading": "Abdali border crossing (Kuwait–Iraq): Damaged",
+          "text": "Drone strike on 23 Jul caused material damage; crossing status unconfirmed. Travelers and freight should seek alternative or verify before movement.",
+          "sources": ["SANA", "Xinhua"]
+        },
+        {
+          "bold_heading": "Kuwait–Saudi Arabia land border: Open",
+          "text": "Currently primary land alternative for evacuation and freight movement. Subject to closure on short notice.",
+          "sources": ["Aggregated search summary"]
+        },
+        {
+          "bold_heading": "Government advisory",
+          "text": "Kuwaiti Armed Forces General Staff urging public to remain indoors, away from windows, during interception events. GCC member states and Jordan issued a joint statement on 23 Jul condemning continued Iranian attacks on their territories.",
+          "sources": ["Xinhua", "KUNA"]
+        },
+        {
+          "bold_heading": "Schools/public events",
+          "text": "No additional closures reported in the past 24 hours beyond those already in effect under standing civil defense protocols.",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "Iran rejects ceasefire",
+          "text": "Iran formally rejected the latest US ceasefire proposal conveyed by Iraqi PM Ali al-Zaidi (who visited Tehran on 22 Jul after meeting Trump at the White House). Iran stated it will not accept a temporary deal that does not resolve the final status of the Strait of Hormuz — the central impasse since 28 Feb 2026.",
+          "sources": ["Times of Israel liveblog, 24 Jul 2026", "Haaretz"]
+        },
+        {
+          "bold_heading": "Reciprocal infrastructure targeting escalation",
+          "text": "Trump declared the US will destroy one bridge or power plant in Iran per Iranian ship attack in Hormuz; Iran has reciprocated against GCC civilian infrastructure. IRGC active enforcement of mine-routing in the southern Hormuz corridor — confirmed by the tanker fire on 23 Jul — indicates maritime interdiction continues to intensify.",
+          "sources": ["Reuters/Fox News via search summary, Jul 2026"]
+        },
+        {
+          "bold_heading": "Escalation risk: Kharg Island and Bab al-Mandab",
+          "text": "CSIS analysis (20 Jul) flags potential US strikes on Kharg Island (Iran's primary oil export terminal) or Pickaxe Mountain (nuclear facility) as next plausible escalation options. Iran has separately asked the Houthis to prepare to close the Bab al-Mandab strait if the US targets Iran's power network, threatening a second major chokepoint.",
+          "sources": ["CSIS, Yacoubian, 20 Jul 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Business continuity — power disruption",
+          "text": "Sustained attacks on Kuwait's electricity grid and rationing orders create material risk for branch, ATM, data center, and trading infrastructure. Verify UPS and backup generator fuel status at all Kuwait sites; check cooling system resilience given ambient temperatures exceeding 40°C.",
+          "sources": ["Arabian Business", "Arab News"]
+        },
+        {
+          "bold_heading": "Staff safety and mobility",
+          "text": "KWI partial operations and the damaged Abdali crossing reduce evacuation and mobility options. BCP travel protocols should designate the Saudi land border as the primary contingency route; verify vehicle availability and security escort arrangements.",
+          "sources": ["Wego Travel Blog", "SANA"]
+        },
+        {
+          "bold_heading": "Payment and settlement continuity",
+          "text": "Grid disruptions create downstream risk to POS connectivity, ATM availability, and interbank settlement. Monitor Central Bank of Kuwait (CBK) emergency advisories for any suspension or modification of settlement operations.",
+          "sources": ["Arabian Business", "Arab News"]
+        },
+        {
+          "bold_heading": "Elevated cyber threat — immediate action required",
+          "text": "CISA AA26-097A (updated 22 Jul) confirms active exploitation of Siemens, Schneider Electric, and Rockwell PLCs by Iran-affiliated actors, with techniques suppressing alarms and injecting false sensor data. GCC energy infrastructure explicitly targeted. Financial institution OT/facilities teams should audit UPS, HVAC, and generator control systems for unauthorized changes.",
+          "sources": ["CISA AA26-097A, 22 Jul 2026", "SecurityWeek"]
+        },
+        {
+          "bold_heading": "Trade finance and counterparty exposure",
+          "text": "Continued Hormuz closure with active mine and drone enforcement and WRP surge is compressing margins for Gulf-facing letters of credit and cargo financing. Credit risk teams should reassess trade finance book exposures to shipping counterparties, commodities traders, and Gulf energy logistics firms.",
+          "sources": ["FairwayETA", "CXTMS, Jul 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": "5A",
+      "title": "Insurance Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "War Risk Premia (WRP) — surge continuing",
+          "text": "WRP surged approximately 340% since the 28 Feb 2026 baseline. A single-transit war-risk premium for a $150M tanker now ranges $1.5M–$4.5M (vs. ~$375K pre-conflict). Hapag-Lloyd war risk surcharge: $1,500/TEU standard; $3,500/TEU reefer/special — applicable to all Upper Gulf, Arabian Gulf, and Persian Gulf cargo routes.",
+          "sources": ["FairwayETA", "Dubai Cargos", "CXTMS, Jul 2026"]
+        },
+        {
+          "bold_heading": "JWC Listed Areas (effective 3 March 2026)",
+          "text": "Kuwait, Bahrain, Oman, Qatar, and Djibouti are JWC Listed Areas. The entire Persian Gulf, Strait of Hormuz, Gulf of Oman, and northern Arabian Sea are listed. Standard war-risk exclusions apply automatically; additional per-voyage or period cover (7-day validity typical) must be purchased. Hull & Machinery and Cargo policies are affected.",
+          "sources": ["Argus Media", "Lloyd's market summary, Mar 2026"]
+        },
+        {
+          "bold_heading": "P&I and sanctions voids",
+          "text": "P&I clubs are reviewing coverage obligations given active mine and drone risk in Hormuz transit lanes and ongoing Iran sanctions exposure. Any vessel calling at Iranian ports or transiting mined routes under IRGC escort faces potential sanctions-related coverage voids. Cargo interests should obtain updated P&I confirmation before booking Gulf-routed shipments.",
+          "sources": ["Hormuz Strait Monitor insurance tracker, 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Is the Iran War Entering a Dangerous New Phase?",
+          "author": "Mona Yacoubian",
+          "publication": "CSIS (Center for Strategic and International Studies)",
+          "pub_date": "2026-07-20",
+          "access": "Open",
+          "summary": "Yacoubian documents the July 2026 re-escalation — first US fatalities in months, reimposition of the naval blockade, and expanding civilian infrastructure targeting — and argues the conflict has moved beyond a Hormuz dispute into a self-perpetuating reprisal cycle. Mediators Pakistan and Qatar are searching for a diplomatic off-ramp, but the MOU's collapse has deepened distrust and raised the bar for any new agreement.",
+          "relevance": "Directly explains the escalation logic behind continuing attacks on Kuwait's desalination and power infrastructure, and flags Kharg Island/nuclear facility strikes and Houthi Bab al-Mandab closure as the two most consequential near-term escalation risks for regional operations.",
+          "link": "https://www.csis.org/analysis/iran-war-entering-dangerous-new-phase",
+          "note": "Published 4 days prior; no qualifying Tier 3 article identified within 24–48h window. Extended to 5 days."
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "CISA AA26-097A (Updated 22 Jul 2026) — Iranian APT PLC Exploitation",
+          "text": "CyberAv3ngers (Storm-0784 / BAUXITE / UNC5691) expanded PLC targeting to include Siemens (TIA Portal) and Schneider Electric (EcoStruxure Control Expert) alongside Rockwell Automation (Studio 5000). Actors use legitimate vendor engineering software via third-party infrastructure to exfiltrate device project files, disable shutdown/alarm logic, and inject false sensor readings — creating silent unsafe conditions. Techniques have proliferated to ~60 pro-Iranian hacktivist groups. Sectors at risk: energy, water/wastewater, government — directly applicable to Kuwait desalination and power plant control systems.",
+          "cve_ids": [],
+          "threat_actor": "CyberAv3ngers / IRGC-affiliated (also: Storm-0784, BAUXITE, UNC5691)",
+          "recommended_action": "Immediately audit all OT/ICS environments for unauthorized project file modifications in Rockwell, Siemens, and Schneider PLCs; verify alarm and safety interlock integrity; restrict and log all remote engineering-tool access.",
+          "sources": ["CISA AA26-097A, 22 Jul 2026", "SecurityWeek", "Techtimes, 23 Jul 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "FINRA/SISA — Heightened Iranian Threat to Financial Sector and Payments",
+          "text": "FINRA and SISA flagged active Iranian-affiliated actor scanning and targeting of financial institutions and payments ecosystems. No confirmed successful breach of GCC financial institutions to date; confirmed targeted operations against Qatari LNG OT infrastructure (Ras Laffan, Mesaieed) indicate escalating regional operational targeting.",
+          "cve_ids": [],
+          "threat_actor": "Iranian state-affiliated actors (unspecified)",
+          "recommended_action": "Heighten monitoring on SWIFT messaging environments, core banking access logs, and third-party vendor remote access; validate payment processor connectivity and backup settlement routes.",
+          "sources": ["FINRA cybersecurity alert 2026", "SISA blog", "Techtimes, 23 Jul 2026"],
+          "url": "https://www.finra.org/rules-guidance/guidance/cybersecurity-alert-heightened-threats-iranian-cyber-actors"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "ICS Technique Proliferation Beyond IRGC Core (Iran-affiliated, Global OT Risk)",
+          "text": "PLC exploitation TTPs documented in CISA AA26-097A — false sensor injection and alarm suppression via native vendor tooling — have proliferated to ~60 pro-Iranian hacktivist groups per Tenable assessment. The platform shift from Israeli Unitronics hardware to dominant Western controllers (Rockwell, Siemens, Schneider) dramatically broadens the addressable OT attack surface across GCC critical infrastructure. Gulf financial institution facilities teams running Siemens or Schneider building automation systems should be included in audit scope.",
+          "threat_actor": "CyberAv3ngers / pro-Iranian hacktivist network (~60 groups)",
+          "assessed_likelihood": "High",
+          "sources": ["Tenable", "Techtimes, 23 Jul 2026", "CISA AA26-097A"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "Iranian DDoS, Wiper, and Hack-and-Leak Campaign Evolution (Gulf-facing)",
+          "text": "Since 28 Feb 2026, Iranian state actors and criminal affiliates have escalated DoS campaigns, wiper deployments, and hack-and-leak operations against Gulf energy, government, and financial targets. EclecticIQ and SafeBreach assessments indicate coordinated scanning of Gulf energy and government networks; wiper variants previously deployed in Israeli-facing operations (BAUXITE-attributed) are assessed as potentially adaptable for Gulf targets. No confirmed wiper deployment against Gulf financial sector institutions to date.",
+          "threat_actor": "BAUXITE / Iranian state-affiliated actors and criminal affiliates",
+          "assessed_likelihood": "Moderate",
+          "sources": ["EclecticIQ", "SafeBreach", "Unit 42 Threat Brief, updated Apr 2026"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "US military escalation — Kharg Island / Pickaxe Mountain strike",
+          "why_it_matters": "CSIS and Reuters flag US NSC deliberations on strikes against Kharg Island or Pickaxe Mountain; additional US fighter jets already deployed. A strike on either target would trigger a mass Iranian retaliatory barrage on Gulf states significantly exceeding the current cadence.",
+          "related_section": "Sections 1, 2, 3"
+        },
+        {
+          "text": "Ceasefire mediation — post-rejection dynamics",
+          "why_it_matters": "With Iran having rejected the Iraqi PM's proposal, any signal of renewed dialogue or further Iranian diplomatic escalation is the key indicator of near-term conflict trajectory; Iran's demand for Hormuz final-status guarantees remains the unresolved core issue.",
+          "related_section": "Sections 4, 5"
+        },
+        {
+          "text": "Houthi Bab al-Mandab closure threat",
+          "why_it_matters": "Iran has asked Houthis to prepare to close Bab al-Mandab contingent on US strikes against Iran's power network; a second chokepoint closure would compound the Hormuz blockade and trigger a step-change in WRP and trade finance stress.",
+          "related_section": "Sections 5, 5A"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 2, "confidence": "HIGH", "note": "Corroborated by KUNA and Xinhua; siren activation confirmed" },
+    { "section": "2 — Targets & Incidents", "source_count": 4, "confidence": "MEDIUM", "note": "Tanker fire [SINGLE SOURCE, TIMESTAMP UNCONFIRMED]; interception count NR; Abdali strike confirmed" },
+    { "section": "3 — Kuwait Local", "source_count": 4, "confidence": "MEDIUM", "note": "Airport status from aggregator sources; Abdali crossing passability unconfirmed" },
+    { "section": "4 — Regional Context", "source_count": 3, "confidence": "HIGH", "note": "Multiple Tier 1 and policy sources corroborate ceasefire rejection and escalation narrative" },
+    { "section": "5 — Risk Signal", "source_count": 4, "confidence": "MEDIUM", "note": "Operational assessments; no new confirmed incident triggers within 24h" },
+    { "section": "5A — Insurance Risks", "source_count": 3, "confidence": "HIGH", "note": "Lloyd's/JWC data and market sources corroborated; JWC listing confirmed" },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "HIGH", "note": "Official CISA advisory; corroborated by SecurityWeek and Techtimes" },
+    { "section": "7B — Cyber Strategic", "source_count": 2, "confidence": "MEDIUM", "note": "Campaign assessments; no confirmed Gulf FS deployment to date" }
+  ],
+  "footer": "Report #118 compiled 2026-07-24 at 07:30 UTC+3."
+}
