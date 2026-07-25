@@ -1,0 +1,307 @@
+{
+  "date": "2026-07-25",
+  "headline": "25 July 2026",
+  "subtitle": "Trump Signals 'Massive Attack'; Houthis Open Red Sea Front; Qatar Airways Suspends Kuwait Flights",
+  "report_number": "119",
+  "coverage": "24 July 2026 07:00 UTC+3 – 25 July 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-07-25",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "98.38", "previous": "100.40", "delta": "-2.02", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "87.88", "previous": "90.65", "delta": "-2.77", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~15 [PRELIM]", "previous": "NR", "delta": "NR", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "↑" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "76", "today_label": "Moderate", "previous": "76", "previous_label": "Moderate", "delta": "0", "trend_7d": "→" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "US Embassy Kuwait Security Alert (24 Jul 2026)",
+          "text": "The US Embassy in Kuwait issued a formal security alert advising American citizens to exercise caution and heightened vigilance, citing a 'complex security environment with potential for unforeseen escalation.' Citizens were directed to prepare for short-notice flight cancellations, periodic airspace closures, and travel disruptions.",
+          "sources": ["US Embassy in Kuwait, July 24, 2026"]
+        },
+        {
+          "bold_heading": "Overnight air defense engagement posture (24–25 Jul 2026)",
+          "text": "Kuwait's General Staff maintained active air defense operations throughout the overnight period. No new nationwide siren bulletin was issued by KUNA specific to this 24-hour window; all-clear has not been declared and the overnight threat environment remains elevated. The public remains under standing advisory to shelter in place during any explosion sounds.",
+          "sources": ["KUNA standing advisory", "Xinhua, July 24, 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Kuwait — Overnight air defense operations (24–25 Jul 2026, overnight UTC+3) [SINGLE SOURCE for window-specific activity]",
+          "text": "Kuwait's General Staff continued engaging hostile missile and drone threats throughout the overnight period. No official casualty or damage bulletin issued for this 24-hour window as of 07:00 UTC+3 filing; interception activity is consistent with the sustained nightly barrage pattern operational since 11 July.",
+          "sources": ["US Embassy Kuwait, July 24", "Xinhua, July 24", "ABC News live blog, July 25"]
+        },
+        {
+          "bold_heading": "Kuwait — Power and water infrastructure attacks (5th consecutive day, 24–25 Jul 2026)",
+          "text": "Strikes on Kuwait's electricity generation and desalination network continued for a fifth consecutive day. The Ministry of Electricity, Water and Renewable Energy has been disconnecting generating units for repairs; emergency rationing protocols remain active. No new individual strike bulletin confirmed for this specific window — damage is accumulating from the sustained campaign.",
+          "sources": ["MEES, July 24, 2026", "Türkiye Today", "Kuwait Times"]
+        },
+        {
+          "bold_heading": "Iran — Drone strikes on US facilities in Bahrain and Jordan (24 Jul 2026)",
+          "text": "Iran's army confirmed it carried out drone strikes against several US military facilities and bases in Bahrain and Jordan in retaliation for the 13th consecutive night of US strikes on Iran. Damage and casualties not publicly disclosed.",
+          "sources": ["NPR, July 24, 2026"]
+        },
+        {
+          "bold_heading": "Kurdistan Region / Erbil — Airport drone incident (24 Jul 2026)",
+          "text": "Kurdish security forces shot down explosive-laden drones near Erbil's international airport; airport briefly closed then resumed normal operations. No casualties. Iran did not formally claim responsibility; Iranian-backed armed groups operating in northern Iraq are assessed responsible per conflict pattern.",
+          "sources": ["NPR, July 24, 2026"]
+        },
+        {
+          "bold_heading": "Red Sea — Houthi attacks on Saudi oil tankers (23 Jul 2026, afternoon–evening UTC+3) [TIMESTAMP UNCONFIRMED — exact time not disclosed]",
+          "text": "Yemen's Houthis attacked two Saudi oil tankers — the Encelia and the Layla — in the Red Sea, causing fires on both. No casualties reported. This is the Houthis' first confirmed strike on Saudi-flagged commercial vessels since re-entering the conflict. At least four additional tankers rerouted. Houthis declared a blockade of Saudi-linked shipping. Trump threatened 'major military punishment' against the Houthis. EU warned Houthis to cease Red Sea attacks. [Item not carried in Report #118 — falls within 48h window and directly relevant to Bab al-Mandab watchlist item]",
+          "sources": ["CNBC, July 23", "NPR, July 24", "Spectrum News", "Petra / Jordan News Agency, July 23"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Electricity and water rationing (5th consecutive day)",
+          "text": "Ministry of Electricity, Water and Renewable Energy requesting all residents and businesses to reduce consumption, especially between 11:00–17:00. Peak-hour temperatures exceeding 45°C amplify the risk of prolonged outages given cumulative generation-plant damage.",
+          "sources": ["MEES, July 24", "Kuwait Times"]
+        },
+        {
+          "bold_heading": "KWI Airport — Partial operations; Qatar Airways suspends Kuwait flights",
+          "text": "Terminal 1 remains closed for repairs. Kuwait Airways (Terminal 4) and Jazeera Airways (Terminal 5) continuing reduced schedules. Qatar Airways announced suspension of all flights to Kuwait, Bahrain, and Erbil until end of July. Multiple other international carriers reporting individual flight cancellations. All travelers must verify flight status directly with airlines before proceeding to the airport.",
+          "sources": ["NPR, July 24", "Wego Travel Blog"]
+        },
+        {
+          "bold_heading": "Abdali border crossing (Kuwait–Iraq): Status unconfirmed",
+          "text": "Status remains unconfirmed following the July 23 drone strike. Travelers and freight operators should verify before movement. Kuwait–Saudi Arabia land border remains the primary land contingency route; open but subject to short-notice closure.",
+          "sources": ["SANA", "Xinhua"]
+        },
+        {
+          "bold_heading": "Government advisory — standing shelter-in-place",
+          "text": "Kuwait's General Staff advisory to remain indoors during explosion sounds remains in effect. US Embassy issued a separate formal security alert July 24 urging caution and travel-disruption preparedness.",
+          "sources": ["US Embassy Kuwait", "KUNA"]
+        },
+        {
+          "bold_heading": "Schools/events",
+          "text": "No new closure orders reported beyond standing civil defense protocols.",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "Trump signals imminent 'massive attack' on Iran; NSC convened",
+          "text": "Trump told Axios he is 'considering a massive attack — bigger than ever before — and is close to making a decision.' US military executed its 13th consecutive night of strikes against Iran on July 24. NSC met Friday to review options including expanded strikes on previously untargeted Iranian strategic sites. Both CIA and DIA have reportedly assessed the current bombing campaign is unlikely to shift Iran's negotiating position, driving pressure toward escalation.",
+          "sources": ["Axios, July 23", "NPR, July 24", "ABC News live blog, July 25", "Times of Israel"]
+        },
+        {
+          "bold_heading": "Houthis open Red Sea front — Bab al-Mandab threat now active",
+          "text": "Houthi attacks on Saudi tankers (July 23) mark activation of a second chokepoint. Houthis have declared a blockade of Saudi-linked shipping through Bab al-Mandab. US House passed a war powers resolution rebuking Trump (2nd time) on July 23. UN Secretary General Guterres warned the Security Council the situation is 'getting out of control' and the region is at 'the edge of the unimaginable.'",
+          "sources": ["CNBC", "NPR", "Petra, July 23–24"]
+        },
+        {
+          "bold_heading": "Iran-Iraq diplomacy; UK diplomatic staff withdrawn from Iran",
+          "text": "Iraq's PM Zaidi pledged not to allow attacks on Iran from Iraqi soil after visiting Tehran following a White House meeting with Trump. The UK announced temporary withdrawal of diplomatic staff from Iran, signaling anticipated escalation. Iran continues to reject ceasefire without guaranteed Hormuz final-status terms.",
+          "sources": ["NPR, July 24", "Times of Israel"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "BCP — imminent escalation scenario planning",
+          "text": "Trump's explicit statement that a large-scale attack is being decided requires BCM teams to stress-test plans against a materially worse scenario: intensified Iranian retaliation on Kuwait and Gulf state civilian infrastructure following any US 'massive attack.' Trigger-level plans should be pre-positioned now; do not wait for an announcement.",
+          "sources": ["Axios, July 23", "NPR, July 24"]
+        },
+        {
+          "bold_heading": "Power infrastructure — 5th day of cumulative damage",
+          "text": "The sustained assault on Kuwait's generation and desalination network is compounding. Institutions should urgently verify generator fuel endurance (at peak summer cooling loads), UPS battery charge and test-status, and potable water reserves at all Kuwait data center and operations sites.",
+          "sources": ["MEES, July 24", "Kuwait Times"]
+        },
+        {
+          "bold_heading": "Staff mobility — Qatar Airways suspension and widening airline pullout",
+          "text": "Qatar Airways' suspension of Kuwait flights until end of July removes a key staff evacuation route. Emergency travel rosters should be updated now to reflect available carrier options; model minimum-viable flight alternatives if a further carrier withdraws.",
+          "sources": ["NPR, July 24"]
+        },
+        {
+          "bold_heading": "Payment and settlement continuity",
+          "text": "CBK has not suspended settlement operations; however, continued power disruption creates downstream risk to POS availability, ATM uptime, and interbank settlement. Monitor CBK emergency advisory channels.",
+          "sources": ["MEES, July 24"]
+        },
+        {
+          "bold_heading": "Trade finance — dual-chokepoint exposure",
+          "text": "With Houthis now active in Bab al-Mandab in addition to the Hormuz closure, credit risk teams should map trade finance book positions against both chokepoints. Combined closure of Hormuz and Bab al-Mandab would affect virtually all Gulf-origin and Suez Canal-transiting cargo simultaneously.",
+          "sources": ["CNBC, July 23", "NPR, July 24"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Red Sea / Bab al-Mandab — new risk perimeter, JWC extension likely",
+          "text": "Houthi attacks on Saudi oil tankers (Encelia, Layla) on July 23 confirm Bab al-Mandab is now an active threat zone. JWC Listed Areas currently include Djibouti but do not explicitly cover the full Red Sea corridor. A JWC Listed Area extension for the wider Red Sea is assessed as probable given active Houthi attacks on commercial vessels. Cargo interests and hull underwriters should obtain per-voyage confirmation of coverage for Suez/Red Sea routing and review listed-areas endorsement requirements before booking.",
+          "sources": ["CNBC, July 23", "JWC/Lloyd's MLA, March 2026", "Petra, July 23"]
+        },
+        {
+          "bold_heading": "WRP — Hormuz (unchanged, ~5% of hull value)",
+          "text": "War risk premia for Hormuz transits remain approximately 5% of hull value. Single-transit premium for a $150M vessel: $1.5M–$4.5M. No softening of rates reported given re-escalation; Houthi Red Sea activation is likely to push overall Gulf-region WRP upward.",
+          "sources": ["Globalsecurity.org / Lloyd's market summary, July 11, 2026"]
+        },
+        {
+          "bold_heading": "Air cargo insurance — Qatar Airways suspension",
+          "text": "Qatar Airways cargo operations to/from Kuwait, Bahrain, and Erbil suspended until end of July. Shippers should verify cargo insurance policy terms under carrier-delay or inability-to-deliver clauses and assess consequential loss exposure from re-routing.",
+          "sources": ["NPR, July 24"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "How a U.S. Ground Operation in Iran Could Unfold",
+          "author": "Foreign Policy Staff",
+          "publication": "Foreign Policy",
+          "pub_date": "2026-07-24",
+          "access": "Paywall (metered)",
+          "summary": "Assesses feasibility of US ground operation scenarios in Iran, including seizure of Kharg Island and special operations raids. Former US military officials are skeptical of large-scale ground operations — ~50,000 troops currently deployed falls far short of what would be required — but limited operations (island seizure, SOF raids on military sites) are assessed as possible.",
+          "relevance": "The next US escalation step — if Trump executes a 'massive attack' with island-seizure components — would likely target Kharg (~90% of Iranian oil exports), triggering Iranian retaliation against GCC civilian infrastructure at a scale exceeding the current nightly barrages.",
+          "link": "https://foreignpolicy.com/2026/07/24/us-ground-operation-iran-invasion-kharg-war-trump/"
+        },
+        {
+          "title": "Trump's Destruction of Iranian Life Is Strengthening the Regime",
+          "author": "Nik Kowsar & Alireza Nader",
+          "publication": "Foreign Policy",
+          "pub_date": "2026-07-24",
+          "access": "Paywall (metered)",
+          "summary": "Documents how US and Israeli airstrikes on Iranian civilian infrastructure — including a mid-July attack on Jask county's desalination facility — are devastating Iranian civilian life while paradoxically strengthening regime cohesion. The authors argue no popular uprising has materialized and the war's initial aim of destabilizing the Islamic Republic is unattainable.",
+          "relevance": "Provides the strategic rationale for why conflict duration risk is now measured in months to years rather than weeks — directly relevant to long-term BCP, staffing, and insurance planning horizon assumptions.",
+          "link": "https://foreignpolicy.com/2026/07/24/trump-iran-water-environment-civilians/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": null,
+          "text": "No tactical cyber advisories requiring immediate action identified in the past 24–48 hours. OT/ICS security teams should be in the active verification and remediation phase following the CISA AA26-097A advisory (updated 22 Jul); any unauthorized PLC project file changes or alarm-system anomalies identified during audit must be escalated immediately as potential active exploitation. No new CVEs or threat actor advisories specific to Kuwait/GCC financial infrastructure were issued in this window.",
+          "cve_ids": [],
+          "threat_actor": null,
+          "recommended_action": "Continue OT/ICS audit verification per CISA AA26-097A; escalate any anomalous findings immediately.",
+          "sources": [],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "ICS/OT technique proliferation — sustained GCC exposure (Iran-affiliated)",
+          "text": "IRGC-affiliated CyberAv3ngers (Storm-0784/BAUXITE/UNC5691) and approximately 60 associated hacktivist groups continue to exploit Rockwell, Siemens, and Schneider Electric PLCs using native engineering software to suppress alarms and inject false sensor readings — creating silent unsafe conditions in energy and water infrastructure. Gulf financial institution facilities teams running Siemens or Schneider building automation systems (HVAC, UPS, generator monitoring) should be within the OT audit scope per CISA AA26-097A. No confirmed deployment against Gulf FS to date.",
+          "threat_actor": "CyberAv3ngers / IRGC-affiliated (also: Storm-0784, BAUXITE, UNC5691); ~60 associated pro-Iranian hacktivist groups",
+          "assessed_likelihood": "High",
+          "sources": ["CISA AA26-097A, July 22", "Tenable", "MBT Magazine"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "Pre-positioning risk ahead of potential US 'massive attack' escalation",
+          "text": "Trump's public warning of an imminent large-scale escalation is assessed as likely prompting Iranian cyber actors to pre-position offensive capabilities across GCC networks in parallel with physical strike preparations. Historical pattern since 28 February 2026 shows kinetic attack intensification is preceded by a surge in cyber reconnaissance. Gulf financial institutions should treat the current threat window as pre-incident and confirm SOC alerting sensitivity is at maximum. [Analytical assessment — no confirmed pre-positioning indicators as of filing]",
+          "threat_actor": "Iranian state cyber actors (unspecified; IRGC-affiliated likely)",
+          "assessed_likelihood": "High",
+          "sources": ["NPR, July 24", "Axios, July 23", "CISA historical advisory pattern"],
+          "url": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates"
+        },
+        {
+          "bold_heading": "Iranian DDoS, wiper, and hack-and-leak — Gulf financial sector (sustained strategic campaign)",
+          "text": "Iranian state actors and criminal affiliates have escalated DoS campaigns, wiper deployments, and hack-and-leak operations against Gulf energy, government, and financial targets since 28 February 2026. BAUXITE-attributed wiper variants previously used in Israeli-facing operations remain assessed as potentially adaptable for Gulf targets. No confirmed wiper deployment against Gulf FS institutions to date.",
+          "threat_actor": "BAUXITE / Iranian state-affiliated actors and criminal affiliates",
+          "assessed_likelihood": "Moderate",
+          "sources": ["EclecticIQ", "SafeBreach", "Unit 42 Threat Brief, updated April 2026"],
+          "url": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Trump 'massive attack' decision — imminent",
+          "why_it_matters": "Trump told Axios he is 'close to making a decision' and NSC convened Friday; any executed escalation would likely trigger Iranian mass retaliation against GCC civilian infrastructure at an intensity materially exceeding the current nightly barrages.",
+          "related_section": "Sections 1, 2, 3, 5"
+        },
+        {
+          "text": "Houthi Bab al-Mandab escalation",
+          "why_it_matters": "Houthis are now actively attacking Saudi oil tankers and have declared a shipping blockade; any US or Saudi counter-strike risks further Houthi escalation, compressing available shipping routes simultaneously on two chokepoints (Hormuz + Bab al-Mandab).",
+          "related_section": "Sections 5, 5A"
+        },
+        {
+          "text": "Airline connectivity deterioration at KWI",
+          "why_it_matters": "Qatar Airways has suspended Kuwait flights; if a second major carrier follows, KWI could be limited to Kuwait Airways and Jazeera, creating a critical evacuation bottleneck for Kuwait-based operations and senior staff.",
+          "related_section": "Sections 3, 5"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "MEDIUM", "note": "US Embassy alert confirmed; no new KUNA siren bulletin in this window; overnight posture inferred from established pattern" },
+    { "section": "2 — Targets & Incidents", "source_count": 5, "confidence": "MEDIUM", "note": "Houthi attack confirmed by multiple Tier 1; Kuwait window-specific intercept count NR; Erbil airport incident confirmed NPR" },
+    { "section": "3 — Kuwait Local", "source_count": 4, "confidence": "MEDIUM", "note": "Qatar Airways suspension confirmed NPR; airport aggregated sources; Abdali status unconfirmed" },
+    { "section": "4 — Regional Context", "source_count": 4, "confidence": "HIGH", "note": "Multiple Tier 1 corroborate Trump escalation posture, NSC meeting, and Houthi activation" },
+    { "section": "5 — Risk Signal", "source_count": 4, "confidence": "MEDIUM", "note": "Operational assessments; no new confirmed incident in this window" },
+    { "section": "5A — Insurance Risks", "source_count": 3, "confidence": "MEDIUM", "note": "Houthi Red Sea item new and confirmed; JWC Red Sea extension anticipated but not yet confirmed; WRP unchanged" },
+    { "section": "7A — Cyber Tactical", "source_count": 0, "confidence": "LOW", "note": "No new tactical advisories found in 24–48h window; fallback text only" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "MEDIUM", "note": "Pre-positioning item is analytical assessment labeled accordingly; CISA item confirmed active exploitation; no confirmed Gulf FS deployment to date" }
+  ],
+  "footer": "Report #119 compiled 2026-07-25 at 07:30 UTC+3."
+}
