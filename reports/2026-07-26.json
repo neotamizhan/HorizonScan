@@ -1,0 +1,283 @@
+{
+  "date": "2026-07-26",
+  "headline": "26 July 2026",
+  "subtitle": "Ceasefire collapsed; Strait at 17% capacity; power attacks enter sixth day",
+  "report_number": "120",
+  "coverage": "25 July 2026 07:00 UTC+3 – 26 July 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-07-26",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "96.78", "previous": "98.38", "delta": "-1.60", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "85.15", "previous": "87.88", "delta": "-2.73", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~15", "previous": "~15 [PRELIM]", "delta": "→", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "↑" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "76", "today_label": "Moderate", "previous": "76", "previous_label": "Moderate", "delta": "0", "trend_7d": "→" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "No confirmed siren activations within coverage window",
+          "text": "No confirmed civil defense siren activations or shelter-in-place orders specifically within the coverage window (25 July 07:00 – 26 July 07:00 UTC+3) were identified in available Tier 1 sources. The U.S. Embassy Kuwait Security Alert issued 24 July remains active, advising all American citizens to maintain heightened vigilance and prepare for abrupt flight disruptions.",
+          "sources": ["U.S. Embassy Kuwait, 2026-07-24 — https://kw.usembassy.gov/security-alert-u-s-embassy-kuwait-july-24-2026/"]
+        },
+        {
+          "text": "Kuwait's General Staff advisory urging residents to remain indoors when explosion sounds occur and to interpret them as successful interceptions remains in effect from prior-day communications.",
+          "sources": ["Kuwait Times, 2026-07-25"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Kuwait — Power & Water Infrastructure",
+          "text": "Attacks on Kuwait's electricity generation and desalination network entered at least a sixth consecutive day within the coverage window, continuing a pattern confirmed by Kuwait Times and KUNA. The Ministry of Electricity, Water and Renewable Energy has reported fires and significant damage; full cumulative infrastructure damage count not confirmed in Tier 1 sources. [SINGLE SOURCE for day-count extrapolation]",
+          "sources": ["Kuwait Times, 2026-07-25", "KUNA, 2026-07-25"]
+        },
+        {
+          "bold_heading": "Kuwait — Missile/Drone Threats",
+          "text": "Xinhua (citing Kuwait's General Staff) reported Kuwait confronting fresh hostile missile and drone threats as of 24 July; no separate intercept confirmation from Tier 1 Kuwaiti or Western wire sources within the 25–26 July window. [SINGLE SOURCE]",
+          "sources": ["Xinhua, 2026-07-24 — https://english.news.cn/20260724/40531b265dce4eac97afe1480ade24d6/c.html"]
+        },
+        {
+          "bold_heading": "Gulf Maritime — Houthi/Red Sea",
+          "text": "No new Houthi vessel attacks within the specific coverage window. The 23 July attacks on Saudi tankers Encelia and Layla in the Red Sea remain the most recent confirmed maritime incident.",
+          "sources": ["Arab Times, 2026-07-23"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Airport",
+          "text": "Kuwait International Airport (KWI) partial operations continue. Terminal 1 closed for repairs; Kuwait Airways operating from Terminal 4; Jazeera Airways from Terminal 5, with schedules subject to short-notice changes. Overflights of Kuwait FIR prohibited; EASA CZIB in effect. Qatar Airways suspension of Kuwait routes continues through end of July.",
+          "sources": ["Wego Travel Blog, 2026-07", "OPSGROUP, 2026-07 — https://ops.group/blog/middle-east-airspace-current-operational-picture/"]
+        },
+        {
+          "bold_heading": "Power & Water",
+          "text": "Ministry of Electricity advisory for residential and commercial consumption reduction remains in effect. Sustained attacks on generation and desalination infrastructure create compounding risk for facilities reliant on grid power or municipal water supply.",
+          "sources": ["Kuwait Times, 2026-07-25", "KUNA"]
+        },
+        {
+          "bold_heading": "Border Crossings — Abdaly (Iraq)",
+          "text": "Kuwait's First Deputy Prime Minister announced the Abdaly border crossing will reopen to passenger and commercial traffic within 48 hours, with resumption of Iraq–Kuwait trade. Positive logistical development pending confirmation. [SINGLE SOURCE — confirmation pending]",
+          "sources": ["Arab Times Online — https://www.arabtimesonline.com/news/abdaly-border-comeback-underway/"]
+        },
+        {
+          "bold_heading": "Security Advisory",
+          "text": "U.S. Embassy Kuwait Security Alert (24 July) remains active. Travel and emergency evacuation routes remain constrained by partial KWI and Qatar Airways suspension.",
+          "sources": ["U.S. Embassy Kuwait, 2026-07-24"]
+        },
+        {
+          "bold_heading": "Schools/Events",
+          "text": "No new closure orders reported beyond standing civil defense protocols.",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "text": "US bombing campaign continued into its 13th+ consecutive night as of 24–25 July, targeting Iranian military command centers in northern Gilan province; Trump threatened a potential 'unprecedented massive attack' — no confirmed execution within the coverage window.",
+          "sources": ["CNN, 2026-07-24 — https://www.cnn.com/2026/07/24/world/live-news/iran-war-trump"]
+        },
+        {
+          "text": "Ceasefire prospects collapsed: Iran formally rejected the US proposal delivered by Iraqi PM al-Zaydi on 23 July, stating Tehran will not accept any temporary deal that leaves Strait of Hormuz governance unresolved. No credible alternative diplomatic channel active as of coverage window.",
+          "sources": ["Critical Threats Evening Report, 2026-07-24 — https://www.criticalthreats.org/analysis/iran-update-evening-special-report-july-24-2026"]
+        },
+        {
+          "text": "Strait of Hormuz commercial transits at approximately 17% of pre-crisis volume (~15 vessels/day vs. baseline ~88/day), with 70%+ of tanker transits conducted AIS-dark; maritime risk environment remains critical with no near-term normalization pathway.",
+          "sources": ["Lloyd's List Intelligence, Strait of Hormuz Brief, 2026-07-21 — https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-21-july-2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Business Continuity",
+          "text": "Sustained electricity and desalination infrastructure attacks (sixth+ consecutive day) compound cumulative grid fragility in Kuwait. Institutions should immediately audit backup generator fuel reserves and UPS sufficiency for data centres and core branches against an extended outage scenario.",
+          "sources": ["Kuwait Times, 2026-07-25", "KUNA"]
+        },
+        {
+          "bold_heading": "Payment Systems & Liquidity",
+          "text": "Continued Strait closure constrains hydrocarbon revenue flows underpinning Kuwait's sovereign fiscal position; treasury and liquidity teams should monitor CBK guidance and ensure settlement contingency arrangements are in place. Brent at $96.78 (−$1.60 from prior session) adds short-term revenue volatility.",
+          "sources": ["OilPriceAPI, 2026-07-26", "Lloyd's List Intelligence, 2026-07-21"]
+        },
+        {
+          "bold_heading": "Staff Safety",
+          "text": "US Embassy alert (July 24) remains active; partial KWI operations and Qatar Airways suspension constrain emergency evacuation options. BCM plans should be reviewed for current routing viability; remote-working protocols should be confirmed for key personnel.",
+          "sources": ["U.S. Embassy Kuwait, 2026-07-24"]
+        },
+        {
+          "bold_heading": "Cyber",
+          "text": "The CISA/FBI/EPA/Treasury joint advisory (AA26-097a, updated 22 July) confirms Iranian APT actors are targeting OT/ICS in sectors including finance; institutions with operational technology or process-control systems should treat updated IOCs as a standing action item.",
+          "sources": ["CISA, 2026-07-22 — https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"]
+        },
+        {
+          "bold_heading": "Trade Finance & Credit Risk",
+          "text": "With Houthis now activating Bab al-Mandab alongside the Hormuz closure, institutions with trade finance exposure across Gulf and Red Sea lanes face dual chokepoint disruption; credit risk teams should re-examine guarantees and LCs tied to Gulf/Red Sea commodity flows.",
+          "sources": ["Arab Times, 2026-07-23", "Lloyd's List Intelligence, 2026-07-21"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "War Risk Premia (WRP)",
+          "text": "Hull WRP for Strait of Hormuz transits remains at approximately 5% of vessel value per transit (~$7.5M for a $150M vessel); no JWC Listed Areas change this week, with entire Arabian Gulf remaining on the list. No reduction signalled while ceasefire talks remain collapsed.",
+          "sources": ["Lloyd's List — https://www.lloydslist.com/LL1156586/Gulf-war-risk-premiums-topping-double-digit-millions-of-dollars-per-trip", "LMA, 2026-07"]
+        },
+        {
+          "bold_heading": "JWC & P&I Coverage Gaps",
+          "text": "JWC designation of the entire Arabian Gulf as an area of perceived enhanced risk unchanged. P&I clubs advising coverage gaps for vessels transiting AIS-dark or on non-approved routes; 70%+ of tanker transits now conducted dark.",
+          "sources": ["LMA Safety Notice, 2026-07", "Lloyd's List Intelligence, 2026-07-21"]
+        },
+        {
+          "bold_heading": "Red Sea / Bab al-Mandab Extension",
+          "text": "The 23 July Houthi attacks on Saudi tankers Encelia and Layla confirm Bab al-Mandab as an active threat zone. Cargo and H&M underwriters expected to begin repricing Red Sea routing alternatives; shippers and their banks should verify coverage validity for any Red Sea-routed cargo now in transit.",
+          "sources": ["Arab Times, 2026-07-23"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "No qualifying Tier 3 articles identified within 48h",
+          "author": "",
+          "publication": "",
+          "pub_date": "",
+          "access": "",
+          "summary": "No qualifying Tier 3 articles from specified outlets (Foreign Affairs, Foreign Policy, War on the Rocks, Chatham House, Carnegie, RAND, Al-Monitor, etc.) were identified within the 24h or 48h extension window of 26 July 2026. Most recent relevant analytical piece from a qualifying outlet (Foreign Policy, 15 July) is outside the 48h window.",
+          "relevance": "N/A — no qualifying articles found",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "No new tactical advisories within 24–48h window",
+          "text": "No new tactical cyber advisories requiring immediate action from Tier 4 sources identified within the 24–48h window (24–26 July 2026). The CISA/FBI/EPA/Treasury advisory AA26-097a (updated 22 July) remains the most recent actionable advisory, now 4 days old; if IOC application and PLC segmentation checks have not yet been completed, these should be treated as open action items.",
+          "cve_ids": [],
+          "threat_actor": null,
+          "recommended_action": "Apply CISA AA26-097a IOCs and verify PLC internet segmentation if not yet completed.",
+          "sources": ["CISA, 2026-07-22"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Iranian APT OT/ICS Escalation",
+          "text": "CISA AA26-097a update (22 July) expands confirmed Iranian APT PLC targeting to Rockwell Automation, Schneider Electric, and Siemens systems across critical infrastructure, with Treasury added as co-author — signalling assessed financial sector OT exposure. Observed TTPs include downloading malicious project files to PLCs via legitimate configuration software.",
+          "threat_actor": "CyberAv3ngers/BAUXITE, OilRig/APT34, MuddyWater/Seedworm",
+          "assessed_likelihood": "High",
+          "sources": ["CISA, 2026-07-22"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "Gulf Financial Sector — AI-Assisted Offensive Tooling",
+          "text": "UAE Cybersecurity Council confirmed a wave of sophisticated AI-assisted cyberattacks on UAE financial sector (repelled, early July). Daily attack volume surged to ~700,000 attempts/day in UAE; attack types included advanced phishing, vulnerability exploitation, and wiper deployment. Similar campaigns against Kuwaiti financial institutions assessed as likely given shared conflict-linked targeting patterns.",
+          "threat_actor": "Iranian state-affiliated and criminal groups",
+          "assessed_likelihood": "High",
+          "sources": ["The National, 2026-07-03", "Gulf News, 2026-07-03"],
+          "url": "https://www.thenationalnews.com/news/uae/2026/07/03/uae-thwarts-wave-of-sophisticated-cyber-attacks-on-financial-sector/"
+        },
+        {
+          "bold_heading": "Pre-Positioning for Escalatory Cyber Campaign",
+          "text": "LRQA Persian Gulf Cyber Threat Intelligence 2026 assessment indicates Iranian state actors likely pre-positioning persistent access for escalatory cyber campaigns correlated with military escalation phases. The failed ceasefire (23 July) and Trump's 'massive attack' threat represent posture indicators consistent with elevated pre-positioning activity.",
+          "threat_actor": "Iranian state APT groups",
+          "assessed_likelihood": "High",
+          "sources": ["LRQA, 2026"],
+          "url": "https://www.lrqa.com/en/resources/persian-gulf-cyber-threat-intelligence-assessment/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Trump 'massive attack' decision on Iran",
+          "why_it_matters": "The threatened large-scale US strike has not been confirmed as executed within the coverage window; confirmation or IRGC retaliation could trigger immediate siren activations and new infrastructure strikes in Kuwait.",
+          "related_section": "Sections 1 and 2"
+        },
+        {
+          "text": "Abdaly border crossing (Iraq) formal reopening",
+          "why_it_matters": "Announced within 48 hours; confirmation and any security incidents along the route will determine whether it provides meaningful supply chain relief for Kuwait.",
+          "related_section": "Section 3"
+        },
+        {
+          "text": "Ceasefire diplomatic channel signals",
+          "why_it_matters": "Iran's formal rejection of the Iraqi-mediated proposal leaves no active diplomatic off-ramp; any back-channel signal from Omani or Qatari intermediaries — or further IRGC escalation — will shape the trajectory of the conflict and Strait closure duration.",
+          "related_section": "Sections 4 and 5A"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 2, "confidence": "MEDIUM", "note": "No confirmed siren within window; advisory-based" },
+    { "section": "2 — Targets & Incidents", "source_count": 4, "confidence": "MEDIUM", "note": "Jul 25–26 specific confirmations limited; day-count extrapolated from prior digest" },
+    { "section": "3 — Kuwait Local", "source_count": 5, "confidence": "MEDIUM-HIGH", "note": "Abdaly reopening single source, unconfirmed" },
+    { "section": "4 — Regional Context", "source_count": 3, "confidence": "HIGH", "note": "Multi-source; Critical Threats + CNN July 24 corroborated" },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "HIGH", "note": "Inference-based; well-grounded in confirmed source data" },
+    { "section": "5A — Insurance Risks", "source_count": 3, "confidence": "HIGH", "note": "LMA + Lloyd's List corroborated" },
+    { "section": "7A — Cyber Tactical", "source_count": 0, "confidence": "N/A", "note": "No new items within 24-48h window" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "MEDIUM-HIGH", "note": "CISA advisory 4 days old; UAE attack data 23 days old; LRQA report undated" }
+  ],
+  "footer": "Report #120 compiled 2026-07-26 at 07:30 UTC+3."
+}
