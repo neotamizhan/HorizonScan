@@ -1,0 +1,302 @@
+{
+  "date": "2026-07-27",
+  "headline": "27 July 2026",
+  "subtitle": "Mutual US-Iran Attack Pause Enters Day 2; Oman-Mediated Hormuz Talks Advance",
+  "report_number": "121",
+  "coverage": "26 July 2026 07:00 UTC+3 – 27 July 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-07-27",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "90.95", "previous": "96.78", "delta": "-5.83", "trend_7d": "→" },
+      { "metric": "WTI crude ($/bbl)", "today": "84.40", "previous": "85.15", "delta": "-0.75", "trend_7d": "→" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~0", "previous": "~15", "delta": "~-15", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "↑" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "NR", "today_label": null, "previous": "76", "previous_label": "Moderate", "delta": "NR", "trend_7d": "→" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "No sirens within coverage window",
+          "text": "No civil defense sirens, shelter-in-place orders, or emergency mobile broadcasts reported in Kuwait during the coverage window (26 July 07:00 – 27 July 07:00 UTC+3). The mutual US-Iran attack pause — declared unilaterally by Trump on July 25 and reciprocated by Tehran — appears to be holding into a second day, suppressing the immediate siren threat.",
+          "sources": ["NPR, 2026-07-26", "Reuters, 2026-07-26"]
+        },
+        {
+          "bold_heading": "US Embassy Kuwait Security Alert remains active",
+          "text": "The U.S. Embassy Kuwait Security Alert issued July 24 remains technically active; no updated alert or all-clear has been issued within the coverage window. Heightened vigilance and flight contingency awareness are still advised.",
+          "sources": ["U.S. Embassy Kuwait, 2026-07-24"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Kuwait — No new confirmed attacks within coverage window",
+          "text": "No missile, drone, or direct military incidents targeting Kuwait or GCC territory were reported during the 26–27 July window, consistent with the bilateral pause in US-Iran strikes.",
+          "sources": ["NPR, 2026-07-26", "CP24, 2026-07-26", "CNN, 2026-07-26"]
+        },
+        {
+          "bold_heading": "Abdaly Border Crossing — Prior-window drone attack resolved",
+          "text": "The crossing sustained an Iranian drone attack on July 23 causing material damage but no casualties; it officially reopened to passenger and commercial traffic on July 26, confirmed by Iraq's state news agency and Kuwait's Interior Ministry.",
+          "sources": ["Al-Monitor, 2026-07-26", "Arab News, 2026-07-26", "Shafaq News, 2026-07-26"]
+        },
+        {
+          "bold_heading": "Strait of Hormuz — Zero tanker transits [SINGLE SOURCE — Straits.live]",
+          "text": "The 24h period to July 25 recorded zero tanker transits in either direction — the lowest single-period figure since the closure began. No change within the coverage window; Oman-mediated talks on governance arrangements are actively in progress.",
+          "sources": ["Straits.live, 2026-07-25", "Fortune, 2026-07-26"]
+        },
+        {
+          "bold_heading": "Red Sea — No new Houthi attacks within coverage window",
+          "text": "Last confirmed attack remains the July 23 strikes on Saudi tankers Encelia and Layla; Houthi naval blockade declaration on Saudi Arabia remains in effect but no new incidents reported in this window.",
+          "sources": ["Arab Times, 2026-07-23"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Abdaly Border Crossing (Iraq) — REOPENED",
+          "text": "The main Kuwait-Iraq land crossing officially reopened on Sunday, July 26, for both passenger and commercial traffic, confirmed by multiple Tier 1 sources. This is the most significant positive supply-chain development in Kuwait in weeks. Road security conditions along the Iraq corridor should be independently assessed before incorporating into BCM plans.",
+          "sources": ["Al-Monitor, 2026-07-26", "Arab News, 2026-07-26", "Asharq Al-Awsat, 2026-07-26"]
+        },
+        {
+          "bold_heading": "Airport (KWI) — Partial, no new closures",
+          "text": "Kuwait Airways operating from Terminal 4; Jazeera Airways from Terminal 5. Terminal 1 remains closed for ongoing repairs. Emirates, Etihad, flydubai, and Air Arabia reported further route cancellations on July 26–27. Qatar Airways Kuwait suspension continues through end of July. The attack pause has not yet produced airspace restoration.",
+          "sources": ["VisasUpdate, 2026-07-26", "Wego, 2026-07"]
+        },
+        {
+          "bold_heading": "Power & Water — No new attacks; repair window open",
+          "text": "No new attacks on Kuwait's power generation or desalination infrastructure reported during the coverage window. Prior damage is under active repair; Ministry of Electricity power reduction advisory remains in effect. The pause provides a window for repair acceleration if it holds.",
+          "sources": ["Kuwait Times, prior reporting", "KUNA, prior reporting"]
+        },
+        {
+          "bold_heading": "Saudi Arabia border — No restrictions",
+          "text": "No closures or new restrictions reported on the Kuwait-Saudi border crossing.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Security advisory",
+          "text": "U.S. Embassy Kuwait Security Alert (July 24) remains active. No additional advisories issued within the window. Schools are on summer break; no new event cancellations or gathering restrictions beyond standing civil defense protocols.",
+          "sources": ["U.S. Embassy Kuwait, 2026-07-24"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "Mutual US-Iran attack pause — Day 2",
+          "text": "Trump ordered a halt to US strikes on July 25 after 13 consecutive days of bombing; Iran's military spokesperson confirmed reciprocal cessation — 'Iran's position remains attack for attack: if the attacks stop, Iran will also halt its operations.' UN Ambassador Waltz stated Trump is 'giving talks some space.' Neither side has committed to a formal ceasefire.",
+          "sources": ["USNews, 2026-07-26", "Reuters, 2026-07-26", "Washington Post, 2026-07-26"]
+        },
+        {
+          "bold_heading": "Oman-mediated Hormuz talks advancing",
+          "text": "Iran's Foreign Ministry confirmed 'progress' in discussions with Oman on Strait of Hormuz vessel transit arrangements; the proposed compromise centres on Iran managing transit with fewer restrictions. A formal arrangement could partially reinstate the June MOU framework. No timeline for reopening confirmed.",
+          "sources": ["Fortune, 2026-07-26", "Daily News Egypt, 2026-07-26"]
+        },
+        {
+          "bold_heading": "Houthi naval blockade of Saudi Arabia persists",
+          "text": "The Houthi declaration of a naval blockade on Saudi Arabia (July 20) remains in effect alongside Hormuz closure, sustaining dual-chokepoint disruption to Gulf and Red Sea trade lanes even during the US-Iran pause.",
+          "sources": ["Foreign Policy, 2026-07-20"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Business Continuity — Do Not Stand Down",
+          "text": "The mutual pause removes the immediate siren-and-strike threat for now, but it is informal and fragile; institutions should maintain elevated BCM posture. Use the pause to accelerate power contingency reviews: fuel reserves for backup generators, UPS capacity, and recovery RTOs at data centres should be reassessed against compounding infrastructure damage from prior-week attacks.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Payment Systems & Liquidity",
+          "text": "CBK has not issued emergency advisories within the coverage window. The ~6-7% oil price drop (Brent $90.95, WTI $84.40) on pause news introduces fresh hydrocarbon revenue uncertainty; while lower prices help inflation, they compress sovereign fiscal buffers. Treasury teams should monitor CBK guidance on KD peg management and inter-bank liquidity.",
+          "sources": ["Bloomberg, 2026-07-26", "USNews, 2026-07-26"]
+        },
+        {
+          "bold_heading": "Staff Safety & Evacuation Routes",
+          "text": "The Abdaly crossing reopening provides a functional overland alternative for evacuating staff to Iraq if KWI becomes unusable. Route security assessment is advisable before inclusion in BCM plans. KWI partial status and UAE carrier cancellations continue to constrain air evacuation options.",
+          "sources": ["Arab News, 2026-07-26", "VisasUpdate, 2026-07-26"]
+        },
+        {
+          "bold_heading": "Cyber — Pause Does Not Equal Stand-Down",
+          "text": "The attack pause may reduce Iran-correlated DDoS and wiper deployments in the near term, but does not eliminate persistent APT pre-positioning or strategic cyber campaigns. FINRA heightened Iranian APT alert and CISA AA26-097a (July 22) remain standing advisories; PLC/OT segmentation and IOC application remain open action items.",
+          "sources": ["FINRA, 2026", "CISA AA26-097a, 2026-07-22"]
+        },
+        {
+          "bold_heading": "Trade Finance & Credit Risk",
+          "text": "Hormuz remains effectively closed (zero tanker transits); no material change in dual-chokepoint trade finance exposure. The Abdaly crossing reopening is a modest positive for Kuwait-Iraq trade LC flows. Institutions with commodity trade finance pending Hormuz reopening should maintain mark-to-market provisioning on affected exposures.",
+          "sources": ["Straits.live, 2026-07-25", "Arab News, 2026-07-26"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "War Risk Premia — Watch for Softening",
+          "text": "Hull WRP for Hormuz transits was approximately 5% of vessel value per transit (~$7.5M per passage on a $150M vessel). The mutual attack pause has not yet produced formal JWC adjustments, but underwriters are monitoring; if the pause holds 5–7 days, preliminary rate discussions may begin. The prior April ceasefire precedent showed rates softened within a week of a confirmed halt before rebounding when violence resumed.",
+          "sources": ["Insurance Business Mag, 2026-07", "Lloyd's List, 2026-07"]
+        },
+        {
+          "bold_heading": "JWC Listed Areas — No Change Within Coverage Window",
+          "text": "The Arabian Gulf remains a designated area of perceived enhanced risk; all hull and cargo underwriters continue to apply war risk endorsements across Gulf trade. P&I clubs remain in advisory mode on AIS-dark routing. No additions or removals to the Listed Areas within the window.",
+          "sources": ["LMA, 2026-07"]
+        },
+        {
+          "bold_heading": "Hormuz Governance Talks — Material Insurance Implication",
+          "text": "A successful Oman-mediated arrangement that allows commercial vessel transit would be the most consequential insurance event since the June MOU. Even a partial reopening would create pressure on Lloyd's market to revisit Hormuz transit pricing and potentially narrow the Listed Area. Institutions with shipping insurance or LC-backed cargo awaiting Hormuz reopening should monitor developments from Muscat closely.",
+          "sources": ["Fortune, 2026-07-26", "Daily News Egypt, 2026-07-26", "Insurance Business Mag, 2026-07"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Paying Off Iran Is the Only Way to End Trump's War",
+          "author": "Anonymous Senior Analyst",
+          "publication": "Foreign Policy",
+          "pub_date": "2026-07-23",
+          "access": "Paywall",
+          "summary": "Argues that after 11 days of airstrikes failed to shift Iranian behaviour in the Strait, the US has no non-catastrophic military option left; a financial settlement addressing Iran's economic demands around Hormuz governance is the only viable endgame, but politically toxic for Trump. Frames the current pause as exhaustion of military options rather than genuine diplomatic progress.",
+          "relevance": "The strategic logic behind the pause suggests high risk of resumption — institutions should not treat the pause as a durable de-escalation signal.",
+          "link": "https://foreignpolicy.com/2026/07/23/iran-united-states-trump-hormuz-war-nuclear/"
+        },
+        {
+          "title": "Trump's Botched Hormuz Deal Might Kill the Global Commons",
+          "author": "Hal Brands",
+          "publication": "Foreign Policy",
+          "pub_date": "2026-07-20",
+          "access": "Paywall",
+          "summary": "Argues the June MOU's imprecise language on Hormuz transit rights sets a dangerous precedent for sovereignty over international waterways, warning Iran's partial Hormuz-control model could inspire similar moves by China in the South China Sea. No qualifying Tier 3 articles found within the 24h window; extended search to 7 days.",
+          "relevance": "Provides legal-strategic context for why any Oman-mediated Hormuz arrangement must be carefully structured — a poorly drafted deal could create long-term liability for maritime trade finance.",
+          "link": "https://foreignpolicy.com/2026/07/20/trump-hormuz-iran-global-commons-fonops/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "No new tactical advisories — Carryover items remain open",
+          "text": "No new tactical cyber advisories requiring immediate action from Tier 4 sources identified within the 24–48h window (25–27 July 2026). CISA AA26-097a (updated 22 July) — Iranian APT targeting of Rockwell, Schneider, and Siemens PLCs — is now 5 days old. If PLC segmentation checks and IOC application have not been completed, these are past-due action items. FINRA cybersecurity alert on Iranian APT threats to financial institutions also remains open.",
+          "cve_ids": [],
+          "threat_actor": "CyberAv3ngers/BAUXITE, OilRig/APT34, MuddyWater",
+          "recommended_action": "Complete PLC/OT segmentation, apply CISA AA26-097a IOCs, and verify DDoS mitigation capacity per FINRA advisory.",
+          "sources": ["CISA AA26-097a, 2026-07-22", "FINRA Cybersecurity Alert, 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Iranian APT OT/ICS Campaign — Persistent Through Pause",
+          "text": "Multiple public intelligence assessments confirm Iranian APT groups (CyberAv3ngers/BAUXITE, OilRig/APT34, MuddyWater/Seedworm) have pre-positioned persistent access across Gulf critical infrastructure, including Rockwell, Schneider, and Siemens control systems. The mutual attack pause may temporarily suppress overt wiper campaigns, but pre-positioning activity is assessed to continue independently of kinetic operations.",
+          "threat_actor": "CyberAv3ngers/BAUXITE, OilRig/APT34, MuddyWater/Seedworm",
+          "assessed_likelihood": "HIGH",
+          "sources": ["SOPHOS Cyber Advisory, 2026", "SISA Threat Advisory, 2026"],
+          "url": "https://www.sisainfosec.com/blogs/threat-advisory-elevated-cyber-risk-to-the-payments-ecosystem-amid-israel-us-iran-conflict-escalation/"
+        },
+        {
+          "bold_heading": "AI-Assisted Cyberattacks on Gulf Financial Sector [DATA 24 DAYS OLD]",
+          "text": "UAE Cybersecurity Council's July 3 disclosure confirmed ~700,000 sophisticated AI-assisted attack attempts/day on UAE financial institutions, including advanced phishing, vulnerability exploitation, and wiper deployment — all repelled. No updated figure available within the 48h window. Assessed likelihood of similar sustained campaign against Kuwaiti financial institutions: HIGH, based on shared conflict-threat profile.",
+          "threat_actor": "Iranian state-affiliated and proxy threat actors",
+          "assessed_likelihood": "HIGH",
+          "sources": ["Gulf News / The National, 2026-07-03"],
+          "url": "https://www.thenationalnews.com/news/uae/2026/07/03/uae-thwarts-wave-of-sophisticated-cyber-attacks-on-financial-sector/"
+        },
+        {
+          "bold_heading": "Pre-Positioning During Pause — Elevated Dwell-Time Risk",
+          "text": "Historical pattern from the April 2026 ceasefire period shows Iranian APT actors intensify pre-positioning and credential harvesting during kinetic pauses, exploiting reduced defensive vigilance. The current pause creates an elevated window for long-dwell intrusion campaigns against Gulf financial sector targets ahead of any resumed escalation.",
+          "threat_actor": "Iranian state APT actors",
+          "assessed_likelihood": "HIGH",
+          "sources": ["LRQA Persian Gulf Cyber Threat Intelligence 2026", "SOCRadar Iran-Israel Cyber Dashboard"],
+          "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Oman-Iran Hormuz talks outcome",
+          "why_it_matters": "Iran's Foreign Ministry confirmed 'progress' in Muscat; a formal transit framework announcement would immediately affect oil prices, insurance rates, and trade finance exposure.",
+          "related_section": "Sections 4, 5, 5A"
+        },
+        {
+          "text": "Durability of US-Iran attack pause",
+          "why_it_matters": "Trump reserved the right to resume strikes; any CENTCOM announcement, IRGC provocation in the Strait, or White House escalatory signal would immediately break the informal truce.",
+          "related_section": "Sections 1, 2, 4"
+        },
+        {
+          "text": "JWC/Lloyd's review of war risk designations",
+          "why_it_matters": "If the pause holds into Day 3–4, London market underwriters may begin preliminary discussions on Hormuz transit pricing adjustments and potential Listed Area review.",
+          "related_section": "Section 5A"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 2, "confidence": "MEDIUM", "note": "No sirens in window; absence-of-event confirmed by multiple wire reports on the pause" },
+    { "section": "2 — Targets & Incidents", "source_count": 4, "confidence": "MEDIUM-HIGH", "note": "Pause confirmed multi-source Tier 1; zero-tanker figure single source [Straits.live]" },
+    { "section": "3 — Kuwait Local", "source_count": 4, "confidence": "MEDIUM-HIGH", "note": "Abdaly reopening multi-source confirmed; power advisory is carryover" },
+    { "section": "4 — Regional Context", "source_count": 4, "confidence": "HIGH", "note": "US-Iran pause and Oman talks corroborated across NPR, Reuters, Fortune, WaPo" },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "HIGH", "note": "Inference-based; well-grounded in confirmed source data" },
+    { "section": "5A — Insurance Risks", "source_count": 3, "confidence": "MEDIUM", "note": "No formal LMA/JWC bulletin in window; rates intelligence from prior-day sources" },
+    { "section": "7A — Cyber Tactical", "source_count": 2, "confidence": "MEDIUM", "note": "No new items; carryover advisories from CISA (5 days old) and FINRA" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "MEDIUM-HIGH", "note": "UAE attack data 24 days old; pre-positioning assessment is analytical inference" }
+  ],
+  "footer": "Report #121 compiled 2026-07-27 at 07:30 UTC+3."
+}
