@@ -1,0 +1,306 @@
+{
+  "date": "2026-07-29",
+  "headline": "29 July 2026",
+  "subtitle": "Iran Breaks Pause with Ballistic Missile Attack on US Jordan Base; All 4 Intercepted; Hormuz Remains ~10 Transits/Day",
+  "report_number": "123",
+  "coverage": "28 July 2026 07:00 UTC+3 – 29 July 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-07-29",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "4 (Jordan — CENTCOM confirmed)", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "87.50", "previous": "89.42", "delta": "-1.92", "trend_7d": "↓" },
+      { "metric": "WTI crude ($/bbl)", "today": "80.23", "previous": "83.91", "delta": "-3.68", "trend_7d": "↓" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~10 (Jul 23 — latest available)", "previous": "15 (Jul 19)", "delta": "N/A", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "↑" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "NR", "today_label": null, "previous": "100", "previous_label": "Moderate", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "No civil defense sirens or emergency alerts issued in Kuwait during the coverage window",
+          "text": "No shelter-in-place orders, emergency mobile broadcasts, or Civil Defence Authority notifications were issued during 28–29 July. (Source: KUNA; Kuwait Times)",
+          "sources": ["KUNA", "Kuwait Times"]
+        },
+        {
+          "bold_heading": "US Embassy Kuwait Security Alert (24 July) remains active",
+          "text": "No all-clear has been issued. Embassy advises US citizens to maintain heightened vigilance; the alert has not been rescinded.",
+          "sources": ["U.S. Embassy Kuwait, 2026-07-24"]
+        },
+        {
+          "bold_heading": "Elevated alert risk: Iran ballistic missile attack on US Jordan base at ~00:45 UTC+3 July 29",
+          "text": "Iran's first attack since the informal pause began (July 25) falls within this coverage window. Historical pattern of multi-front simultaneous attacks makes a Kuwait-directed follow-on possible. No Kuwait-specific alert was issued at time of compilation.",
+          "sources": ["CENTCOM, 2026-07-28", "Axios, 2026-07-28", "CNBC, 2026-07-29"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Jordan (US base) — Iran launches surprise ballistic missile attack; all 4 intercepted [CONFIRMED — CENTCOM]",
+          "text": "IRGC forces launched 4 ballistic missiles at a US military base in Jordan at ~5:45 PM ET July 28 (00:45 UTC+3 July 29, within coverage window). All four intercepted by US air defenses. No casualties confirmed. First Iranian ballistic missile attack against US forces since the informal pause began July 25 — effectively ending the pause.",
+          "sources": ["CENTCOM statement, 2026-07-28", "Axios, 2026-07-28", "CNBC, 2026-07-29", "The Hill, 2026-07-28"]
+        },
+        {
+          "bold_heading": "Kuwait — No confirmed strikes in coverage window",
+          "text": "No missile, drone, or direct military incidents targeting Kuwait confirmed during 28–29 July.",
+          "sources": ["KUNA", "Reuters"]
+        },
+        {
+          "bold_heading": "Strait of Hormuz — Tanker mine explosion [SINGLE SOURCE — IRGC/Iranian state media; unverified]",
+          "text": "The July 26 reported mine explosion (first cited by IRGC-linked Tasnim and Mehr News) remains unconfirmed by CENTCOM, UKMTO, or independent maritime tracking. Mentioned in context of Iran-Oman Hormuz safety talks; no independent corroboration at time of compilation.",
+          "sources": ["Maritime Executive, 2026-07-26", "TravelersToday citing Reuters, 2026-07-27"]
+        },
+        {
+          "bold_heading": "Israel — Two drones intercepted near Jordan border [SINGLE SOURCE]",
+          "text": "Israel intercepted two drones near its border with Jordan; Jordan confirmed the incident. Likely Iranian-proxy provenance.",
+          "sources": ["Al Jazeera, 2026-07-28"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Abdaly Border Crossing (Iraq) — Open and operational",
+          "text": "Normal passenger and cargo operations resumed following brief closure after a drone attack. Ministry of Interior conducting repairs alongside ongoing operations.",
+          "sources": ["Times Kuwait, 2026-07-28", "Arab News, 2026-07-26", "Prismnews, 2026-07-26"]
+        },
+        {
+          "bold_heading": "Saudi Arabia border — No restrictions",
+          "text": "No closures or new restrictions reported on the Kuwait-Saudi border crossing.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Airport (KWI) — Partial; no new closures in coverage window",
+          "text": "Terminal 1 closed for repair. Kuwait Airways from Terminal 4; Jazeera Airways from Terminal 5; Qatar Airways suspension ongoing. No new shutdown triggered by coverage-window events at time of compilation. Confirm flight status with airline before travel.",
+          "sources": ["Wego, 2026-07", "NomadLawyer, 2026-07", "TravelandTourWorld"]
+        },
+        {
+          "bold_heading": "Power & water — No new attacks",
+          "text": "No strikes on Kuwait power generation or desalination infrastructure during the window. Ministry of Electricity power-reduction advisory remains in effect. Schools on summer break.",
+          "sources": ["KUNA", "Kuwait Times, prior reporting"]
+        },
+        {
+          "bold_heading": "Supply chain — No disruption reports",
+          "text": "No panic-buying or essential goods supply disruptions identified in the coverage window.",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "US-Iran informal pause broken — Iran fires ballistic missiles at US Jordan base",
+          "text": "Three-day halt ended with IRGC launching four ballistic missiles at a US base in Jordan; all intercepted. No US strike resumption announced as of coverage window close. Trump-Netanyahu Oval Office meeting on July 28 preceded the attack. Iran simultaneously signalled diplomatic engagement (FM calls to Oman and Saudi) and military escalation — classic dual-track pressure strategy.",
+          "sources": ["CENTCOM, 2026-07-28", "CBS News, 2026-07-29", "Al Jazeera, 2026-07-28", "Axios, 2026-07-28"]
+        },
+        {
+          "bold_heading": "Oman/Qatar/Pakistan diplomatic track — active but more tenuous post-attack",
+          "text": "Iran FM Araghchi contacted Omani and Saudi FMs to reinforce dialogue on Hormuz governance. Qatar and Pakistan are co-mediating US-Iran talks. Iran's concurrent missile attack reduces short-term probability of a transit arrangement but does not close the diplomatic channel.",
+          "sources": ["CBS News, 2026-07-29", "TravelersToday citing Reuters, 2026-07-27", "Al Jazeera, 2026-07-28"]
+        },
+        {
+          "bold_heading": "Dual-chokepoint disruption persists",
+          "text": "Hormuz at ~10 transits/day (July 23; pre-crisis: 88/day); Red Sea under Houthi naval blockade of Saudi Arabia (declared July 20). The kinetic pause produced no relief at either chokepoint before it ended.",
+          "sources": ["NBC News data graphics", "Straits.live", "CBS News, 2026-07-29"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "BCM — Return to elevated posture immediately",
+          "text": "The informal pause has ended. Institutions that reduced readiness during the July 25–28 lull should immediately return to full elevated BCM posture. Generator/fuel reserves, UPS capacity, and data centre RTO validations remain outstanding.",
+          "sources": []
+        },
+        {
+          "bold_heading": "Trade finance & credit — Dual-chokepoint exposure unchanged or worsening",
+          "text": "Hormuz at ~10 transits/day; Red Sea blocked. LCs backed by in-transit Gulf cargo and VLCC-linked receivables face unchanged or deteriorating physical exposure. Maintain mark-to-market provisioning on affected exposures.",
+          "sources": ["Straits.live", "NBC News data graphics", "CBS News, 2026-07-29"]
+        },
+        {
+          "bold_heading": "Crude oil — Sharp downward drift; Iran attack may partially reverse",
+          "text": "Brent fell ~$87.50 (−$1.92) and WTI to ~$80.23 (−$3.68) on July 28 as diplomacy reduced risk premium. Iran's subsequent missile attack may push prices higher at London open July 29. Sustained sub-$90 Brent compresses Kuwait's sovereign fiscal buffers; ALM teams should model KD peg and inter-bank liquidity implications.",
+          "sources": ["TradingEconomics, 2026-07-28", "Fortune, 2026-07-28", "FX Leaders, 2026-07-28"]
+        },
+        {
+          "bold_heading": "Staff safety — Abdaly open; KWI partial; US Embassy alert active",
+          "text": "Both overland (Abdaly-Safwan) and partial air (KWI) routes remain available. Given the break in the pause, route security should be verified before formal BCM incorporation. US Embassy security alert (July 24) remains in force.",
+          "sources": ["Times Kuwait, 2026-07-28", "VisasUpdate, 2026-07-26"]
+        },
+        {
+          "bold_heading": "Compliance/payments — Iran attack increases APT attack probability; advisories remain open",
+          "text": "The informal pause was used for Iranian APT pre-positioning (historical pattern from April 2026). Renewed kinetic activity typically accompanies cyber escalation. FINRA and CISA AA26-097a advisories remain unresolved action items.",
+          "sources": ["FINRA Cybersecurity Alert, 2026", "CISA AA26-097a, 2026-07-22"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "War Risk Premia — 7.5–10% of hull value; Iran attack prevents softening",
+          "text": "Any premium softening that began during the pause has been reversed by Iran's July 28 missile attack. Six P&I clubs (Gard, Skuld, North Standard, London P&I Club, American Club, Steamship Mutual) cover withdrawals remain in effect. No formal JWC premium revision in the coverage window.",
+          "sources": ["Al Jazeera, 2026-07-23", "The National, 2026-07-17", "LMA JWC, reviewed 2026-07-28"]
+        },
+        {
+          "bold_heading": "JWC Listed Areas — Gulf designation unchanged",
+          "text": "Entire Persian Gulf, Strait of Hormuz, Gulf of Oman, and northern Arabian Sea remain designated as areas of perceived enhanced risk. No additions or removals in the coverage window.",
+          "sources": ["LMA Joint War Committee, 2026-07-28"]
+        },
+        {
+          "bold_heading": "Hormuz transit governance — Iran's dual-track complicates P&I and H&M outlook",
+          "text": "Iran simultaneously engaged diplomatically (FM calls to Oman/Saudi) and fired ballistic missiles at a US base, signalling Hormuz control as a negotiating lever. Even a partial reopening would force P&I clubs to reconsider cover withdrawals and trigger Lloyd's repricing. Monitor Muscat talks closely.",
+          "sources": ["CBS News, 2026-07-29", "Al Jazeera, 2026-07-28", "TravelersToday, 2026-07-27"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "What a Fragile U.S.-Iran Ceasefire Means for Energy and Beyond",
+          "author": "Raad Alkadiri, Jon B. Alterman, Mona Yacoubian, Joely Virzi, Caitlin Welsh, Clayton Seigle",
+          "publication": "CSIS",
+          "pub_date": "2026-07-01",
+          "access": "Open",
+          "summary": "Five CSIS scholars assess the June MOU's energy, diplomatic, and geopolitical implications. Alkadiri argues it is 'a deal on borrowed time' hostage to US domestic politics and Israeli willingness to hold to a regional truce; Yacoubian warns Iran's 'Persian Gulf Strait Authority' and pursuit of transit fees sets a dangerous precedent for freedom of navigation globally.",
+          "relevance": "Iran's simultaneous diplomatic engagement and missile attack in this coverage window is precisely the fragility dynamic predicted — institutions should not treat diplomatic signalling as evidence of durable de-escalation.",
+          "link": "https://www.csis.org/analysis/what-fragile-us-iran-ceasefire-means-energy-and-beyond"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "[CARRYOVER — 7 days old] CISA AA26-097a: Iranian APT exploitation of industrial control system PLCs",
+          "text": "CISA, FBI, EPA, and US Treasury (updated 22 July) confirmed CyberAv3ngers/BAUXITE and OilRig/APT34 are actively exploiting PLCs/HMIs from Rockwell Automation, Schneider Electric, and Siemens across critical infrastructure (energy, water, government). Confirmed disruptions reported. Relevant to Kuwait electricity/desalination OT networks. Iran's July 28 missile attack increases probability of concurrent cyber escalation.",
+          "cve_ids": ["See AA26-097a IOC list"],
+          "threat_actor": "CyberAv3ngers/BAUXITE; OilRig/APT34",
+          "recommended_action": "Validate PLC/OT network segmentation, apply AA26-097a IOCs to SIEM immediately, confirm EDR coverage on engineering workstations — do not defer because of the Iran attack event.",
+          "sources": ["CISA AA26-097a, 2026-07-22"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "DieNet hacktivist group claims compromise of Kuwait International Airport systems [SINGLE SOURCE — UNVERIFIED CLAIM]",
+          "text": "Iran-linked hacktivist group DieNet has claimed to have successfully compromised KWI airport systems as part of a broader campaign targeting Kuwaiti government and infrastructure networks. Claim not independently corroborated at time of compilation; timing (coinciding with Iran's missile attack) warrants prompt verification.",
+          "cve_ids": [],
+          "threat_actor": "DieNet (Iran-linked hacktivist)",
+          "recommended_action": "Confirm with IT security teams that no anomalous access or outages have been flagged in airport-connected or shared-infrastructure systems; review third-party/supplier connectivity into shared networks.",
+          "sources": ["Search result summary — primary source not independently confirmed"],
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Iranian APT pre-positioning during pause translates to elevated attack readiness",
+          "text": "Historical pattern (confirmed during April 2026 ceasefire) shows CyberAv3ngers/BAUXITE, OilRig/APT34, and MuddyWater/Seedworm intensifying credential harvesting and long-dwell intrusion during kinetic pauses. The 3-day informal pause ending July 28 provided a window for this activity. Expect heightened attack probability in the 72–96 hours following renewed kinetic escalation.",
+          "threat_actor": "CyberAv3ngers/BAUXITE, OilRig/APT34, MuddyWater/Seedworm",
+          "assessed_likelihood": "HIGH",
+          "sources": ["LRQA Persian Gulf Cyber Threat Intelligence 2026", "SOCRadar Iran-Israel Cyber Dashboard"],
+          "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/"
+        },
+        {
+          "bold_heading": "8× surge in Iran-linked attacks on Gulf FS and critical infrastructure — sustained",
+          "text": "Gulf Business and EclecticIQ confirm a verified 8× surge in Iranian APT-linked cyberattacks across the Middle East targeting banking, telecommunications, and public sector. UAE Cybersecurity Council: ~600,000–700,000 AI-assisted attack attempts per day (latest figure: July 3, 26 days old). Capability overhang constitutes persistent HIGH risk for Kuwait FS institutions.",
+          "threat_actor": "Iranian state-affiliated and proxy actors",
+          "assessed_likelihood": "HIGH",
+          "sources": ["Gulf Business, 2026", "The National, 2026-07-03", "UAE Cybersecurity Council"],
+          "url": "https://gulfbusiness.com/en/2026/tech/iran-linked-cyberattacks-middle-east-8x-surge/"
+        },
+        {
+          "bold_heading": "AI-assisted targeting of SWIFT/payments ecosystem — persistent strategic risk",
+          "text": "Advanced AI-assisted attack vectors (adaptive phishing, wiper deployment, supply-chain targeting) deployed at scale against Gulf FS. SISA and EclecticIQ specifically identify SWIFT/payment ecosystems as high-value targets. Kuwait CBK real-time payment infrastructure and SWIFT linkages assessed as priority targets given Kuwait's USD settlement role in regional trade.",
+          "threat_actor": "Iranian state-affiliated APT actors",
+          "assessed_likelihood": "HIGH",
+          "sources": ["SISA Threat Advisory, 2026", "EclecticIQ, 2026"],
+          "url": "https://www.sisainfosec.com/blogs/threat-advisory-elevated-cyber-risk-to-the-payments-ecosystem-amid-israel-us-iran-conflict-escalation/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "US military response to Iran's Jordan base missile attack",
+          "why_it_matters": "Any CENTCOM strike announcement will immediately re-escalate the kinetic environment, raise the probability of Kuwait-directed retaliation, and trigger new civil defense alert risk.",
+          "related_section": "Sections 1, 2, 4"
+        },
+        {
+          "text": "Hormuz mine strike (July 26) — independent confirmation or denial",
+          "why_it_matters": "If confirmed by CENTCOM, UKMTO, or independent maritime tracking, this materially changes transit risk and could trigger P&I club reassessments beyond current cover withdrawals.",
+          "related_section": "Sections 2, 5A"
+        },
+        {
+          "text": "Oman/Qatar/Pakistan diplomatic mediation — Hormuz transit framework announcement",
+          "why_it_matters": "Iran's simultaneous diplomatic and military signalling makes near-term viability uncertain but not impossible; any Muscat announcement on a transit arrangement remains the most consequential insurance and trade finance event since the June MOU.",
+          "related_section": "Sections 4, 5, 5A"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "MEDIUM", "note": "Absence of sirens inferred from wire monitoring; no KUNA alert text retrieved" },
+    { "section": "2 — Targets & Incidents", "source_count": 5, "confidence": "MEDIUM-HIGH", "note": "Jordan missile attack multi-source Tier 1 confirmed; mine strike still IRGC/state media only [SINGLE SOURCE]" },
+    { "section": "3 — Kuwait Local", "source_count": 4, "confidence": "MEDIUM-HIGH", "note": "Abdaly and airport status confirmed multi-source; supply/power items are absence-of-reports" },
+    { "section": "4 — Regional Context", "source_count": 4, "confidence": "HIGH", "note": "Confirmed across CENTCOM, CBS News, Al Jazeera, Axios, The Hill" },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "HIGH", "note": "Inference-based; grounded in confirmed Sections 2–4 data" },
+    { "section": "5A — Insurance Risks", "source_count": 3, "confidence": "MEDIUM-HIGH", "note": "War risk metrics from Al Jazeera/The National (July 17–23); JWC reviewed July 28; no new LMA bulletin in window" },
+    { "section": "7A — Cyber Tactical", "source_count": 2, "confidence": "MEDIUM", "note": "CISA carryover now 7 days old; DieNet claim is unverified single source" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "MEDIUM-HIGH", "note": "Pre-positioning assessment is analytical inference; UAE attack data 26 days old" }
+  ],
+  "footer": "Report #123 compiled 2026-07-29 at 07:30 UTC+3."
+}
