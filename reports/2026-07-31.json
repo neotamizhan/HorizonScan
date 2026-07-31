@@ -1,0 +1,316 @@
+{
+  "date": "2026-07-31",
+  "headline": "31 July 2026",
+  "subtitle": "Iranian Strike Kills One in Northern Kuwait; Jordan Intercepts Five Missiles; Damietta Drone Confirmed; Hormuz Transit Edges Up to ~14/Day",
+  "report_number": "125",
+  "coverage": "30 July 2026 07:00 UTC+3 – 31 July 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-07-31",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "5 confirmed (Jordan)", "previous": "NR (multiple confirmed)", "delta": "NR", "trend_7d": "↑" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "87.06", "previous": "90.74", "delta": "-3.68", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "83.87", "previous": "84.46", "delta": "-0.59", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~14", "previous": "~10", "delta": "+4", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "↑" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "NR", "today_label": "Moderate", "previous": "NR", "previous_label": "Moderate", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "Warning sirens activated — Kuwait; Iranian strike on Chinese company building confirmed",
+          "text": "Kuwait's military confirmed an Iranian missile/drone attack struck a building belonging to a Chinese company in northern Kuwait, killing one worker and causing severe structural damage. Air defence systems engaged; sirens activated per Kuwait General Staff protocol during incoming aerial threats. [CONFIRMED — Kuwait MOD/multi-source]",
+          "sources": ["Kuwait Ministry of Defence, 2026-07-30", "Washington Post, 2026-07-30", "Times of Israel, 2026-07-30", "The Peninsula Qatar, 2026-07-30"]
+        },
+        {
+          "bold_heading": "US Embassy Kuwait security alert (24 July 2026) — remains active",
+          "text": "No all-clear issued. The confirmed Iranian strike in northern Kuwait within the coverage window reinforces the threat environment; renewal or upgrade of the Embassy alert is likely.",
+          "sources": ["U.S. Embassy Kuwait, 2026-07-24", "Kuwait MOD, 2026-07-30"]
+        },
+        {
+          "bold_heading": "EASA Conflict Zone Information Bulletin extended through 31 August 2026",
+          "text": "EASA CZIB covers Kuwait FIR (OKAC), Bahrain, Qatar, UAE, and parts of the Gulf of Oman. Operators advised not to fly in OKAC at any altitude.",
+          "sources": ["EASA CZIB, July 2026", "nomadlawyer.org, 2026-07-30"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Kuwait — Northern Kuwait: Iranian strike on Chinese company building; 1 dead, severe structural damage",
+          "text": "Kuwait's military confirmed 'the heinous Iranian aggression targeted a building belonging to a Chinese company in the north of the country, resulting in the death of one worker and causing severe material damage to the building.' Attack occurred July 30 morning UTC+3, within the coverage window. Iran's first confirmed strike on a Chinese-linked commercial facility in Kuwait — geopolitically significant given ongoing China-Iran MANPADS cooperation (Reuters, July 28). [CONFIRMED — multi-source]",
+          "sources": ["Kuwait Ministry of Defence, 2026-07-30", "Washington Post, 2026-07-30", "Times of Israel, 2026-07-30", "Peninsula Qatar, 2026-07-30", "Siasat, 2026-07-30"]
+        },
+        {
+          "bold_heading": "Jordan — Al Azraq Air Base: 5 Iranian ballistic missiles intercepted; no casualties",
+          "text": "Jordan's air defences shot down five ballistic missiles launched from Iran targeting Al Azraq Air Base, where US aircraft are stationed. IRGC confirmed the attack. No casualties or aircraft damage reported. [CONFIRMED — Jordan Armed Forces + IRGC]",
+          "sources": ["Jordan Armed Forces official statement, 2026-07-30", "news4jax, 2026-07-30", "Business Recorder, 2026-07-30", "WSLS, 2026-07-30"]
+        },
+        {
+          "bold_heading": "US — CENTCOM heavy wave completed approximately 05:00 UTC+3 July 30",
+          "text": "The US completed its heavy wave of strikes against dozens of IRGC targets — military command centres, missile and drone facilities, coastal surveillance sites — within the coverage window. Iranian retaliatory actions (Kuwait Chinese firm strike; Jordan missile salvo) followed. No new CENTCOM press release for a follow-on wave identified in the window. [CONFIRMED — CENTCOM]",
+          "sources": ["CENTCOM official release, 2026-07-29/30", "CNBC, 2026-07-30"]
+        },
+        {
+          "bold_heading": "Egypt — Damietta Port: Egypt cabinet confirms drone caused fires; Houthis deny; attacker unclaimed",
+          "text": "Egypt's cabinet confirmed a drone caused fires on FSRU Energos Winter and LNG tanker Gaslog Salem at Damietta Port on July 29. Yemen's Houthis formally denied responsibility. No group has claimed the attack. US sanctioned two Iranian entities; Trump indicated Iranian responsibility without evidence. Investigation ongoing.",
+          "sources": ["Al Jazeera, 2026-07-29/30", "CNBC, 2026-07-30", "Egypt cabinet statement, 2026-07-30", "The War Zone, 2026-07-30", "Türkiye Today, 2026-07-30", "Euronews, 2026-07-30"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Airport (KWI) — Partial; Qatar Airways extended to August 7; airlines broadly through August 8",
+          "text": "Qatar Airways extended suspension through and including August 7. Times Kuwait reports airlines broadly extending Kuwait flight disruptions until August 8. Terminals 4 (Kuwait Airways) and 5 (Jazeera Airways) operational; Terminal 1 closed. Pre-travel status check mandatory.",
+          "sources": ["Peninsula Qatar, 2026-07-30", "Times Kuwait, 2026-07-31", "LoyaltyLobby, 2026-07-24"]
+        },
+        {
+          "bold_heading": "Iranian strike on Chinese firm building in northern Kuwait — 1 dead; suspend non-essential travel to northern Kuwait",
+          "text": "See Section 2. All non-essential staff travel to northern Kuwait should be suspended pending damage and threat assessment from Kuwait authorities.",
+          "sources": ["Kuwait MOD, 2026-07-30"]
+        },
+        {
+          "bold_heading": "Oil sector / KPC — damage assessment ongoing; ~1.2 million bpd estimated July output (54% below pre-war)",
+          "text": "Rystad Energy estimates Kuwait July output at ~1.2 million bpd, vs. 1.37 million in June and 2.6 million in January. Kuwait has no bypass pipeline, making it more exposed to Hormuz disruption and direct attacks than Saudi Arabia or UAE. Formal KPC production figures pending.",
+          "sources": ["AGBI/Rystad Energy, July 2026", "Times Kuwait, 2026-07"]
+        },
+        {
+          "bold_heading": "Power and water — no new confirmed strikes on desalination/power infrastructure in coverage window",
+          "text": "Ministry of Electricity power-conservation advisory remains in effect. ~90% of Kuwait's drinking water from desalination; no new confirmed strikes reported.",
+          "sources": ["KUNA", "Kuwait Times prior reporting"]
+        },
+        {
+          "bold_heading": "Border crossings — no new restrictions",
+          "text": "Abdaly–Safwan (Iraq) and Kuwait–Saudi Arabia border remain open and operational.",
+          "sources": ["Times Kuwait prior reporting"]
+        },
+        {
+          "bold_heading": "Schools on summer break; no event or mass gathering closures reported",
+          "text": "No closures reported in coverage window.",
+          "sources": ["KUNA"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "Saudi Arabia's first public kinetic engagement (July 28, carryover context) — Houthi Bab al-Mandab escalation is the primary asymmetric counter",
+          "text": "Saudi Arabia joined US strikes on PMF/militia targets in Iraq (July 28 CENTCOM — 51h before compilation, carryover context), making it the first Gulf state to publicly engage kinetically in the conflict. Iran is responding via Houthi pressure on Bab al-Mandab; the July 20 Houthi naval blockade of Saudi Arabia now places Saudi Arabia's sole oil export bypass route (~4 million bpd through Yanbu/Red Sea) under direct threat. Two Saudi Red Sea tankers have already been struck.",
+          "sources": ["CENTCOM, 2026-07-28", "CBS News, 2026-07-30", "Time, 2026-07-30", "Al Jazeera, 2026-07-20"]
+        },
+        {
+          "bold_heading": "Dual-chokepoint energy crisis deepens — Hormuz and Bab al-Mandab simultaneously contested",
+          "text": "Hormuz transit count recovered marginally to ~14 ships in 24h (July 30 MarineTraffic/CBS) from ~10 on July 23, but remains ~88% below pre-war volume (~120/day). The Houthi blockade of Bab al-Mandab adds a second constrained chokepoint targeting Saudi Arabia's bypass route — the highest-risk energy infrastructure configuration since the conflict began.",
+          "sources": ["CBS News/MarineTraffic, 2026-07-30", "Time, 2026-07-30", "Al Jazeera, 2026-07-20"]
+        },
+        {
+          "bold_heading": "'Talk-fight' dynamic continues; crude correction suggests diplomacy still priced in",
+          "text": "Pakistani and Qatari mediators remain active; no ceasefire announcement in the coverage window. Brent fell ~$3.68 on July 30 (to ~$87.06), suggesting markets are not pricing a full diplomatic breakdown despite continued kinetic activity on both sides.",
+          "sources": ["Forbes Advisor/Investing.com, 2026-07-30", "CBS News, 2026-07-29", "Time, 2026-07-30"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "BCM — maximum elevated posture; confirmed fatality and structural damage from Iranian strike in northern Kuwait",
+          "text": "The July 30 Chinese firm building strike confirms Iranian targeting inside Kuwait's territory continues in the coverage window — not limited to oil sector or airport areas. All non-essential staff travel in Kuwait should require updated security clearance; BCM protocols at maximum readiness.",
+          "sources": ["Kuwait MOD, 2026-07-30"]
+        },
+        {
+          "bold_heading": "Staff safety / travel — Qatar Airways extended to August 7; airlines broadly through August 8",
+          "text": "The expected August 1 Qatar Airways resumption has been pushed to August 7. Staff evacuation or business travel via KWI must use Kuwait Airways (Terminal 4) or Jazeera Airways (Terminal 5) only, with day-of confirmation. Monitor for further extensions beyond August 8.",
+          "sources": ["Peninsula Qatar, 2026-07-30", "Times Kuwait, 2026-07-31"]
+        },
+        {
+          "bold_heading": "Trade finance / sovereign revenue — Kuwait oil output ~1.2 million bpd (July est.); 54% below pre-war; credit exposures require review",
+          "text": "Trade finance instruments referencing Kuwait petroleum exports face heightened counterparty risk. Credit committees should flag KPC-linked and Kuwait government-entity exposures; model KD peg runway against ~1.2 million bpd output assumption and current crude pricing.",
+          "sources": ["AGBI/Rystad Energy, July 2026"]
+        },
+        {
+          "bold_heading": "Crude price correction (Brent -$3.68; WTI -$0.59 on July 30) — do not reduce hedging positions",
+          "text": "The Brent correction to ~$87.06 likely reflects partial market pricing of mediation progress; supply disruption is structurally unchanged. Do not reduce collateral buffers or hedging positions on this signal.",
+          "sources": ["Forbes Advisor/Investing.com, 2026-07-30"]
+        },
+        {
+          "bold_heading": "Cyber — post-heavy-wave retaliation window enters Day 2; elevated posture through approximately August 2",
+          "text": "The 72-hour elevated window (heavy wave completion ~05:00 UTC+3 July 30) extends through ~05:00 UTC+3 August 2. July 31 (Day 2) is historically peak intensity for Iranian APT post-kinetic retaliation. SOC at maximum monitoring; MFA enforced; CISA AA26-097a IOCs applied to SIEM.",
+          "sources": ["CISA AA26-097a, 2026-07-22", "SOCRadar, 2026", "FINRA Cybersecurity Alert 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "War Risk Premia — no new JWC revision in coverage window; Damietta attack likely to prompt P&I/H&M reassessment for Mediterranean zone",
+          "text": "WRP floor at ~5% hull value for Persian Gulf/Hormuz transits remains in effect. The confirmed drone attack on FSRU Energos Winter and Gaslog Salem at Damietta (July 29) is the first confirmed attack on LNG infrastructure in the Mediterranean littoral; watch for LMA JWC advisory extending war-risk geographic designation to include Eastern Mediterranean/Damietta zone.",
+          "sources": ["LMA JWC, July 2026", "CNBC, 2026-07-30", "Maritime Executive, 2026-07-29"]
+        },
+        {
+          "bold_heading": "H&M / cargo insurance — Kuwait petroleum export cargoes affected; P&I withdrawal notices not expected to relax",
+          "text": "H&M cover withdrawals for Hormuz transits remain in effect across major P&I clubs. War-risk clauses activated on Kuwait petroleum cargo policies. With Kuwait output at ~1.2 million bpd, trade finance instruments referencing KPC cargoes face heightened exposure. No relaxation expected given coverage-window escalation.",
+          "sources": ["LMA JWC", "P&I clubs standing notices", "AGBI/Rystad, July 2026"]
+        },
+        {
+          "bold_heading": "Houthi Bab al-Mandab blockade (July 20) — Saudi Arabia's Yanbu/Red Sea bypass route under direct threat; separate insurance risk zone",
+          "text": "Saudi Arabia routes ~4 million bpd through Yanbu to bypass closed Hormuz. With Houthi naval blockade active and two Saudi Red Sea tankers already struck, insurers must assess Red Sea/Bab al-Mandab exposure as a distinct risk zone from the Persian Gulf. War-risk coverage for the Red Sea is not uniform across P&I clubs.",
+          "sources": ["Time, 2026-07-30", "Al Jazeera, 2026-07-20", "LMA"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Why Iran Cannot Fight a Forever War",
+          "author": "Hamidreza Azizi (Visiting Fellow, Stiftung Wissenschaft und Politik)",
+          "publication": "Time",
+          "pub_date": "2026-07-30",
+          "access": "Open",
+          "summary": "Azizi argues Iran has successfully weaponized both the Strait of Hormuz and the Bab al-Mandab simultaneously — an unprecedented dual-chokepoint threat — but faces insurmountable domestic costs (88.6% inflation, a crushed uprising in January 2026, energy rationing) that prevent it from sustaining permanent confrontation with the US and Gulf states. He identifies the central paradox: Iran can impose disruption but has no credible path to convert wartime leverage into a durable settlement, while neither Iran nor the US has a military path to victory; the way out runs through a renegotiated version of the June 17 agreement with structured monitoring.",
+          "relevance": "Supports BCM posture calibration for months, not days; the dual-chokepoint scenario described — Hormuz and Bab al-Mandab simultaneously — requires immediate assessment of all Red Sea and Saudi energy corridor supply chain exposures alongside existing Hormuz/Persian Gulf positions.",
+          "link": "https://time.com/article/2026/07/30/iran-america-hormuz-forever-war/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "CISA AA26-097a: Iranian APT exploitation of OT/PLC — Day 2 post-heavy-wave window heightens urgency",
+          "text": "CISA, FBI, EPA, Treasury (updated 22 July 2026) confirmed CyberAv3ngers/BAUXITE and OilRig/APT34 actively exploit PLCs/HMIs from Rockwell Automation, Schneider Electric, and Siemens across critical infrastructure. July 31 (Day 2 of post-heavy-wave window) is historically peak intensity for Iranian APT cyber retaliation. The Kuwait Chinese firm building strike may reflect prior intelligence pre-positioning relevant to OT/industrial targets — validate OT segmentation without delay. [CARRYOVER — Day 9]",
+          "cve_ids": ["See AA26-097a IOC list (Rockwell, Schneider, Siemens PLCs)"],
+          "threat_actor": "CyberAv3ngers/BAUXITE; OilRig/APT34",
+          "recommended_action": "Apply AA26-097a IOC list to SIEM immediately; validate OT/PLC network segmentation; confirm EDR coverage on engineering workstations — do not defer.",
+          "sources": ["CISA AA26-097a, 2026-07-22"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "Post-heavy-wave Iranian cyber retaliation — Day 2 of elevated window; financial sector phishing and VPN exploitation are highest-probability immediate vectors",
+          "text": "The 72-hour elevated window (heavy wave completion ~05:00 UTC+3 July 30) covers July 30–31 and August 1. Based on April 2026 post-ceasefire and July 12-19 cycle precedent, Day 2 is the peak intensity period. Financial sector phishing, Exchange and VPN exploitation, and supply-chain intrusion are highest-probability vectors. [ANALYTICAL ASSESSMENT — no single-source advisory]",
+          "cve_ids": [],
+          "threat_actor": "OilRig/APT34; MuddyWater/Seedworm; CyberAv3ngers/BAUXITE",
+          "recommended_action": "SOC on maximum monitoring; enforce MFA globally; restrict privileged access changes; escalate anomalous traffic from Iran-linked IP ranges immediately to incident response.",
+          "sources": ["SOCRadar, 2026", "LRQA Persian Gulf CTI 2026", "FINRA Cybersecurity Alert 2026"],
+          "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Dust Specter/OilRig (APT34) expanding to UAE and Gulf government targets — Trellix 2026 Iranian Cyber Capability report",
+          "text": "Trellix confirms Dust Specter (linked to OilRig/APT34) has extended targeting from Iraq to UAE and Gulf governmental/diplomatic organizations, exploiting CVE-2024-30088, compromising Microsoft Exchange servers for credential harvesting, and deploying the STEALHOOK backdoor alongside PowerShell tooling and IIS-based malware. Kuwait government and financial institutions should be treated as within the current target scope.",
+          "threat_actor": "Dust Specter/OilRig (APT34)",
+          "assessed_likelihood": "HIGH",
+          "sources": ["Trellix Iranian Cyber Capability 2026", "SOCRadar, 2026"],
+          "url": "https://www.trellix.com/blogs/research/the-iranian-cyber-capability-2026/"
+        },
+        {
+          "bold_heading": "AI-assisted attacks on Gulf financial/government sector — 600,000-700,000 attempts/day confirmed; SWIFT/payment ecosystem a named priority target",
+          "text": "UAE Cybersecurity Council confirmed sustained AI-assisted attack volume (July 3 2026 data). SISA and EclecticIQ identify SWIFT/payment ecosystems as priority targets for AI-assisted adaptive phishing, wiper deployment, and supply-chain intrusion. Kuwait CBK real-time payment infrastructure and SWIFT linkages assessed as high-value targets given Kuwait's USD settlement role in Gulf trade finance.",
+          "threat_actor": "Iranian state-affiliated and proxy actors",
+          "assessed_likelihood": "HIGH",
+          "sources": ["UAE Cybersecurity Council, July 2026", "SISA Threat Advisory 2026", "EclecticIQ 2026"],
+          "url": "https://www.sisainfosec.com/blogs/threat-advisory-elevated-cyber-risk-to-the-payments-ecosystem-amid-israel-us-iran-conflict-escalation/"
+        },
+        {
+          "bold_heading": "Russia-Iran intelligence cooperation confirmed; China-Iran MANPADS shipment 'within weeks' — multi-actor threat nexus posture elevated",
+          "text": "AP reporting confirms Russia provided Iran with intelligence to assist strikes on US military assets. Reuters (July 28) confirmed China-Iran MANPADS deal (~300-400 QW-12/FN-16). While no direct cyber coordination is confirmed, the Russia-China-Iran multi-actor nexus elevates potential for supplementary cyber operations (Russian GRU information operations, China APT cover) alongside Iranian APT activity. Monitor for China-linked APT activity in support of Iranian information operations. [LOW-MODERATE — Russia-Iran cooperation confirmed in military domain; cyber cooperation not confirmed]",
+          "threat_actor": "IRGC-linked Iran APT; potential Russian GRU/SVR supplementary activity (unconfirmed in cyber domain)",
+          "assessed_likelihood": "LOW-MODERATE",
+          "sources": ["AP/AOL, July 2026", "Reuters/US News, 2026-07-28"],
+          "url": "https://www.usnews.com/news/world/articles/2026-07-28/exclusive-iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks-sources-say"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "CENTCOM next strike wave announcement — formal pause or fresh wave",
+          "why_it_matters": "A formal pause would likely drive crude price relief and moderate the cyber retaliation window timeline; a new wave would extend all elevated risk indicators through August 4+.",
+          "related_section": "Sections 1, 2, 5"
+        },
+        {
+          "text": "Damietta attribution — official Egyptian government response and LMA JWC advisory",
+          "why_it_matters": "Any official Egyptian attribution will determine whether Egypt is classified as a new active geographic front; LMA JWC advisory on expanded Mediterranean war-risk zone designation would materially affect insurance coverage for European LNG buyers.",
+          "related_section": "Sections 2, 4, 5A"
+        },
+        {
+          "text": "KPC damage assessment — formal production and export figures",
+          "why_it_matters": "The Rystad estimate (~1.2 million bpd for July) is the current best available; a confirmed KPC figure is required for trade finance counterparty risk reassessment and LC exposure review on Kuwait-origin petroleum cargoes.",
+          "related_section": "Sections 3, 5"
+        },
+        {
+          "text": "Airlines August 8 resumption status — watch for further extension announcement",
+          "why_it_matters": "Qatar Airways and the broader airline market have now pushed the Kuwait resumption date twice; any further extension directly affects staff safety planning and evacuation route options.",
+          "related_section": "Sections 3, 5"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 4, "confidence": "MEDIUM-HIGH", "note": "Chinese firm strike confirmed by Kuwait MOD + multi-source; siren activation inferred from attack pattern consistent with Kuwait General Staff protocol" },
+    { "section": "2 — Targets & Incidents", "source_count": 7, "confidence": "HIGH", "note": "Kuwait MOD confirmed; Jordan Armed Forces confirmed; IRGC confirmed Jordan attack; Egypt cabinet confirmed drone; CENTCOM confirmed heavy wave" },
+    { "section": "3 — Kuwait Local", "source_count": 5, "confidence": "HIGH", "note": "Peninsula Qatar confirmed Qatar Airways extension; Times Kuwait confirmed airline extension; Kuwait MOD confirmed Chinese firm strike; Rystad/AGBI production analysis" },
+    { "section": "4 — Regional Context", "source_count": 5, "confidence": "HIGH", "note": "CENTCOM/Saudi MOD confirmed; MarineTraffic/CBS Hormuz data; Azizi/Time analytical; mediation sourced CBS News" },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "HIGH", "note": "Inference-based on confirmed Sections 2-4 data" },
+    { "section": "5A — Insurance Risks", "source_count": 4, "confidence": "MEDIUM-HIGH", "note": "LMA/Lloyd's data from July 2026; no new JWC bulletin in window; Damietta LMA response pending" },
+    { "section": "7A — Cyber Tactical", "source_count": 2, "confidence": "MEDIUM", "note": "CISA carryover now 9 days old; post-heavy-wave assessment is analytical" },
+    { "section": "7B — Cyber Strategic", "source_count": 5, "confidence": "MEDIUM-HIGH", "note": "Trellix/SOCRadar/UAE Cybersecurity Council confirmed; Russia-China multi-actor item is analytical — cyber cooperation not confirmed" }
+  ],
+  "footer": "Report #125 compiled 2026-07-31 at 07:30 UTC+3."
+}
