@@ -1,0 +1,316 @@
+{
+  "date": "2026-08-01",
+  "headline": "1 August 2026",
+  "subtitle": "Iran Drones Strike Bubiyan Island; Musandam Tanker Hit; US Warns of Weekend Strikes on Iran Energy Sites; Hormuz Transits Fall to ~9/Day",
+  "report_number": "126",
+  "coverage": "31 July 2026 07:00 UTC+3 – 1 August 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-08-01",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "Multiple confirmed (Kuwait — Bubiyan/N.Kuwait)", "previous": "5 confirmed (Jordan)", "delta": "NR", "trend_7d": "↑" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "88.18", "previous": "87.06", "delta": "+1.12", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "~84.50", "previous": "83.87", "delta": "+0.63", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~9", "previous": "~14", "delta": "-5", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "↑" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "76–82", "today_label": "Moderate", "previous": "NR", "previous_label": "Moderate", "delta": "NR", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "NR", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "Kuwait MOD / Army — Drone interception alert, dawn 1 August 2026 [TIMESTAMP UNCONFIRMED]",
+          "text": "Kuwait's armed forces detected hostile drones in Kuwaiti airspace since early Saturday and dealt with and destroyed them. Defense Ministry spokesman Saud Al-Atwan characterised the incident as Iranian aggression targeting a government facility in northern Kuwait and civilian vehicles on Bubiyan Island. Material damage confirmed; no casualties reported.",
+          "sources": ["Kuwait Army/MOD statement", "Gulf News, 1 August 2026", "Arab News, 1 August 2026", "Anadolu Agency (AA), 1 August 2026", "Arab Times, 1 August 2026", "Kurdistan24.net, 1 August 2026"]
+        },
+        {
+          "bold_heading": "US Embassy Kuwait Security Alert (24 July 2026) — active; no all-clear issued",
+          "text": "The August 1 drone attack reinforces the prevailing threat environment. The Embassy alert remains in force; no indication of imminent de-escalation.",
+          "sources": ["U.S. Embassy Kuwait, 24 July 2026"]
+        },
+        {
+          "bold_heading": "EASA CZIB — Kuwait FIR (OKAC) overflight restriction through 31 August 2026 (carryover)",
+          "text": "EASA Conflict Zone Information Bulletin advises operators not to fly in OKAC at any altitude.",
+          "sources": ["EASA CZIB, July 2026"]
+        },
+        {
+          "bold_heading": "KWI — Overflight ban through 4 August 2026 (carryover)",
+          "text": "Arrivals and departures continue with prior regulatory approval. Terminal 4 (Kuwait Airways) and Jazeera Airways operational.",
+          "sources": ["Wego Travel Blog / Kuwait Civil Aviation, August 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Kuwait — Bubiyan Island and Northern Kuwait: Iranian drone attack; government facility and civilian vehicles hit; material damage, no casualties (dawn 1 August 2026 [TIMESTAMP UNCONFIRMED])",
+          "text": "Kuwait Army spokesman Saud Al-Atwan confirmed the armed forces detected hostile drones in Kuwaiti airspace since early Saturday and dealt with and destroyed them. Iranian aggression targeted a government facility in northern Kuwait and civilian vehicles belonging to a company on Bubiyan Island. Debris caused material property damage. No injuries or casualties confirmed.",
+          "sources": ["Kuwait MOD statement", "Gulf News, 1 August 2026", "Arab News, 1 August 2026", "Anadolu Agency (AA), 1 August 2026", "Arab Times, 1 August 2026", "gulfnews.com, 1 August 2026", "usmuslims.com, 1 August 2026"]
+        },
+        {
+          "bold_heading": "Gulf of Oman / Musandam Peninsula — Tanker struck by unknown projectile ~11 NM NE of Lima, Oman; engine room damaged; not under command (1 August 2026)",
+          "text": "UKMTO reported a vessel was struck by an unknown projectile causing engine room damage, leaving it not under command. No casualties or environmental impact confirmed. Location is at the northern entrance to the Strait of Hormuz on Oman's Musandam Peninsula. No group has claimed the attack.",
+          "sources": ["UKMTO, 1 August 2026", "Euronews, 1 August 2026", "US News / USNEWS.com, 1 August 2026", "Oman Observer, 1 August 2026"]
+        },
+        {
+          "bold_heading": "Iran / Regional — US fresh strikes planned for this weekend; potential energy site targets confirmed by two officials",
+          "text": "CNN and The Hill report two US officials confirmed CENTCOM has prepared strike options for Iran, possibly targeting energy infrastructure, with strikes possible as soon as this weekend. Trump stated at a Cabinet meeting (31 July UTC): We will be hitting them very hard. No strikes confirmed within the coverage window.",
+          "sources": ["CNN, 1 August 2026", "The Hill, 1 August 2026", "Al Jazeera, 31 July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Airport (KWI) — Partial; overflight ban through 4 August; arrivals/departures with prior approval; airlines broadly suspended through 8 August",
+          "text": "Kuwait Airways (Terminal 4), EgyptAir, and Jazeera Airways operating; several pre-conflict routes suspended. No confirmed resumption date beyond 8 August. Pre-travel status confirmation mandatory.",
+          "sources": ["Wego Travel Blog, August 2026", "Kuwait Airways official"]
+        },
+        {
+          "bold_heading": "Bubiyan Island / Northern Kuwait — drone attack on government facility and civilian vehicles; material damage, no casualties",
+          "text": "Threat zone now confirmed to include Bubiyan Island. Suspend all non-essential staff travel to northern Kuwait and the island pending further threat assessment.",
+          "sources": ["Kuwait MOD, 1 August 2026"]
+        },
+        {
+          "bold_heading": "Power and water — no new confirmed strikes in coverage window",
+          "text": "Ministry of Electricity power-conservation advisory remains in effect. ~90% of Kuwait's potable water comes from desalination.",
+          "sources": ["KUNA", "Kuwait Times prior reporting"]
+        },
+        {
+          "bold_heading": "Oil sector / KPC — July estimate ~1.2 million bpd (Rystad) carries forward; no new official KPC figure",
+          "text": "Approximately 54% below pre-war output of 2.6 million bpd. Force majeure declared. Kuwait has no bypass pipeline, making it among the most Hormuz-exposed GCC producers.",
+          "sources": ["AGBI / Rystad Energy, July 2026", "CEIC 2026"]
+        },
+        {
+          "bold_heading": "Border crossings — no new restrictions",
+          "text": "Abdaly–Safwan (Iraq) and Kuwait–Saudi Arabia crossings remain open.",
+          "sources": ["Times Kuwait prior reporting"]
+        },
+        {
+          "bold_heading": "Schools on summer break; no event or mass gathering closures reported.",
+          "text": "",
+          "sources": ["KUNA"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "US planning fresh strikes on Iran energy sites as soon as this weekend; CENTCOM options include 2-week missile-site bombardment",
+          "text": "CNN and The Hill confirmed two US officials stated strikes were being readied with a possible weekend timeline. If Iranian energy infrastructure is struck, a major additional supply shock and crude price spike are the immediate consequence — the most significant escalation signal of the coverage window.",
+          "sources": ["CNN, 1 August 2026", "The Hill, 1 August 2026"]
+        },
+        {
+          "bold_heading": "Strait of Hormuz transits collapsed to ~9 commodity vessels (31 July) — 35% single-day decline from ~14; Musandam tanker strike will further deter remaining traffic",
+          "text": "At ~9 transits vs. ~100+ pre-war, the strait is effectively closed to commercial shipping. The UKMTO tanker attack at the Hormuz entrance on 1 August is the third maritime incident in 72 hours.",
+          "sources": ["The National, 1 August 2026", "Straits.live, 1 August 2026", "UKMTO, 1 August 2026"]
+        },
+        {
+          "bold_heading": "Damietta port drone attack (30 July) — no attribution; Egyptian investigation ongoing",
+          "text": "Egyptian cabinet confirmed drone origin; no group has claimed the attack; Houthis denied responsibility. Watch for LMA/JWC Mediterranean war-risk designation if Egyptian authorities attribute to an Iranian-linked actor.",
+          "sources": ["Al Jazeera, 30 July 2026", "CNN, 30 July 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "BCM — maximum elevated posture; confirm all northern Kuwait and Bubiyan Island staff locations immediately",
+          "text": "The Bubiyan Island drone strike extends confirmed Iranian targeting to the island for the first time in the current cycle. If planned US energy site strikes proceed this weekend, the northern oil infrastructure perimeter becomes a primary risk zone. BCM protocols at maximum readiness.",
+          "sources": ["Kuwait MOD, 1 August 2026", "CNN/The Hill, 1 August 2026"]
+        },
+        {
+          "bold_heading": "Staff safety / KWI — overflight ban through 4 August; airline resumption beyond 8 August uncertain; contingency routes required",
+          "text": "Evacuation via KWI is possible only via Kuwait Airways (T4) or Jazeera Airways with prior approval. Confirm staff travel contingencies for the week of 3–8 August.",
+          "sources": ["Wego Travel Blog, August 2026"]
+        },
+        {
+          "bold_heading": "Trade finance / crude exposure — Hormuz at ~9 transits/day; energy site strike risk elevates Kuwait crude cargo exposure; scenario-test for Brent $95–$100+",
+          "text": "A US strike on Iranian energy infrastructure this weekend would trigger crude price spike, force majeure review on KPC cargo contracts, and collateral margin calls on existing hedge positions. Conduct scenario analysis immediately.",
+          "sources": ["The National, 1 August 2026", "CNN/The Hill, 1 August 2026"]
+        },
+        {
+          "bold_heading": "Crude price uptick (+$1.12 to ~$88.18 Brent) — pre-strike intelligence premium; do not reduce hedging positions",
+          "text": "Price uptick consistent with market pricing of US strike intelligence. Structural supply disruption is unchanged or worsening. Maintain all hedging and collateral buffers.",
+          "sources": ["Investing.com, 1 August 2026"]
+        },
+        {
+          "bold_heading": "Cyber — post-heavy-wave 72h elevated window expires ~05:00 UTC+3 2 August; new window opens immediately if weekend strikes proceed",
+          "text": "SOC on maximum monitoring through 2 August at minimum. If US strikes proceed this weekend, the 72-hour elevated retaliation window restarts immediately, extending through approximately 4 August. Continuous SOC staffing required through the weekend.",
+          "sources": ["CISA AA26-097a, 22 July 2026", "FINRA Cybersecurity Alert 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "WRP unchanged — no new JWC bulletin in coverage window; UKMTO Musandam tanker strike likely to prompt underwriter review",
+          "text": "Breach premia floor (~5% hull value for Gulf/Hormuz transits) unchanged. The August 1 UKMTO tanker projectile strike at the Hormuz entrance is the third maritime incident in 72 hours; watch for emergency LMA/JWC advisory if planned weekend strikes on Iranian energy sites are confirmed.",
+          "sources": ["UKMTO, 1 August 2026", "LMA JWC"]
+        },
+        {
+          "bold_heading": "Hormuz transit count at ~9 commodity vessels — P&I war-risk withdrawal notices remain in force; further decline triggers formal contract frustration assessment",
+          "text": "At ~9 transits vs. ~100+ pre-war, marine insurers face near-total coverage withdrawal for Persian Gulf listed areas. Further transit count decline will require legal assessment of contract frustration and force majeure triggers on commodity trade finance instruments.",
+          "sources": ["The National, 1 August 2026", "LMA JWC", "P&I clubs"]
+        },
+        {
+          "bold_heading": "Energy site strike scenario — immediate legal and insurance assessment required",
+          "text": "US officials named Iranian energy sites as potential weekend targets. A confirmed strike would trigger: (a) war-risk voids on oil cargo policies under H&M/cargo clause exclusions; (b) force majeure triggers in FOB Kuwaiti crude contracts; (c) potential LMA/JWC emergency area expansion. Engage legal and insurance teams for pre-positioning review immediately.",
+          "sources": ["CNN, 1 August 2026", "The Hill, 1 August 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Disappearing Gulf Capital: The Iran War Risk Wall Street Isn't Watching",
+          "author": "Rebecca Patterson (Senior Fellow, CFR)",
+          "publication": "Council on Foreign Relations",
+          "pub_date": "2026-05-01",
+          "access": "Open",
+          "summary": "Patterson examines the systemic risk posed by Gulf sovereign wealth fund reorientation away from US capital markets as a result of the Iran war. Gulf SWFs invested $119 billion in 2025, largely in the US; the Iran war is now incentivising domestic redirection of that capital. Note: Outside 48h eligibility window — included for context only; no qualifying Tier 3 articles found within the 24–48h window.",
+          "relevance": "Kuwait Investment Authority's significant US market exposure creates a bidirectional risk: both the direct security risk to Kuwait and the second-order risk of KIA repatriation decisions affecting correspondent and credit relationships.",
+          "link": "https://www.cfr.org/articles/disappearing-gulf-capital-the-iran-war-risk-wall-street-isnt-watching"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "CISA AA26-097a: Iranian APT exploitation of OT/PLC — Day 10 carryover; elevated post-heavy-wave window expires ~05:00 UTC+3 2 August",
+          "text": "CISA, FBI, EPA, and Treasury (updated 22 July 2026) confirmed CyberAv3ngers/BAUXITE and OilRig/APT34 actively exploit PLCs/HMIs (Rockwell Automation, Schneider Electric, Siemens) across critical infrastructure. The Bubiyan Island drone targeting may reflect prior OT/industrial intelligence pre-positioning. [CARRYOVER — SINGLE SOURCE for Day 10 age]",
+          "cve_ids": ["See AA26-097a IOC appendix (Rockwell, Schneider, Siemens PLCs)"],
+          "threat_actor": "CyberAv3ngers/BAUXITE; OilRig/APT34",
+          "recommended_action": "Verify OT/PLC network segmentation and EDR on engineering workstations before 2 August; confirm AA26-097a IOC blocks are active in SIEM.",
+          "sources": ["CISA AA26-097a, 22 July 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "Planned weekend US strikes → new 72-hour elevated cyber retaliation window begins immediately upon strike announcement; SOC continuous coverage required through 4 August",
+          "text": "Historical pattern from April 2026 post-ceasefire and July 12–19 cycle: Day 1–2 post-strike are peak intensity for Iranian APT activity, with financial sector phishing, VPN exploitation, Exchange credential harvesting, and supply-chain intrusion as highest-probability vectors. If strikes proceed Friday–Saturday, elevated window extends through approximately Monday 4 August. [ANALYTICAL ASSESSMENT — multi-source basis]",
+          "cve_ids": [],
+          "threat_actor": "OilRig/APT34; MuddyWater/Seedworm; CyberAv3ngers/BAUXITE",
+          "recommended_action": "SOC on continuous staffing through 4 August; restrict privileged access changes; escalate anomalous traffic from Iran-linked IP ranges immediately to IR.",
+          "sources": ["SOCRadar 2026", "LRQA Persian Gulf CTI 2026", "FINRA Cybersecurity Alert 2026", "CNN/The Hill, 1 August 2026"],
+          "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Dust Specter/OilRig (APT34) expanding to UAE and Gulf governmental targets — Kuwait financial institutions within assessed scope",
+          "text": "Trellix confirms APT34 has extended targeting from Iraq to UAE and Gulf governmental/diplomatic organizations, exploiting CVE-2024-30088, compromising Microsoft Exchange servers for credential harvesting, and deploying the STEALHOOK backdoor. Kuwait government entities and financial institutions are assessed to be within current target scope.",
+          "threat_actor": "Dust Specter/OilRig (APT34)",
+          "assessed_likelihood": "HIGH",
+          "sources": ["Trellix Iranian Cyber Capability 2026", "SOCRadar 2026"],
+          "url": "https://www.trellix.com/blogs/research/the-iranian-cyber-capability-2026/"
+        },
+        {
+          "bold_heading": "AI-assisted attacks on Gulf financial/government sector at 600,000–700,000 attempts/day; SWIFT/payment ecosystem a named priority target",
+          "text": "UAE Cybersecurity Council (3 July 2026) confirmed sustained AI-assisted attack volume. SISA and EclecticIQ identify SWIFT and payment ecosystems as priority targets for adaptive phishing, wiper deployment, and supply-chain intrusion. Kuwait CBK real-time payment infrastructure and SWIFT linkages are assessed as high-value targets.",
+          "threat_actor": "Iranian state-affiliated and proxy actors",
+          "assessed_likelihood": "HIGH",
+          "sources": ["UAE Cybersecurity Council, July 2026", "SISA Threat Advisory 2026", "EclecticIQ 2026"],
+          "url": "https://www.sisainfosec.com/blogs/threat-advisory-elevated-cyber-risk-to-the-payments-ecosystem-amid-israel-us-iran-conflict-escalation/"
+        },
+        {
+          "bold_heading": "Russia-Iran military intelligence cooperation confirmed; China-Iran MANPADS deal proceeding — multi-actor threat nexus posture elevated",
+          "text": "AP reporting confirms Russia provided Iran with military intelligence to assist strikes on US assets. Reuters (28 July) confirmed China-Iran MANPADS deal (~300–400 QW-12/FN-16 units). No direct cyber coordination confirmed. Monitor for supplementary Russian GRU/SVR information operations and China APT cover activity. [LOW-MODERATE — military domain only; cyber cooperation not confirmed]",
+          "threat_actor": "IRGC-linked Iran APT; potential Russian GRU/SVR supplementary activity (unconfirmed in cyber domain)",
+          "assessed_likelihood": "LOW-MODERATE",
+          "sources": ["AP, July 2026", "Reuters, 28 July 2026"],
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "US strike announcement — watch for formal CENTCOM statement or Trump declaration this weekend",
+          "why_it_matters": "A confirmed strike triggers: new 72h cyber elevated window, Brent spike toward $90–$100+, and LMA/JWC emergency advisory request — affecting Sections 1, 2, 5, 5A, 7A, and 7B simultaneously.",
+          "related_section": "Sections 1, 2, 5, 5A, 7A, 7B"
+        },
+        {
+          "text": "UKMTO tanker off Musandam — vessel status update and attacker attribution",
+          "why_it_matters": "Attribution (IRGC vs. Houthi proxy) determines whether existing Persian Gulf war-risk insurance clauses are triggered or a new geographic area advisory is required.",
+          "related_section": "Sections 2, 5A"
+        },
+        {
+          "text": "Airlines Kuwait resumption status — watch for extension announcement beyond 8 August",
+          "why_it_matters": "Any further extension directly affects staff evacuation routes and BCM travel contingency planning for all Kuwait-based personnel.",
+          "related_section": "Sections 3, 5"
+        },
+        {
+          "text": "User-submitted source — manual review required before distribution (x.com/i/status/2083438806502408373)",
+          "why_it_matters": "User submitted this X/Twitter post during automated compilation; content could not be retrieved. Review and incorporate into the relevant section before this digest is distributed.",
+          "related_section": "Pre-distribution — mandatory review"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 5, "confidence": "HIGH", "note": "Kuwait MOD/Army statement confirmed by multiple Tier 1 regional outlets" },
+    { "section": "2 — Targets & Incidents", "source_count": 7, "confidence": "HIGH", "note": "Kuwait MOD confirmed; UKMTO confirmed; CNN/The Hill confirmed US strike planning with two officials" },
+    { "section": "3 — Kuwait Local", "source_count": 5, "confidence": "HIGH", "note": "Kuwait MOD, Wego/Kuwait Airways, AGBI/Rystad (July estimate carries forward)" },
+    { "section": "4 — Regional Context", "source_count": 5, "confidence": "HIGH", "note": "US officials confirmed via CNN/The Hill; UKMTO/The National for Hormuz; Al Jazeera for Damietta carryover" },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "HIGH", "note": "Inference-based on confirmed Sections 2–4 data; energy site strike scenario is forward-looking" },
+    { "section": "5A — Insurance Risks", "source_count": 4, "confidence": "MEDIUM-HIGH", "note": "LMA/JWC standing positions; energy site strike scenario is forward-looking; no new JWC bulletin in window" },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "MEDIUM", "note": "CISA AA26-097a now Day 10 carryover (single source, aging); weekend-strike window item is analytical assessment" },
+    { "section": "7B — Cyber Strategic", "source_count": 5, "confidence": "MEDIUM-HIGH", "note": "Trellix/SOCRadar/UAE Cybersecurity Council confirmed; Russia-China item is analytical — cyber cooperation not confirmed" }
+  ],
+  "footer": "Report #126 compiled 2026-08-01 at 07:30 UTC+3."
+}
