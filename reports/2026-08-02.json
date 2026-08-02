@@ -1,0 +1,402 @@
+{
+  "date": "2026-08-02",
+  "headline": "2 August 2026",
+  "subtitle": "Trump Calls Off Iran Strikes — Deal Framework Emerges; Maritime Attacks Continue at Hormuz",
+  "report_number": "127",
+  "coverage": "1 August 2026 07:00 UTC+3 – 2 August 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-08-02",
+    "metrics": [
+      {
+        "metric": "Missile/drone interceptions (24h)",
+        "today": "NR",
+        "previous": "Multiple confirmed (Bubiyan/N.Kuwait — dawn 1 Aug)",
+        "delta": "NR",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "Debris reports (cumulative)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "NR",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "Brent crude ($/bbl)",
+        "today": "NR",
+        "previous": "~88.18",
+        "delta": "NR",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "WTI crude ($/bbl)",
+        "today": "NR",
+        "previous": "~84.50",
+        "delta": "NR",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "Strait of Hormuz transits/day",
+        "today": "~10",
+        "previous": "~9",
+        "delta": "+1",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Infrastructure items damaged (cumulative)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "NR",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "KWI airport status",
+        "today": "Partial",
+        "previous": "Partial",
+        "delta": "No change",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Kuwait AQI (PM2.5)",
+        "today": "76–82",
+        "today_label": "Moderate",
+        "previous": "76–82",
+        "previous_label": "Moderate",
+        "delta": "NR",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "Days since last confirmed cyber incident (Gulf FS)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "NR",
+        "trend_7d": "Insufficient data"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "US Embassy Kuwait Security Alert — 1 August 2026 — active",
+          "text": "Due to heightened regional tensions, the Embassy urges US citizens to exercise caution and heightened vigilance, and to be prepared for flight cancellations, periodic airspace closures, and potential travel disruptions across the Middle East. No all-clear issued. Emergency assistance: +1-202-501-4444.",
+          "sources": ["US Embassy Kuwait, 1 August 2026"]
+        },
+        {
+          "bold_heading": "EASA CZIB — Kuwait FIR (OKAC) overflight restriction through 31 August 2026 (carryover)",
+          "text": "EASA Conflict Zone Information Bulletin advises operators not to fly in OKAC at any altitude.",
+          "sources": ["EASA CZIB, July 2026"]
+        },
+        {
+          "bold_heading": "KWI — Overflight ban through 4 August 2026 (carryover)",
+          "text": "Arrivals and departures continue with prior regulatory approval. Pegasus Airlines suspension through 3 August. Terminal 4 (Kuwait Airways) and Jazeera Airways operational. No confirmed extension or lift announcement in coverage window.",
+          "sources": ["DGCA/Safe Airspace; Wego Travel Blog, August 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "No new civil defence sirens, shelter-in-place orders, or civil emergency broadcasts issued in Kuwait during the coverage window (1 August 07:00 UTC+3 – 2 August 07:00 UTC+3).",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Gulf of Oman / Musandam — Tanker struck by projectile ~20km NE of Lima, Oman; engine room damaged; vessel adrift (1 August 2026) [CONFIRMED — UKMTO]",
+          "text": "UKMTO reported a vessel struck by 'an unknown projectile,' causing engine room damage and leaving it not under command. No casualties or environmental impact. Location is at the northern Hormuz entrance. No group has claimed the attack. This is the fourth consecutive maritime incident within 72 hours in the Hormuz–Musandam zone.",
+          "sources": ["UKMTO; The National; BOE Report; ZAWYA — 1 August 2026"]
+        },
+        {
+          "bold_heading": "Gulf of Oman / Musandam — Second tanker: explosion/large splash ~40km NE of Khasab; no damage (1 August 2026) [CONFIRMED — UKMTO]",
+          "text": "The master of a second tanker reported seeing a large splash and explosion in close proximity to the vessel. No damage or casualties reported.",
+          "sources": ["UKMTO; The National — 1 August 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "No confirmed missile, drone, or military strikes targeting Kuwait in the coverage window (1 August 07:00 UTC+3 onwards). The dawn 1 August drone attack on Bubiyan/Northern Kuwait was covered in Report #126.",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Airport (KWI) — Partial; overflight ban through 4 August; formal DGCA statement expected before Monday",
+          "text": "Kuwait Airways (T4) and Jazeera Airways operational. Pegasus Airlines suspension through 3 August. No new extension or lift announcement in coverage window. Pre-travel status confirmation mandatory.",
+          "sources": ["DGCA/Safe Airspace; Wego Travel Blog, August 2026"]
+        },
+        {
+          "bold_heading": "Power and water — no new confirmed strikes in coverage window; MEW emergency protocols active",
+          "text": "Ministry of Electricity, Water and Renewable Energy has technical and emergency teams operating round-the-clock following the dawn 1 August attack. No service disruption bulletin issued in coverage window. ~90% of Kuwait's potable water from desalination.",
+          "sources": ["KUNA; MEW — 1 August 2026"]
+        },
+        {
+          "bold_heading": "Oil sector / KPC — force majeure remains; ~1.2m bpd estimate (Rystad carries forward)",
+          "text": "Approximately 54% below pre-war output of 2.6m bpd. No bypass pipeline. No new KPC statement in coverage window.",
+          "sources": ["AGBI / Rystad Energy, July 2026"]
+        },
+        {
+          "bold_heading": "US Embassy Kuwait Security Alert active (1 August 2026)",
+          "text": "US citizens urged to exercise caution, heightened vigilance, and to prepare for airspace disruptions. Embassy routine consular services remain suspended.",
+          "sources": ["US Embassy Kuwait, 1 August 2026"]
+        },
+        {
+          "bold_heading": "Border crossings — no new restrictions",
+          "text": "Abdaly–Safwan (Iraq) and Kuwait–Saudi Arabia crossings remain open. Schools on summer break; no mass gathering closures reported.",
+          "sources": ["Times Kuwait prior reporting; KUNA"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "DOMINANT SIGNAL: Trump cancels planned Iran energy infrastructure strikes, cites 'perimeters of a deal' including Hormuz reopening (early 2 August 2026)",
+          "text": "Saudi Crown Prince MBS called Trump on Saturday expressing concern over strike plans; Qatar, UAE, Turkey, and Pakistan also pressed for de-escalation. Trump on Truth Social: Iran and 'other Middle Eastern Countries' asked the US to hold off; deal terms include 'Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT' and an end to Iran's nuclear threat. Pause contingent on 'being able to rapidly make a DEAL.' This is the second major pause in the conflict; the first 60-day ceasefire (17 June) collapsed when strikes resumed in July.",
+          "sources": ["Axios; CNN; CBS News; Fortune — 2 August 2026"]
+        },
+        {
+          "bold_heading": "Iran FM Araghchi: simultaneous warning against further US/Israeli action",
+          "text": "'Any hostile action by the U.S. or Israel — or participation or cooperation by regional countries in such actions — would be met with a decisive and proportionate response from Iran's powerful armed forces,' Araghchi told Saudi FM. Iran's defensive posture is unchanged and explicitly extended to GCC states cooperating with the US.",
+          "sources": ["Axios / Araghchi Telegram — 1–2 August 2026"]
+        },
+        {
+          "bold_heading": "Hormuz maritime attacks continue despite diplomatic signal; ~10 commodity vessels transiting daily",
+          "text": "Two UKMTO tanker incidents on 1 August at the strait's northern entrance signal that Iran-linked maritime operations have not stood down. At ~10 transits vs. 100+ pre-war, the Strait is effectively closed to commercial shipping. No formal Hormuz reopening until deal is signed.",
+          "sources": ["UKMTO; Kpler / The National — 1 August 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "BCM — conditional de-escalation; do not stand down; maintain elevated posture until formal deal text or Strait opening confirmed",
+          "text": "Trump's pause is the second in this cycle (first: June 17 ceasefire, which collapsed). BCM plans should remain at elevated readiness; do not redeploy staff or lift remote-work protocols until a signed deal is announced.",
+          "sources": ["Axios; CNN — 2 August 2026"]
+        },
+        {
+          "bold_heading": "KWI overflight ban expiry 4 August — formal DGCA announcement imminent; monitor for lift or extension",
+          "text": "Staff evacuation contingencies remain necessary through 4 August minimum. Do not resume discretionary travel planning until DGCA statement received.",
+          "sources": ["DGCA/Safe Airspace; Wego Travel Blog, August 2026"]
+        },
+        {
+          "bold_heading": "Crude market repricing — Monday open will price Trump de-escalation signal; scenario-plan for Brent $82–$88 range",
+          "text": "Trump's cancellation of energy infrastructure strikes was announced Saturday night. If Brent falls to $82–85, reassess hedging coverage adequacy. If Brent holds near $88+, market is pricing deal-fragility premium. Do not exit hedging positions before deal confirmation.",
+          "sources": ["Axios — 2 August 2026; Investing.com — 1 August 2026"]
+        },
+        {
+          "bold_heading": "Hormuz trade finance exposure unchanged — no physical transit recovery yet",
+          "text": "The deal framework does not reopen the Strait immediately. Iran FM's warning and continued maritime incidents indicate Iran has not stood down operationally. Kuwait crude cargo contracts with Hormuz-routing clauses remain in force majeure territory.",
+          "sources": ["UKMTO; Kpler; Araghchi Telegram — 1–2 August 2026"]
+        },
+        {
+          "bold_heading": "Cyber — interrupted retaliation cycle; maintain SOC at elevated (not maximum) posture; no stand-down before formal deal",
+          "text": "Trump's pause interrupts the anticipated post-strike 72-hour Iranian cyber retaliation window. However, Iran FM's simultaneous warning signals unchanged operational posture. Maintain continuous SOC coverage; do not reduce staffing until a formal deal is confirmed in writing.",
+          "sources": ["CISA AA26-097a; Axios; SOCRadar 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "WRP unchanged — no new LMA/JWC bulletin in coverage window; Trump pause may trigger emergency review",
+          "text": "War risk breach premia remain at floor ~5% hull value for Gulf/Hormuz transits. The Trump deal signal, if sustained, may prompt an LMA/JWC bulletin reducing the listed area classification. No formal advisory in coverage window; monitor Lloyd's bulletin board through the week.",
+          "sources": ["LMA JWC; Lloyd's List — carryover"]
+        },
+        {
+          "bold_heading": "Musandam double incident (1 August) — both UKMTO incidents unattributed; Persian Gulf Listed Area exclusions apply",
+          "text": "Neither incident has been attributed. IRGC attribution triggers existing Persian Gulf war-risk exclusion clauses on H&M and cargo policies. Houthi proxy attribution requires geographic scope review for Arab Sea listed area coverage. Engage P&I club for cover status on vessels transiting or waiting in the zone.",
+          "sources": ["UKMTO; The National; Lloyd's List — 1 August 2026"]
+        },
+        {
+          "bold_heading": "Deal framework: pre-position for rapid JWC premium repricing if Strait formally reopens",
+          "text": "A signed formal deal would be the most significant positive event for marine insurance since the war began. LMA/JWC area reclassification and premium repricing would likely follow within 24–48h of a confirmed Strait reopening. Pre-position legal and insurance teams now for rapid contract review.",
+          "sources": ["Axios; CBS News; LMA JWC — 2 August 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Will Iran Turn Into a Forever War?",
+          "author": "Ray Takeyh",
+          "publication": "Council on Foreign Relations (originally: Boston Globe)",
+          "pub_date": "2026-07-31",
+          "access": "Open",
+          "summary": "Takeyh draws a direct parallel between Trump's Iran escalation strategy and McNamara's gradual escalation in Vietnam — arguing that incremental bombing campaigns fortify adversary resolve and that Iran's existential framing of the conflict gives it greater incentive to absorb punishment than a 'distant empire waging a war of choice.' The repeated pause-resume cycle confirms the 'forever war' dynamic.",
+          "relevance": "Directly explains why Trump's latest deal pause should not be treated as structural de-escalation; strategic BCM, insurance, and cyber posture adjustments require a signed deal — not a Truth Social post — as their trigger.",
+          "link": "https://www.cfr.org/articles/will-iran-turn-into-a-forever-war-2"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "CISA AA26-097a: Iranian APT OT/PLC exploitation — Day 11 carryover; deal pause reduces immediate window risk but does not eliminate OT threat [CARRYOVER — SINGLE SOURCE]",
+          "text": "CISA, FBI, EPA and Treasury (updated 22 July 2026) confirmed CyberAv3ngers/BAUXITE and OilRig/APT34 actively exploit PLCs/HMIs across critical infrastructure. Trump's deal pause interrupts the post-strike retaliation window, reducing immediate-cycle risk. OT exploitation is a persistent campaign, not a post-strike tactic. Maintain OT/ICS segmentation and EDR coverage.",
+          "cve_ids": ["See AA26-097a IOC appendix (Rockwell, Schneider, Siemens PLCs)"],
+          "threat_actor": "CyberAv3ngers/BAUXITE; OilRig/APT34",
+          "recommended_action": "Verify OT/PLC segmentation and EDR remain active; confirm AA26-097a IOC blocks in SIEM; do not reduce OT monitoring posture until deal confirmed.",
+          "sources": ["CISA AA26-097a, 22 July 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "Post-strike retaliation window interrupted by Trump pause; SOC at elevated (not maximum) posture through 4 August [ANALYTICAL ASSESSMENT — multi-source]",
+          "text": "Historical pattern: Day 1–2 post-strike are peak intensity for Iranian APT activity (phishing, VPN exploitation, Exchange credential harvesting). Trump's Truth Social cancellation (~03:40 UTC, 2 August) interrupts this cycle. Iran FM's simultaneous warning indicates operational posture is unchanged — the pause may be tactical rather than strategic.",
+          "cve_ids": [],
+          "threat_actor": "OilRig/APT34; MuddyWater/Seedworm; CyberAv3ngers/BAUXITE",
+          "recommended_action": "Reduce from maximum to elevated SOC posture; restrict privileged access changes; standby for immediate re-escalation if deal talks break down; escalate anomalous traffic from Iran-linked IP ranges immediately.",
+          "sources": ["Axios — 2 August 2026; SOCRadar 2026; FINRA Cybersecurity Alert 2026"],
+          "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Dust Specter/OilRig (APT34) expanding to UAE and Gulf governmental targets — Kuwait financial institutions within assessed scope",
+          "text": "Trellix confirms APT34 extended targeting from Iraq to UAE and Gulf governmental/diplomatic organisations, exploiting CVE-2024-30088, harvesting Exchange credentials, and deploying the STEALHOOK backdoor. Deal pause does not reduce strategic targeting; APT34 infrastructure remains deployed.",
+          "threat_actor": "Dust Specter/OilRig (APT34)",
+          "assessed_likelihood": "High",
+          "sources": ["Trellix Iranian Cyber Capability 2026; SOCRadar 2026"],
+          "url": "https://www.trellix.com/blogs/research/the-iranian-cyber-capability-2026/"
+        },
+        {
+          "bold_heading": "AI-assisted attacks on Gulf financial/government sector at 600,000–700,000 attempts/day; SWIFT/payment ecosystem a named priority target",
+          "text": "UAE Cybersecurity Council (3 July 2026) confirmed sustained AI-assisted attack volume. SISA and EclecticIQ identify SWIFT and payment ecosystems as priority targets. Kuwait CBK real-time payment infrastructure and SWIFT linkages remain high-value targets.",
+          "threat_actor": "Iranian state-affiliated and proxy actors",
+          "assessed_likelihood": "High",
+          "sources": ["UAE Cybersecurity Council, July 2026; SISA Threat Advisory 2026; EclecticIQ 2026"],
+          "url": "https://www.sisainfosec.com/blogs/threat-advisory-elevated-cyber-risk-to-the-payments-ecosystem-amid-israel-us-iran-conflict-escalation/"
+        },
+        {
+          "bold_heading": "Deal pause does not reduce strategic APT posture; Iran cyber infrastructure remains deployed and targeted",
+          "text": "Iran's FM warning against GCC cooperation with the US has a cyber dimension: GCC-hosted financial institutions with US correspondent links are assessed as within scope. Strategic targeting of Gulf financial infrastructure, SWIFT, and critical infrastructure continues regardless of tactical military pause.",
+          "threat_actor": "IRGC-linked APT; potential Russian GRU/SVR supplementary activity (unconfirmed in cyber domain)",
+          "assessed_likelihood": "High",
+          "sources": ["SOCRadar 2026; Trellix 2026; AP, July 2026"],
+          "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Iran's formal response to Trump's Truth Social deal signal — critical decision node",
+          "why_it_matters": "Trump's pause is contingent on 'rapid' deal-making; a formal Iranian affirmation would be the strongest positive indicator, while rejection or silence signals imminent strike resumption and restarts the 72-hour cyber retaliation clock.",
+          "related_section": "Sections 1, 2, 4, 5, 7A"
+        },
+        {
+          "text": "KWI overflight ban expiry 4 August — DGCA statement expected before Monday",
+          "why_it_matters": "The ban expires in 48 hours; lift enables staff travel resumption, extension requires continued evacuation contingency planning and alternate routing confirmation.",
+          "related_section": "Sections 3, 5"
+        },
+        {
+          "text": "UKMTO Musandam attribution (1 August incidents) — IRGC vs. Houthi proxy determination",
+          "why_it_matters": "IRGC attribution triggers Persian Gulf war-risk insurance clause review; proxy attribution requires geographic scope assessment for Arab Sea listed area coverage.",
+          "related_section": "Sections 2, 5A"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    {
+      "section": "1 — Alerts & Sirens",
+      "source_count": 3,
+      "confidence": "MEDIUM-HIGH",
+      "note": "US Embassy confirmed; EASA/DGCA carryovers"
+    },
+    {
+      "section": "2 — Targets & Incidents",
+      "source_count": 3,
+      "confidence": "HIGH",
+      "note": "Both UKMTO incidents confirmed; no Kuwait strikes in coverage window"
+    },
+    {
+      "section": "3 — Kuwait Local",
+      "source_count": 4,
+      "confidence": "HIGH",
+      "note": "US Embassy; DGCA; MEW; KPC Rystad — KPC data carries forward from July"
+    },
+    {
+      "section": "4 — Regional Context",
+      "source_count": 5,
+      "confidence": "HIGH",
+      "note": "Axios/CNN/CBS/Fortune for Trump signal; Araghchi Telegram confirmed"
+    },
+    {
+      "section": "5 — Risk Signal",
+      "source_count": 5,
+      "confidence": "HIGH",
+      "note": "Multi-source inference on confirmed Sections 2–4"
+    },
+    {
+      "section": "5A — Insurance Risks",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "LMA/JWC carryover; deal repricing scenario is forward-looking"
+    },
+    {
+      "section": "7A — Cyber Tactical",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "CISA AA26-097a Day 11 carryover (SINGLE SOURCE); retaliation window assessment is analytical"
+    },
+    {
+      "section": "7B — Cyber Strategic",
+      "source_count": 4,
+      "confidence": "MEDIUM-HIGH",
+      "note": "Trellix/SOCRadar/UAE Cybersecurity Council confirmed; Russia supplementary item analytical"
+    }
+  ],
+  "footer": "Report #127 compiled 2 August 2026 at 07:30 UTC+3."
+}
