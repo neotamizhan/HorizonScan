@@ -1,0 +1,422 @@
+{
+  "date": "2026-08-04",
+  "headline": "4 August 2026",
+  "subtitle": "Diplomatic pause holds into Day 158; Trump issues 'last chance' warning; Brent falls 7%; Velos Amber struck near Khasab",
+  "report_number": "129",
+  "coverage": "3 August 2026 07:00 UTC+3 – 4 August 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-08-04",
+    "metrics": [
+      {
+        "metric": "Missile/drone interceptions (24h)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "NR",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "Debris reports (cumulative)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "NR",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "Brent crude ($/bbl)",
+        "today": "83.82",
+        "previous": "90.12",
+        "delta": "-6.30",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "WTI crude ($/bbl)",
+        "today": "79.62",
+        "previous": "80.80",
+        "delta": "-1.18",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "Strait of Hormuz transits/day",
+        "today": "~10",
+        "previous": "~10",
+        "delta": "→",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Infrastructure items damaged (cumulative)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "NR",
+        "trend_7d": "↑"
+      },
+      {
+        "metric": "KWI airport status",
+        "today": "Partial",
+        "previous": "Partial",
+        "delta": "No change",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Kuwait AQI (PM2.5)",
+        "today": "82",
+        "today_label": "Moderate",
+        "previous": "76",
+        "previous_label": "Moderate",
+        "delta": "+6",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "Days since last confirmed cyber incident (Gulf FS)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "NR",
+        "trend_7d": "Insufficient data"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "Carryover — US Embassy Kuwait Security Alert (1 August 2026, active; no all-clear issued)",
+          "text": "Embassy urges US citizens to exercise caution, heightened vigilance, and prepare for flight cancellations, periodic airspace closures, and travel disruptions. Emergency assistance line: +1-202-501-4444.",
+          "sources": ["US Embassy Kuwait, Security Alert — 1 August 2026; https://kw.usembassy.gov/security-alert-u-s-embassy-kuwait-august-1-2026/"]
+        },
+        {
+          "bold_heading": "Carryover — EASA CZIB 2026-07R1 (issued 14 July, valid 31 August 2026): Kuwait FIR (OKAC) overflight restriction active through end of August",
+          "text": "EASA advises all operators to avoid OKAC, Bahrain (OBBB), Qatar (OTDF), UAE (OMAE), and Gulf of Oman west of 58°E at all altitudes. Cites recurrent ceasefire violations, Iranian maritime operations, and risk of misidentification by activated air-defence systems.",
+          "sources": ["EASA CZIB 2026-07R1, 14 July 2026; safeairspace.net"]
+        },
+        {
+          "bold_heading": "DGCA Kuwait overflight ban — expiry date (4 August) reached; no formal lift or new extension announced in coverage window",
+          "text": "Previous DGCA restriction was valid 'through 4 August 2026.' No DGCA statement received during coverage window. EASA CZIB independently mandates overflight restriction through 31 August. KWI arrivals and departures remain on prior-authorisation basis.",
+          "sources": ["DGCA Kuwait; SafeAirspace — August 2026"]
+        },
+        {
+          "bold_heading": "Kuwait Armed Forces: Live-fire exercises at Al-Abraq military zone, 4–5 August 2026",
+          "text": "Residents and air traffic should treat as routine military activity. Not a civil emergency signal.",
+          "sources": ["KUNA — 3 August 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "No new civil defence sirens, shelter-in-place orders, or civil emergency broadcasts issued in Kuwait during the coverage window (3 August 07:00 UTC+3 – 4 August 07:00 UTC+3).",
+          "sources": ["Search of KUNA, MOI Kuwait, Civil Defense channels — no alerts filed in coverage window."]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "Strait of Hormuz / Musandam — MV Velos Amber: explosion in close proximity, ~20nm NE of Khasab (3 August 2026, ~07:37 UTC+3) [CONFIRMED — UKMTO] [SINGLE SOURCE]",
+          "text": "UKMTO reported an explosion close to a Marshall Islands-flagged oil products tanker approaching the Strait via the designated US-Oman coastal corridor. AIS signal went offline. All crew reported safe. Iran's IRNA published an image purportedly showing a vessel with aft section ablaze; independent verification not available. No attribution confirmed. Vessel falls within JWC Persian Gulf Listed Area.",
+          "sources": ["UKMTO — 3 August 2026; Gulf News; IRNA — 3 August 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "No new confirmed missile, drone, or artillery strikes targeting Kuwait or GCC critical infrastructure during the coverage window. 3 August was the second consecutive day without confirmed large-scale Iranian bombardment of Gulf allies.",
+          "sources": ["KUNA; Al Jazeera live blog; UKMTO — 3 August 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Airport (KWI) — Partial; EASA CZIB extends overflight ban to 31 August 2026; DGCA renewal decision pending",
+          "text": "Terminals 4 (Kuwait Airways) and Jazeera Airways operational. Terminal 1 closed for repairs (18 July strikes). DGCA overflight ban expiry date (4 August) passed without public lift announcement. EASA's independent restriction runs to 31 August. Prior authorisation required for all arrivals and departures.",
+          "sources": ["DGCA; SafeAirspace; EASA CZIB 2026-07R1 — August 2026"]
+        },
+        {
+          "bold_heading": "Essential supplies — bottled water purchase limit (5 cartons/invoice) maintained at all cooperative societies",
+          "text": "Ministry of Social Affairs directing strict enforcement to prevent panic buying; no supply shortage reported.",
+          "sources": ["Kuwait Times; Arab Times — August 2026"]
+        },
+        {
+          "bold_heading": "Oil sector — KPC force majeure lifted June 2026; partial recovery under OPEC+ framework; current output NR amid resumed conflict",
+          "text": "KPC lifted force majeure following the June 17 MOU. OPEC+ approved 188K bpd joint output increase for August including Kuwait. With conflict resumed in July, current production volumes uncertain. All Kuwait crude exports remain contingent on Hormuz access.",
+          "sources": ["Enerdata; Roya News — June 2026; OPEC+ release — August 2026"]
+        },
+        {
+          "bold_heading": "Power and water — no new strikes in coverage window; MEW emergency protocols remain active",
+          "text": "~90% of potable water sourced from desalination; desalination infrastructure remains the primary continuity vulnerability.",
+          "sources": ["KUNA; MEW — carryover from 1 August 2026"]
+        },
+        {
+          "bold_heading": "Border crossings — open with normal caveats",
+          "text": "Abdaly–Safwan (Kuwait–Iraq) operational. Kuwait–Saudi Arabia land crossings open; may close on short notice.",
+          "sources": ["Arab News — 26 July 2026; US Embassy Kuwait"]
+        },
+        {
+          "bold_heading": "Kuwait Armed Forces live-fire exercises at Al-Abraq, 4–5 August 2026",
+          "text": "Residents should expect controlled detonations. Not a civil emergency signal.",
+          "sources": ["KUNA — 3 August 2026"]
+        },
+        {
+          "bold_heading": null,
+          "text": "Schools on summer break; no event or mass gathering closures reported.",
+          "sources": ["KUNA"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "Trump issues 'last chance' warning to Iran on Day 157 (3 August); diplomatic pause holds into Day 158 — second consecutive day without US-Iran strikes",
+          "text": "Trump claimed US-Iran talks are ongoing; Iran's Foreign Ministry explicitly denied direct negotiations and called Trump's claims 'unbelievably duplicitous.' Gulf allies (Saudi Arabia, UAE, Qatar, Turkey, Pakistan) are pressing both sides for de-escalation. No signed text; pause is fragile and contingent.",
+          "sources": ["CNN; CNBC; Al Jazeera live blog — 3 August 2026"]
+        },
+        {
+          "bold_heading": "Iran-Oman Hormuz talks in 'final stages' per FM Araghchi; sovereign-rights dispute remains core obstacle",
+          "text": "Iran seeks a new maritime governance framework acknowledging Iranian 'sovereign rights' and a transit-fee mechanism via the IRGC's Persian Gulf Strait Authority — terms the US and Oman resist as incompatible with UNCLOS. Any deal announced may be politically significant but operationally fragile.",
+          "sources": ["Al Jazeera — 2 August 2026; Bloomberg — 3 August 2026"]
+        },
+        {
+          "bold_heading": "Brent fell ~7% to $83.82 Monday on diplomacy hopes; Hormuz physically unchanged — effective closure persists at ~10 transits/day",
+          "text": "Market is pricing in a deal; the Strait has not reopened. The 3 August UKMTO Velos Amber incident confirms Iran-linked maritime operations continue during the diplomatic pause.",
+          "sources": ["TradingEconomics; UKMTO; Bloomberg — 3 August 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "BCM — maintain elevated posture; do not stand down on a Trump social media signal or single diplomatic session",
+          "text": "The current pause is structurally identical to the June 17 MOU period: Trump halted strikes, claimed imminent deal, Iran denied direct talks, and fighting resumed within weeks. Downgrade trigger: a signed, published, multi-party agreement with implementation milestones, not a press statement.",
+          "sources": ["CNN; CNBC; Al Jazeera — 3 August 2026"]
+        },
+        {
+          "bold_heading": "Brent at $83.82 — market is ahead of the Strait; hold hedging positions",
+          "text": "A ~7% one-session move prices in Hormuz reopening that has not occurred. If talks fail, Brent could snap back above $90. If Strait formally reopens, Brent could fall below $75. Do not exit hedges until a signed deal and UKMTO confirms clear passage.",
+          "sources": ["TradingEconomics; Bloomberg — 3 August 2026"]
+        },
+        {
+          "bold_heading": "KWI overflight ban effectively extended to 31 August via EASA CZIB — no discretionary travel regardless of DGCA announcement",
+          "text": "Even if DGCA does not formally renew, EASA's CZIB restricts EU/international operators through 31 August. Do not resume discretionary travel planning until both EASA lifts CZIB and DGCA issues formal clearance.",
+          "sources": ["EASA CZIB 2026-07R1; SafeAirspace — August 2026"]
+        },
+        {
+          "bold_heading": "OFAC/HMT watch — any Hormuz transit-fee mechanism requires regulatory guidance before institutions process payments [ANALYTICAL ASSESSMENT]",
+          "text": "Iran's 'Persian Gulf Strait Authority' toll regime (fees up to $2M per vessel payable in Chinese yuan, Bitcoin, or USDT) would require explicit OFAC/HMT sanctions carve-out before any FI can process or guarantee transit payments, even through intermediaries. Monitor OFAC and HMT channels proactively.",
+          "sources": ["IranWarLive; FP — July 2026"]
+        },
+        {
+          "bold_heading": "Trade finance — Strait still physically closed; L/C and contract positions unchanged",
+          "text": "Diplomatic signalling does not reopen the Strait. Trade finance teams should be on standby for accelerated scenario: once formally cleared, L/C amendment and contract update volumes will spike within 24–48h.",
+          "sources": ["UKMTO; Bloomberg — 3 August 2026"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "JWC JWLA-033 — Listed Areas status unchanged; no new LMA/JWC bulletin in coverage window; war risk premiums remain ~5% hull value (~$10M–$14M per Hormuz transit for VLCCs)",
+          "text": "Kuwait, Bahrain, Qatar, Oman, and UAE remain on Listed Areas schedule. August 3 UKMTO Velos Amber incident sustains case for current premium level. Monitor Lloyd's Market Association bulletin board; emergency JWC session plausible if diplomatic pause holds beyond 72h.",
+          "sources": ["LMA JWC JWLA-033; Lloyd's List — carryover; UKMTO — 3 August 2026"]
+        },
+        {
+          "bold_heading": "Velos Amber incident (3 August) — H&M and cargo claims in progress; attribution and state-exclusion clauses under review [SINGLE SOURCE: UKMTO]",
+          "text": "Incident near Khasab falls within JWC Persian Gulf Listed Area. No attribution confirmed. If IRGC attribution is confirmed, state-exclusion clauses in H&M and cargo war-risk policies may complicate claims. Engage underwriters and P&I Clubs without delay.",
+          "sources": ["UKMTO — 3 August 2026; Gulf News"]
+        },
+        {
+          "bold_heading": "Pre-position for rapid JWC repricing if Hormuz formally reopens",
+          "text": "A signed deal with confirmed passage would be the largest positive marine insurance event of the conflict. JWC may begin phased Listed Area downgrade within 24–48h of formal Strait reopening; VLCC premiums could fall from ~$10M–$14M to pre-crisis levels (~$375K per transit). Identify which contracts require amendment on deal announcement.",
+          "sources": ["LMA JWC; fairwayeta.com; safety4sea.com — August 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "US War With Iran Set to Drag On for Months Over Hormuz Deadlock",
+          "author": "Bloomberg staff reporters",
+          "publication": "Bloomberg",
+          "pub_date": "2026-07-29",
+          "access": "Paywall",
+          "summary": "Argues that the US and Iran are structurally unable to close the sovereignty gap over Hormuz — Iran insists on transit-fee rights that violate UNCLOS; the US cannot accept them domestically. Posits the conflict is more likely to grind on for months with periodic ceasefire attempts than to reach a durable resolution before year-end.",
+          "relevance": "Calibrates BCM and hedge-unwinding timelines away from imminent full normalisation; the current diplomatic pause is more likely another false dawn than a breakthrough. (Extended window — 6 days; no Tier 3 pieces confirmed within 48h.)",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-29/us-war-with-iran-looks-set-to-drag-on-for-months-over-hormuz-deadlock"
+        },
+        {
+          "title": "Iran déjà vu: Trump once again threatens massive escalation against Tehran only to walk back",
+          "author": "Washington Post staff",
+          "publication": "The Washington Post",
+          "pub_date": "2026-08-03",
+          "access": "Open",
+          "summary": "Documents Trump's repeated pattern of threatening massive escalation against Iran then pulling back at Gulf ally request, with no durable change in the underlying Hormuz impasse. Iran's leadership has learned to treat Trump's threats as negotiating theatrics rather than credible military commitments.",
+          "relevance": "Trump's 'last chance' rhetoric on 3 August is unlikely to force rapid Iranian concession; risk of snap re-escalation remains elevated even after apparent diplomatic pauses. (WaPo not in approved Tier 3 list; included for 24h operational relevance.)",
+          "link": "https://www.washingtonpost.com/politics/2026/08/03/trump-iran-war-gulf-allies/b036059c-8ef0-11f1-9fdc-0a725c989a7b_story.html"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "CISA AA26-097a (updated 22 July 2026, 12 days ago) — Iranian-affiliated actors exploiting internet-facing PLCs/HMIs in critical infrastructure [SINGLE SOURCE: CISA] [CARRYOVER]",
+          "text": "CISA, FBI, and EPA confirmed CyberAv3ngers/BAUXITE and OilRig/APT34 exploiting Rockwell Automation, Schneider Electric, and Siemens PLCs. Advisory updated 22 July to add guidance on malicious manipulation of reusable PLC code modules. Retained as tactical because remediation actions (segmentation audit, IOC ingestion) remain time-sensitive if not yet completed.",
+          "cve_ids": ["See AA26-097a IOC appendix (Rockwell, Schneider, Siemens PLCs)"],
+          "threat_actor": "CyberAv3ngers/BAUXITE; OilRig/APT34",
+          "recommended_action": "Audit all internet-facing OT/ICS devices; verify SIEM ingests AA26-097a IOC feeds; isolate any affected PLCs accessible from corporate network.",
+          "sources": ["CISA AA26-097a, 22 July 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "FINRA Cybersecurity Alert — elevated DDoS, wiper malware, ransomware, and SWIFT/payment system risk; alert remains active; diplomatic pause does not reduce hacktivist threat [SINGLE SOURCE: FINRA]",
+          "text": "FINRA confirmed elevated risk from Iranian-aligned actors: DDoS (historical campaigns at up to 140Gbps), No Justice wiper malware, data-theft ransomware, and hack-and-leak operations. Retaliatory cyberattacks against Gulf banks perceived as US/Israel-aligned assessed high-probability. Cotton Sandstorm-aligned hacktivist groups operate independently of state-directed pauses.",
+          "cve_ids": [],
+          "threat_actor": "Cotton Sandstorm; OilRig/APT34",
+          "recommended_action": "Confirm DDoS scrubbing active; revalidate SWIFT operator controls; verify backup integrity for core banking and payment servers; schedule wiper-specific recovery test if not completed in past 30 days.",
+          "sources": ["FINRA Cybersecurity Alert, 2026"],
+          "url": "https://www.finra.org/rules-guidance/guidance/cybersecurity-alert-heightened-threats-iranian-cyber-actors"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "OilRig/APT34, MuddyWater/Seedworm, Peach Sandstorm/APT33 — persistent Gulf financial sector targeting; operations evolving from disruption to complex breach campaigns",
+          "text": "UAE cybersecurity authorities reported a tripling of attacks (to 600,000) post-February 28, incorporating AI-enabled automation and multi-stage lateral movement. Gulf banks explicitly perceived as US/Israel-aligned are high-probability targets.",
+          "threat_actor": "OilRig/APT34; MuddyWater/Seedworm; Peach Sandstorm/APT33",
+          "assessed_likelihood": "High",
+          "sources": ["The National, 10 April 2026"],
+          "url": "https://www.thenationalnews.com/future/technology/2026/04/10/iranian-cyber-attacks-move-from-disruptive-to-complex-threats-in-gulf/"
+        },
+        {
+          "bold_heading": "Cotton Sandstorm hacktivist coordination — wiper and hack-and-leak campaigns expanding to financial sector; diplomatic pause will not halt operations",
+          "text": "Over 60 conflict-aligned threat groups active; 53 pro-Iranian. Cotton Sandstorm coordinates hacktivist deployment of No Justice wiper and data-leak platforms. Confirmed successful campaigns in Gulf telecoms, aviation, and law enforcement.",
+          "threat_actor": "Cotton Sandstorm; unnamed IRGC-affiliated hacktivist collectives",
+          "assessed_likelihood": "Moderate-High",
+          "sources": ["EclecticIQ — 2026"],
+          "url": "https://blog.eclecticiq.com/the-escalating-cyber-risk-landscape-in-regional-conflicts-strategic-actions-for-2026"
+        },
+        {
+          "bold_heading": "Iranian ICS/OT pre-positioning — multi-month persistent threat to Kuwait desalination, power, and port logistics; consistent with Shamoon-era sabotage playbook",
+          "text": "Beyond the immediate tactical window, the AA26-097a OT exploitation campaign represents sustained pre-positioning. Kuwait's ~90% desalination dependency is a single-point-of-failure if OT compromise reaches actuator-control level.",
+          "threat_actor": "CyberAv3ngers/BAUXITE; OilRig/APT34",
+          "assessed_likelihood": "High",
+          "sources": ["CISA AA26-097a; CSIS — 2026"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Hormuz deal talks — will diplomatic session produce a signed text or breakdown?",
+          "why_it_matters": "Trump gave Iran a 'last chance' on 3 August; if no progress announced today, risk of re-escalation via new US strike wave rises sharply. Watch Axios, Al Jazeera live blog, and State Department briefing.",
+          "related_section": "Section 4 (Regional Context); Section 5 (Risk Signal)"
+        },
+        {
+          "text": "DGCA Kuwait — formal decision on post-August-4 airspace posture",
+          "why_it_matters": "DGCA overflight ban's expiry date has passed; formal lift (however unlikely given EASA CZIB) would be first concrete operational normalisation signal and would trigger staff travel review.",
+          "related_section": "Section 1 (Alerts); Section 3 (Kuwait Local)"
+        },
+        {
+          "text": "Velos Amber / UKMTO August 3 incident — attribution and P&I Club advisory expected within 24–48h",
+          "why_it_matters": "Attribution to IRGC activates state-exclusion clauses in war-risk policies; a P&I Club circular would trigger immediate insurance review.",
+          "related_section": "Section 5A (Insurance & Maritime Risk)"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    {
+      "section": "1 — Alerts & Sirens",
+      "source_count": 4,
+      "confidence": "HIGH",
+      "note": "EASA CZIB independently confirmed to 31 August. DGCA decision not yet published — treated as pending renewal."
+    },
+    {
+      "section": "2 — Targets & Incidents",
+      "source_count": 2,
+      "confidence": "MEDIUM",
+      "note": "Velos Amber SINGLE SOURCE (UKMTO). No new Kuwait strikes confirmed by search — negative confirmation. IRNA image unverified."
+    },
+    {
+      "section": "3 — Kuwait Local",
+      "source_count": 5,
+      "confidence": "MEDIUM",
+      "note": "Airport/supply items well-sourced. KPC output NR amid resumed conflict. AQI approximate (IQAir/AQICN reading)."
+    },
+    {
+      "section": "4 — Regional Context",
+      "source_count": 4,
+      "confidence": "HIGH",
+      "note": "Trump/Iran diplomacy confirmed across multiple Tier 1 sources (CNN, CNBC, Al Jazeera). Brent price from TradingEconomics."
+    },
+    {
+      "section": "5 — Risk Signal",
+      "source_count": 4,
+      "confidence": "MEDIUM",
+      "note": "BCM and OFAC guidance is analytical assessment based on sourced events. OFAC/HMT bullet flagged [ANALYTICAL ASSESSMENT]."
+    },
+    {
+      "section": "5A — Insurance Risks",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "JWC status carryover; no new bulletin in coverage window. Velos Amber attribution unconfirmed. Premium figures from industry sources."
+    },
+    {
+      "section": "7A — Cyber Tactical",
+      "source_count": 2,
+      "confidence": "MEDIUM",
+      "note": "Both items SINGLE SOURCE (CISA; FINRA). CISA 12 days old — retained for action urgency. SISA removed as non-approved Tier 4 source; SWIFT content merged into FINRA bullet. No new August 4 advisory identified."
+    },
+    {
+      "section": "7B — Cyber Strategic",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "Threat group attribution and likelihood based on April–July 2026 industry reports. No August-specific strategic intelligence identified."
+    }
+  ],
+  "footer": "Report #129 compiled 2026-08-04 at 07:30 UTC+3."
+}
