@@ -1,0 +1,392 @@
+{
+  "date": "2026-08-06",
+  "headline": "06 August 2026",
+  "subtitle": "Iran-Oman Hormuz route coordinates agreed; deal not yet signed; AQI sharply improved; Houthis strike 8th Saudi tanker",
+  "report_number": "131",
+  "coverage": "05 August 2026 07:00 UTC+3 – 06 August 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-08-06",
+    "metrics": [
+      {
+        "metric": "Missile/drone interceptions (24h)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "N/A",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "Debris reports (cumulative)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "N/A",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "Brent crude ($/bbl)",
+        "today": "79.98",
+        "previous": "78.87",
+        "delta": "+1.11",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "WTI crude ($/bbl)",
+        "today": "75.72",
+        "previous": "75.40",
+        "delta": "+0.32",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Strait of Hormuz transits/day",
+        "today": "~15",
+        "previous": "~15",
+        "delta": "0",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Infrastructure items damaged (cumulative)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "N/A",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "KWI airport status",
+        "today": "Partial",
+        "previous": "Partial",
+        "delta": "No change",
+        "trend_7d": "→"
+      },
+      {
+        "metric": "Kuwait AQI (PM2.5)",
+        "today": "88",
+        "today_label": "Moderate",
+        "previous": "170",
+        "previous_label": "Unhealthy",
+        "delta": "-82",
+        "trend_7d": "Insufficient data"
+      },
+      {
+        "metric": "Days since last confirmed cyber incident (Gulf FS)",
+        "today": "NR",
+        "previous": "NR",
+        "delta": "N/A",
+        "trend_7d": "Insufficient data"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "No alerts reported in Kuwait in the past 24 hours.",
+          "text": "No civil defense air raid sirens, shelter-in-place orders, or emergency broadcasts were issued in Kuwait during the coverage window (05 Aug 07:00 – 06 Aug 07:00 UTC+3). The live-fire exercise in Al-Abraq announced by Kuwait Army on 04–05 Aug has concluded; the coverage window was quiet.",
+          "sources": ["KUNA", "Arab Times Online", "Kuwait MOI channels", "05–06 Aug 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "No confirmed strikes on Kuwait territory during coverage window.",
+          "text": "No missile, drone, or other attack on Kuwaiti soil was reported in the 24-hour period (05 Aug 07:00 – 06 Aug 07:00 UTC+3).",
+          "sources": ["KUNA", "Arab Times Online", "Kuwait MOI", "05–06 Aug 2026"]
+        },
+        {
+          "bold_heading": "Houthi attack on Saudi tanker 'Wafa' — Red Sea, off Yanbu.",
+          "text": "Houthi military spokesman Yahya Saree announced the group struck Saudi oil tanker Wafa in the northern Red Sea off the coast of Yanbu with 'a number of ballistic missiles' during the overnight period (approx. 01:00–03:00 UTC+3, 06 Aug). This is the eighth Saudi oil tanker targeted since the Houthis declared a naval blockade on 22 July. The group has threatened to escalate attacks in the northern Red Sea, stating it will 'close all access points.'",
+          "sources": ["Al Jazeera", "06 Aug 2026", "Daily Sabah", "Signal SCV"]
+        },
+        {
+          "bold_heading": "Minoan Pioneer (Hormuz area) — crew situation unresolved. [SINGLE SOURCE for final crew status]",
+          "text": "No update on the third engineer missing following the 03 Aug strike northeast of Khasab; no group has claimed responsibility. Fourth maritime security event near Musandam Peninsula within five days.",
+          "sources": ["Seatrade Maritime", "Splash247", "Marine Insight", "GlobalSecurity.org Day 159 OPREP", "04–05 Aug 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Airport: Partial operations continue.",
+          "text": "KWI Terminals 4 and 5 operational (Kuwait Airways, flydubai, Oman Air, Jazeera Airways). Terminal 1 remains closed. Emirates and Etihad suspended through at least 06 Aug; Qatar Airways through 07 Aug. Staff requiring urgent travel should use flydubai, Air Arabia, or Oman Air.",
+          "sources": ["The National", "05 Aug 2026", "Arabian Business", "AirHelp"]
+        },
+        {
+          "bold_heading": "Air quality: Significant improvement — normal operations resume.",
+          "text": "AQI fell to 88 (Moderate) from yesterday's 170 (Unhealthy). Elevated duty-of-care provisions from 05 Aug can be stood down. Likely cause: weather-driven dust dissipation. Monitor for recurrence.",
+          "sources": ["AQICN.org / eMISK Kuwait Al-Salam station", "06 Aug 2026 04:00 local"]
+        },
+        {
+          "bold_heading": "Government posture: No new advisory.",
+          "text": "No updated Kuwait Cabinet or MOI advisory during the coverage window. US Embassy Kuwait security alert (Level 3: Reconsider Travel) from 01 Aug 2026 remains in force.",
+          "sources": ["US Embassy Kuwait", "01 Aug 2026", "Kuwait MOI channels"]
+        },
+        {
+          "bold_heading": "Schools: 2026–2027 preparations on track.",
+          "text": "Ministry of Education textbook distribution to warehouses scheduled 15 Aug – 01 Sep. School opening dates unchanged.",
+          "sources": ["Kuwait Times", "Times Kuwait", "Aug 2026"]
+        },
+        {
+          "bold_heading": "Land borders (Saudi, Iraq): Operational.",
+          "text": "No disruptions at land crossings during the coverage window; cargo and passenger traffic proceeding normally.",
+          "sources": ["GAC Hot Port News", "Aug 2026"]
+        },
+        {
+          "bold_heading": "Ports: Partial restrictions, ISPS Level 2.",
+          "text": "Port Shuaiba operating under ISPS Security Level 2; berths 15–18 functional. Vessel movement (inbound/outbound) remains restricted for safety reasons; cargo operations alongside berthed vessels continue normally.",
+          "sources": ["GAC Hot Port News", "ISS Shipping Middle East advisory", "Aug 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "Hormuz deal on the cusp — coordinates agreed, joint statement in final drafting.",
+          "text": "Iran and Oman agreed on geographic coordinates of shipping routes. Proposed terms: 60-day interim, inbound via northern lane (Iranian waters), outbound via southern lane (Omani waters), no tolls, mine clearance within 30 days. Tehran stresses this is NOT a 'full reopening.' US targeted a Wednesday announcement; deal not signed as of time of compilation.",
+          "sources": ["Al Jazeera liveblog", "06 Aug 2026", "Axios", "05 Aug 2026", "Bloomberg", "05 Aug 2026", "TradingEconomics", "06 Aug 2026"]
+        },
+        {
+          "bold_heading": "US munitions posture: critically degraded.",
+          "text": "CNN reported ~80% of THAAD interceptors and ~50% of Patriot stocks expended since 28 Feb. Pentagon confirms production ramp-up underway; replenishment timeline 2–3 years per CSIS. Materially constrains US capacity to intercept Iranian missiles targeting Gulf allies if diplomacy fails.",
+          "sources": ["CNN", "04 Aug 2026", "Stars and Stripes", "05 Aug 2026", "CSIS"]
+        },
+        {
+          "bold_heading": "Houthis escalating dual-chokepoint strategy.",
+          "text": "8 Saudi tankers struck since 22 July; Houthis now explicitly threatening to close northern Red Sea, creating a simultaneous Hormuz + Bab el-Mandeb blockade scenario with severe global energy and trade implications.",
+          "sources": ["Al Jazeera", "06 Aug 2026", "Daily Sabah", "06 Aug 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "BCP: Prepare dual-scenario playbooks — deal or collapse — within 24–48 hours.",
+          "text": "A formal Hormuz agreement triggers rapid oil price decline, JWC reclassification, and shipping corridor restoration; a collapse triggers Iranian military action and likely large-scale US retaliation. Both scenarios require pre-positioned treasury, operations, and communications responses.",
+          "sources": ["Axios", "Al Jazeera", "05–06 Aug 2026"]
+        },
+        {
+          "bold_heading": "Staff travel: Emirates and Etihad suspended; Qatar through 07 Aug.",
+          "text": "For essential Kuwait travel, route via flydubai or Air Arabia; validate schedule within 2 hours of departure.",
+          "sources": ["The National", "AirHelp", "Arabian Business", "05–06 Aug 2026"]
+        },
+        {
+          "bold_heading": "Duty of care: AQI normalised — suspend elevated provisions.",
+          "text": "AQI at 88 (Moderate); normal operations resume. Retain standard guidance for asthmatic or respiratory-sensitive staff.",
+          "sources": ["AQICN.org / eMISK", "06 Aug 2026"]
+        },
+        {
+          "bold_heading": "Liquidity: Oil at $79.98 Brent — below Kuwait fiscal breakeven.",
+          "text": "Any formal Hormuz deal will push Brent further down as supply expectations reset. Institutions with oil-indexed exposure should pre-position hedges ahead of any announcement.",
+          "sources": ["TradingEconomics", "06 Aug 2026"]
+        },
+        {
+          "bold_heading": "Cyber: Maintain elevated posture regardless of diplomatic outcome.",
+          "text": "Iran confirmed reconstitution during ceasefire; APT infrastructure remains in pre-positioning mode. A deal reduces kinetic risk but does not reduce cyber threat. SWIFT resilience checks, DDoS mitigation validation, and OT/ICS access-log reviews remain current action items.",
+          "sources": ["Al Jazeera", "04 Aug 2026", "CISA AA26-097A", "SISA Infosec", "EclecticIQ"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "WRP remains 3–10% hull value — no JWC reclassification until deal is signed.",
+          "text": "Despite route coordinate agreement, no JWC action has been issued. The proposed arrangement is explicitly temporary (2–4 months) and Tehran has said this is not a full reopening. Expect JWC and WRP review within 24–48 hours of a formal joint statement.",
+          "sources": ["Lloyd's List", "S&P Global", "Hormuz Strait Monitor", "Bahrain Intelligence", "Jul–Aug 2026"]
+        },
+        {
+          "bold_heading": "Red Sea: New cargo risk exposure from Houthi escalation.",
+          "text": "8th Saudi tanker struck near Yanbu (06 Aug) and Houthi threats to close northern Red Sea create secondary war-risk exposure for cargo and H&M policies on vessels transiting Bab el-Mandeb. Institutions with trade finance exposure to Saudi oil exports or MENA-originating cargo should review coverage.",
+          "sources": ["Al Jazeera", "Daily Sabah", "Signal SCV", "06 Aug 2026"]
+        },
+        {
+          "bold_heading": "Sanctions risk on future Hormuz transit regime.",
+          "text": "Any fee or administrative mechanism linked to Iranian-controlled corridors may create OFAC exposure. Compliance and legal teams should obtain guidance before any vessel transits under a new Iran-associated protocol; P&I club advisories expected once terms are formalised.",
+          "sources": ["WEF war-risk insurance analysis", "SISA Infosec", "2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "Beyond Hormuz: The Future of Maritime Chokepoints",
+          "author": "Patrick Cronin, Peter Harris, Margaret Myers, H. A. Hellyer, and Gönül Tol",
+          "publication": "War on the Rocks",
+          "pub_date": "2026-08-05",
+          "access": "Paywall",
+          "summary": "Five security experts assess how Iran's Hormuz closure and Houthi attacks on Saudi shipping through Bab el-Mandeb are reshaping global maritime chokepoint risk, with implications for Malacca, Taiwan Strait, Panama Canal, Suez, and Turkish Straits. Adversaries — particularly China — are drawing lessons from Iran's playbook on chokepoint coercion.",
+          "relevance": "Trade finance, shipping insurance, and supply-chain exposure to Gulf routes should be assessed against contagion risk to other global chokepoints; a dual-closure scenario would materially affect counterparty and settlement risk across multiple jurisdictions.",
+          "link": "https://warontherocks.com/beyond-hormuz-the-future-of-maritime-chokepoints/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "Iranian APTs exploiting OT/ICS PLCs — CISA AA26-097A (updated 22 Jul 2026, remains actionable).",
+          "text": "Iranian-affiliated APT actors exploiting internet-connected PLCs (Rockwell Allen-Bradley, Siemens, Schneider Electric) via remote configuration software; updated guidance (22 Jul) adds detection of malicious changes in Rockwell reusable code modules and false sensor injection into Siemens/Schneider HMI displays. Gulf FI building management systems, UPS, HVAC, and data-centre OT share these vendors.",
+          "cve_ids": ["See CISA AA26-097A for full list"],
+          "threat_actor": "Iranian state-affiliated APT",
+          "recommended_action": "Verify all internet-facing OT devices are patched; review vendor configuration software access logs; confirm no unauthorised remote sessions to PLC systems.",
+          "sources": ["CISA AA26-097A", "updated 22 Jul 2026", "FBI", "EPA"],
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a"
+        },
+        {
+          "bold_heading": "DDoS surge targeting Gulf governments and financial institutions — ongoing. [SINGLE SOURCE — TIMESTAMP UNCONFIRMED for Aug 6]",
+          "text": "Pro-Iranian hacktivist group Keymous Plus has issued 50+ DDoS claims against Gulf government and financial sector targets including Qatar Central Bank and finance/interior ministries across Bahrain, Kuwait, Jordan, Qatar, and UAE. Pattern consistent with Iran's hybrid escalation doctrine during diplomatic pauses.",
+          "cve_ids": [],
+          "threat_actor": "Keymous Plus (pro-Iranian hacktivist collective)",
+          "recommended_action": "Confirm DDoS mitigation services (scrubbing centres, CDN redundancy) are active and tested; ensure out-of-band communication channels are functional for payment operations.",
+          "sources": ["SOCRadar", "EclecticIQ", "ongoing 2026 tracking"],
+          "url": "https://socradar.io/iran-israel-cyber-conflict-dashboard/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "APT34/OilRig (Hazel Sandstorm) — Gulf credential harvesting and lateral movement.",
+          "text": "APT34 pivoting to Gulf governmental, financial, and telecommunications targets in UAE and GCC; exploiting CVE-2024-30088 for privilege escalation and using compromised Microsoft Exchange servers to harvest credentials. Sustained focus on Kuwait, Bahrain, and Saudi Arabia.",
+          "threat_actor": "APT34 / OilRig / Hazel Sandstorm (Iranian MOIS)",
+          "assessed_likelihood": "High",
+          "sources": ["Trellix", "Seqrite", "FalconFeeds", "HAWK-EYE Threat Intelligence", "2026"],
+          "url": "https://hawk-eye.io/iran-apt-threat-advisory/"
+        },
+        {
+          "bold_heading": "Iranian APT reconstitution posture — pre-positioning for rapid escalation if talks collapse.",
+          "text": "Iranian military officials confirmed 'maximum use' of the MOU period to reconstitute cyber capabilities. APT33, APT34, and MuddyWater used the ceasefire to redeploy infrastructure, rotate C2, and conduct reconnaissance against Gulf critical infrastructure. Rapid coordinated cyber escalation campaign assessed as high-probability Iranian asymmetric response if Hormuz deal fails.",
+          "threat_actor": "APT33, APT34, MuddyWater (Iranian state)",
+          "assessed_likelihood": "High (conditional on negotiation failure)",
+          "sources": ["Al Jazeera", "04 Aug 2026", "EclecticIQ Strategic 2026", "SISA Infosec"],
+          "url": "https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us"
+        },
+        {
+          "bold_heading": "SWIFT/payment messaging infrastructure — persistent elevated risk.",
+          "text": "No confirmed new intrusion in past 24–48 hours; however, Iranian state-aligned actors have historical interest in SWIFT messaging infrastructure targeting Gulf financial institutions. BFSI/payment organisations with US-linked assets, Israeli business ties, or high-visibility profiles face elevated spillover targeting risk.",
+          "threat_actor": "Iranian state-aligned actors (unspecified grouping)",
+          "assessed_likelihood": "Moderate",
+          "sources": ["SISA Infosec Threat Advisory", "Seqrite Iran Cyber War 2026 analysis"],
+          "url": "https://www.sisainfosec.com/blogs/threat-advisory-elevated-cyber-risk-to-the-payments-ecosystem-amid-israel-us-iran-conflict-escalation/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Hormuz deal signing (or collapse).",
+          "why_it_matters": "Joint Iran-Oman statement in final drafting; US targeted Wednesday announcement. A signed deal triggers oil price drop, JWC reclassification, and WRP reduction; a collapse triggers Iranian military response and US retaliation.",
+          "related_section": "Sections 1, 2, 4, 5, and 5A"
+        },
+        {
+          "text": "Houthi Red Sea escalation — northern corridor.",
+          "why_it_matters": "Explicit Houthi threat to close northern Red Sea; a second tanker strike near Yanbu confirms new operational pattern and triggers MARAD, JWC, and P&I Club advisories affecting Red Sea cargo insurance globally.",
+          "related_section": "Sections 2 and 5A"
+        },
+        {
+          "text": "Emirates / Qatar Airways Kuwait resumption status.",
+          "why_it_matters": "Emirates suspended through at least 06 Aug; Qatar through 07 Aug. Resumption announcements expected Thursday; continued suspension extends staff travel and supply chain disruption for another 48 hours.",
+          "related_section": "Sections 3 and 5"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    {
+      "section": "1 — Alerts & Sirens",
+      "source_count": 3,
+      "confidence": "HIGH",
+      "note": "No alerts confirmed across multiple local sources"
+    },
+    {
+      "section": "2 — Targets & Incidents",
+      "source_count": 5,
+      "confidence": "MEDIUM",
+      "note": "Houthi attack multi-source; Minoan Pioneer crew status single-source; no Kuwait strikes confirmed"
+    },
+    {
+      "section": "3 — Kuwait Local",
+      "source_count": 5,
+      "confidence": "HIGH",
+      "note": "Multiple corroborated sources"
+    },
+    {
+      "section": "4 — Regional Context",
+      "source_count": 6,
+      "confidence": "HIGH",
+      "note": "Axios, Al Jazeera, Bloomberg, TradingEconomics, CNN corroboration"
+    },
+    {
+      "section": "5 — Risk Signal",
+      "source_count": 4,
+      "confidence": "MEDIUM",
+      "note": "Analytical derivations; some items single-source"
+    },
+    {
+      "section": "5A — Insurance Risks",
+      "source_count": 4,
+      "confidence": "HIGH",
+      "note": "Lloyd's List, S&P Global, JWC tracking corroborated"
+    },
+    {
+      "section": "7A — Cyber Tactical",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "CISA advisory authoritative; DDoS single-source for Kuwait-specific; timestamps unconfirmed for Aug 6"
+    },
+    {
+      "section": "7B — Cyber Strategic",
+      "source_count": 3,
+      "confidence": "MEDIUM",
+      "note": "Strategic assessments multi-source; no confirmed Aug 6 incident"
+    }
+  ],
+  "footer": "Report #131 compiled 2026-08-06 at 07:30 UTC+3."
+}

@@ -1,0 +1,325 @@
+{
+  "date": "2026-08-07",
+  "headline": "07 August 2026",
+  "subtitle": "Hormuz Deal Imminent; Turkey-Saudi-Pakistan Defence Pact Signed; Oil Surges 4.9%",
+  "report_number": "132",
+  "coverage": "06 August 2026 07:00 UTC+3 – 07 August 2026 07:00 UTC+3",
+  "trend_tracker": {
+    "as_of": "2026-08-07",
+    "metrics": [
+      { "metric": "Missile/drone interceptions (24h)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Debris reports (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "Brent crude ($/bbl)", "today": "83.34", "previous": "79.98", "delta": "+3.36", "trend_7d": "↑" },
+      { "metric": "WTI crude ($/bbl)", "today": "78.78", "previous": "75.72", "delta": "+3.06", "trend_7d": "↑" },
+      { "metric": "Strait of Hormuz transits/day", "today": "~12", "previous": "~15", "delta": "-3", "trend_7d": "↓" },
+      { "metric": "Infrastructure items damaged (cumulative)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" },
+      { "metric": "KWI airport status", "today": "Partial", "previous": "Partial", "delta": "No change", "trend_7d": "→" },
+      { "metric": "Kuwait AQI (PM2.5)", "today": "59", "today_label": "Moderate", "previous": "88", "previous_label": "Moderate", "delta": "-29", "trend_7d": "Insufficient data" },
+      { "metric": "Days since last confirmed cyber incident (Gulf FS)", "today": "NR", "previous": "NR", "delta": "N/A", "trend_7d": "Insufficient data" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "alerts",
+      "number": 1,
+      "title": "Alerts & Sirens",
+      "icon": "sirens",
+      "color": "#f85149",
+      "items": [
+        {
+          "bold_heading": "No alerts reported in Kuwait in the past 24 hours.",
+          "text": "No civil defense air raid sirens, shelter-in-place orders, or emergency broadcasts were issued in Kuwait during the coverage window (06 Aug 07:00 – 07 Aug 07:00 UTC+3). The Kuwait MOI and Kuwait Army social channels reported no emergency notifications.",
+          "sources": ["KUNA", "Kuwait MOI channels", "Arab Times Online", "06–07 Aug 2026"]
+        }
+      ]
+    },
+    {
+      "id": "targets",
+      "number": 2,
+      "title": "Targets & Incidents",
+      "icon": "targets",
+      "color": "#ff7b72",
+      "items": [
+        {
+          "bold_heading": "No confirmed strikes on Kuwait territory during coverage window.",
+          "text": "No missile, drone, or attack on Kuwaiti soil was reported in the 24-hour period.",
+          "sources": ["KUNA", "Arab Times Online", "Kuwait MOI", "06–07 Aug 2026"]
+        },
+        {
+          "bold_heading": "Brent crude surges 4.9% on reported Qeshm Island explosions — Strait of Hormuz. [CONFIRMED — MULTI-SOURCE]",
+          "text": "Oil markets rose sharply on 06 Aug after reports of explosions near Qeshm Island in Iranian territory. Iran struck what it described as 'hostile targets' in the strait following the incident, further unsettling markets and casting doubt on the Hormuz reopening timeline. Brent closed at $83.34/bbl.",
+          "sources": ["Al Jazeera Economy", "Trading Economics", "06 Aug 2026"]
+        },
+        {
+          "bold_heading": "Iran-Oman Hormuz shipping deal 'agreed in principle' — Muscat/Tehran. [CONFIRMED — MULTI-SOURCE]",
+          "text": "Iran's Foreign Ministry spokesman confirmed on 06 Aug that Tehran and Muscat have reached agreement in principle on coordinates for new temporary shipping lanes through the Strait of Hormuz. The proposed route would pass through Iranian and Omani territorial waters for a 2–4 month initial period; a joint statement remains in final drafting. US officials confirmed the arrangement would involve no tolls, approvals, or Iranian checkpoints. Formal announcement expected within 24–48 hours.",
+          "sources": ["Bloomberg, 06 Aug 2026", "Al Jazeera, 06 Aug 2026", "CNN Live Blog, 06 Aug 2026"]
+        },
+        {
+          "bold_heading": "Houthi naval blockade of Saudi Arabia: ongoing, no new confirmed attack in coverage window. [TIMESTAMP UNCONFIRMED for within-window activity]",
+          "text": "The Houthi-declared naval blockade of Saudi Arabia (announced 22 Jul) remains in force. The attack on Saudi tanker Wafa reported on 05 Aug (preceding coverage window) has not been replicated within this window per open sources; however, the group's spokesman has threatened to close all Red Sea access points. Relevant to Kuwait as Red Sea disruption affects alternative shipping routes via Suez.",
+          "sources": ["Al Jazeera", "CNN, 05 Aug 2026"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "number": 3,
+      "title": "Kuwait Local Situation",
+      "icon": "local",
+      "color": "#3fb950",
+      "items": [
+        {
+          "bold_heading": "Airport: Partial operations continue, no change.",
+          "text": "KWI Terminal 4 operational for Kuwait Airways, Jazeera Airways, flydubai, Oman Air, and Air Arabia. Terminal 1 remains closed for structural repairs following the June 3 drone strike. Qatar Airways suspension extended through at least 07 Aug; Emirates and Etihad remain suspended. Staff requiring urgent travel should pre-confirm schedule directly with carriers.",
+          "sources": ["Kuwait Airport Authority", "Wego Travel Blog, Aug 2026", "Arab Times Online"]
+        },
+        {
+          "bold_heading": "Iranian school closure ordered by Ministry of Education (06 Aug).",
+          "text": "Kuwait's Ministry of Education revoked the license of the Iranian Private School in Kuwait, ordering closure before the 2026–2027 academic year. Parents have been directed to transfer students to other accredited schools. The action follows repeated Iranian aerial attacks on Kuwait since Feb 28 and escalating governmental pressure on bilateral ties.",
+          "sources": ["Gulf Today, 06 Aug 2026", "Times Kuwait, 06 Aug 2026", "Voice of Emirates, 06 Aug 2026"]
+        },
+        {
+          "bold_heading": "Air quality: Continuing improvement.",
+          "text": "AQI dropped further to 59 (Moderate) from 88 (Moderate) yesterday. Standard outdoor exertion guidance applies; no elevated duty-of-care provisions required.",
+          "sources": ["AQICN.org, 07 Aug 2026 12:00 local"]
+        },
+        {
+          "bold_heading": "Government posture: No new advisory.",
+          "text": "No new Kuwait Cabinet or MOI advisory issued during the coverage window. The US Embassy Kuwait security alert (Level 3: Reconsider Travel) issued 01 Aug 2026 remains in force.",
+          "sources": ["US Embassy Kuwait, 01 Aug 2026", "Kuwait MOI"]
+        },
+        {
+          "bold_heading": "Land borders (Saudi, Iraq): Operational.",
+          "text": "No disruptions reported at land crossings during the coverage window; cargo and passenger traffic proceeding normally.",
+          "sources": ["GAC Hot Port News", "Aug 2026"]
+        },
+        {
+          "bold_heading": "Ports: Partial restrictions continue.",
+          "text": "Port Shuaiba operating under ISPS Security Level 2; vessel movement restrictions remain in place but cargo activities alongside berthed vessels proceeding normally.",
+          "sources": ["GAC Hot Port News", "ISS Shipping Middle East", "Aug 2026"]
+        },
+        {
+          "bold_heading": "Schools: 2026–2027 academic year preparations on track.",
+          "text": "No changes to school opening schedule announced.",
+          "sources": ["Kuwait Times", "Aug 2026"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "number": 4,
+      "title": "Regional Context",
+      "icon": "regional",
+      "color": "#58a6ff",
+      "items": [
+        {
+          "bold_heading": "Turkey, Saudi Arabia, and Pakistan sign trilateral defence pact today (07 Aug).",
+          "text": "Turkish President Erdoğan met Crown Prince MBS and PM Sharif in Riyadh; the Strategic Mutual Defence Agreement establishes a framework for joint military exercises, defence-industrial cooperation, technology transfer, and intelligence sharing. The pact is explicitly framed as a mechanism to contain Iran amid Saudi Arabia's expectation of imminent coordinated militia attacks from Iraq and Houthi forces from Yemen under IRGC supervision.",
+          "sources": ["Times of Israel, 07 Aug 2026", "The Week, 07 Aug 2026", "Life News Agency, 07 Aug 2026"]
+        },
+        {
+          "bold_heading": "Hormuz deal imminent but contested within Iran.",
+          "text": "Iran's military establishment (IRGC leadership) continues to resist significant concessions, assessing Iran can outlast the US; President Pezeshkian and pro-negotiations officials are pushing for the Oman deal. This internal split is the primary risk to a last-moment collapse. Trump warned Iran of 'very hard' strikes if the strait is not reopened soon.",
+          "sources": ["CNN Live Blog, 06 Aug 2026", "Al Jazeera, 05–06 Aug 2026", "ISW Special Report, 04 Aug 2026"]
+        },
+        {
+          "bold_heading": "Iraqi militia threat to Saudi Arabia intensifying.",
+          "text": "Iraq has activated a security plan following intelligence reports that Iranian-backed PMF factions are preparing coordinated drone and missile attacks on Saudi targets. US and Saudi forces struck Iranian-backed militia positions in eastern Iraq on 28–29 Jul; threat has not abated.",
+          "sources": ["Al Jazeera, 29 Jul 2026", "FDD Long War Journal, 29 Jul 2026", "Times of Israel, 07 Aug 2026"]
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "number": 5,
+      "title": "Risk Signal for Financial Institutions",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "Hormuz deal announcement expected within 24–48 hours — prepare for sharp market moves.",
+          "text": "A formal Iran-Oman-US agreement on temporary shipping lanes could trigger a significant Brent crude price drop (pre-deal Brent at $83.34; market pricing in substantial risk premium). Financial institutions with energy-sector credit or commodity exposures should review mark-to-market positions and hedging posture ahead of any announcement.",
+          "sources": ["Bloomberg, 06 Aug 2026", "Al Jazeera, 06 Aug 2026"]
+        },
+        {
+          "bold_heading": "Oil price surge (+4.9% on 06 Aug) flags elevated energy credit risk.",
+          "text": "The Qeshm Island incident drove Brent above $83; with Hormuz transits at a trickle (~12/day vs pre-war ~140/day), any further escalation could produce another sharp spike. Energy-sector loan portfolios and counterparty credit exposures warrant immediate stress-test review against a $90–100/bbl scenario.",
+          "sources": ["Trading Economics", "Bloomberg, 06 Aug 2026"]
+        },
+        {
+          "bold_heading": "Turkey-Saudi-Pakistan pact widens potential conflict perimeter.",
+          "text": "The trilateral pact's mutual defence clause raises the risk of a broader regional military engagement if Saudi Arabia is attacked by IRGC-directed Iraqi militias. A Saudi-Iraq military confrontation would have cascading effects on Kuwait's northern border security, supply chains, and USD/KWD exchange flows.",
+          "sources": ["Times of Israel, 07 Aug 2026", "The Week, 07 Aug 2026"]
+        },
+        {
+          "bold_heading": "Staff travel and continuity.",
+          "text": "KWI remains on partial operations; multiple international carriers suspended. For staff requiring international travel, pre-booking on operational carriers (flydubai, Air Arabia, Oman Air, Jazeera) is essential. The US Embassy Level 3 advisory (01 Aug) applies to US-national counterparties and visitors. Business continuity plans should assume partial aviation access for the foreseeable future.",
+          "sources": ["Kuwait Airport Authority", "Wego Travel Blog, Aug 2026", "US Embassy Kuwait, 01 Aug 2026"]
+        },
+        {
+          "bold_heading": "Cyber threat posture: ELEVATED.",
+          "text": "Iran-affiliated threat actors (IRGC-linked) have signalled intent to target the financial sector; attacks on UAE digital infrastructure tripled to 600,000 incidents in the conflict period per UAE Cybersecurity Council. Gulf financial institutions should maintain heightened SOC alert levels and validate incident response playbooks.",
+          "sources": ["CrowdStrike via Cybersecurity Dive", "The National, Apr 2026", "SISA InfoSec advisory"]
+        }
+      ]
+    },
+    {
+      "id": "insurance",
+      "number": "5A",
+      "title": "Insurance & Maritime Risk Exposure",
+      "icon": "risk",
+      "color": "#d29922",
+      "items": [
+        {
+          "bold_heading": "War Risk Premiums remain at crisis levels: 7.5–10% of hull value.",
+          "text": "Pre-conflict baseline was 1–3%. A $100M tanker now faces war risk premiums of $7.5M–$10M per voyage vs ~$250K before hostilities. Despite the Hormuz deal in principle, rates are unlikely to ease materially until formal agreement is signed and transits resume without incident. Financial institutions with shipping counterparty exposures or trade finance portfolios with Gulf maritime collateral should assume continued WRP elevation.",
+          "sources": ["Insurance Business", "Nautilus Shipping", "The National, Jul 2026"]
+        },
+        {
+          "bold_heading": "JWC JWLA-034 (29 Jul 2026) expanded Saudi Arabia listed areas.",
+          "text": "The Joint War Committee amended its Listed Areas circular to extend the notification zone for Saudi Arabia (Gulf coast and Red Sea coast), covering the Persian/Arabian Gulf, Gulf of Oman, Indian Ocean, Gulf of Aden, and Southern Red Sea. Kuwait remains on the JWC Listed Areas list (JWLA-033, Mar 2026). Vessels transiting listed areas require additional war risk notification and endorsement from underwriters; failure to notify can void coverage.",
+          "sources": ["LMA Lloyd's", "Safety4Sea", "Jul–Mar 2026"]
+        },
+        {
+          "bold_heading": "US government $40B OPIC war risk reinsurance facility active.",
+          "text": "The Trump administration directed the US International Development Finance Corporation to provide up to $40B reinsurance backing for Gulf-transiting vessels as private insurers pulled back. Gulf-headquartered financial institutions with insured cargo or vessel collateral should confirm whether counterparty cover relies on this facility, as it introduces sovereign political risk into what was previously commercial risk.",
+          "sources": ["World Economic Forum", "Insurance Business, 2026"]
+        }
+      ]
+    },
+    {
+      "id": "bigpicture",
+      "number": 6,
+      "title": "Big Picture Reading",
+      "icon": "bigpicture",
+      "color": "#a371f7",
+      "articles": [
+        {
+          "title": "A Saudi-Emirati Thaw Can Help Contain Iran",
+          "author": "Senior Gulf Policy Analyst",
+          "publication": "Foreign Policy",
+          "pub_date": "2026-08-03",
+          "access": "Open",
+          "summary": "Argues that improving Saudi-UAE bilateral messaging represents a meaningful thaw and creates a platform for coordinated GCC response to Iranian threats. Calls for Gulf states to fill the vacuum left by US strategic unpredictability.",
+          "relevance": "GCC coherence reduces Kuwait's risk isolation and is a leading indicator of collective security posture.",
+          "link": "https://foreignpolicy.com/2026/08/03/saudi-arabia-emirates-iran-israel-uae-missile-defense-sanctions-hormuz/"
+        },
+        {
+          "title": "The Middle East's Metastasising Conflicts",
+          "author": "International Crisis Group analysts",
+          "publication": "International Crisis Group",
+          "pub_date": "2026-08-01",
+          "access": "Open",
+          "summary": "ICG Q&A assesses how the US-Iran conflict has paralyzed Hormuz commerce, drawn GCC states into a war they did not seek, and spawned simultaneous escalation vectors across Iraq, Yemen, Lebanon, and the maritime domain. Assessed a '50-50' chance of a Hormuz partial deal by end of first week of August.",
+          "relevance": "Best concise strategic framing for Kuwait's multi-front exposure and the structural limits of US reliability as a regional guarantor.",
+          "link": "https://www.crisisgroup.org/qna/middle-east-north-africa/east-mediterranean-mena/middle-easts-metastasising-conflicts"
+        }
+      ]
+    },
+    {
+      "id": "cyber_tactical",
+      "number": "7A",
+      "title": "Cyber Threat Intelligence — Tactical",
+      "icon": "cyber",
+      "color": "#f0883e",
+      "items": [
+        {
+          "bold_heading": "CISA KEV: 3 new exploited vulnerabilities added (03 Aug 2026) — action within 72 hours.",
+          "text": "CISA added 3 CVEs to the Known Exploited Vulnerabilities catalog on 03 Aug 2026. Financial institutions with CISA KEV compliance obligations or US-regulated subsidiaries must patch within mandated timelines. Gulf-headquartered institutions without direct KEV obligations should review the additions for applicability to their technology stack given the elevated Iran-affiliated threat environment.",
+          "cve_ids": ["See CISA KEV delta 03 Aug 2026"],
+          "threat_actor": null,
+          "recommended_action": "Download KEV delta as of 03 Aug from cisa.gov, cross-reference against asset inventory, and escalate to patching cycle within 72 hours if applicable CVEs are present.",
+          "sources": ["Senserva / CISA KEV, 03 Aug 2026"],
+          "url": "https://senserva.com/exploited-this-week.html"
+        },
+        {
+          "bold_heading": "Iran-affiliated actors (IRGC-linked) actively targeting OT/ICS systems — CISA/FBI joint advisory still current.",
+          "text": "A joint CISA, FBI, and EPA advisory (originally published Apr 2026, reaffirmed May 2026) warns that Iranian-affiliated cyber actors are actively exploiting internet-connected PLCs at critical infrastructure operators. Gulf-based utilities, water/desalination operators, and any financial institution with embedded OT assets should treat this as a live tactical threat.",
+          "cve_ids": ["Multiple — see IC3/260407"],
+          "threat_actor": "Iran state-affiliated",
+          "recommended_action": "Isolate internet-facing OT assets, disable remote access where not operationally essential, and verify patch status against CISA advisory IC3/260407.",
+          "sources": ["CISA/IC3, Apr 2026", "CISA, May 2026"],
+          "url": "https://www.ic3.gov/CSA/2026/260407.pdf"
+        },
+        {
+          "bold_heading": "Hydro Kitten (IRGC-affiliate) signals financial sector targeting — Gulf and US institutions. [SINGLE SOURCE]",
+          "text": "CrowdStrike intelligence assessed that Hydro Kitten, operating on behalf of the IRGC, has signalled plans to escalate targeting of the financial sector. Attacks to date have focused on public portals, aviation systems, and law enforcement platforms; the shift toward banking infrastructure represents a tactical escalation.",
+          "cve_ids": [],
+          "threat_actor": "Hydro Kitten (IRGC-affiliated)",
+          "recommended_action": "Validate DDoS mitigation capacity, review access controls on payment processing systems, and brief SOC on Hydro Kitten TTPs available via CrowdStrike threat intelligence portal.",
+          "sources": ["CrowdStrike via Cybersecurity Dive"],
+          "url": "https://www.cybersecuritydive.com/news/iran-hackers-threat-level-us-allies/813494/"
+        }
+      ]
+    },
+    {
+      "id": "cyber_strategic",
+      "number": "7B",
+      "title": "Cyber Threat Intelligence — Strategic",
+      "icon": "cyber",
+      "color": "#39d353",
+      "items": [
+        {
+          "bold_heading": "Iranian APTs maintaining sustained campaign against GCC financial infrastructure.",
+          "text": "Multiple Iran state-affiliated groups are conducting persistent offensive operations against Gulf Cooperation Council financial, energy, and communications targets. The UAE Cybersecurity Council reported attacks tripled to approximately 600,000 incidents across the conflict period, spanning ransomware, data breaches, targeted leaks, wipers, and defacements.",
+          "threat_actor": "Multiple Iran state-affiliated APTs",
+          "assessed_likelihood": "High",
+          "sources": ["The National, Apr 2026", "UAE Cybersecurity Council"],
+          "url": "https://www.thenationalnews.com/future/technology/2026/04/10/iranian-cyber-attacks-move-from-disruptive-to-complex-threats-in-gulf/"
+        },
+        {
+          "bold_heading": "Iranian Parliament names US banks as targets; rhetorical escalation signals strategic intent.",
+          "text": "Iran's legislature has debated measures explicitly naming US banks and financial institutions as legitimate cyber-retaliation targets. While no confirmed attack has yet matched this rhetoric, state-backed groups historically operationalize parliamentary directives over a 4–8 week lag. Gulf financial institutions with USD correspondent banking relationships or US-linked payment infrastructure should assess exposure.",
+          "threat_actor": "IRGC cyber command and affiliated hacktivist proxies",
+          "assessed_likelihood": "Moderate",
+          "sources": ["American Banker"],
+          "url": "https://www.americanbanker.com/news/iran-names-u-s-banks-as-targets-ratcheting-up-cyber-threat"
+        },
+        {
+          "bold_heading": "Payments ecosystem elevated risk — SWIFT-adjacent Gulf institutions flagged.",
+          "text": "SISA InfoSec advisory (2026) assessed that BFSI/payment organizations with US-linked assets, Israeli business ties, or high-visibility financial services represent high-probability spillover targets. Regional aviation, energy, and shipping disruptions raise the probability of synchronized cyberattacks designed to compound real-world economic impact.",
+          "threat_actor": "Iran-aligned hacktivist proxies and APT spillover",
+          "assessed_likelihood": "Moderate",
+          "sources": ["SISA InfoSec, 2026"],
+          "url": "https://www.sisainfosec.com/blogs/threat-advisory-elevated-cyber-risk-to-the-payments-ecosystem-amid-israel-us-iran-conflict-escalation/"
+        }
+      ]
+    },
+    {
+      "id": "watchlist",
+      "number": 8,
+      "title": "Watchlist — Next 24 Hours",
+      "icon": "watchlist",
+      "color": "#b392f0",
+      "items": [
+        {
+          "text": "Formal Hormuz deal announcement (Iran-Oman-US).",
+          "why_it_matters": "An announcement — or its collapse — is the single highest-impact event for energy markets, insurance premiums, and regional stability in the next 24 hours.",
+          "related_section": "Section 2 (Targets & Incidents), Section 5 (Risk Signal), Section 5A (Insurance)"
+        },
+        {
+          "text": "Turkey-Saudi-Pakistan pact: GCC reaction and Kuwait position.",
+          "why_it_matters": "Any IRGC/PMF retaliatory statement or action against Saudi Arabia in response to the pact signing could rapidly escalate the Iraq-Saudi front, affecting Kuwait's northern border.",
+          "related_section": "Section 4 (Regional Context), Section 5 (Risk Signal)"
+        },
+        {
+          "text": "Iranian Parliament vote on Hormuz restriction bill.",
+          "why_it_matters": "If passed, the bill imposing restrictive conditions on Hormuz transits would undermine any Oman-mediated deal and drive another oil price spike.",
+          "related_section": "Section 2 (Targets & Incidents), Section 4 (Regional Context)"
+        }
+      ]
+    }
+  ],
+  "source_confidence": [
+    { "section": "1 — Alerts & Sirens", "source_count": 3, "confidence": "HIGH", "note": "Multiple corroborating sources; no alerts confirmed" },
+    { "section": "2 — Targets & Incidents", "source_count": 6, "confidence": "HIGH", "note": "Multi-source confirmation for Qeshm/Brent surge and Hormuz deal; Houthi item timestamp partially unconfirmed" },
+    { "section": "3 — Kuwait Local", "source_count": 7, "confidence": "HIGH", "note": "Direct reporting from Kuwait-based outlets and embassy" },
+    { "section": "4 — Regional Context", "source_count": 6, "confidence": "HIGH", "note": "Multi-source; trilateral pact signing confirmed by ToI and The Week" },
+    { "section": "5 — Risk Signal", "source_count": 5, "confidence": "MEDIUM", "note": "Analysis derived from confirmed facts; market forward projections are estimates" },
+    { "section": "5A — Insurance Risks", "source_count": 4, "confidence": "HIGH", "note": "LMA JWC circulars and commercial market sources directly cited" },
+    { "section": "7A — Cyber Tactical", "source_count": 3, "confidence": "MEDIUM", "note": "CISA KEV confirmed; Hydro Kitten item is [SINGLE SOURCE]" },
+    { "section": "7B — Cyber Strategic", "source_count": 3, "confidence": "MEDIUM", "note": "Directional intelligence; no confirmed Gulf FS incident this period" }
+  ],
+  "footer": "Report #132 compiled 2026-08-07 at 07:30 UTC+3."
+}
